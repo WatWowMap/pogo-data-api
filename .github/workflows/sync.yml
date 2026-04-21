@@ -1,0 +1,42 @@
+name: Sync Hourly
+
+on:
+  schedule:
+    - cron: '30 * * * *'
+  workflow_dispatch:
+    inputs:
+      recipe:
+        description: Sync manually
+        required: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    name: Check For Changes
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
+      - name: Setup Bun environment
+        uses: oven-sh/setup-bun@v2
+      - name: Generate Stuff
+        run: |
+          bun install
+          bun upgrade pogo-data-generator
+          bun upgrade @na-ji/pogo-protos
+          bun run start
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "changes_exist=false" >> $GITHUB_ENV
+          else
+            echo "changes_exist=true" >> $GITHUB_ENV
+          fi
+      - name: Publish Changes
+        if: ${{ env.changes_exist == 'true' }}
+        run: |
+          git config --global user.name "turtlesocks-bot"
+          git config --global user.email "turtlesocks-bot@users.noreply.github.com"
+          git add --all
+          git commit --message "Hourly Sync"
+          git push

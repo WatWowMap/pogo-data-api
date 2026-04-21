@@ -1,0 +1,308 @@
+# pogo-data-api
+
+Generated Pokemon GO data as static JSON files, ready to serve from `/api`.
+
+This project takes data from [`pogo-data-generator`](https://www.npmjs.com/package/pogo-data-generator), normalizes the output into a file-based API, and writes the results into the local [`api/`](/Users/rin/GitHub/pogo-data-api/api) directory.
+
+If you deploy this folder behind any static file host, the file paths become your endpoints.
+
+## What You Get
+
+Before this repo runs, there is no API surface beyond the generator call itself.
+
+After running it, you get a predictable JSON tree like:
+
+```text
+api/
+  pokemon.json
+  pokemon/1.json
+  pokemon/150.json
+  moves.json
+  moves/13.json
+  items.json
+  items/1.json
+  translations/
+    en.json
+    en/misc.json
+    en/pokemon.json
+    ja.json
+    ja/moves.json
+```
+
+That means you can do both:
+
+- bulk reads, like "give me all Pokemon"
+- focused reads, like "give me just Bulbasaur"
+
+## Endpoint Model
+
+This repository does not currently run an HTTP server. It generates static JSON files.
+
+If your site is hosted at `https://example.com`, then these files behave like endpoints:
+
+- `https://example.com/api/pokemon.json`
+- `https://example.com/api/pokemon/1.json`
+- `https://example.com/api/moves/13.json`
+- `https://example.com/api/translations/en.json`
+- `https://example.com/api/translations/en/misc.json`
+
+## Endpoint Patterns
+
+### 1. Category collection endpoints
+
+These return arrays of values with the original top-level keys removed.
+
+Examples:
+
+- `/api/pokemon.json`
+- `/api/moves.json`
+- `/api/items.json`
+- `/api/forms.json`
+
+Use these when you want the whole dataset for a category in one request.
+
+### 2. Category item endpoints
+
+These return a single value from a category, using the original object key as the filename.
+
+Examples:
+
+- `/api/pokemon/1.json`
+- `/api/forms/163.json`
+- `/api/moves/13.json`
+- `/api/items/1.json`
+
+Use these when you want one record without downloading the full collection.
+
+### 3. Translation locale endpoints
+
+These return the full translation object for a single locale.
+
+Examples:
+
+- `/api/translations/en.json`
+- `/api/translations/de.json`
+- `/api/translations/ja.json`
+
+### 4. Translation locale-category endpoints
+
+These return a single translation category for a locale.
+
+Examples:
+
+- `/api/translations/en/misc.json`
+- `/api/translations/en/pokemon.json`
+- `/api/translations/en/items.json`
+- `/api/translations/ja/moves.json`
+
+This extra layer is useful when you want only one translation group instead of the full locale payload.
+
+## Current Datasets
+
+The generated output currently includes these top-level datasets:
+
+| Dataset | File | Records |
+| --- | --- | ---: |
+| Costumes | `/api/costumes.json` | 87 |
+| Forms | `/api/forms.json` | 1478 |
+| Invasions | `/api/invasions.json` | 123 |
+| Items | `/api/items.json` | 141 |
+| Location Cards | `/api/location-cards.json` | 180 |
+| Moves | `/api/moves.json` | 433 |
+| Pokemon | `/api/pokemon.json` | 1025 |
+| Quest Conditions | `/api/quest-conditions.json` | 80 |
+| Quest Reward Types | `/api/quest-reward-types.json` | 21 |
+| Quest Types | `/api/quest-types.json` | 102 |
+| Raids | `/api/raids.json` | 20 |
+| Route Types | `/api/route-types.json` | 5 |
+| Teams | `/api/teams.json` | 4 |
+| Types | `/api/types.json` | 19 |
+| Weather | `/api/weather.json` | 8 |
+
+Translations are split by locale instead of having a single `/api/translations.json` collection file.
+
+## Translation Coverage
+
+Current locales:
+
+- `de`
+- `en`
+- `es`
+- `es-mx`
+- `fr`
+- `hi`
+- `id`
+- `it`
+- `ja`
+- `ko`
+- `pt-br`
+- `ru`
+- `th`
+- `tr`
+- `zh-tw`
+
+Current nested translation categories:
+
+- `bonuses`
+- `character-categories`
+- `costumes`
+- `descriptions`
+- `evolution-quests`
+- `forms`
+- `grunt-quotes`
+- `grunts`
+- `items`
+- `lures`
+- `misc`
+- `moves`
+- `pokemon-categories`
+- `pokemon`
+- `quest-conditions`
+- `quest-reward-types`
+- `quest-titles`
+- `quest-types`
+- `types`
+- `weather`
+
+## Real Examples
+
+### Example: all Pokemon
+
+`GET /api/pokemon.json`
+
+Response shape:
+
+```json
+[
+  {
+    "pokemonName": "Bulbasaur",
+    "pokedexId": 1,
+    "defaultFormId": 163,
+    "types": [4, 12]
+  }
+]
+```
+
+### Example: one Pokemon
+
+`GET /api/pokemon/1.json`
+
+Response excerpt:
+
+```json
+{
+  "pokemonName": "Bulbasaur",
+  "pokedexId": 1,
+  "defaultFormId": 163,
+  "types": [4, 12],
+  "quickMoves": [214, 221],
+  "chargedMoves": [59, 90, 118],
+  "generation": "Kanto"
+}
+```
+
+### Example: one move
+
+`GET /api/moves/13.json`
+
+Response excerpt:
+
+```json
+{
+  "moveId": 13,
+  "moveName": "Wrap",
+  "proto": "WRAP",
+  "fast": false,
+  "type": 1,
+  "power": 60,
+  "durationMs": 3000
+}
+```
+
+### Example: full English translations
+
+`GET /api/translations/en.json`
+
+Response shape:
+
+```json
+{
+  "misc": {
+    "alola": "Alola"
+  },
+  "pokemon": {
+    "bulbasaur": "Bulbasaur"
+  }
+}
+```
+
+### Example: one English translation category
+
+`GET /api/translations/en/misc.json`
+
+Response excerpt:
+
+```json
+{
+  "alola": "Alola",
+  "egg_0": "Unset Egg"
+}
+```
+
+## How The Files Are Named
+
+- top-level category names are converted to kebab-case
+- item files use the original object key converted to kebab-case
+- translation locale files use the locale key directly, such as `en.json` or `pt-br.json`
+- nested translation category files also use kebab-case
+
+Examples:
+
+- `questRewardTypes` becomes `/api/quest-reward-types.json`
+- `locationCards` becomes `/api/location-cards.json`
+- translation locale `pt-br` becomes `/api/translations/pt-br.json`
+- translation category `characterCategories` becomes `/api/translations/en/character-categories.json`
+
+## Generate The API
+
+Install dependencies:
+
+```bash
+bun install
+```
+
+Generate the JSON output:
+
+```bash
+bun run index.ts
+```
+
+Or:
+
+```bash
+bun run start
+```
+
+The generator:
+
+- fetches raw Pokemon GO data through `pogo-data-generator`
+- writes fresh output into [`api/`](/Users/rin/GitHub/pogo-data-api/api)
+- removes stale generated files before writing new ones
+- creates per-record files for direct lookup
+- creates nested translation files for locale and locale-category access
+
+## Implementation Notes
+
+The generation script in [index.ts](/Users/rin/GitHub/pogo-data-api/index.ts):
+
+- uses Bun for the runtime and file writes
+- writes files with bounded concurrency for better throughput
+- builds the API as static JSON rather than a live server
+- generates raw data with translations split by locale and category
+
+## When To Use Which Endpoint
+
+- Use collection endpoints like `/api/pokemon.json` when you need everything in one request.
+- Use item endpoints like `/api/pokemon/1.json` when you only need one record.
+- Use `/api/translations/<locale>.json` when you need a full locale pack.
+- Use `/api/translations/<locale>/<category>.json` when you want smaller translation payloads and faster client startup.
