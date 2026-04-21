@@ -184,25 +184,39 @@ export interface MoveReassignment {
 }
 
 export interface Pokemon extends Form {
+	attack: number;
+	chargedMoves: number[];
+	defaultFormId: number;
+	defense: number;
+	eliteChargedMoves: number[];
+	eliteQuickMoves: number[];
+	forms: number[];
+	genId: number;
+	generation: string;
+	legendary: boolean;
+	mythic: boolean;
+	pokedexId: number;
+	pokemonName: string;
+	quickMoves: number[];
+	sizeSettings: SizeSetting[];
+	stamina: number;
+	types: number[];
 	buddyDistance?: number;
 	buddyGroupNumber?: number;
 	buddyMegaEnergy?: number;
 	captureRate?: number;
-	defaultFormId?: number;
+	family?: number;
 	fleeRate?: number;
-	forms?: number[];
-	genId?: number;
-	generation?: string;
 	gymDefenderEligible?: boolean;
+	height?: number;
 	jungle?: boolean;
-	legendary?: boolean;
-	mythic?: boolean;
-	pokedexId?: number;
-	pokemonName?: string;
 	thirdMoveCandy?: number;
 	thirdMoveStardust?: number;
+	tradable?: boolean;
+	transferable?: boolean;
 	ultraBeast?: boolean;
 	unreleased?: boolean;
+	weight?: number;
 }
 
 export interface PokemonType {
