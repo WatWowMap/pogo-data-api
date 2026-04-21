@@ -20,7 +20,7 @@ const response = await fetch(
 const bulbasaur = await response.json();
 ```
 
-After, the first SDK package wraps those same endpoints behind typed methods:
+After, the SDK packages wrap those same endpoints behind typed methods:
 
 ```ts
 import { createPogoDataClient } from "@watwowmap/pogo-data";
@@ -33,6 +33,14 @@ const englishMisc = await client.translations.getCategory("en", "misc");
 Current packages:
 
 - [`packages/typescript/`](/Users/rin/GitHub/pogo-data-api/packages/typescript) publishes `@watwowmap/pogo-data`
+- [`packages/go/`](/Users/rin/GitHub/pogo-data-api/packages/go) publishes `github.com/WatWowMap/pogo-data-api/packages/go`
+
+The Go package gives the same endpoint coverage with `context.Context` and typed structs:
+
+```go
+client := pogodata.NewClient(pogodata.ClientOptions{})
+bulbasaur, err := client.Pokemon.Get(context.Background(), 1)
+```
 
 The TypeScript package defaults to the canonical hosted `/data/v1` URL, and you can override it once when you want to point at your own mirror:
 
