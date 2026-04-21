@@ -20,7 +20,7 @@ import type {
 } from "./types";
 
 export const DEFAULT_BASE_URL =
-	"https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1";
+	"https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/data/v1";
 
 export type FetchImplementation = (
 	input: RequestInfo | URL,

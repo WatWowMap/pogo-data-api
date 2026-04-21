@@ -11,7 +11,7 @@ interface FileWriteTask {
 	contents: string;
 }
 
-const V1_DIRECTORY = new URL("./v1/", import.meta.url);
+const V1_DIRECTORY = new URL("./data/v1/", import.meta.url);
 const WRITE_CONCURRENCY = 64;
 
 function isRecord(value: unknown): value is DataRecord {

@@ -92,14 +92,14 @@ describe("URL building", () => {
 	test("supports a custom base URL and trims trailing slashes", async () => {
 		const { fetchImplementation, requests } = createFetchSpy({});
 		const client = createPogoDataClient({
-			baseUrl: "https://cdn.example.com/pogo/v1///",
+			baseUrl: "https://cdn.example.com/pogo/data/v1///",
 			fetch: fetchImplementation,
 		});
 
 		await client.moves.get(13);
 
 		expect(requests[0]?.url).toBe(
-			"https://cdn.example.com/pogo/v1/moves/13.json",
+			"https://cdn.example.com/pogo/data/v1/moves/13.json",
 		);
 	});
 
@@ -127,24 +127,26 @@ describe("singleton configuration", () => {
 		const { fetchImplementation, requests } = createFetchSpy({});
 
 		configurePogoData({
-			baseUrl: "https://mirror.example.com/v1/",
+			baseUrl: "https://mirror.example.com/data/v1/",
 			fetch: fetchImplementation,
 		});
 		await pogoData.teams.get(2);
 
-		expect(requests[0]?.url).toBe("https://mirror.example.com/v1/teams/2.json");
+		expect(requests[0]?.url).toBe(
+			"https://mirror.example.com/data/v1/teams/2.json",
+		);
 	});
 
 	test("keeps separate instance clients isolated from singleton changes", async () => {
 		const clientFetch = createFetchSpy({});
 		const singletonFetch = createFetchSpy({});
 		const client = createPogoDataClient({
-			baseUrl: "https://instance.example.com/v1",
+			baseUrl: "https://instance.example.com/data/v1",
 			fetch: clientFetch.fetchImplementation,
 		});
 
 		configurePogoData({
-			baseUrl: "https://singleton.example.com/v1",
+			baseUrl: "https://singleton.example.com/data/v1",
 			fetch: singletonFetch.fetchImplementation,
 		});
 
@@ -152,10 +154,10 @@ describe("singleton configuration", () => {
 		await pogoData.items.get(1);
 
 		expect(clientFetch.requests[0]?.url).toBe(
-			"https://instance.example.com/v1/items/1.json",
+			"https://instance.example.com/data/v1/items/1.json",
 		);
 		expect(singletonFetch.requests[0]?.url).toBe(
-			"https://singleton.example.com/v1/items/1.json",
+			"https://singleton.example.com/data/v1/items/1.json",
 		);
 	});
 });

@@ -4,7 +4,7 @@ Before this package, a consumer had to know the raw URL layout and fetch endpoin
 
 ```ts
 const response = await fetch(
-  "https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/pokemon/1.json",
+  "https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/data/v1/pokemon/1.json",
 );
 
 const bulbasaur = await response.json();
@@ -37,13 +37,13 @@ import {
 const sharedPokemon = await pogoData.pokemon.get(1);
 
 configurePogoData({
-  baseUrl: "https://cdn.example.com/pogo/v1",
+  baseUrl: "https://cdn.example.com/pogo/data/v1",
 });
 
 const mirroredPokemon = await pogoData.pokemon.get(1);
 
 const client = createPogoDataClient({
-  baseUrl: "https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1",
+  baseUrl: "https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/data/v1",
 });
 
 const allMoves = await client.moves.list();

@@ -6,8 +6,11 @@ interface DatasetDefinition {
 	property: string;
 }
 
-const V1_DIRECTORY = new URL("../v1/", import.meta.url);
-const TRANSLATIONS_DIRECTORY = new URL("../v1/translations/", import.meta.url);
+const V1_DIRECTORY = new URL("../data/v1/", import.meta.url);
+const TRANSLATIONS_DIRECTORY = new URL(
+	"../data/v1/translations/",
+	import.meta.url,
+);
 const OUTPUT_FILE = new URL(
 	"../packages/typescript/src/generated/metadata.ts",
 	import.meta.url,

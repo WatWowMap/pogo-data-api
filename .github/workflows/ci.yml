@@ -20,7 +20,7 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: bun install --frozen-lockfile
-      - name: Verify SDK metadata matches v1
+      - name: Verify SDK metadata matches data/v1
         run: bun run sdk:generate-metadata:check
       - name: Build workspace
         run: bun run build
