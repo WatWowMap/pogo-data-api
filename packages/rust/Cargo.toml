@@ -1,0 +1,18 @@
+[package]
+name = "watwowmap-pogo-data"
+version = "0.1.0"
+edition = "2021"
+description = "Rust bindings for the Pokemon GO data API V1 endpoints."
+repository = "https://github.com/WatWowMap/pogo-data-api"
+readme = "README.md"
+
+[lib]
+name = "pogo_data"
+path = "src/lib.rs"
+
+[dependencies]
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+serde = { version = "1.0", features = ["derive"] }
+
+[dev-dependencies]
+tokio = { version = "1.48.0", features = ["io-util", "macros", "net", "rt", "sync"] }

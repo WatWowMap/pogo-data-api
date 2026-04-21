@@ -34,12 +34,23 @@ Current packages:
 
 - [`packages/typescript/`](/Users/rin/GitHub/pogo-data-api/packages/typescript) publishes `@watwowmap/pogo-data`
 - [`packages/go/`](/Users/rin/GitHub/pogo-data-api/packages/go) publishes `github.com/WatWowMap/pogo-data-api/packages/go`
+- [`packages/rust/`](/Users/rin/GitHub/pogo-data-api/packages/rust) publishes the `watwowmap-pogo-data` crate with `pogo_data` bindings
 
 The Go package gives the same endpoint coverage with `context.Context` and typed structs:
 
 ```go
 client := pogodata.NewClient(pogodata.ClientOptions{})
 bulbasaur, err := client.Pokemon.Get(context.Background(), 1)
+```
+
+The Rust package does the same thing with an async client:
+
+```rust
+let bulbasaur = pogo_data::PogoDataClient::builder()
+    .build()
+    .pokemon()
+    .get(1)
+    .await?;
 ```
 
 The TypeScript package defaults to the canonical hosted `/data/v1` URL, and you can override it once when you want to point at your own mirror:
