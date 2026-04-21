@@ -1,0 +1,13 @@
+{
+  "moveId": 226,
+  "moveName": "Psycho Cut",
+  "proto": "PSYCHO_CUT_FAST",
+  "fast": true,
+  "type": 14,
+  "pvpPower": 4,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 1,
+  "power": 4,
+  "durationMs": 500,
+  "energyDelta": 7
+}

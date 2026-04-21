@@ -1,0 +1,84 @@
+{
+  "pokemonName": "Squirtle",
+  "pokedexId": 7,
+  "defaultFormId": 181,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    221,
+    237
+  ],
+  "chargedMoves": [
+    57,
+    58,
+    105
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    181,
+    895
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 94,
+  "defense": 121,
+  "stamina": 127,
+  "height": 0.5,
+  "weight": 9,
+  "family": 7,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 8,
+      "formId": 184,
+      "candyCost": 25
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 11,
+      "costumeProto": "JAN_2020_NOEVOLVE",
+      "costumeName": "Jan 2020 Noevolve"
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,77 @@
+{
+  "pokemonName": "Claydol",
+  "pokedexId": 344,
+  "defaultFormId": 1565,
+  "types": [
+    5,
+    14
+  ],
+  "quickMoves": [
+    233,
+    235,
+    274
+  ],
+  "chargedMoves": [
+    31,
+    39,
+    63,
+    70,
+    108,
+    267,
+    304,
+    393
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1565
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 140,
+  "defense": 229,
+  "stamina": 155,
+  "height": 1.5,
+  "weight": 108,
+  "family": 343,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

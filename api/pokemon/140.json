@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Kabuto",
+  "pokedexId": 140,
+  "defaultFormId": 1104,
+  "types": [
+    6,
+    11
+  ],
+  "quickMoves": [
+    216,
+    220
+  ],
+  "chargedMoves": [
+    57,
+    62,
+    63
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1104
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1
+    }
+  ],
+  "attack": 148,
+  "defense": 140,
+  "stamina": 102,
+  "height": 0.5,
+  "weight": 11.5,
+  "family": 140,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 141,
+      "formId": 1107,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

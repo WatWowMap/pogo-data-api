@@ -1,0 +1,22 @@
+{
+  "formName": "Normal",
+  "proto": "DUSCLOPS_NORMAL",
+  "formId": 917,
+  "evolutions": [
+    {
+      "evoId": 477,
+      "formId": 920,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 58,
+      "costumeProto": "FALL_2022_NOEVOLVE",
+      "costumeName": "Fall 2022 Noevolve"
+    }
+  ]
+}

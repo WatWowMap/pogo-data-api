@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "QUAXWELL_NORMAL",
+  "formId": 3229,
+  "evolutions": [
+    {
+      "evoId": 914,
+      "formId": 3230,
+      "candyCost": 100
+    }
+  ]
+}

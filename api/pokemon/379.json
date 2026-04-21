@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Registeel",
+  "pokedexId": 379,
+  "defaultFormId": 1628,
+  "types": [
+    9
+  ],
+  "quickMoves": [
+    228,
+    241,
+    325
+  ],
+  "chargedMoves": [
+    14,
+    36,
+    247
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    252
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1628
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.9359
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.955
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.4325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.3875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.865
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.9605
+    }
+  ],
+  "attack": 143,
+  "defense": 285,
+  "stamina": 190,
+  "height": 1.91,
+  "weight": 205,
+  "family": 379,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

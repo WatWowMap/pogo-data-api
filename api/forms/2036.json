@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "WHIRLIPEDE_NORMAL",
+  "formId": 2036,
+  "evolutions": [
+    {
+      "evoId": 545,
+      "formId": 2039,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

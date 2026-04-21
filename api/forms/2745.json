@@ -1,0 +1,12 @@
+{
+  "formName": "Archipelago",
+  "proto": "SCATTERBUG_ARCHIPELAGO",
+  "formId": 2745,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2765,
+      "candyCost": 25
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "PARAS_NORMAL",
+  "formId": 993,
+  "evolutions": [
+    {
+      "evoId": 47,
+      "formId": 996,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 127,
+  "moveName": "Stomp",
+  "proto": "STOMP",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 55,
+  "pvpEnergyDelta": -40,
+  "power": 50,
+  "durationMs": 1500,
+  "energyDelta": -50
+}

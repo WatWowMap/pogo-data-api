@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Amoonguss",
+  "pokedexId": 591,
+  "defaultFormId": 2165,
+  "types": [
+    4,
+    12
+  ],
+  "quickMoves": [
+    238,
+    263
+  ],
+  "chargedMoves": [
+    90,
+    272,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2165
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.93
+    }
+  ],
+  "attack": 155,
+  "defense": 139,
+  "stamina": 249,
+  "height": 0.6,
+  "weight": 10.5,
+  "family": 590,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 600,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

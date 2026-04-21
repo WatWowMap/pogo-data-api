@@ -1,0 +1,8 @@
+{
+  "itemId": 1406,
+  "itemName": "Team Change",
+  "proto": "ITEM_TEAM_CHANGE",
+  "type": "Team Change",
+  "category": "Team Change",
+  "minTrainerLevel": 100
+}

@@ -1,0 +1,66 @@
+{
+  "pokemonName": "Stakataka",
+  "pokedexId": 805,
+  "defaultFormId": 3148,
+  "types": [
+    6,
+    9
+  ],
+  "quickMoves": [
+    227,
+    282
+  ],
+  "chargedMoves": [
+    32,
+    36,
+    95
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3148
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.695
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 6.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 8.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 8.525
+    }
+  ],
+  "attack": 213,
+  "defense": 298,
+  "stamina": 156,
+  "height": 5.5,
+  "weight": 820,
+  "family": 805,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": true,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

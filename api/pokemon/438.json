@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Bonsly",
+  "pokedexId": 438,
+  "defaultFormId": 1772,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    227,
+    243
+  ],
+  "chargedMoves": [
+    31,
+    63,
+    64
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1772
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 124,
+  "defense": 133,
+  "stamina": 137,
+  "height": 0.5,
+  "weight": 15,
+  "family": 185,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 185,
+      "candyCost": 50,
+      "questRequirement": "SUDOWOODO_EVOLUTION_QUEST"
+    }
+  ]
+}

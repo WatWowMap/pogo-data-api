@@ -1,0 +1,17 @@
+{
+  "formName": "Debutante",
+  "proto": "FURFROU_DEBUTANTE",
+  "formId": 2633,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2632,
+        2634,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 201,
+  "moveName": "Bug Bite",
+  "proto": "BUG_BITE_FAST",
+  "fast": true,
+  "type": 7,
+  "pvpPower": 4,
+  "pvpEnergyDelta": 3,
+  "power": 5,
+  "durationMs": 500,
+  "energyDelta": 6
+}

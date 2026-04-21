@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Pichu",
+  "pokedexId": 172,
+  "defaultFormId": 1175,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    205
+  ],
+  "chargedMoves": [
+    77,
+    79,
+    84
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1175
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 77,
+  "defense": 53,
+  "stamina": 85,
+  "height": 0.3,
+  "weight": 2,
+  "family": 25,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 25,
+      "candyCost": 25
+    }
+  ]
+}

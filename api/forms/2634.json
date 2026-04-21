@@ -1,0 +1,16 @@
+{
+  "formName": "Matron",
+  "proto": "FURFROU_MATRON",
+  "formId": 2634,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2632,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
+}

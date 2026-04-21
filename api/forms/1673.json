@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "KRICKETOT_NORMAL",
+  "formId": 1673,
+  "evolutions": [
+    {
+      "evoId": 402,
+      "formId": 1676,
+      "candyCost": 50
+    }
+  ]
+}

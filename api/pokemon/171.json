@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Lanturn",
+  "pokedexId": 171,
+  "defaultFormId": 1172,
+  "types": [
+    11,
+    13
+  ],
+  "quickMoves": [
+    206,
+    230,
+    249
+  ],
+  "chargedMoves": [
+    78,
+    79,
+    107,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1172
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5831
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.595
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.4875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.785
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.38
+    }
+  ],
+  "attack": 146,
+  "defense": 137,
+  "stamina": 268,
+  "height": 1.19,
+  "weight": 22.5,
+  "family": 170,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

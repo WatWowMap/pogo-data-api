@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Magcargo",
+  "pokedexId": 219,
+  "defaultFormId": 1274,
+  "types": [
+    6,
+    10
+  ],
+  "quickMoves": [
+    209,
+    227,
+    346
+  ],
+  "chargedMoves": [
+    32,
+    42,
+    63,
+    270
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1274
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 139,
+  "defense": 191,
+  "stamina": 137,
+  "height": 0.79,
+  "weight": 55,
+  "family": 218,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

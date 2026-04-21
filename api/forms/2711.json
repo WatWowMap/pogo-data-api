@@ -1,0 +1,10 @@
+{
+  "formName": "Orange",
+  "proto": "MINIOR_ORANGE",
+  "formId": 2711,
+  "attack": 218,
+  "defense": 131,
+  "stamina": 155,
+  "height": 0.3,
+  "weight": 0.3
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 114,
+  "moveName": "Giga Drain",
+  "proto": "GIGA_DRAIN",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 50,
+  "pvpEnergyDelta": -80,
+  "power": 50,
+  "durationMs": 4000,
+  "energyDelta": -100
+}

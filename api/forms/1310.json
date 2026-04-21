@@ -1,0 +1,22 @@
+{
+  "formName": "Normal",
+  "proto": "TYROGUE_NORMAL",
+  "formId": 1310,
+  "evolutions": [
+    {
+      "evoId": 106,
+      "formId": 713,
+      "candyCost": 25
+    },
+    {
+      "evoId": 107,
+      "formId": 277,
+      "candyCost": 25
+    },
+    {
+      "evoId": 237,
+      "formId": 1313,
+      "candyCost": 25
+    }
+  ]
+}

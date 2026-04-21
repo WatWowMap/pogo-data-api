@@ -1,0 +1,58 @@
+{
+  "id": 14,
+  "type": "Fairy",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_FAIRY_GRUNT_FEMALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 37,
+      "formId": 56,
+      "position": "first"
+    },
+    {
+      "id": 209,
+      "formId": 1253,
+      "position": "first"
+    },
+    {
+      "id": 280,
+      "formId": 292,
+      "position": "first"
+    },
+    {
+      "id": 110,
+      "formId": 944,
+      "position": "second"
+    },
+    {
+      "id": 209,
+      "formId": 1253,
+      "position": "second"
+    },
+    {
+      "id": 281,
+      "formId": 295,
+      "position": "second"
+    },
+    {
+      "id": 38,
+      "formId": 58,
+      "position": "third"
+    },
+    {
+      "id": 110,
+      "formId": 944,
+      "position": "third"
+    },
+    {
+      "id": 210,
+      "formId": 1256,
+      "position": "third"
+    }
+  ]
+}

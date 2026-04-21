@@ -1,0 +1,8 @@
+{
+  "itemId": 1152,
+  "itemName": "Other Evolution Stone Maple B",
+  "proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_B",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 10
+}

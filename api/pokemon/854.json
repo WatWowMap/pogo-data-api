@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Sinistea",
+  "pokedexId": 854,
+  "defaultFormId": 2477,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    203,
+    263
+  ],
+  "chargedMoves": [
+    16,
+    70,
+    108
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    2477,
+    2478
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.049
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.175
+    }
+  ],
+  "attack": 134,
+  "defense": 96,
+  "stamina": 120,
+  "height": 0.1,
+  "weight": 0.2,
+  "family": 854,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 855,
+      "candyCost": 50
+    }
+  ]
+}

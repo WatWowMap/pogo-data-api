@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SCRAGGY_NORMAL",
+  "formId": 2075,
+  "evolutions": [
+    {
+      "evoId": 560,
+      "formId": 2078,
+      "candyCost": 50
+    }
+  ]
+}

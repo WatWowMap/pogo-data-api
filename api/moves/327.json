@@ -1,0 +1,13 @@
+{
+  "moveId": 327,
+  "moveName": "Ice Fang",
+  "proto": "ICE_FANG_FAST",
+  "fast": true,
+  "type": 15,
+  "pvpPower": 8,
+  "pvpEnergyDelta": 6,
+  "pvpDurationTurns": 1,
+  "power": 12,
+  "durationMs": 1500,
+  "energyDelta": 20
+}

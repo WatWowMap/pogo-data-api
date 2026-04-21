@@ -1,0 +1,8 @@
+{
+  "itemId": 1503,
+  "itemName": "Giovanni Map",
+  "proto": "ITEM_GIOVANNI_MAP",
+  "type": "Incident Ticket",
+  "category": "Incident Ticket",
+  "minTrainerLevel": 8
+}

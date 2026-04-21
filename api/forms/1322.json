@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "MAGBY_NORMAL",
+  "formId": 1322,
+  "evolutions": [
+    {
+      "evoId": 126,
+      "formId": 634,
+      "candyCost": 25
+    }
+  ]
+}

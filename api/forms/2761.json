@@ -1,0 +1,12 @@
+{
+  "formName": "Sandstorm",
+  "proto": "SCATTERBUG_SANDSTORM",
+  "formId": 2761,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2781,
+      "candyCost": 25
+    }
+  ]
+}

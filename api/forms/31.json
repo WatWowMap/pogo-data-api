@@ -1,0 +1,17 @@
+{
+  "formName": "Rainy",
+  "proto": "CASTFORM_RAINY",
+  "formId": 31,
+  "quickMoves": [
+    221,
+    230
+  ],
+  "chargedMoves": [
+    78,
+    107,
+    295
+  ],
+  "types": [
+    11
+  ]
+}

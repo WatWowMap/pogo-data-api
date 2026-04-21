@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "BRAMBLIN_NORMAL",
+  "formId": 3259,
+  "evolutions": [
+    {
+      "evoId": 947,
+      "formId": 3260,
+      "candyCost": 50
+    }
+  ]
+}

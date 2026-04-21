@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "HOPPIP_NORMAL",
+  "formId": 1205,
+  "evolutions": [
+    {
+      "evoId": 188,
+      "formId": 1208,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

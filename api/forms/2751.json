@@ -1,0 +1,12 @@
+{
+  "formName": "Icy Snow",
+  "proto": "SCATTERBUG_ICY_SNOW",
+  "formId": 2751,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2771,
+      "candyCost": 25
+    }
+  ]
+}

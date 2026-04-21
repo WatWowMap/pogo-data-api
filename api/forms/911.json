@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "BANETTE_NORMAL",
+  "formId": 911,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 312,
+      "defense": 160,
+      "stamina": 162,
+      "height": 1.2,
+      "weight": 13,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

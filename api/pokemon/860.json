@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Morgrem",
+  "pokedexId": 860,
+  "defaultFormId": 3194,
+  "types": [
+    17,
+    18
+  ],
+  "quickMoves": [
+    202,
+    203
+  ],
+  "chargedMoves": [
+    16,
+    88,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3194
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 145,
+  "defense": 102,
+  "stamina": 163,
+  "height": 0.8,
+  "weight": 12.5,
+  "family": 859,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 861,
+      "candyCost": 100
+    }
+  ]
+}

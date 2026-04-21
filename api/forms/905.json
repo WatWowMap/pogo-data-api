@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "STEELIX_NORMAL",
+  "formId": 905,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 212,
+      "defense": 327,
+      "stamina": 181,
+      "height": 10.5,
+      "weight": 740,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

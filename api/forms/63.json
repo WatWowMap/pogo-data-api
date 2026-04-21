@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "MEOWTH_NORMAL",
+  "formId": 63,
+  "gmaxMove": 430,
+  "evolutions": [
+    {
+      "evoId": 53,
+      "formId": 65,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,13 @@
+{
+  "moveId": 385,
+  "moveName": "Leafage",
+  "proto": "LEAFAGE_FAST",
+  "fast": true,
+  "type": 12,
+  "pvpPower": 6,
+  "pvpEnergyDelta": 8,
+  "pvpDurationTurns": 1,
+  "power": 6,
+  "durationMs": 500,
+  "energyDelta": 4
+}

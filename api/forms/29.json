@@ -1,0 +1,11 @@
+{
+  "formName": "Normal",
+  "proto": "CASTFORM_NORMAL",
+  "formId": 29,
+  "chargedMoves": [
+    122,
+    273,
+    294,
+    352
+  ]
+}

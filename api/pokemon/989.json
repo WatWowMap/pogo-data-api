@@ -1,0 +1,63 @@
+{
+  "pokemonName": "Sandyshocks",
+  "pokedexId": 989,
+  "defaultFormId": 3299,
+  "types": [
+    5,
+    13
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3299
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.127
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.725
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.565
+    }
+  ],
+  "attack": 244,
+  "defense": 195,
+  "stamina": 198,
+  "height": 2.3,
+  "weight": 60,
+  "family": 989,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

@@ -1,0 +1,16 @@
+{
+  "moveId": 408,
+  "moveName": "High Jump Kick",
+  "proto": "HIGH_JUMP_KICK",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -55,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -4,
+    "buffActivationChance": 0.1
+  },
+  "power": 90,
+  "durationMs": 1500,
+  "energyDelta": -100
+}

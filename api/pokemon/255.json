@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Torchic",
+  "pokedexId": 255,
+  "defaultFormId": 1358,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    220
+  ],
+  "chargedMoves": [
+    24,
+    63,
+    101
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1358
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2009
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.205
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.615
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.6355
+    }
+  ],
+  "attack": 130,
+  "defense": 87,
+  "stamina": 128,
+  "height": 0.41,
+  "weight": 2.5,
+  "family": 255,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 256,
+      "formId": 1361,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

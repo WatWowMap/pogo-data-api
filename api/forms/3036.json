@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "LITLEO_NORMAL",
+  "formId": 3036,
+  "evolutions": [
+    {
+      "evoId": 668,
+      "formId": 2587,
+      "genderRequirement": 1,
+      "candyCost": 50
+    },
+    {
+      "evoId": 668,
+      "formId": 2588,
+      "genderRequirement": 2,
+      "candyCost": 50
+    }
+  ]
+}

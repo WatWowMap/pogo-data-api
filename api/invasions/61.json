@@ -1,0 +1,22 @@
+{
+  "id": 61,
+  "type": "Fairy Balloon",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_FAIRY_BALLOON_GRUNT_FEMALE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

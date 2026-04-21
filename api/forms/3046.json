@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "SWIRLIX_NORMAL",
+  "formId": 3046,
+  "evolutions": [
+    {
+      "evoId": 685,
+      "formId": 3047,
+      "candyCost": 50,
+      "questRequirement": "SWIRLIX_EVOLUTION_QUEST"
+    }
+  ]
+}

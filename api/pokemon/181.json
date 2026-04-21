@@ -1,0 +1,91 @@
+{
+  "pokemonName": "Ampharos",
+  "pokedexId": 181,
+  "defaultFormId": 652,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    249,
+    250
+  ],
+  "chargedMoves": [
+    65,
+    77,
+    78,
+    247,
+    252,
+    367,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    82
+  ],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    652
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.45
+    }
+  ],
+  "attack": 211,
+  "defense": 169,
+  "stamina": 207,
+  "height": 1.4,
+  "weight": 61.5,
+  "family": 179,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 294,
+      "defense": 203,
+      "stamina": 207,
+      "types": [
+        13,
+        16
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

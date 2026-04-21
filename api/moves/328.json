@@ -1,0 +1,10 @@
+{
+  "moveId": 328,
+  "moveName": "Horn Drill",
+  "proto": "HORN_DRILL",
+  "fast": false,
+  "type": 1,
+  "power": 9000,
+  "durationMs": 2000,
+  "energyDelta": -25
+}

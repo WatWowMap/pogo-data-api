@@ -1,0 +1,12 @@
+{
+  "moveId": 79,
+  "moveName": "Thunderbolt",
+  "proto": "THUNDERBOLT",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -55,
+  "power": 80,
+  "durationMs": 2500,
+  "energyDelta": -50
+}

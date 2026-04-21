@@ -1,0 +1,9 @@
+{
+  "formName": "Sensu",
+  "proto": "ORICORIO_SENSU",
+  "formId": 2683,
+  "types": [
+    3,
+    8
+  ]
+}

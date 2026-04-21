@@ -1,0 +1,13 @@
+{
+  "moveId": 266,
+  "moveName": "Iron Tail",
+  "proto": "IRON_TAIL_FAST",
+  "fast": true,
+  "type": 9,
+  "pvpPower": 10,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 2,
+  "power": 14,
+  "durationMs": 1000,
+  "energyDelta": 6
+}

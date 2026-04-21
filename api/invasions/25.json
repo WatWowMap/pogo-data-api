@@ -1,0 +1,58 @@
+{
+  "id": 25,
+  "type": "Ground",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_GROUND_GRUNT_MALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 27,
+      "formId": 51,
+      "position": "first"
+    },
+    {
+      "id": 207,
+      "formId": 803,
+      "position": "first"
+    },
+    {
+      "id": 328,
+      "formId": 746,
+      "position": "first"
+    },
+    {
+      "id": 207,
+      "formId": 803,
+      "position": "second"
+    },
+    {
+      "id": 329,
+      "formId": 749,
+      "position": "second"
+    },
+    {
+      "id": 344,
+      "formId": 1565,
+      "position": "second"
+    },
+    {
+      "id": 330,
+      "formId": 752,
+      "position": "third"
+    },
+    {
+      "id": 450,
+      "formId": 891,
+      "position": "third"
+    },
+    {
+      "id": 623,
+      "formId": 2261,
+      "position": "third"
+    }
+  ]
+}

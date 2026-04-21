@@ -1,0 +1,56 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.1
+    },
+    {
+      "name": "xxsScaleMultiplier",
+      "value": 0.67
+    },
+    {
+      "name": "xsScaleMultiplier",
+      "value": 0.8
+    },
+    {
+      "name": "xlScaleMultiplier",
+      "value": 1.2
+    },
+    {
+      "name": "xxlScaleMultiplier",
+      "value": 1.5
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "formName": "Average",
+  "proto": "GOURGEIST_AVERAGE",
+  "formId": 2646,
+  "attack": 175,
+  "defense": 213,
+  "stamina": 163,
+  "height": 0.9,
+  "weight": 12.5
+}

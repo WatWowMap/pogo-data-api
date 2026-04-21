@@ -1,0 +1,12 @@
+{
+  "moveId": 85,
+  "moveName": "Draining Kiss",
+  "proto": "DRAINING_KISS",
+  "fast": false,
+  "type": 18,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -55,
+  "power": 60,
+  "durationMs": 2500,
+  "energyDelta": -50
+}

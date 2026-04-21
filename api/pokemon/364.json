@@ -1,0 +1,79 @@
+{
+  "pokemonName": "Sealeo",
+  "pokedexId": 364,
+  "defaultFormId": 1601,
+  "types": [
+    11,
+    15
+  ],
+  "quickMoves": [
+    230,
+    244
+  ],
+  "chargedMoves": [
+    105,
+    131,
+    248,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1601
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.545
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.635
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.9075
+    }
+  ],
+  "attack": 137,
+  "defense": 132,
+  "stamina": 207,
+  "height": 1.09,
+  "weight": 87.6,
+  "family": 363,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 365,
+      "formId": 1604,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

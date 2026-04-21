@@ -1,0 +1,12 @@
+{
+  "moveId": 35,
+  "moveName": "Discharge",
+  "proto": "DISCHARGE",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 55,
+  "pvpEnergyDelta": -40,
+  "power": 65,
+  "durationMs": 2500,
+  "energyDelta": -33
+}

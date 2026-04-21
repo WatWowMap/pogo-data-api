@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "DRAGALGE_NORMAL",
+  "formId": 3053,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 236,
+      "defense": 265,
+      "stamina": 163,
+      "unreleased": true
+    }
+  ]
+}

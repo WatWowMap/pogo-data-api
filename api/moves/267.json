@@ -1,0 +1,12 @@
+{
+  "moveId": 267,
+  "moveName": "Gyro Ball",
+  "proto": "GYRO_BALL",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -50,
+  "power": 85,
+  "durationMs": 3500,
+  "energyDelta": -50
+}

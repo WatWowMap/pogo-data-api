@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Torkoal",
+  "pokedexId": 324,
+  "defaultFormId": 1523,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    269
+  ],
+  "chargedMoves": [
+    21,
+    31,
+    116,
+    270
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1523
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2499
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.255
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.765
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8925
+    }
+  ],
+  "attack": 151,
+  "defense": 203,
+  "stamina": 172,
+  "height": 0.51,
+  "weight": 80.4,
+  "family": 324,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

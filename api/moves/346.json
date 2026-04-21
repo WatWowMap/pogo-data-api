@@ -1,0 +1,13 @@
+{
+  "moveId": 346,
+  "moveName": "Incinerate",
+  "proto": "INCINERATE_FAST",
+  "fast": true,
+  "type": 10,
+  "pvpPower": 20,
+  "pvpEnergyDelta": 20,
+  "pvpDurationTurns": 4,
+  "power": 32,
+  "durationMs": 2500,
+  "energyDelta": 22
+}

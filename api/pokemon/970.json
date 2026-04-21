@@ -1,0 +1,79 @@
+{
+  "pokemonName": "Glimmora",
+  "pokedexId": 970,
+  "defaultFormId": 3282,
+  "types": [
+    4,
+    6
+  ],
+  "quickMoves": [
+    227,
+    297
+  ],
+  "chargedMoves": [
+    65,
+    86,
+    91,
+    372
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3282
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 246,
+  "defense": 177,
+  "stamina": 195,
+  "height": 1.5,
+  "weight": 45,
+  "family": 969,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 6,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 300,
+      "defense": 214,
+      "stamina": 195,
+      "unreleased": true
+    }
+  ]
+}

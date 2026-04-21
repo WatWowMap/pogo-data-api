@@ -1,0 +1,16 @@
+{
+  "moveId": 314,
+  "moveName": "Drain Punch",
+  "proto": "DRAIN_PUNCH",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 40,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": 1,
+    "buffActivationChance": 1
+  },
+  "power": 50,
+  "durationMs": 2500,
+  "energyDelta": -33
+}

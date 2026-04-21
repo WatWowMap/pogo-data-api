@@ -1,0 +1,21 @@
+{
+  "formName": "Normal",
+  "proto": "KIRLIA_NORMAL",
+  "formId": 295,
+  "evolutions": [
+    {
+      "evoId": 282,
+      "formId": 298,
+      "candyCost": 100
+    },
+    {
+      "evoId": 475,
+      "formId": 301,
+      "genderRequirement": 1,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

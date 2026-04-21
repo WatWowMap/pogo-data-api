@@ -1,0 +1,12 @@
+{
+  "formName": "Antique",
+  "proto": "SINISTEA_ANTIQUE",
+  "formId": 2478,
+  "evolutions": [
+    {
+      "evoId": 855,
+      "formId": 2481,
+      "candyCost": 400
+    }
+  ]
+}

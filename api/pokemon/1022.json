@@ -1,0 +1,62 @@
+{
+  "pokemonName": "Ironboulder",
+  "pokedexId": 1022,
+  "defaultFormId": 3334,
+  "types": [
+    6,
+    14
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3334
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 227,
+  "defense": 195,
+  "stamina": 189,
+  "height": 1.5,
+  "weight": 162.5,
+  "family": 1022,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

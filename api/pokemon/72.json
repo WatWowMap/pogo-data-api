@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Tentacool",
+  "pokedexId": 72,
+  "defaultFormId": 1005,
+  "types": [
+    4,
+    11
+  ],
+  "quickMoves": [
+    236,
+    237
+  ],
+  "chargedMoves": [
+    13,
+    53,
+    105
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1005
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.8
+    }
+  ],
+  "attack": 97,
+  "defense": 149,
+  "stamina": 120,
+  "height": 0.9,
+  "weight": 45.5,
+  "family": 72,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 73,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

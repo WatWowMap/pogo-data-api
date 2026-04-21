@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Rolycoly",
+  "pokedexId": 837,
+  "defaultFormId": 3174,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    221,
+    297
+  ],
+  "chargedMoves": [
+    64,
+    259
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3174
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 73,
+  "defense": 91,
+  "stamina": 102,
+  "height": 0.3,
+  "weight": 12,
+  "family": 837,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 838,
+      "candyCost": 25
+    }
+  ]
+}

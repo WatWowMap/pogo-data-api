@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Steenee",
+  "pokedexId": 762,
+  "defaultFormId": 3110,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    215,
+    320
+  ],
+  "chargedMoves": [
+    85,
+    272,
+    273,
+    391
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3110
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 78,
+  "defense": 94,
+  "stamina": 141,
+  "height": 0.7,
+  "weight": 8.2,
+  "family": 761,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 763,
+      "candyCost": 100
+    }
+  ]
+}

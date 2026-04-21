@@ -1,0 +1,16 @@
+{
+  "moveId": 316,
+  "moveName": "Muddy Water",
+  "proto": "MUDDY_WATER",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 35,
+  "pvpEnergyDelta": -35,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 0.3
+  },
+  "power": 45,
+  "durationMs": 2000,
+  "energyDelta": -33
+}

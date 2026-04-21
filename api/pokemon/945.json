@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Grafaiai",
+  "pokedexId": 945,
+  "defaultFormId": 3258,
+  "types": [
+    1,
+    4
+  ],
+  "quickMoves": [
+    224,
+    233
+  ],
+  "chargedMoves": [
+    50,
+    90,
+    303
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3258
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.085
+    }
+  ],
+  "attack": 199,
+  "defense": 149,
+  "stamina": 160,
+  "height": 0.7,
+  "weight": 27.2,
+  "family": 944,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

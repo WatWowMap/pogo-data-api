@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Porygon Z",
+  "pokedexId": 474,
+  "defaultFormId": 683,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    249,
+    281,
+    325
+  ],
+  "chargedMoves": [
+    14,
+    40,
+    116,
+    252
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    344
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    683
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.8
+    }
+  ],
+  "attack": 264,
+  "defense": 150,
+  "stamina": 198,
+  "height": 0.9,
+  "weight": 34,
+  "family": 137,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

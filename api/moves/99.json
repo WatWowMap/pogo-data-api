@@ -1,0 +1,17 @@
+{
+  "moveId": 99,
+  "moveName": "Signal Beam",
+  "proto": "SIGNAL_BEAM",
+  "fast": false,
+  "type": 7,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -55,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "targetDefenseStatStageChange": -1,
+    "buffActivationChance": 0.2
+  },
+  "power": 75,
+  "durationMs": 3000,
+  "energyDelta": -50
+}

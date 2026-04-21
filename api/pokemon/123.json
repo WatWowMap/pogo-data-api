@@ -1,0 +1,87 @@
+{
+  "pokemonName": "Scyther",
+  "pokedexId": 123,
+  "defaultFormId": 247,
+  "types": [
+    3,
+    7
+  ],
+  "quickMoves": [
+    200,
+    255
+  ],
+  "chargedMoves": [
+    45,
+    51,
+    100,
+    392
+  ],
+  "eliteQuickMoves": [
+    239
+  ],
+  "eliteChargedMoves": [
+    49
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    247
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 218,
+  "defense": 170,
+  "stamina": 172,
+  "height": 1.5,
+  "weight": 56,
+  "family": 123,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 212,
+      "formId": 250,
+      "candyCost": 50,
+      "itemRequirement": 1103
+    },
+    {
+      "evoId": 900,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

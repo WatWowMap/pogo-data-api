@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "NACLI_NORMAL",
+  "formId": 3245,
+  "evolutions": [
+    {
+      "evoId": 933,
+      "formId": 3246,
+      "candyCost": 25
+    }
+  ]
+}

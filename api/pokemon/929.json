@@ -1,0 +1,77 @@
+{
+  "pokemonName": "Dolliv",
+  "pokedexId": 929,
+  "defaultFormId": 3243,
+  "types": [
+    1,
+    12
+  ],
+  "quickMoves": [
+    215,
+    221,
+    357
+  ],
+  "chargedMoves": [
+    59,
+    273,
+    304,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3243
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 137,
+  "defense": 131,
+  "stamina": 141,
+  "height": 0.6,
+  "weight": 11.9,
+  "family": 928,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 930,
+      "candyCost": 100
+    }
+  ]
+}

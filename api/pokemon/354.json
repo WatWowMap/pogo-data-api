@@ -1,0 +1,83 @@
+{
+  "pokemonName": "Banette",
+  "pokedexId": 354,
+  "defaultFormId": 911,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    213,
+    264
+  ],
+  "chargedMoves": [
+    70,
+    78,
+    86
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    911
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.545
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.635
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.9075
+    }
+  ],
+  "attack": 218,
+  "defense": 126,
+  "stamina": 162,
+  "height": 1.09,
+  "weight": 12.5,
+  "family": 353,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 312,
+      "defense": 160,
+      "stamina": 162,
+      "height": 1.2,
+      "weight": 13,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

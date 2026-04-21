@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Grookey",
+  "pokedexId": 810,
+  "defaultFormId": 3151,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    215,
+    220
+  ],
+  "chargedMoves": [
+    272,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3151
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.465
+    }
+  ],
+  "attack": 122,
+  "defense": 91,
+  "stamina": 137,
+  "height": 0.3,
+  "weight": 5,
+  "family": 810,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 811,
+      "candyCost": 25
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "moveId": 53,
+  "moveName": "Bubble Beam",
+  "proto": "BUBBLE_BEAM",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 25,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 45,
+  "durationMs": 2000,
+  "energyDelta": -33
+}

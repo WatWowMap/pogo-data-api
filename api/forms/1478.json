@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "MEDITITE_NORMAL",
+  "formId": 1478,
+  "evolutions": [
+    {
+      "evoId": 308,
+      "formId": 1481,
+      "candyCost": 50
+    }
+  ]
+}

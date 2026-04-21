@@ -1,0 +1,12 @@
+{
+  "moveId": 284,
+  "moveName": "Surf",
+  "proto": "SURF",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -45,
+  "power": 60,
+  "durationMs": 1500,
+  "energyDelta": -50
+}

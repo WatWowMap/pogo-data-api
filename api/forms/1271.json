@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SLUGMA_NORMAL",
+  "formId": 1271,
+  "evolutions": [
+    {
+      "evoId": 219,
+      "formId": 1274,
+      "candyCost": 50
+    }
+  ]
+}

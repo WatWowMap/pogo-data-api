@@ -1,0 +1,9 @@
+{
+  "moveId": 445,
+  "moveName": "Gmax Sandblast",
+  "proto": "VN_BM_037",
+  "fast": false,
+  "type": 5,
+  "power": 450,
+  "durationMs": 2500
+}

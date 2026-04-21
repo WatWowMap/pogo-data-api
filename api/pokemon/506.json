@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Lillipup",
+  "pokedexId": 506,
+  "defaultFormId": 1922,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    221,
+    282,
+    403
+  ],
+  "chargedMoves": [
+    26,
+    63,
+    79
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    1922
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7
+    }
+  ],
+  "attack": 107,
+  "defense": 86,
+  "stamina": 128,
+  "height": 0.4,
+  "weight": 4.1,
+  "family": 506,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 507,
+      "candyCost": 25
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Nymble",
+  "pokedexId": 919,
+  "defaultFormId": 3234,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    201,
+    261
+  ],
+  "chargedMoves": [
+    49,
+    100,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3234
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 81,
+  "defense": 65,
+  "stamina": 107,
+  "height": 0.2,
+  "weight": 1,
+  "family": 919,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 920,
+      "candyCost": 50
+    }
+  ]
+}

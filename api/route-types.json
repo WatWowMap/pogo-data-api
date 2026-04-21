@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "formatted": "Route Type Unset",
+    "proto": "ROUTE_TYPE_UNSET"
+  },
+  {
+    "id": 1,
+    "formatted": "Route Type Organic",
+    "proto": "ROUTE_TYPE_ORGANIC"
+  },
+  {
+    "id": 2,
+    "formatted": "Route Type Official",
+    "proto": "ROUTE_TYPE_OFFICIAL"
+  },
+  {
+    "id": 3,
+    "formatted": "Route Type Event",
+    "proto": "ROUTE_TYPE_EVENT"
+  },
+  {
+    "id": 4,
+    "formatted": "Route Type Sponsored",
+    "proto": "ROUTE_TYPE_SPONSORED"
+  }
+]

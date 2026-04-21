@@ -1,0 +1,13 @@
+{
+  "formName": "White",
+  "proto": "FLOETTE_WHITE",
+  "formId": 2623,
+  "evolutions": [
+    {
+      "evoId": 671,
+      "formId": 2628,
+      "candyCost": 100,
+      "questRequirement": "FLORGES_EVOLUTION_QUEST"
+    }
+  ]
+}

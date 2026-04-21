@@ -1,0 +1,21 @@
+{
+  "formName": "Normal",
+  "proto": "IVYSAUR_NORMAL",
+  "formId": 166,
+  "evolutions": [
+    {
+      "evoId": 3,
+      "formId": 169,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 11,
+      "costumeProto": "JAN_2020_NOEVOLVE",
+      "costumeName": "Jan 2020 Noevolve"
+    }
+  ]
+}

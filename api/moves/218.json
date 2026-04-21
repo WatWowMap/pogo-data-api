@@ -1,0 +1,13 @@
+{
+  "moveId": 218,
+  "moveName": "Frost Breath",
+  "proto": "FROST_BREATH_FAST",
+  "fast": true,
+  "type": 15,
+  "pvpPower": 7,
+  "pvpEnergyDelta": 5,
+  "pvpDurationTurns": 1,
+  "power": 11,
+  "durationMs": 1000,
+  "energyDelta": 9
+}

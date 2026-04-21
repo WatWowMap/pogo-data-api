@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Drapion",
+  "pokedexId": 452,
+  "defaultFormId": 1799,
+  "types": [
+    4,
+    17
+  ],
+  "quickMoves": [
+    202,
+    236,
+    260,
+    327
+  ],
+  "chargedMoves": [
+    58,
+    90,
+    279,
+    311
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1799
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.637
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.65
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.975
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.95
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.015
+    }
+  ],
+  "attack": 180,
+  "defense": 202,
+  "stamina": 172,
+  "height": 1.3,
+  "weight": 61.5,
+  "family": 451,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

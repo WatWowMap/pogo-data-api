@@ -1,0 +1,12 @@
+{
+  "formName": "Archipelago",
+  "proto": "SPEWPA_ARCHIPELAGO",
+  "formId": 2765,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2594,
+      "candyCost": 100
+    }
+  ]
+}

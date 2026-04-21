@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "HEATRAN_NORMAL",
+  "formId": 1862,
+  "purificationDust": 20000,
+  "purificationCandy": 20,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 331,
+      "defense": 252,
+      "stamina": 209,
+      "unreleased": true
+    }
+  ]
+}

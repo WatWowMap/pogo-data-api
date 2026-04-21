@@ -1,0 +1,16 @@
+{
+  "moveId": 391,
+  "moveName": "Triple Axel",
+  "proto": "TRIPLE_AXEL",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 1,
+    "buffActivationChance": 1
+  },
+  "power": 60,
+  "durationMs": 2000,
+  "energyDelta": -33
+}

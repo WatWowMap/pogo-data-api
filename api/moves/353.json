@@ -1,0 +1,16 @@
+{
+  "moveId": 353,
+  "moveName": "Psychic Fangs",
+  "proto": "PSYCHIC_FANGS",
+  "fast": false,
+  "type": 14,
+  "pvpPower": 40,
+  "pvpEnergyDelta": -35,
+  "pvpBuffs": {
+    "targetDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 25,
+  "durationMs": 1000,
+  "energyDelta": -33
+}

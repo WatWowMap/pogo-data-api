@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "ELECTABUZZ_NORMAL",
+  "formId": 640,
+  "evolutions": [
+    {
+      "evoId": 466,
+      "formId": 643,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

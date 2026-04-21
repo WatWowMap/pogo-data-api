@@ -1,0 +1,12 @@
+{
+  "moveId": 107,
+  "moveName": "Hydro Pump",
+  "proto": "HYDRO_PUMP",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 130,
+  "pvpEnergyDelta": -75,
+  "power": 135,
+  "durationMs": 3500,
+  "energyDelta": -100
+}

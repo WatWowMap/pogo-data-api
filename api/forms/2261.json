@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "GOLURK_NORMAL",
+  "formId": 2261,
+  "purificationDust": 5000,
+  "purificationCandy": 5,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 284,
+      "defense": 202,
+      "stamina": 205,
+      "unreleased": true
+    }
+  ]
+}

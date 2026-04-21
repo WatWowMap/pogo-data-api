@@ -1,0 +1,77 @@
+{
+  "pokemonName": "Tyrunt",
+  "pokedexId": 696,
+  "defaultFormId": 3058,
+  "types": [
+    6,
+    16
+  ],
+  "quickMoves": [
+    221,
+    253
+  ],
+  "chargedMoves": [
+    62,
+    63,
+    83,
+    127
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3058
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.6
+    }
+  ],
+  "attack": 158,
+  "defense": 123,
+  "stamina": 151,
+  "height": 0.8,
+  "weight": 26,
+  "family": 696,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 697,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

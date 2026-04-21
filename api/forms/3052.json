@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SKRELP_NORMAL",
+  "formId": 3052,
+  "evolutions": [
+    {
+      "evoId": 691,
+      "formId": 3053,
+      "candyCost": 50
+    }
+  ]
+}

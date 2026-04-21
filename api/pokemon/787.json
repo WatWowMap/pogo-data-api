@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Tapu Bulu",
+  "pokedexId": 787,
+  "defaultFormId": 3132,
+  "types": [
+    12,
+    18
+  ],
+  "quickMoves": [
+    241,
+    271
+  ],
+  "chargedMoves": [
+    22,
+    86,
+    116,
+    272
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    390
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3132
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "attack": 249,
+  "defense": 215,
+  "stamina": 172,
+  "height": 1.9,
+  "weight": 45.5,
+  "family": 787,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

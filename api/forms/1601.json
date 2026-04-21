@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SEALEO_NORMAL",
+  "formId": 1601,
+  "evolutions": [
+    {
+      "evoId": 365,
+      "formId": 1604,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

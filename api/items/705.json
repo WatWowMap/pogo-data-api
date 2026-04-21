@@ -1,0 +1,8 @@
+{
+  "itemId": 705,
+  "itemName": "Pinap Berry",
+  "proto": "ITEM_PINAP_BERRY",
+  "type": "Food",
+  "category": "Food",
+  "minTrainerLevel": 18
+}

@@ -1,0 +1,13 @@
+{
+  "moveId": 206,
+  "moveName": "Spark",
+  "proto": "SPARK_FAST",
+  "fast": true,
+  "type": 13,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 1,
+  "power": 4,
+  "durationMs": 500,
+  "energyDelta": 6
+}

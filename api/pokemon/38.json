@@ -1,0 +1,80 @@
+{
+  "pokemonName": "Ninetales",
+  "pokedexId": 38,
+  "defaultFormId": 57,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    238,
+    269
+  ],
+  "chargedMoves": [
+    42,
+    60,
+    116,
+    270,
+    292,
+    393
+  ],
+  "eliteQuickMoves": [
+    209
+  ],
+  "eliteChargedMoves": [
+    24,
+    103,
+    273
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    57,
+    58
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.2
+    }
+  ],
+  "attack": 169,
+  "defense": 190,
+  "stamina": 177,
+  "height": 1.1,
+  "weight": 19.9,
+  "family": 37,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

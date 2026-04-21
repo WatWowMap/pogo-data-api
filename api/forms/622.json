@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "BEEDRILL_NORMAL",
+  "formId": 622,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 303,
+      "defense": 148,
+      "stamina": 163,
+      "height": 1.4,
+      "weight": 40.5,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

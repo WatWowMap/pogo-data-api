@@ -1,0 +1,12 @@
+{
+  "formName": "Artisan",
+  "proto": "POLTCHAGEIST_ARTISAN",
+  "formId": 2872,
+  "evolutions": [
+    {
+      "evoId": 1013,
+      "formId": 2874,
+      "candyCost": 400
+    }
+  ]
+}

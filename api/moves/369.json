@@ -1,0 +1,16 @@
+{
+  "moveId": 369,
+  "moveName": "Seed Flare",
+  "proto": "SEED_FLARE",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 130,
+  "pvpEnergyDelta": -75,
+  "pvpBuffs": {
+    "targetDefenseStatStageChange": -2,
+    "buffActivationChance": 0.4
+  },
+  "power": 115,
+  "durationMs": 2500,
+  "energyDelta": -100
+}

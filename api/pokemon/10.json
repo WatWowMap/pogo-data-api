@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Caterpie",
+  "pokedexId": 10,
+  "defaultFormId": 953,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    201,
+    221
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    953,
+    3346
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 55,
+  "defense": 55,
+  "stamina": 128,
+  "height": 0.3,
+  "weight": 2.9,
+  "family": 10,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 11,
+      "formId": 956,
+      "candyCost": 12
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "ONIX_NORMAL",
+  "formId": 902,
+  "evolutions": [
+    {
+      "evoId": 208,
+      "formId": 905,
+      "candyCost": 50,
+      "itemRequirement": 1103
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

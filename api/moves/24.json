@@ -1,0 +1,12 @@
+{
+  "moveId": 24,
+  "moveName": "Flamethrower",
+  "proto": "FLAMETHROWER",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -55,
+  "power": 65,
+  "durationMs": 2000,
+  "energyDelta": -50
+}

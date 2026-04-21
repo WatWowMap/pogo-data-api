@@ -1,0 +1,81 @@
+{
+  "pokemonName": "Golurk",
+  "pokedexId": 623,
+  "defaultFormId": 2261,
+  "types": [
+    5,
+    8
+  ],
+  "quickMoves": [
+    233,
+    263
+  ],
+  "chargedMoves": [
+    67,
+    246,
+    304,
+    376
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2261
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.372
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.1
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5.6
+    }
+  ],
+  "attack": 222,
+  "defense": 154,
+  "stamina": 205,
+  "height": 2.8,
+  "weight": 330,
+  "family": 622,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 284,
+      "defense": 202,
+      "stamina": 205,
+      "unreleased": true
+    }
+  ]
+}

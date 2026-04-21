@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Quaxly",
+  "pokedexId": 912,
+  "defaultFormId": 3228,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    210,
+    230
+  ],
+  "chargedMoves": [
+    45,
+    57,
+    383
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3228
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.775
+    }
+  ],
+  "attack": 120,
+  "defense": 86,
+  "stamina": 146,
+  "height": 0.5,
+  "weight": 6.1,
+  "family": 912,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 913,
+      "candyCost": 25
+    }
+  ]
+}

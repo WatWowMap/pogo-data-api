@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SPEAROW_NORMAL",
+  "formId": 971,
+  "evolutions": [
+    {
+      "evoId": 22,
+      "formId": 974,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "pokemonName": "Groudon",
+  "pokedexId": 383,
+  "defaultFormId": 1640,
+  "types": [
+    5
+  ],
+  "quickMoves": [
+    216,
+    253
+  ],
+  "chargedMoves": [
+    31,
+    103,
+    116
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    115,
+    290
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1640
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.7199
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.755
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.6325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 4.3875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 5.265
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5.4405
+    }
+  ],
+  "attack": 270,
+  "defense": 228,
+  "stamina": 205,
+  "height": 3.51,
+  "weight": 950,
+  "family": 383,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "buddyMegaEnergy": 100,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 4,
+      "attack": 353,
+      "defense": 268,
+      "stamina": 218,
+      "height": 5,
+      "weight": 999.7,
+      "types": [
+        5,
+        10
+      ],
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

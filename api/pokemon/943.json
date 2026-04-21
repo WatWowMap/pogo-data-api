@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Mabosstiff",
+  "pokedexId": 943,
+  "defaultFormId": 3256,
+  "types": [
+    17
+  ],
+  "quickMoves": [
+    202,
+    278
+  ],
+  "chargedMoves": [
+    26,
+    279,
+    333
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3256
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.705
+    }
+  ],
+  "attack": 230,
+  "defense": 168,
+  "stamina": 190,
+  "height": 1.1,
+  "weight": 61,
+  "family": 942,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "WYNAUT_NORMAL",
+  "formId": 1595,
+  "evolutions": [
+    {
+      "evoId": 202,
+      "formId": 602,
+      "candyCost": 25
+    }
+  ]
+}

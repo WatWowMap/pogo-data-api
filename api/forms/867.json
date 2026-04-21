@@ -1,0 +1,27 @@
+{
+  "formName": "Normal",
+  "proto": "GARCHOMP_NORMAL",
+  "formId": 867,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 339,
+      "defense": 222,
+      "stamina": 239,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    },
+    {
+      "tempEvoId": 5,
+      "attack": 321,
+      "defense": 196,
+      "stamina": 239,
+      "types": [
+        16
+      ],
+      "unreleased": true
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "KADABRA_NORMAL",
+  "formId": 307,
+  "evolutions": [
+    {
+      "evoId": 65,
+      "formId": 310,
+      "candyCost": 100,
+      "tradeBonus": true
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 485,
+  "moveName": "Crush Grip",
+  "proto": "CRUSH_GRIP",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -50,
+  "power": 210,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

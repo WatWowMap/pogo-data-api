@@ -1,0 +1,17 @@
+{
+  "formName": "Normal",
+  "proto": "CLAMPERL_NORMAL",
+  "formId": 1607,
+  "evolutions": [
+    {
+      "evoId": 367,
+      "formId": 1610,
+      "candyCost": 50
+    },
+    {
+      "evoId": 368,
+      "formId": 1613,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "JANGMO_O_NORMAL",
+  "formId": 3127,
+  "evolutions": [
+    {
+      "evoId": 783,
+      "formId": 3128,
+      "candyCost": 25
+    }
+  ]
+}

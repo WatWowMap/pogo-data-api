@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "BUDEW_NORMAL",
+  "formId": 1688,
+  "evolutions": [
+    {
+      "evoId": 315,
+      "formId": 1502,
+      "candyCost": 25
+    }
+  ]
+}

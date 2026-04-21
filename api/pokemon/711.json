@@ -1,0 +1,95 @@
+{
+  "pokemonName": "Gourgeist",
+  "pokedexId": 711,
+  "defaultFormId": 2645,
+  "types": [
+    8,
+    12
+  ],
+  "quickMoves": [
+    215,
+    264,
+    346
+  ],
+  "chargedMoves": [
+    59,
+    70,
+    103,
+    280,
+    376
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2645,
+    2646,
+    2647,
+    2648
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxsScaleMultiplier",
+      "value": 0.67
+    },
+    {
+      "name": "xsScaleMultiplier",
+      "value": 0.8
+    },
+    {
+      "name": "xlScaleMultiplier",
+      "value": 1.2
+    },
+    {
+      "name": "xxlScaleMultiplier",
+      "value": 1.5
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "attack": 171,
+  "defense": 219,
+  "stamina": 146,
+  "height": 0.7,
+  "weight": 9.5,
+  "family": 710,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

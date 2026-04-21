@@ -1,0 +1,21 @@
+{
+  "formName": "Normal",
+  "proto": "CHARMANDER_NORMAL",
+  "formId": 172,
+  "evolutions": [
+    {
+      "evoId": 5,
+      "formId": 175,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 11,
+      "costumeProto": "JAN_2020_NOEVOLVE",
+      "costumeName": "Jan 2020 Noevolve"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "pokemonName": "Togepi",
+  "pokedexId": 175,
+  "defaultFormId": 1184,
+  "types": [
+    18
+  ],
+  "quickMoves": [
+    211,
+    281
+  ],
+  "chargedMoves": [
+    60,
+    62,
+    86
+  ],
+  "eliteQuickMoves": [
+    234
+  ],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1184
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 67,
+  "defense": 116,
+  "stamina": 111,
+  "height": 0.3,
+  "weight": 1.5,
+  "family": 175,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 176,
+      "candyCost": 25
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 12,
+      "costumeProto": "APRIL_2020_NOEVOLVE",
+      "costumeName": "April 2020 Noevolve"
+    }
+  ]
+}

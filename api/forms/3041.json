@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "ESPURR_NORMAL",
+  "formId": 3041,
+  "evolutions": [
+    {
+      "evoId": 678,
+      "formId": 2589,
+      "genderRequirement": 1,
+      "candyCost": 50
+    },
+    {
+      "evoId": 678,
+      "formId": 2590,
+      "genderRequirement": 2,
+      "candyCost": 50
+    }
+  ]
+}

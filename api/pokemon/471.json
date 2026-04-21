@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Glaceon",
+  "pokedexId": 471,
+  "defaultFormId": 1835,
+  "types": [
+    15
+  ],
+  "quickMoves": [
+    217,
+    218
+  ],
+  "chargedMoves": [
+    39,
+    111,
+    254
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    105,
+    300
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1835
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.24
+    }
+  ],
+  "attack": 238,
+  "defense": 205,
+  "stamina": 163,
+  "height": 0.8,
+  "weight": 25.9,
+  "family": 133,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

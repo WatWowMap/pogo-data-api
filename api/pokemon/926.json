@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Fidough",
+  "pokedexId": 926,
+  "defaultFormId": 3240,
+  "types": [
+    18
+  ],
+  "quickMoves": [
+    202,
+    320
+  ],
+  "chargedMoves": [
+    88,
+    131,
+    353
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3240
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.465
+    }
+  ],
+  "attack": 102,
+  "defense": 126,
+  "stamina": 114,
+  "height": 0.3,
+  "weight": 10.9,
+  "family": 926,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 927,
+      "candyCost": 50
+    }
+  ]
+}

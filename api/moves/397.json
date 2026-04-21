@@ -1,0 +1,16 @@
+{
+  "moveId": 397,
+  "moveName": "Wildbolt Storm",
+  "proto": "WILDBOLT_STORM",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 150,
+  "durationMs": 2500,
+  "energyDelta": -100
+}

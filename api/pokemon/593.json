@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Jellicent",
+  "pokedexId": 593,
+  "defaultFormId": 2171,
+  "types": [
+    8,
+    11
+  ],
+  "quickMoves": [
+    237,
+    264
+  ],
+  "chargedMoves": [
+    39,
+    53,
+    70,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2171,
+    2331
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.078
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.65
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.41
+    }
+  ],
+  "attack": 159,
+  "defense": 178,
+  "stamina": 225,
+  "height": 2.2,
+  "weight": 135,
+  "family": 592,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

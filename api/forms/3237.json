@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "PAWMO_NORMAL",
+  "formId": 3237,
+  "evolutions": [
+    {
+      "evoId": 923,
+      "formId": 3238,
+      "candyCost": 100,
+      "questRequirement": "PAWMOT_EVOLUTION_QUEST"
+    }
+  ]
+}

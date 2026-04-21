@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "TAILLOW_NORMAL",
+  "formId": 1400,
+  "evolutions": [
+    {
+      "evoId": 277,
+      "formId": 1403,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

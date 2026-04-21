@@ -1,0 +1,8 @@
+{
+  "itemId": 905,
+  "itemName": "Incubator Special",
+  "proto": "ITEM_INCUBATOR_SPECIAL",
+  "type": "Incubator",
+  "category": "Incubator",
+  "minTrainerLevel": 15
+}

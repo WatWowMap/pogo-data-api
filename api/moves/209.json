@@ -1,0 +1,13 @@
+{
+  "moveId": 209,
+  "moveName": "Ember",
+  "proto": "EMBER_FAST",
+  "fast": true,
+  "type": 10,
+  "pvpPower": 4,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 1,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 10
+}

@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "TEPIG_NORMAL",
+  "formId": 1898,
+  "evolutions": [
+    {
+      "evoId": 499,
+      "formId": 1901,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

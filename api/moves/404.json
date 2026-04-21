@@ -1,0 +1,12 @@
+{
+  "moveId": 404,
+  "moveName": "Sunsteel Strike",
+  "proto": "SUNSTEEL_STRIKE",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 135,
+  "pvpEnergyDelta": -65,
+  "power": 230,
+  "durationMs": 3000,
+  "energyDelta": -100
+}

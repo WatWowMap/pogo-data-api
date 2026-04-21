@@ -1,0 +1,25 @@
+{
+  "formName": "Normal",
+  "proto": "APPLIN_NORMAL",
+  "formId": 3177,
+  "evolutions": [
+    {
+      "evoId": 841,
+      "formId": 3178,
+      "candyCost": 200,
+      "itemRequirement": 1152
+    },
+    {
+      "evoId": 842,
+      "formId": 3179,
+      "candyCost": 200,
+      "itemRequirement": 1151
+    },
+    {
+      "evoId": 1011,
+      "formId": 3326,
+      "candyCost": 200,
+      "itemRequirement": 1155
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Venomoth",
+  "pokedexId": 49,
+  "defaultFormId": 262,
+  "types": [
+    4,
+    7
+  ],
+  "quickMoves": [
+    235,
+    260,
+    401
+  ],
+  "chargedMoves": [
+    49,
+    50,
+    108,
+    262
+  ],
+  "eliteQuickMoves": [
+    201
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    262
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 179,
+  "defense": 143,
+  "stamina": 172,
+  "height": 1.5,
+  "weight": 12.5,
+  "family": 48,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

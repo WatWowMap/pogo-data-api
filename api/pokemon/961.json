@@ -1,0 +1,68 @@
+{
+  "pokemonName": "Wugtrio",
+  "pokedexId": 961,
+  "defaultFormId": 3274,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    230,
+    233
+  ],
+  "chargedMoves": [
+    26,
+    284,
+    383
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3274
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 205,
+  "defense": 136,
+  "stamina": 111,
+  "height": 1.2,
+  "weight": 5.4,
+  "family": 960,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "DOUBLADE_NORMAL",
+  "formId": 3043,
+  "evolutions": [
+    {
+      "evoId": 681,
+      "formId": 2639,
+      "candyCost": 100
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Yamper",
+  "pokedexId": 835,
+  "defaultFormId": 3172,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    202,
+    206
+  ],
+  "chargedMoves": [
+    78,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3172
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 80,
+  "defense": 90,
+  "stamina": 153,
+  "height": 0.3,
+  "weight": 13.5,
+  "family": 835,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 836,
+      "candyCost": 50
+    }
+  ]
+}

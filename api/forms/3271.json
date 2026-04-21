@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "TINKATUFF_NORMAL",
+  "formId": 3271,
+  "evolutions": [
+    {
+      "evoId": 959,
+      "formId": 3272,
+      "candyCost": 100
+    }
+  ]
+}

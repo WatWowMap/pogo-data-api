@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Klink",
+  "pokedexId": 599,
+  "defaultFormId": 2189,
+  "types": [
+    9
+  ],
+  "quickMoves": [
+    249,
+    250,
+    402
+  ],
+  "chargedMoves": [
+    20,
+    35,
+    252
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2189
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.6
+    }
+  ],
+  "attack": 98,
+  "defense": 121,
+  "stamina": 120,
+  "height": 0.3,
+  "weight": 21,
+  "family": 599,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 600,
+      "candyCost": 25
+    }
+  ]
+}

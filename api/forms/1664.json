@@ -1,0 +1,20 @@
+{
+  "formName": "Normal",
+  "proto": "STARAPTOR_NORMAL",
+  "formId": 1664,
+  "purificationDust": 1000,
+  "purificationCandy": 1,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 278,
+      "defense": 207,
+      "stamina": 198,
+      "types": [
+        2,
+        3
+      ],
+      "unreleased": true
+    }
+  ]
+}

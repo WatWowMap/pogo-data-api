@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Torracat",
+  "pokedexId": 726,
+  "defaultFormId": 3079,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    202,
+    209
+  ],
+  "chargedMoves": [
+    24,
+    101,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3079
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.085
+    }
+  ],
+  "attack": 174,
+  "defense": 103,
+  "stamina": 163,
+  "height": 0.7,
+  "weight": 25,
+  "family": 725,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 727,
+      "candyCost": 100
+    }
+  ]
+}

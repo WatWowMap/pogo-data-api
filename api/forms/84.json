@@ -1,0 +1,18 @@
+{
+  "formName": "Mow",
+  "proto": "ROTOM_MOW",
+  "formId": 84,
+  "attack": 204,
+  "defense": 219,
+  "stamina": 137,
+  "chargedMoves": [
+    69,
+    78,
+    79,
+    343
+  ],
+  "types": [
+    12,
+    13
+  ]
+}

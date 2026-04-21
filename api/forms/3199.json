@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SNOM_NORMAL",
+  "formId": 3199,
+  "evolutions": [
+    {
+      "evoId": 873,
+      "formId": 3200,
+      "candyCost": 400,
+      "onlyNighttime": true,
+      "questRequirement": "SNOM_FROSMOTH_EVOLUTION_QUEST"
+    }
+  ]
+}

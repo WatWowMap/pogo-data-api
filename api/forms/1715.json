@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "COMBEE_NORMAL",
+  "formId": 1715,
+  "evolutions": [
+    {
+      "evoId": 416,
+      "formId": 1718,
+      "genderRequirement": 2,
+      "candyCost": 50
+    }
+  ]
+}

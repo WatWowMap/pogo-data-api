@@ -1,0 +1,38 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 3.087
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 3.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.725
+    },
+    {
+      "name": "mUpperBound",
+      "value": 7.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 9.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 9.765
+    }
+  ],
+  "formName": "Origin",
+  "proto": "PALKIA_ORIGIN",
+  "formId": 2830,
+  "attack": 286,
+  "defense": 223,
+  "stamina": 189,
+  "height": 6.3,
+  "weight": 660,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

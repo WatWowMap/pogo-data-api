@@ -1,0 +1,85 @@
+{
+  "pokemonName": "Latios",
+  "pokedexId": 381,
+  "defaultFormId": 1634,
+  "types": [
+    14,
+    16
+  ],
+  "quickMoves": [
+    204,
+    234
+  ],
+  "chargedMoves": [
+    83,
+    108,
+    116,
+    332
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    365
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1634,
+    2822
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.9849
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.005
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.5075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.5125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.015
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.1155
+    }
+  ],
+  "attack": 268,
+  "defense": 212,
+  "stamina": 190,
+  "height": 2.01,
+  "weight": 60,
+  "family": 381,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "buddyMegaEnergy": 100,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 335,
+      "defense": 241,
+      "stamina": 190,
+      "height": 2.3,
+      "weight": 70,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

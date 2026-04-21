@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "METAPOD_NORMAL",
+  "formId": 956,
+  "evolutions": [
+    {
+      "evoId": 12,
+      "formId": 959,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

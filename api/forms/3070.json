@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "NOIBAT_NORMAL",
+  "formId": 3070,
+  "evolutions": [
+    {
+      "evoId": 715,
+      "formId": 3071,
+      "candyCost": 400
+    }
+  ]
+}

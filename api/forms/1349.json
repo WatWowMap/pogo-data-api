@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "TREECKO_NORMAL",
+  "formId": 1349,
+  "evolutions": [
+    {
+      "evoId": 253,
+      "formId": 1352,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

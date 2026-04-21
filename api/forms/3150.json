@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "ZERAORA_NORMAL",
+  "formId": 3150,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 361,
+      "defense": 180,
+      "stamina": 204,
+      "unreleased": true
+    }
+  ]
+}

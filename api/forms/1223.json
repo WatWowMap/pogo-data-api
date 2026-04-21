@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "YANMA_NORMAL",
+  "formId": 1223,
+  "evolutions": [
+    {
+      "evoId": 469,
+      "formId": 1829,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "moveId": 236,
+  "moveName": "Poison Sting",
+  "proto": "POISON_STING_FAST",
+  "fast": true,
+  "type": 4,
+  "pvpPower": 4,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 1,
+  "power": 4,
+  "durationMs": 500,
+  "energyDelta": 6
+}

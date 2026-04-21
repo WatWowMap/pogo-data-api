@@ -1,0 +1,12 @@
+{
+  "moveId": 403,
+  "moveName": "Sand Attack",
+  "proto": "SAND_ATTACK_FAST",
+  "fast": true,
+  "type": 5,
+  "pvpPower": 2,
+  "pvpEnergyDelta": 4,
+  "power": 4,
+  "durationMs": 500,
+  "energyDelta": 7
+}

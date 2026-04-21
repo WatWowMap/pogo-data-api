@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SPOINK_NORMAL",
+  "formId": 1526,
+  "evolutions": [
+    {
+      "evoId": 326,
+      "formId": 1529,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

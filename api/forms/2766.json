@@ -1,0 +1,12 @@
+{
+  "formName": "Continental",
+  "proto": "SPEWPA_CONTINENTAL",
+  "formId": 2766,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2595,
+      "candyCost": 100
+    }
+  ]
+}

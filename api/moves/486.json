@@ -1,0 +1,12 @@
+{
+  "moveId": 486,
+  "moveName": "Dragon Energy",
+  "proto": "DRAGON_ENERGY",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -45,
+  "power": 155,
+  "durationMs": 3500,
+  "energyDelta": -50
+}

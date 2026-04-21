@@ -1,0 +1,15 @@
+{
+  "formName": "Plant",
+  "proto": "WORMADAM_PLANT",
+  "formId": 87,
+  "quickMoves": [
+    201,
+    203,
+    235
+  ],
+  "chargedMoves": [
+    30,
+    49,
+    273
+  ]
+}

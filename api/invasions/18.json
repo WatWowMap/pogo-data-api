@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "type": "Fire",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 37,
+      "formId": 55,
+      "position": "first"
+    },
+    {
+      "id": 607,
+      "formId": 2213,
+      "position": "first"
+    },
+    {
+      "id": 653,
+      "formId": 0,
+      "position": "first"
+    },
+    {
+      "id": 126,
+      "formId": 634,
+      "position": "second"
+    },
+    {
+      "id": 323,
+      "formId": 1520,
+      "position": "second"
+    },
+    {
+      "id": 654,
+      "formId": 0,
+      "position": "second"
+    },
+    {
+      "id": 467,
+      "formId": 637,
+      "position": "third"
+    },
+    {
+      "id": 555,
+      "formId": 138,
+      "position": "third"
+    },
+    {
+      "id": 655,
+      "formId": 0,
+      "position": "third"
+    }
+  ]
+}

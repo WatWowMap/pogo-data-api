@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "GROWLITHE_NORMAL",
+  "formId": 280,
+  "evolutions": [
+    {
+      "evoId": 59,
+      "formId": 283,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

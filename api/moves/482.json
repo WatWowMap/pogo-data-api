@@ -1,0 +1,12 @@
+{
+  "moveId": 482,
+  "moveName": "Dynamax Cannon",
+  "proto": "DYNAMAX_CANNON",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -45,
+  "power": 215,
+  "durationMs": 1500,
+  "energyDelta": -100
+}

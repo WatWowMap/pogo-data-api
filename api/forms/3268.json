@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "FLITTLE_NORMAL",
+  "formId": 3268,
+  "evolutions": [
+    {
+      "evoId": 956,
+      "formId": 3269,
+      "candyCost": 50
+    }
+  ]
+}

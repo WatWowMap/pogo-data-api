@@ -1,0 +1,5142 @@
+[
+  {
+    "moveId": 0,
+    "moveName": "Move Unset",
+    "proto": "MOVE_UNSET",
+    "fast": false
+  },
+  {
+    "moveId": 1,
+    "moveName": "Thunder Shock",
+    "proto": "THUNDER_SHOCK",
+    "fast": false
+  },
+  {
+    "moveId": 2,
+    "moveName": "Quick Attack",
+    "proto": "QUICK_ATTACK",
+    "fast": false
+  },
+  {
+    "moveId": 3,
+    "moveName": "Scratch",
+    "proto": "SCRATCH",
+    "fast": false
+  },
+  {
+    "moveId": 4,
+    "moveName": "Ember",
+    "proto": "EMBER",
+    "fast": false
+  },
+  {
+    "moveId": 5,
+    "moveName": "Vine Whip",
+    "proto": "VINE_WHIP",
+    "fast": false
+  },
+  {
+    "moveId": 6,
+    "moveName": "Tackle",
+    "proto": "TACKLE",
+    "fast": false
+  },
+  {
+    "moveId": 7,
+    "moveName": "Razor Leaf",
+    "proto": "RAZOR_LEAF",
+    "fast": false
+  },
+  {
+    "moveId": 8,
+    "moveName": "Take Down",
+    "proto": "TAKE_DOWN",
+    "fast": false
+  },
+  {
+    "moveId": 9,
+    "moveName": "Water Gun",
+    "proto": "WATER_GUN",
+    "fast": false
+  },
+  {
+    "moveId": 10,
+    "moveName": "Bite",
+    "proto": "BITE",
+    "fast": false
+  },
+  {
+    "moveId": 11,
+    "moveName": "Pound",
+    "proto": "POUND",
+    "fast": false
+  },
+  {
+    "moveId": 12,
+    "moveName": "Double Slap",
+    "proto": "DOUBLE_SLAP",
+    "fast": false
+  },
+  {
+    "moveId": 13,
+    "moveName": "Wrap",
+    "proto": "WRAP",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 60,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 14,
+    "moveName": "Hyper Beam",
+    "proto": "HYPER_BEAM",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -80,
+    "power": 150,
+    "durationMs": 4000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 15,
+    "moveName": "Lick",
+    "proto": "LICK",
+    "fast": false
+  },
+  {
+    "moveId": 16,
+    "moveName": "Dark Pulse",
+    "proto": "DARK_PULSE",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 80,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 17,
+    "moveName": "Smog",
+    "proto": "SMOG",
+    "fast": false
+  },
+  {
+    "moveId": 18,
+    "moveName": "Sludge",
+    "proto": "SLUDGE",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 19,
+    "moveName": "Metal Claw",
+    "proto": "METAL_CLAW",
+    "fast": false
+  },
+  {
+    "moveId": 20,
+    "moveName": "Vice Grip",
+    "proto": "VICE_GRIP",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 35,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 21,
+    "moveName": "Flame Wheel",
+    "proto": "FLAME_WHEEL",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 55,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 22,
+    "moveName": "Megahorn",
+    "proto": "MEGAHORN",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -55,
+    "power": 105,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 23,
+    "moveName": "Wing Attack",
+    "proto": "WING_ATTACK",
+    "fast": false
+  },
+  {
+    "moveId": 24,
+    "moveName": "Flamethrower",
+    "proto": "FLAMETHROWER",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 65,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 25,
+    "moveName": "Sucker Punch",
+    "proto": "SUCKER_PUNCH",
+    "fast": false
+  },
+  {
+    "moveId": 26,
+    "moveName": "Dig",
+    "proto": "DIG",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -50,
+    "power": 100,
+    "durationMs": 4500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 27,
+    "moveName": "Low Kick",
+    "proto": "LOW_KICK",
+    "fast": false
+  },
+  {
+    "moveId": 28,
+    "moveName": "Cross Chop",
+    "proto": "CROSS_CHOP",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 50,
+    "durationMs": 1500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 29,
+    "moveName": "Psycho Cut",
+    "proto": "PSYCHO_CUT",
+    "fast": false
+  },
+  {
+    "moveId": 30,
+    "moveName": "Psybeam",
+    "proto": "PSYBEAM",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -60,
+    "power": 65,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 31,
+    "moveName": "Earthquake",
+    "proto": "EARTHQUAKE",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -65,
+    "power": 140,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 32,
+    "moveName": "Stone Edge",
+    "proto": "STONE_EDGE",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -55,
+    "power": 105,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 33,
+    "moveName": "Ice Punch",
+    "proto": "ICE_PUNCH",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 34,
+    "moveName": "Heart Stamp",
+    "proto": "HEART_STAMP",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -40,
+    "power": 40,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 35,
+    "moveName": "Discharge",
+    "proto": "DISCHARGE",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -40,
+    "power": 65,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 36,
+    "moveName": "Flash Cannon",
+    "proto": "FLASH_CANNON",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -70,
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 37,
+    "moveName": "Peck",
+    "proto": "PECK",
+    "fast": false
+  },
+  {
+    "moveId": 38,
+    "moveName": "Drill Peck",
+    "proto": "DRILL_PECK",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 70,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 39,
+    "moveName": "Ice Beam",
+    "proto": "ICE_BEAM",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 95,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 40,
+    "moveName": "Blizzard",
+    "proto": "BLIZZARD",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 140,
+    "pvpEnergyDelta": -75,
+    "power": 130,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 41,
+    "moveName": "Air Slash",
+    "proto": "AIR_SLASH",
+    "fast": false
+  },
+  {
+    "moveId": 42,
+    "moveName": "Heat Wave",
+    "proto": "HEAT_WAVE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -45,
+    "power": 95,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 43,
+    "moveName": "Twineedle",
+    "proto": "TWINEEDLE",
+    "fast": false
+  },
+  {
+    "moveId": 44,
+    "moveName": "Poison Jab",
+    "proto": "POISON_JAB",
+    "fast": false
+  },
+  {
+    "moveId": 45,
+    "moveName": "Aerial Ace",
+    "proto": "AERIAL_ACE",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "power": 55,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 46,
+    "moveName": "Drill Run",
+    "proto": "DRILL_RUN",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 85,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 47,
+    "moveName": "Petal Blizzard",
+    "proto": "PETAL_BLIZZARD",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -65,
+    "power": 110,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 48,
+    "moveName": "Mega Drain",
+    "proto": "MEGA_DRAIN",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 25,
+    "pvpEnergyDelta": -55,
+    "power": 25,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 49,
+    "moveName": "Bug Buzz",
+    "proto": "BUG_BUZZ",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 95,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 50,
+    "moveName": "Poison Fang",
+    "proto": "POISON_FANG",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 45,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 30,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 51,
+    "moveName": "Night Slash",
+    "proto": "NIGHT_SLASH",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 0.125
+    },
+    "power": 45,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 52,
+    "moveName": "Slash",
+    "proto": "SLASH",
+    "fast": false
+  },
+  {
+    "moveId": 53,
+    "moveName": "Bubble Beam",
+    "proto": "BUBBLE_BEAM",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 25,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 45,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 54,
+    "moveName": "Submission",
+    "proto": "SUBMISSION",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -50,
+    "power": 55,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 55,
+    "moveName": "Karate Chop",
+    "proto": "KARATE_CHOP",
+    "fast": false
+  },
+  {
+    "moveId": 56,
+    "moveName": "Low Sweep",
+    "proto": "LOW_SWEEP",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -40,
+    "power": 40,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 57,
+    "moveName": "Aqua Jet",
+    "proto": "AQUA_JET",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 45,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 58,
+    "moveName": "Aqua Tail",
+    "proto": "AQUA_TAIL",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 59,
+    "moveName": "Seed Bomb",
+    "proto": "SEED_BOMB",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -40,
+    "power": 55,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 60,
+    "moveName": "Psyshock",
+    "proto": "PSYSHOCK",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 60,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 61,
+    "moveName": "Rock Throw",
+    "proto": "ROCK_THROW",
+    "fast": false
+  },
+  {
+    "moveId": 62,
+    "moveName": "Ancient Power",
+    "proto": "ANCIENT_POWER",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 0.1
+    },
+    "power": 70,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 63,
+    "moveName": "Rock Tomb",
+    "proto": "ROCK_TOMB",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 65,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 64,
+    "moveName": "Rock Slide",
+    "proto": "ROCK_SLIDE",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -45,
+    "power": 75,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 65,
+    "moveName": "Power Gem",
+    "proto": "POWER_GEM",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 85,
+    "pvpEnergyDelta": -50,
+    "power": 80,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 66,
+    "moveName": "Shadow Sneak",
+    "proto": "SHADOW_SNEAK",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -50,
+    "power": 50,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 67,
+    "moveName": "Shadow Punch",
+    "proto": "SHADOW_PUNCH",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 35,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 68,
+    "moveName": "Shadow Claw",
+    "proto": "SHADOW_CLAW",
+    "fast": false
+  },
+  {
+    "moveId": 69,
+    "moveName": "Ominous Wind",
+    "proto": "OMINOUS_WIND",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 45,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 0.1
+    },
+    "power": 55,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 70,
+    "moveName": "Shadow Ball",
+    "proto": "SHADOW_BALL",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -50,
+    "power": 100,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 71,
+    "moveName": "Bullet Punch",
+    "proto": "BULLET_PUNCH",
+    "fast": false
+  },
+  {
+    "moveId": 72,
+    "moveName": "Magnet Bomb",
+    "proto": "MAGNET_BOMB",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "power": 75,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 73,
+    "moveName": "Steel Wing",
+    "proto": "STEEL_WING",
+    "fast": false
+  },
+  {
+    "moveId": 74,
+    "moveName": "Iron Head",
+    "proto": "IRON_HEAD",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -50,
+    "power": 60,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 75,
+    "moveName": "Parabolic Charge",
+    "proto": "PARABOLIC_CHARGE",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 70,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 76,
+    "moveName": "Spark",
+    "proto": "SPARK",
+    "fast": false
+  },
+  {
+    "moveId": 77,
+    "moveName": "Thunder Punch",
+    "proto": "THUNDER_PUNCH",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 78,
+    "moveName": "Thunder",
+    "proto": "THUNDER",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -60,
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 79,
+    "moveName": "Thunderbolt",
+    "proto": "THUNDERBOLT",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 80,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 80,
+    "moveName": "Twister",
+    "proto": "TWISTER",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 81,
+    "moveName": "Dragon Breath",
+    "proto": "DRAGON_BREATH",
+    "fast": false
+  },
+  {
+    "moveId": 82,
+    "moveName": "Dragon Pulse",
+    "proto": "DRAGON_PULSE",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 90,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 83,
+    "moveName": "Dragon Claw",
+    "proto": "DRAGON_CLAW",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 45,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 84,
+    "moveName": "Disarming Voice",
+    "proto": "DISARMING_VOICE",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "power": 70,
+    "durationMs": 4000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 85,
+    "moveName": "Draining Kiss",
+    "proto": "DRAINING_KISS",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -55,
+    "power": 60,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 86,
+    "moveName": "Dazzling Gleam",
+    "proto": "DAZZLING_GLEAM",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 100,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 87,
+    "moveName": "Moonblast",
+    "proto": "MOONBLAST",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.1
+    },
+    "power": 130,
+    "durationMs": 4000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 88,
+    "moveName": "Play Rough",
+    "proto": "PLAY_ROUGH",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -60,
+    "power": 90,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 89,
+    "moveName": "Cross Poison",
+    "proto": "CROSS_POISON",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 2,
+      "buffActivationChance": 0.125
+    },
+    "power": 40,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 90,
+    "moveName": "Sludge Bomb",
+    "proto": "SLUDGE_BOMB",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 85,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 91,
+    "moveName": "Sludge Wave",
+    "proto": "SLUDGE_WAVE",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -65,
+    "power": 105,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 92,
+    "moveName": "Gunk Shot",
+    "proto": "GUNK_SHOT",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -75,
+    "power": 130,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 93,
+    "moveName": "Mud Shot",
+    "proto": "MUD_SHOT",
+    "fast": false
+  },
+  {
+    "moveId": 94,
+    "moveName": "Bone Club",
+    "proto": "BONE_CLUB",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 40,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 95,
+    "moveName": "Bulldoze",
+    "proto": "BULLDOZE",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 45,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 80,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 96,
+    "moveName": "Mud Bomb",
+    "proto": "MUD_BOMB",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -45,
+    "power": 60,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 97,
+    "moveName": "Fury Cutter",
+    "proto": "FURY_CUTTER",
+    "fast": false
+  },
+  {
+    "moveId": 98,
+    "moveName": "Bug Bite",
+    "proto": "BUG_BITE",
+    "fast": false
+  },
+  {
+    "moveId": 99,
+    "moveName": "Signal Beam",
+    "proto": "SIGNAL_BEAM",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.2
+    },
+    "power": 75,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 100,
+    "moveName": "X Scissor",
+    "proto": "X_SCISSOR",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -40,
+    "power": 45,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 101,
+    "moveName": "Flame Charge",
+    "proto": "FLAME_CHARGE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 70,
+    "durationMs": 4000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 102,
+    "moveName": "Flame Burst",
+    "proto": "FLAME_BURST",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -55,
+    "power": 70,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 103,
+    "moveName": "Fire Blast",
+    "proto": "FIRE_BLAST",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 140,
+    "pvpEnergyDelta": -80,
+    "power": 140,
+    "durationMs": 4000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 104,
+    "moveName": "Brine",
+    "proto": "BRINE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -50,
+    "power": 65,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 105,
+    "moveName": "Water Pulse",
+    "proto": "WATER_PULSE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 65,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 106,
+    "moveName": "Scald",
+    "proto": "SCALD",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 85,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 75,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 107,
+    "moveName": "Hydro Pump",
+    "proto": "HYDRO_PUMP",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -75,
+    "power": 135,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 108,
+    "moveName": "Psychic",
+    "proto": "PSYCHIC",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.1
+    },
+    "power": 95,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 109,
+    "moveName": "Psystrike",
+    "proto": "PSYSTRIKE",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 95,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 110,
+    "moveName": "Ice Shard",
+    "proto": "ICE_SHARD",
+    "fast": false
+  },
+  {
+    "moveId": 111,
+    "moveName": "Icy Wind",
+    "proto": "ICY_WIND",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 65,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 112,
+    "moveName": "Frost Breath",
+    "proto": "FROST_BREATH",
+    "fast": false
+  },
+  {
+    "moveId": 113,
+    "moveName": "Absorb",
+    "proto": "ABSORB",
+    "fast": false
+  },
+  {
+    "moveId": 114,
+    "moveName": "Giga Drain",
+    "proto": "GIGA_DRAIN",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -80,
+    "power": 50,
+    "durationMs": 4000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 115,
+    "moveName": "Fire Punch",
+    "proto": "FIRE_PUNCH",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 116,
+    "moveName": "Solar Beam",
+    "proto": "SOLAR_BEAM",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -80,
+    "power": 180,
+    "durationMs": 5000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 117,
+    "moveName": "Leaf Blade",
+    "proto": "LEAF_BLADE",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -35,
+    "power": 70,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 118,
+    "moveName": "Power Whip",
+    "proto": "POWER_WHIP",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -50,
+    "power": 90,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 119,
+    "moveName": "Splash",
+    "proto": "SPLASH",
+    "fast": false
+  },
+  {
+    "moveId": 120,
+    "moveName": "Acid",
+    "proto": "ACID",
+    "fast": false
+  },
+  {
+    "moveId": 121,
+    "moveName": "Air Cutter",
+    "proto": "AIR_CUTTER",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 45,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 0.3
+    },
+    "power": 55,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 122,
+    "moveName": "Hurricane",
+    "proto": "HURRICANE",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -65,
+    "power": 105,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 123,
+    "moveName": "Brick Break",
+    "proto": "BRICK_BREAK",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 40,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 124,
+    "moveName": "Cut",
+    "proto": "CUT",
+    "fast": false
+  },
+  {
+    "moveId": 125,
+    "moveName": "Swift",
+    "proto": "SWIFT",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 65,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 126,
+    "moveName": "Horn Attack",
+    "proto": "HORN_ATTACK",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -35,
+    "power": 45,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 127,
+    "moveName": "Stomp",
+    "proto": "STOMP",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 1500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 128,
+    "moveName": "Headbutt",
+    "proto": "HEADBUTT",
+    "fast": false
+  },
+  {
+    "moveId": 129,
+    "moveName": "Hyper Fang",
+    "proto": "HYPER_FANG",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 80,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 130,
+    "moveName": "Slam",
+    "proto": "SLAM",
+    "fast": false
+  },
+  {
+    "moveId": 131,
+    "moveName": "Body Slam",
+    "proto": "BODY_SLAM",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 132,
+    "moveName": "Rest",
+    "proto": "REST",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -35,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 133,
+    "moveName": "Struggle",
+    "proto": "STRUGGLE",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 35,
+    "pvpEnergyDelta": -100,
+    "power": 35,
+    "durationMs": 2000
+  },
+  {
+    "moveId": 134,
+    "moveName": "Scald Blastoise",
+    "proto": "SCALD_BLASTOISE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -80,
+    "power": 50,
+    "durationMs": 4500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 135,
+    "moveName": "Hydro Pump Blastoise",
+    "proto": "HYDRO_PUMP_BLASTOISE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -80,
+    "power": 90,
+    "durationMs": 4500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 136,
+    "moveName": "Wrap Green",
+    "proto": "WRAP_GREEN",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 25,
+    "pvpEnergyDelta": -45,
+    "power": 25,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 137,
+    "moveName": "Wrap Pink",
+    "proto": "WRAP_PINK",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 25,
+    "pvpEnergyDelta": -45,
+    "power": 25,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 200,
+    "moveName": "Fury Cutter",
+    "proto": "FURY_CUTTER_FAST",
+    "fast": true,
+    "type": 7,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 4,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 201,
+    "moveName": "Bug Bite",
+    "proto": "BUG_BITE_FAST",
+    "fast": true,
+    "type": 7,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 3,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 202,
+    "moveName": "Bite",
+    "proto": "BITE_FAST",
+    "fast": true,
+    "type": 17,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 2,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 4
+  },
+  {
+    "moveId": 203,
+    "moveName": "Sucker Punch",
+    "proto": "SUCKER_PUNCH_FAST",
+    "fast": true,
+    "type": 17,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 1,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 204,
+    "moveName": "Dragon Breath",
+    "proto": "DRAGON_BREATH_FAST",
+    "fast": true,
+    "type": 16,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 4,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 4
+  },
+  {
+    "moveId": 205,
+    "moveName": "Thunder Shock",
+    "proto": "THUNDER_SHOCK_FAST",
+    "fast": true,
+    "type": 13,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 206,
+    "moveName": "Spark",
+    "proto": "SPARK_FAST",
+    "fast": true,
+    "type": 13,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 207,
+    "moveName": "Low Kick",
+    "proto": "LOW_KICK_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 208,
+    "moveName": "Karate Chop",
+    "proto": "KARATE_CHOP_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 209,
+    "moveName": "Ember",
+    "proto": "EMBER_FAST",
+    "fast": true,
+    "type": 10,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 210,
+    "moveName": "Wing Attack",
+    "proto": "WING_ATTACK_FAST",
+    "fast": true,
+    "type": 3,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 11
+  },
+  {
+    "moveId": 211,
+    "moveName": "Peck",
+    "proto": "PECK_FAST",
+    "fast": true,
+    "type": 3,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 212,
+    "moveName": "Lick",
+    "proto": "LICK_FAST",
+    "fast": true,
+    "type": 8,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 3,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 213,
+    "moveName": "Shadow Claw",
+    "proto": "SHADOW_CLAW_FAST",
+    "fast": true,
+    "type": 8,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 4
+  },
+  {
+    "moveId": 214,
+    "moveName": "Vine Whip",
+    "proto": "VINE_WHIP_FAST",
+    "fast": true,
+    "type": 12,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 215,
+    "moveName": "Razor Leaf",
+    "proto": "RAZOR_LEAF_FAST",
+    "fast": true,
+    "type": 12,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 4,
+    "pvpDurationTurns": 1,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 216,
+    "moveName": "Mud Shot",
+    "proto": "MUD_SHOT_FAST",
+    "fast": true,
+    "type": 5,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 217,
+    "moveName": "Ice Shard",
+    "proto": "ICE_SHARD_FAST",
+    "fast": true,
+    "type": 15,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 218,
+    "moveName": "Frost Breath",
+    "proto": "FROST_BREATH_FAST",
+    "fast": true,
+    "type": 15,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 5,
+    "pvpDurationTurns": 1,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 219,
+    "moveName": "Quick Attack",
+    "proto": "QUICK_ATTACK_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 220,
+    "moveName": "Scratch",
+    "proto": "SCRATCH_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 2,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 4
+  },
+  {
+    "moveId": 221,
+    "moveName": "Tackle",
+    "proto": "TACKLE_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 3,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 222,
+    "moveName": "Pound",
+    "proto": "POUND_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 4,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 223,
+    "moveName": "Cut",
+    "proto": "CUT_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 2,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 224,
+    "moveName": "Poison Jab",
+    "proto": "POISON_JAB_FAST",
+    "fast": true,
+    "type": 4,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 1,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 225,
+    "moveName": "Acid",
+    "proto": "ACID_FAST",
+    "fast": true,
+    "type": 4,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 226,
+    "moveName": "Psycho Cut",
+    "proto": "PSYCHO_CUT_FAST",
+    "fast": true,
+    "type": 14,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 227,
+    "moveName": "Rock Throw",
+    "proto": "ROCK_THROW_FAST",
+    "fast": true,
+    "type": 6,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 5,
+    "pvpDurationTurns": 1,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 228,
+    "moveName": "Metal Claw",
+    "proto": "METAL_CLAW_FAST",
+    "fast": true,
+    "type": 9,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 229,
+    "moveName": "Bullet Punch",
+    "proto": "BULLET_PUNCH_FAST",
+    "fast": true,
+    "type": 9,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 11
+  },
+  {
+    "moveId": 230,
+    "moveName": "Water Gun",
+    "proto": "WATER_GUN_FAST",
+    "fast": true,
+    "type": 11,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 3,
+    "power": 5,
+    "durationMs": 500,
+    "energyDelta": 5
+  },
+  {
+    "moveId": 231,
+    "moveName": "Splash",
+    "proto": "SPLASH_FAST",
+    "fast": true,
+    "type": 11,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 3,
+    "durationMs": 1500,
+    "energyDelta": 17
+  },
+  {
+    "moveId": 232,
+    "moveName": "Water Gun Blastoise",
+    "proto": "WATER_GUN_FAST_BLASTOISE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 4,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 233,
+    "moveName": "Mud Slap",
+    "proto": "MUD_SLAP_FAST",
+    "fast": true,
+    "type": 5,
+    "pvpPower": 11,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 19,
+    "durationMs": 1500,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 234,
+    "moveName": "Zen Headbutt",
+    "proto": "ZEN_HEADBUTT_FAST",
+    "fast": true,
+    "type": 14,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 2,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 235,
+    "moveName": "Confusion",
+    "proto": "CONFUSION_FAST",
+    "fast": true,
+    "type": 14,
+    "pvpPower": 16,
+    "pvpEnergyDelta": 14,
+    "pvpDurationTurns": 3,
+    "power": 19,
+    "durationMs": 1500,
+    "energyDelta": 14
+  },
+  {
+    "moveId": 236,
+    "moveName": "Poison Sting",
+    "proto": "POISON_STING_FAST",
+    "fast": true,
+    "type": 4,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 237,
+    "moveName": "Bubble",
+    "proto": "BUBBLE_FAST",
+    "fast": true,
+    "type": 11,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 11,
+    "pvpDurationTurns": 2,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 12
+  },
+  {
+    "moveId": 238,
+    "moveName": "Feint Attack",
+    "proto": "FEINT_ATTACK_FAST",
+    "fast": true,
+    "type": 17,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 1,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 239,
+    "moveName": "Steel Wing",
+    "proto": "STEEL_WING_FAST",
+    "fast": true,
+    "type": 9,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 5,
+    "pvpDurationTurns": 1,
+    "power": 14,
+    "durationMs": 1000,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 240,
+    "moveName": "Fire Fang",
+    "proto": "FIRE_FANG_FAST",
+    "fast": true,
+    "type": 10,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 1,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 241,
+    "moveName": "Rock Smash",
+    "proto": "ROCK_SMASH_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 2,
+    "power": 17,
+    "durationMs": 1500,
+    "energyDelta": 12
+  },
+  {
+    "moveId": 242,
+    "moveName": "Transform",
+    "proto": "TRANSFORM_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpDurationTurns": 2,
+    "durationMs": 2000
+  },
+  {
+    "moveId": 243,
+    "moveName": "Counter",
+    "proto": "COUNTER_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 1,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 244,
+    "moveName": "Powder Snow",
+    "proto": "POWDER_SNOW_FAST",
+    "fast": true,
+    "type": 15,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 1000,
+    "energyDelta": 15
+  },
+  {
+    "moveId": 245,
+    "moveName": "Close Combat",
+    "proto": "CLOSE_COMBAT",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 105,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 246,
+    "moveName": "Dynamic Punch",
+    "proto": "DYNAMIC_PUNCH",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 85,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 247,
+    "moveName": "Focus Blast",
+    "proto": "FOCUS_BLAST",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -75,
+    "power": 140,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 248,
+    "moveName": "Aurora Beam",
+    "proto": "AURORA_BEAM",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -60,
+    "power": 80,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 249,
+    "moveName": "Charge Beam",
+    "proto": "CHARGE_BEAM_FAST",
+    "fast": true,
+    "type": 13,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 11,
+    "pvpDurationTurns": 2,
+    "power": 7,
+    "durationMs": 1000,
+    "energyDelta": 14
+  },
+  {
+    "moveId": 250,
+    "moveName": "Volt Switch",
+    "proto": "VOLT_SWITCH_FAST",
+    "fast": true,
+    "type": 13,
+    "pvpPower": 14,
+    "pvpEnergyDelta": 16,
+    "pvpDurationTurns": 3,
+    "power": 13,
+    "durationMs": 1500,
+    "energyDelta": 20
+  },
+  {
+    "moveId": 251,
+    "moveName": "Wild Charge",
+    "proto": "WILD_CHARGE",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 90,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 252,
+    "moveName": "Zap Cannon",
+    "proto": "ZAP_CANNON",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -80,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.33
+    },
+    "power": 140,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 253,
+    "moveName": "Dragon Tail",
+    "proto": "DRAGON_TAIL_FAST",
+    "fast": true,
+    "type": 16,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 2,
+    "power": 14,
+    "durationMs": 1000,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 254,
+    "moveName": "Avalanche",
+    "proto": "AVALANCHE",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 85,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 255,
+    "moveName": "Air Slash",
+    "proto": "AIR_SLASH_FAST",
+    "fast": true,
+    "type": 3,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 2,
+    "power": 12,
+    "durationMs": 1000,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 256,
+    "moveName": "Brave Bird",
+    "proto": "BRAVE_BIRD",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -3,
+      "buffActivationChance": 1
+    },
+    "power": 130,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 257,
+    "moveName": "Sky Attack",
+    "proto": "SKY_ATTACK",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -50,
+    "power": 80,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 258,
+    "moveName": "Sand Tomb",
+    "proto": "SAND_TOMB",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 60,
+    "durationMs": 4000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 259,
+    "moveName": "Rock Blast",
+    "proto": "ROCK_BLAST",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -40,
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 260,
+    "moveName": "Infestation",
+    "proto": "INFESTATION_FAST",
+    "fast": true,
+    "type": 7,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 2,
+    "power": 9,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 261,
+    "moveName": "Struggle Bug",
+    "proto": "STRUGGLE_BUG_FAST",
+    "fast": true,
+    "type": 7,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 2,
+    "power": 15,
+    "durationMs": 1500,
+    "energyDelta": 15
+  },
+  {
+    "moveId": 262,
+    "moveName": "Silver Wind",
+    "proto": "SILVER_WIND",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 0.1
+    },
+    "power": 65,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 263,
+    "moveName": "Astonish",
+    "proto": "ASTONISH_FAST",
+    "fast": true,
+    "type": 8,
+    "pvpPower": 12,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 7,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 264,
+    "moveName": "Hex",
+    "proto": "HEX_FAST",
+    "fast": true,
+    "type": 8,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 13,
+    "pvpDurationTurns": 2,
+    "power": 8,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 265,
+    "moveName": "Night Shade",
+    "proto": "NIGHT_SHADE",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "power": 60,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 266,
+    "moveName": "Iron Tail",
+    "proto": "IRON_TAIL_FAST",
+    "fast": true,
+    "type": 9,
+    "pvpPower": 10,
+    "pvpEnergyDelta": 7,
+    "pvpDurationTurns": 2,
+    "power": 14,
+    "durationMs": 1000,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 267,
+    "moveName": "Gyro Ball",
+    "proto": "GYRO_BALL",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 85,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 268,
+    "moveName": "Heavy Slam",
+    "proto": "HEAVY_SLAM",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -50,
+    "power": 70,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 269,
+    "moveName": "Fire Spin",
+    "proto": "FIRE_SPIN_FAST",
+    "fast": true,
+    "type": 10,
+    "pvpPower": 11,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 9
+  },
+  {
+    "moveId": 270,
+    "moveName": "Overheat",
+    "proto": "OVERHEAT",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 160,
+    "durationMs": 4000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 271,
+    "moveName": "Bullet Seed",
+    "proto": "BULLET_SEED_FAST",
+    "fast": true,
+    "type": 12,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 13,
+    "pvpDurationTurns": 2,
+    "power": 7,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 272,
+    "moveName": "Grass Knot",
+    "proto": "GRASS_KNOT",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -50,
+    "power": 90,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 273,
+    "moveName": "Energy Ball",
+    "proto": "ENERGY_BALL",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.1
+    },
+    "power": 90,
+    "durationMs": 4000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 274,
+    "moveName": "Extrasensory",
+    "proto": "EXTRASENSORY_FAST",
+    "fast": true,
+    "type": 14,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 11
+  },
+  {
+    "moveId": 275,
+    "moveName": "Futuresight",
+    "proto": "FUTURESIGHT",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -65,
+    "power": 115,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 276,
+    "moveName": "Mirror Coat",
+    "proto": "MIRROR_COAT",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -55,
+    "power": 60,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 277,
+    "moveName": "Outrage",
+    "proto": "OUTRAGE",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -60,
+    "power": 110,
+    "durationMs": 4000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 278,
+    "moveName": "Snarl",
+    "proto": "SNARL_FAST",
+    "fast": true,
+    "type": 17,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 13,
+    "pvpDurationTurns": 2,
+    "power": 11,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 279,
+    "moveName": "Crunch",
+    "proto": "CRUNCH",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.2
+    },
+    "power": 65,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 280,
+    "moveName": "Foul Play",
+    "proto": "FOUL_PLAY",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -40,
+    "power": 70,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 281,
+    "moveName": "Hidden Power",
+    "proto": "HIDDEN_POWER_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 9,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 2,
+    "power": 15,
+    "durationMs": 1500,
+    "energyDelta": 15
+  },
+  {
+    "moveId": 282,
+    "moveName": "Take Down",
+    "proto": "TAKE_DOWN_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 2,
+    "power": 7,
+    "durationMs": 1000,
+    "energyDelta": 8
+  },
+  {
+    "moveId": 283,
+    "moveName": "Waterfall",
+    "proto": "WATERFALL_FAST",
+    "fast": true,
+    "type": 11,
+    "pvpPower": 11,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 284,
+    "moveName": "Surf",
+    "proto": "SURF",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -45,
+    "power": 60,
+    "durationMs": 1500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 285,
+    "moveName": "Draco Meteor",
+    "proto": "DRACO_METEOR",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -65,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 150,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 286,
+    "moveName": "Doom Desire",
+    "proto": "DOOM_DESIRE",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -40,
+    "power": 65,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 287,
+    "moveName": "Yawn",
+    "proto": "YAWN_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 3,
+    "durationMs": 1500,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 288,
+    "moveName": "Psycho Boost",
+    "proto": "PSYCHO_BOOST",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 70,
+    "durationMs": 4000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 289,
+    "moveName": "Origin Pulse",
+    "proto": "ORIGIN_PULSE",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -60,
+    "power": 120,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 290,
+    "moveName": "Precipice Blades",
+    "proto": "PRECIPICE_BLADES",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -60,
+    "power": 120,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 291,
+    "moveName": "Present",
+    "proto": "PRESENT_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 2,
+    "power": 6,
+    "durationMs": 1500,
+    "energyDelta": 23
+  },
+  {
+    "moveId": 292,
+    "moveName": "Weather Ball Fire",
+    "proto": "WEATHER_BALL_FIRE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 293,
+    "moveName": "Weather Ball Ice",
+    "proto": "WEATHER_BALL_ICE",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 294,
+    "moveName": "Weather Ball Rock",
+    "proto": "WEATHER_BALL_ROCK",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 295,
+    "moveName": "Weather Ball Water",
+    "proto": "WEATHER_BALL_WATER",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 296,
+    "moveName": "Frenzy Plant",
+    "proto": "FRENZY_PLANT",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 297,
+    "moveName": "Smack Down",
+    "proto": "SMACK_DOWN_FAST",
+    "fast": true,
+    "type": 6,
+    "pvpPower": 11,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 2,
+    "power": 13,
+    "durationMs": 1000,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 298,
+    "moveName": "Blast Burn",
+    "proto": "BLAST_BURN",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -50,
+    "power": 120,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 299,
+    "moveName": "Hydro Cannon",
+    "proto": "HYDRO_CANNON",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -40,
+    "power": 90,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 300,
+    "moveName": "Last Resort",
+    "proto": "LAST_RESORT",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "power": 90,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 301,
+    "moveName": "Meteor Mash",
+    "proto": "METEOR_MASH",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 302,
+    "moveName": "Skull Bash",
+    "proto": "SKULL_BASH",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -75,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 130,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 303,
+    "moveName": "Acid Spray",
+    "proto": "ACID_SPRAY",
+    "fast": false,
+    "type": 4,
+    "pvpPower": 20,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 20,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 304,
+    "moveName": "Earth Power",
+    "proto": "EARTH_POWER",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.1
+    },
+    "power": 100,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 305,
+    "moveName": "Crabhammer",
+    "proto": "CRABHAMMER",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 85,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 2,
+      "buffActivationChance": 0.125
+    },
+    "power": 85,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 306,
+    "moveName": "Lunge",
+    "proto": "LUNGE",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 55,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 307,
+    "moveName": "Crush Claw",
+    "proto": "CRUSH_CLAW",
+    "fast": false,
+    "type": 1,
+    "durationMs": 2000
+  },
+  {
+    "moveId": 308,
+    "moveName": "Octazooka",
+    "proto": "OCTAZOOKA",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -2,
+      "buffActivationChance": 0.5
+    },
+    "power": 55,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 309,
+    "moveName": "Mirror Shot",
+    "proto": "MIRROR_SHOT",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 35,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 50,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 310,
+    "moveName": "Super Power",
+    "proto": "SUPER_POWER",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 85,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": -1,
+      "attackerDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 85,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 311,
+    "moveName": "Fell Stinger",
+    "proto": "FELL_STINGER",
+    "fast": false,
+    "type": 7,
+    "pvpPower": 20,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 45,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 312,
+    "moveName": "Leaf Tornado",
+    "proto": "LEAF_TORNADO",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 45,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -2,
+      "buffActivationChance": 0.5
+    },
+    "power": 45,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 313,
+    "moveName": "Leech Life",
+    "proto": "LEECH_LIFE",
+    "fast": false,
+    "type": 7,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 314,
+    "moveName": "Drain Punch",
+    "proto": "DRAIN_PUNCH",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 50,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 315,
+    "moveName": "Shadow Bone",
+    "proto": "SHADOW_BONE",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.2
+    },
+    "power": 85,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 316,
+    "moveName": "Muddy Water",
+    "proto": "MUDDY_WATER",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 35,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 45,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 317,
+    "moveName": "Blaze Kick",
+    "proto": "BLAZE_KICK",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "power": 40,
+    "durationMs": 1000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 318,
+    "moveName": "Razor Shell",
+    "proto": "RAZOR_SHELL",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 35,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 319,
+    "moveName": "Power Up Punch",
+    "proto": "POWER_UP_PUNCH",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 20,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 320,
+    "moveName": "Charm",
+    "proto": "CHARM_FAST",
+    "fast": true,
+    "type": 18,
+    "pvpPower": 13,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 2,
+    "power": 20,
+    "durationMs": 1500,
+    "energyDelta": 11
+  },
+  {
+    "moveId": 321,
+    "moveName": "Giga Impact",
+    "proto": "GIGA_IMPACT",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -80,
+    "power": 200,
+    "durationMs": 4500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 322,
+    "moveName": "Frustration",
+    "proto": "FRUSTRATION",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 10,
+    "pvpEnergyDelta": -70,
+    "power": 10,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 323,
+    "moveName": "Return",
+    "proto": "RETURN",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -70,
+    "power": 25,
+    "durationMs": 500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 324,
+    "moveName": "Synchronoise",
+    "proto": "SYNCHRONOISE",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "power": 80,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 325,
+    "moveName": "Lock On",
+    "proto": "LOCK_ON_FAST",
+    "fast": true,
+    "type": 1,
+    "pvpPower": 1,
+    "pvpEnergyDelta": 5,
+    "power": 2,
+    "durationMs": 500,
+    "energyDelta": 10
+  },
+  {
+    "moveId": 326,
+    "moveName": "Thunder Fang",
+    "proto": "THUNDER_FANG_FAST",
+    "fast": true,
+    "type": 13,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 1,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 327,
+    "moveName": "Ice Fang",
+    "proto": "ICE_FANG_FAST",
+    "fast": true,
+    "type": 15,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 6,
+    "pvpDurationTurns": 1,
+    "power": 12,
+    "durationMs": 1500,
+    "energyDelta": 20
+  },
+  {
+    "moveId": 328,
+    "moveName": "Horn Drill",
+    "proto": "HORN_DRILL",
+    "fast": false,
+    "type": 1,
+    "power": 9000,
+    "durationMs": 2000,
+    "energyDelta": -25
+  },
+  {
+    "moveId": 329,
+    "moveName": "Fissure",
+    "proto": "FISSURE",
+    "fast": false,
+    "type": 5,
+    "power": 9001,
+    "durationMs": 3000,
+    "energyDelta": -25
+  },
+  {
+    "moveId": 330,
+    "moveName": "Sacred Sword",
+    "proto": "SACRED_SWORD",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 50,
+    "durationMs": 1000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 331,
+    "moveName": "Flying Press",
+    "proto": "FLYING_PRESS",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -40,
+    "power": 115,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 332,
+    "moveName": "Aura Sphere",
+    "proto": "AURA_SPHERE",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -40,
+    "power": 100,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 333,
+    "moveName": "Payback",
+    "proto": "PAYBACK",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -60,
+    "power": 95,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 334,
+    "moveName": "Rock Wrecker",
+    "proto": "ROCK_WRECKER",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -50,
+    "power": 110,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 335,
+    "moveName": "Aeroblast",
+    "proto": "AEROBLAST",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 170,
+    "pvpEnergyDelta": -75,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 2,
+      "buffActivationChance": 0.125
+    },
+    "power": 180,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 336,
+    "moveName": "Techno Blast Normal",
+    "proto": "TECHNO_BLAST_NORMAL",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -55,
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 337,
+    "moveName": "Techno Blast Burn",
+    "proto": "TECHNO_BLAST_BURN",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -55,
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 338,
+    "moveName": "Techno Blast Chill",
+    "proto": "TECHNO_BLAST_CHILL",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -55,
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 339,
+    "moveName": "Techno Blast Water",
+    "proto": "TECHNO_BLAST_WATER",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -55,
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 340,
+    "moveName": "Techno Blast Shock",
+    "proto": "TECHNO_BLAST_SHOCK",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -55,
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 341,
+    "moveName": "Fly",
+    "proto": "FLY",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 90,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 342,
+    "moveName": "V Create",
+    "proto": "V_CREATE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 95,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -3,
+      "buffActivationChance": 1
+    },
+    "power": 105,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 343,
+    "moveName": "Leaf Storm",
+    "proto": "LEAF_STORM",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 130,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 344,
+    "moveName": "Tri Attack",
+    "proto": "TRI_ATTACK",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 75,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 345,
+    "moveName": "Gust",
+    "proto": "GUST_FAST",
+    "fast": true,
+    "type": 3,
+    "pvpPower": 16,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 3,
+    "power": 25,
+    "durationMs": 2000,
+    "energyDelta": 20
+  },
+  {
+    "moveId": 346,
+    "moveName": "Incinerate",
+    "proto": "INCINERATE_FAST",
+    "fast": true,
+    "type": 10,
+    "pvpPower": 20,
+    "pvpEnergyDelta": 20,
+    "pvpDurationTurns": 4,
+    "power": 32,
+    "durationMs": 2500,
+    "energyDelta": 22
+  },
+  {
+    "moveId": 347,
+    "moveName": "Dark Void",
+    "proto": "DARK_VOID",
+    "fast": false
+  },
+  {
+    "moveId": 348,
+    "moveName": "Feather Dance",
+    "proto": "FEATHER_DANCE",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 35,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -2,
+      "buffActivationChance": 1
+    },
+    "power": 35,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 349,
+    "moveName": "Fiery Dance",
+    "proto": "FIERY_DANCE",
+    "fast": false
+  },
+  {
+    "moveId": 350,
+    "moveName": "Fairy Wind",
+    "proto": "FAIRY_WIND_FAST",
+    "fast": true,
+    "type": 18,
+    "pvpPower": 4,
+    "pvpEnergyDelta": 9,
+    "pvpDurationTurns": 1,
+    "power": 9,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 351,
+    "moveName": "Relic Song",
+    "proto": "RELIC_SONG",
+    "fast": false
+  },
+  {
+    "moveId": 352,
+    "moveName": "Weather Ball Normal",
+    "proto": "WEATHER_BALL_NORMAL",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "power": 55,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 353,
+    "moveName": "Psychic Fangs",
+    "proto": "PSYCHIC_FANGS",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 40,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 25,
+    "durationMs": 1000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 354,
+    "moveName": "Hyperspace Fury",
+    "proto": "HYPERSPACE_FURY",
+    "fast": false
+  },
+  {
+    "moveId": 355,
+    "moveName": "Hyperspace Hole",
+    "proto": "HYPERSPACE_HOLE",
+    "fast": false
+  },
+  {
+    "moveId": 356,
+    "moveName": "Double Kick",
+    "proto": "DOUBLE_KICK_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 12,
+    "pvpDurationTurns": 2,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 13
+  },
+  {
+    "moveId": 357,
+    "moveName": "Magical Leaf",
+    "proto": "MAGICAL_LEAF_FAST",
+    "fast": true,
+    "type": 12,
+    "pvpPower": 10,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 17,
+    "durationMs": 1500,
+    "energyDelta": 17
+  },
+  {
+    "moveId": 358,
+    "moveName": "Sacred Fire",
+    "proto": "SACRED_FIRE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -65,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 120,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 359,
+    "moveName": "Icicle Spear",
+    "proto": "ICICLE_SPEAR",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "power": 55,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 360,
+    "moveName": "Aeroblast Plus",
+    "proto": "AEROBLAST_PLUS",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 170,
+    "pvpEnergyDelta": -75,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 2,
+      "buffActivationChance": 0.125
+    },
+    "power": 200,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 361,
+    "moveName": "Aeroblast Plus Plus",
+    "proto": "AEROBLAST_PLUS_PLUS",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 170,
+    "pvpEnergyDelta": -75,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 2,
+      "buffActivationChance": 0.125
+    },
+    "power": 225,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 362,
+    "moveName": "Sacred Fire Plus",
+    "proto": "SACRED_FIRE_PLUS",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -65,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 135,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 363,
+    "moveName": "Sacred Fire Plus Plus",
+    "proto": "SACRED_FIRE_PLUS_PLUS",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -65,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 155,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 364,
+    "moveName": "Acrobatics",
+    "proto": "ACROBATICS",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -55,
+    "power": 100,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 365,
+    "moveName": "Luster Purge",
+    "proto": "LUSTER_PURGE",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 100,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 366,
+    "moveName": "Mist Ball",
+    "proto": "MIST_BALL",
+    "fast": false,
+    "type": 14,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.5
+    },
+    "power": 105,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 367,
+    "moveName": "Brutal Swing",
+    "proto": "BRUTAL_SWING",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 65,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 368,
+    "moveName": "Rollout",
+    "proto": "ROLLOUT_FAST",
+    "fast": true,
+    "type": 6,
+    "pvpPower": 7,
+    "pvpEnergyDelta": 13,
+    "pvpDurationTurns": 2,
+    "power": 15,
+    "durationMs": 1500,
+    "energyDelta": 19
+  },
+  {
+    "moveId": 369,
+    "moveName": "Seed Flare",
+    "proto": "SEED_FLARE",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -75,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -2,
+      "buffActivationChance": 0.4
+    },
+    "power": 115,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 370,
+    "moveName": "Obstruct",
+    "proto": "OBSTRUCT",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 15,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 20,
+    "durationMs": 1500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 371,
+    "moveName": "Shadow Force",
+    "proto": "SHADOW_FORCE",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -90,
+    "power": 140,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 372,
+    "moveName": "Meteor Beam",
+    "proto": "METEOR_BEAM",
+    "fast": false,
+    "type": 6,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 140,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 373,
+    "moveName": "Water Shuriken",
+    "proto": "WATER_SHURIKEN_FAST",
+    "fast": true,
+    "type": 11,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 14,
+    "pvpDurationTurns": 2,
+    "power": 9,
+    "durationMs": 1000,
+    "energyDelta": 14
+  },
+  {
+    "moveId": 374,
+    "moveName": "Fusion Bolt",
+    "proto": "FUSION_BOLT",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 140,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 375,
+    "moveName": "Fusion Flare",
+    "proto": "FUSION_FLARE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 140,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 376,
+    "moveName": "Poltergeist",
+    "proto": "POLTERGEIST",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -75,
+    "power": 140,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 377,
+    "moveName": "High Horsepower",
+    "proto": "HIGH_HORSEPOWER",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -60,
+    "power": 105,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 378,
+    "moveName": "Glaciate",
+    "proto": "GLACIATE",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 160,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 379,
+    "moveName": "Breaking Swipe",
+    "proto": "BREAKING_SWIPE",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 45,
+    "durationMs": 1000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 380,
+    "moveName": "Boomburst",
+    "proto": "BOOMBURST",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -70,
+    "power": 150,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 381,
+    "moveName": "Double Iron Bash",
+    "proto": "DOUBLE_IRON_BASH",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -35,
+    "power": 70,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 382,
+    "moveName": "Mystical Fire",
+    "proto": "MYSTICAL_FIRE",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 60,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 383,
+    "moveName": "Liquidation",
+    "proto": "LIQUIDATION",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 70,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 384,
+    "moveName": "Dragon Ascent",
+    "proto": "DRAGON_ASCENT",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -70,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 140,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 385,
+    "moveName": "Leafage",
+    "proto": "LEAFAGE_FAST",
+    "fast": true,
+    "type": 12,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 500,
+    "energyDelta": 4
+  },
+  {
+    "moveId": 386,
+    "moveName": "Magma Storm",
+    "proto": "MAGMA_STORM",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -40,
+    "power": 75,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 387,
+    "moveName": "Geomancy",
+    "proto": "GEOMANCY_FAST",
+    "fast": true,
+    "type": 18,
+    "pvpPower": 8,
+    "pvpEnergyDelta": 13,
+    "pvpDurationTurns": 2,
+    "power": 20,
+    "durationMs": 1500,
+    "energyDelta": 14
+  },
+  {
+    "moveId": 388,
+    "moveName": "Spacial Rend",
+    "proto": "SPACIAL_REND",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 95,
+    "pvpEnergyDelta": -55,
+    "power": 160,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 389,
+    "moveName": "Oblivion Wing",
+    "proto": "OBLIVION_WING",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 85,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 85,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 390,
+    "moveName": "Natures Madness",
+    "proto": "NATURES_MADNESS",
+    "fast": false,
+    "type": 18,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 90,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 391,
+    "moveName": "Triple Axel",
+    "proto": "TRIPLE_AXEL",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 60,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 392,
+    "moveName": "Trailblaze",
+    "proto": "TRAILBLAZE",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 65,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 393,
+    "moveName": "Scorching Sands",
+    "proto": "SCORCHING_SANDS",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -50,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.1
+    },
+    "power": 90,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 394,
+    "moveName": "Roar Of Time",
+    "proto": "ROAR_OF_TIME",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 150,
+    "pvpEnergyDelta": -65,
+    "power": 160,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 395,
+    "moveName": "Bleakwind Storm",
+    "proto": "BLEAKWIND_STORM",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 150,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 396,
+    "moveName": "Sandsear Storm",
+    "proto": "SANDSEAR_STORM",
+    "fast": false,
+    "type": 5,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 150,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 397,
+    "moveName": "Wildbolt Storm",
+    "proto": "WILDBOLT_STORM",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 150,
+    "durationMs": 2500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 398,
+    "moveName": "Spirit Shackle",
+    "proto": "SPIRIT_SHACKLE",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.33
+    },
+    "power": 70,
+    "durationMs": 2500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 399,
+    "moveName": "Volt Tackle",
+    "proto": "VOLT_TACKLE",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 90,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 400,
+    "moveName": "Darkest Lariat",
+    "proto": "DARKEST_LARIAT",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "power": 80,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 401,
+    "moveName": "Psywave",
+    "proto": "PSYWAVE_FAST",
+    "fast": true,
+    "type": 14,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 4,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 402,
+    "moveName": "Metal Sound",
+    "proto": "METAL_SOUND_FAST",
+    "fast": true,
+    "type": 9,
+    "pvpPower": 5,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 6
+  },
+  {
+    "moveId": 403,
+    "moveName": "Sand Attack",
+    "proto": "SAND_ATTACK_FAST",
+    "fast": true,
+    "type": 5,
+    "pvpPower": 2,
+    "pvpEnergyDelta": 4,
+    "power": 4,
+    "durationMs": 500,
+    "energyDelta": 7
+  },
+  {
+    "moveId": 404,
+    "moveName": "Sunsteel Strike",
+    "proto": "SUNSTEEL_STRIKE",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 135,
+    "pvpEnergyDelta": -65,
+    "power": 230,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 405,
+    "moveName": "Moongeist Beam",
+    "proto": "MOONGEIST_BEAM",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 135,
+    "pvpEnergyDelta": -65,
+    "power": 230,
+    "durationMs": 3000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 406,
+    "moveName": "Aura Wheel Electric",
+    "proto": "AURA_WHEEL_ELECTRIC",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 407,
+    "moveName": "Aura Wheel Dark",
+    "proto": "AURA_WHEEL_DARK",
+    "fast": false,
+    "type": 17,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 100,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 408,
+    "moveName": "High Jump Kick",
+    "proto": "HIGH_JUMP_KICK",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -4,
+      "buffActivationChance": 0.1
+    },
+    "power": 90,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 409,
+    "moveName": "Max Flare",
+    "proto": "VN_BM_001",
+    "fast": false,
+    "type": 10,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 410,
+    "moveName": "Max Flutterby",
+    "proto": "VN_BM_002",
+    "fast": false,
+    "type": 7,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 411,
+    "moveName": "Max Lightning",
+    "proto": "VN_BM_003",
+    "fast": false,
+    "type": 13,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 412,
+    "moveName": "Max Strike",
+    "proto": "VN_BM_004",
+    "fast": false,
+    "type": 1,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 413,
+    "moveName": "Max Knuckle",
+    "proto": "VN_BM_005",
+    "fast": false,
+    "type": 2,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 414,
+    "moveName": "Max Phantasm",
+    "proto": "VN_BM_006",
+    "fast": false,
+    "type": 8,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 415,
+    "moveName": "Max Hailstorm",
+    "proto": "VN_BM_007",
+    "fast": false,
+    "type": 15,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 416,
+    "moveName": "Max Ooze",
+    "proto": "VN_BM_008",
+    "fast": false,
+    "type": 4,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 417,
+    "moveName": "Max Geyser",
+    "proto": "VN_BM_009",
+    "fast": false,
+    "type": 11,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 418,
+    "moveName": "Max Airstream",
+    "proto": "VN_BM_010",
+    "fast": false,
+    "type": 3,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 419,
+    "moveName": "Max Starfall",
+    "proto": "VN_BM_011",
+    "fast": false,
+    "type": 18,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 420,
+    "moveName": "Max Wyrmwind",
+    "proto": "VN_BM_012",
+    "fast": false,
+    "type": 16,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 421,
+    "moveName": "Max Mindstorm",
+    "proto": "VN_BM_013",
+    "fast": false,
+    "type": 14,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 422,
+    "moveName": "Max Rockfall",
+    "proto": "VN_BM_014",
+    "fast": false,
+    "type": 6,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 423,
+    "moveName": "Max Quake",
+    "proto": "VN_BM_015",
+    "fast": false,
+    "type": 5,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 424,
+    "moveName": "Max Darkness",
+    "proto": "VN_BM_016",
+    "fast": false,
+    "type": 17,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 425,
+    "moveName": "Max Overgrowth",
+    "proto": "VN_BM_017",
+    "fast": false,
+    "type": 12,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 426,
+    "moveName": "Max Steelspike",
+    "proto": "VN_BM_018",
+    "fast": false,
+    "type": 9,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 427,
+    "moveName": "Gmax Wildfire",
+    "proto": "VN_BM_019",
+    "fast": false,
+    "type": 10,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 428,
+    "moveName": "Gmax Befuddle",
+    "proto": "VN_BM_020",
+    "fast": false,
+    "type": 7,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 429,
+    "moveName": "Gmax Voltcrash",
+    "proto": "VN_BM_021",
+    "fast": false,
+    "type": 13,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 430,
+    "moveName": "Gmax Goldrush",
+    "proto": "VN_BM_022",
+    "fast": false,
+    "type": 1,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 431,
+    "moveName": "Gmax Chistrike",
+    "proto": "VN_BM_023",
+    "fast": false,
+    "type": 2,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 432,
+    "moveName": "Gmax Terror",
+    "proto": "VN_BM_024",
+    "fast": false,
+    "type": 8,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 433,
+    "moveName": "Gmax Foamburst",
+    "proto": "VN_BM_025",
+    "fast": false,
+    "type": 11,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 434,
+    "moveName": "Gmax Resonance",
+    "proto": "VN_BM_026",
+    "fast": false,
+    "type": 15,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 435,
+    "moveName": "Gmax Cuddle",
+    "proto": "VN_BM_027",
+    "fast": false,
+    "type": 1,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 436,
+    "moveName": "Gmax Replenish",
+    "proto": "VN_BM_028",
+    "fast": false,
+    "type": 1,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 437,
+    "moveName": "Gmax Malodor",
+    "proto": "VN_BM_029",
+    "fast": false,
+    "type": 4,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 438,
+    "moveName": "Gmax Meltdown",
+    "proto": "VN_BM_030",
+    "fast": false,
+    "type": 9,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 439,
+    "moveName": "Gmax Windrage",
+    "proto": "VN_BM_031",
+    "fast": false,
+    "type": 3,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 440,
+    "moveName": "Gmax Gravitas",
+    "proto": "VN_BM_032",
+    "fast": false,
+    "type": 14,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 441,
+    "moveName": "Gmax Stonesurge",
+    "proto": "VN_BM_033",
+    "fast": false,
+    "type": 11,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 442,
+    "moveName": "Gmax Volcalith",
+    "proto": "VN_BM_034",
+    "fast": false,
+    "type": 6,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 443,
+    "moveName": "Gmax Tartness",
+    "proto": "VN_BM_035",
+    "fast": false,
+    "type": 12,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 444,
+    "moveName": "Gmax Sweetness",
+    "proto": "VN_BM_036",
+    "fast": false,
+    "type": 12,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 445,
+    "moveName": "Gmax Sandblast",
+    "proto": "VN_BM_037",
+    "fast": false,
+    "type": 5,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 446,
+    "moveName": "Gmax Stun Shock",
+    "proto": "VN_BM_038",
+    "fast": false,
+    "type": 13,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 447,
+    "moveName": "Gmax Centiferno",
+    "proto": "VN_BM_039",
+    "fast": false,
+    "type": 10,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 448,
+    "moveName": "Gmax Smite",
+    "proto": "VN_BM_040",
+    "fast": false,
+    "type": 18,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 449,
+    "moveName": "Gmax Snooze",
+    "proto": "VN_BM_041",
+    "fast": false,
+    "type": 17,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 450,
+    "moveName": "Gmax Finale",
+    "proto": "VN_BM_042",
+    "fast": false,
+    "type": 18,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 451,
+    "moveName": "Gmax Steelsurge",
+    "proto": "VN_BM_043",
+    "fast": false,
+    "type": 9,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 452,
+    "moveName": "Gmax Depletion",
+    "proto": "VN_BM_044",
+    "fast": false,
+    "type": 16,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 453,
+    "moveName": "Gmax Vinelash",
+    "proto": "VN_BM_045",
+    "fast": false,
+    "type": 12,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 454,
+    "moveName": "Gmax Cannonade",
+    "proto": "VN_BM_046",
+    "fast": false,
+    "type": 11,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 455,
+    "moveName": "Gmax Drumsolo",
+    "proto": "VN_BM_047",
+    "fast": false,
+    "type": 12,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 456,
+    "moveName": "Gmax Fireball",
+    "proto": "VN_BM_048",
+    "fast": false,
+    "type": 10,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 457,
+    "moveName": "Gmax Hydrosnipe",
+    "proto": "VN_BM_049",
+    "fast": false,
+    "type": 11,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 458,
+    "moveName": "Gmax Oneblow",
+    "proto": "VN_BM_050",
+    "fast": false,
+    "type": 17,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 459,
+    "moveName": "Gmax Rapidflow",
+    "proto": "VN_BM_051",
+    "fast": false,
+    "type": 11,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 460,
+    "moveName": "Max Shield",
+    "proto": "VN_BM_052",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 461,
+    "moveName": "Max Heal",
+    "proto": "VN_BM_053",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 462,
+    "moveName": "Force Palm",
+    "proto": "FORCE_PALM_FAST",
+    "fast": true,
+    "type": 2,
+    "pvpPower": 13,
+    "pvpEnergyDelta": 10,
+    "pvpDurationTurns": 2,
+    "power": 10,
+    "durationMs": 1000,
+    "energyDelta": 16
+  },
+  {
+    "moveId": 463,
+    "moveName": "Sparkling Aria",
+    "proto": "SPARKLING_ARIA",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 85,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 464,
+    "moveName": "Rage Fist",
+    "proto": "RAGE_FIST",
+    "fast": false,
+    "type": 8,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 100,
+    "durationMs": 3000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 465,
+    "moveName": "Flower Trick",
+    "proto": "FLOWER_TRICK",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 30,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 75,
+    "durationMs": 3000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 466,
+    "moveName": "Freeze Shock",
+    "proto": "FREEZE_SHOCK",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 160,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 467,
+    "moveName": "Ice Burn",
+    "proto": "ICE_BURN",
+    "fast": false,
+    "type": 15,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -60,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 90,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 468,
+    "moveName": "Torch Song",
+    "proto": "TORCH_SONG",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 100,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 469,
+    "moveName": "Behemoth Blade",
+    "proto": "BEHEMOTH_BLADE",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -55,
+    "power": 200,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 470,
+    "moveName": "Behemoth Bash",
+    "proto": "BEHEMOTH_BASH",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 125,
+    "durationMs": 1500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 471,
+    "moveName": "Upper Hand",
+    "proto": "UPPER_HAND",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 0.3
+    },
+    "power": 50,
+    "durationMs": 2000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 472,
+    "moveName": "Thunder Cage",
+    "proto": "THUNDER_CAGE",
+    "fast": false,
+    "type": 13,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "targetDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 220,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 473,
+    "moveName": "Max Shield",
+    "proto": "VN_BM_054",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 474,
+    "moveName": "Max Heal",
+    "proto": "VN_BM_055",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 475,
+    "moveName": "Max Shield",
+    "proto": "VN_BM_056",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 476,
+    "moveName": "Max Heal",
+    "proto": "VN_BM_057",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 477,
+    "moveName": "Max Shield",
+    "proto": "VN_BM_058",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 478,
+    "moveName": "Max Heal",
+    "proto": "VN_BM_059",
+    "fast": false,
+    "type": 1,
+    "power": 0,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 479,
+    "moveName": "Max Behemoth Blade",
+    "proto": "VN_BM_060",
+    "fast": false,
+    "type": 9,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 480,
+    "moveName": "Max Behemoth Bash",
+    "proto": "VN_BM_061",
+    "fast": false,
+    "type": 9,
+    "power": 350,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 481,
+    "moveName": "Thunder Cage",
+    "proto": "THUNDER_CAGE_FAST",
+    "fast": true
+  },
+  {
+    "moveId": 482,
+    "moveName": "Dynamax Cannon",
+    "proto": "DYNAMAX_CANNON",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
+    "power": 215,
+    "durationMs": 1500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 483,
+    "moveName": "Max Dynamax Cannon",
+    "proto": "VN_BM_062",
+    "fast": false,
+    "type": 16,
+    "power": 450,
+    "durationMs": 2500
+  },
+  {
+    "moveId": 484,
+    "moveName": "Clanging Scales",
+    "proto": "CLANGING_SCALES",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 120,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 120,
+    "durationMs": 3500,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 485,
+    "moveName": "Crush Grip",
+    "proto": "CRUSH_GRIP",
+    "fast": false,
+    "type": 1,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -50,
+    "power": 210,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 486,
+    "moveName": "Dragon Energy",
+    "proto": "DRAGON_ENERGY",
+    "fast": false,
+    "type": 16,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -45,
+    "power": 155,
+    "durationMs": 3500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 487,
+    "moveName": "Aqua Step",
+    "proto": "AQUA_STEP",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -40,
+    "pvpBuffs": {
+      "attackerAttackStatStageChange": 1,
+      "buffActivationChance": 1
+    },
+    "power": 55,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 488,
+    "moveName": "Chilling Water",
+    "proto": "CHILLING_WATER",
+    "fast": false,
+    "type": 11,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -45,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 65,
+    "durationMs": 3500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 489,
+    "moveName": "Secret Sword",
+    "proto": "SECRET_SWORD",
+    "fast": false,
+    "type": 2,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {},
+    "power": 120,
+    "durationMs": 2000,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 490,
+    "moveName": "Beak Blast",
+    "proto": "BEAK_BLAST",
+    "fast": false,
+    "type": 3,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 125,
+    "durationMs": 2500,
+    "energyDelta": -50
+  },
+  {
+    "moveId": 491,
+    "moveName": "Mind Blown",
+    "proto": "MIND_BLOWN",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": -4,
+      "buffActivationChance": 1
+    },
+    "power": 130,
+    "durationMs": 4000,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 492,
+    "moveName": "Drum Beating",
+    "proto": "DRUM_BEATING",
+    "fast": false,
+    "type": 12,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -35,
+    "pvpBuffs": {
+      "targetAttackStatStageChange": -1,
+      "buffActivationChance": 1
+    },
+    "power": 115,
+    "durationMs": 4500,
+    "energyDelta": -33
+  },
+  {
+    "moveId": 493,
+    "moveName": "Pyroball",
+    "proto": "PYROBALL",
+    "fast": false,
+    "type": 10,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -40,
+    "power": 150,
+    "durationMs": 2000,
+    "energyDelta": -100
+  },
+  {
+    "moveId": 494,
+    "moveName": "Gigaton Hammer",
+    "proto": "GIGATON_HAMMER",
+    "fast": false,
+    "type": 9,
+    "pvpPower": 130,
+    "pvpEnergyDelta": -60,
+    "power": 300,
+    "durationMs": 3000,
+    "energyDelta": -100
+  }
+]

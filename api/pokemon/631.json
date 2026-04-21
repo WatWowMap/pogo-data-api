@@ -1,0 +1,66 @@
+{
+  "pokemonName": "Heatmor",
+  "pokedexId": 631,
+  "defaultFormId": 2285,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    212,
+    269
+  ],
+  "chargedMoves": [
+    24,
+    77,
+    319
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2285
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.45
+    }
+  ],
+  "attack": 204,
+  "defense": 129,
+  "stamina": 198,
+  "height": 1.4,
+  "weight": 58,
+  "family": 631,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

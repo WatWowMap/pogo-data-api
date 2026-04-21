@@ -1,0 +1,91 @@
+{
+  "pokemonName": "Sceptile",
+  "pokedexId": 254,
+  "defaultFormId": 1355,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    200,
+    271
+  ],
+  "chargedMoves": [
+    31,
+    45,
+    83,
+    117,
+    379
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    296
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1355
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.635
+    }
+  ],
+  "attack": 223,
+  "defense": 169,
+  "stamina": 172,
+  "height": 1.7,
+  "weight": 52.2,
+  "family": 252,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 320,
+      "defense": 186,
+      "stamina": 172,
+      "height": 1.9,
+      "weight": 55.2,
+      "types": [
+        12,
+        16
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

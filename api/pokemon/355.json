@@ -1,0 +1,82 @@
+{
+  "pokemonName": "Duskull",
+  "pokedexId": 355,
+  "defaultFormId": 914,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    263,
+    264
+  ],
+  "chargedMoves": [
+    66,
+    69,
+    265
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    914
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 70,
+  "defense": 162,
+  "stamina": 85,
+  "height": 0.79,
+  "weight": 15,
+  "family": 355,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 356,
+      "formId": 917,
+      "candyCost": 25
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 58,
+      "costumeProto": "FALL_2022_NOEVOLVE",
+      "costumeName": "Fall 2022 Noevolve"
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 30,
+  "moveName": "Psybeam",
+  "proto": "PSYBEAM",
+  "fast": false,
+  "type": 14,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -60,
+  "power": 65,
+  "durationMs": 3000,
+  "energyDelta": -50
+}

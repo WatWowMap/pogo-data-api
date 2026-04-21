@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "MAGMAR_NORMAL",
+  "formId": 634,
+  "evolutions": [
+    {
+      "evoId": 467,
+      "formId": 637,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

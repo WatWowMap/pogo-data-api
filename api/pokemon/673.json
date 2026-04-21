@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Gogoat",
+  "pokedexId": 673,
+  "defaultFormId": 3038,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    214,
+    234,
+    241
+  ],
+  "chargedMoves": [
+    59,
+    64,
+    117,
+    123
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3038
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.635
+    }
+  ],
+  "attack": 196,
+  "defense": 146,
+  "stamina": 265,
+  "height": 1.7,
+  "weight": 91,
+  "family": 672,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

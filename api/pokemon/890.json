@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Eternatus",
+  "pokedexId": 890,
+  "defaultFormId": 2581,
+  "types": [
+    4,
+    16
+  ],
+  "quickMoves": [
+    224,
+    253
+  ],
+  "chargedMoves": [
+    24,
+    82,
+    90
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    482
+  ],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    2580,
+    2581
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 9.8
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 10
+    },
+    {
+      "name": "mLowerBound",
+      "value": 15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 30
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 31
+    }
+  ],
+  "attack": 278,
+  "defense": 192,
+  "stamina": 268,
+  "height": 20,
+  "weight": 950,
+  "family": 890,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100
+}

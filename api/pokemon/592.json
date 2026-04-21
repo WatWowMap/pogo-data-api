@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Frillish",
+  "pokedexId": 592,
+  "defaultFormId": 2168,
+  "types": [
+    8,
+    11
+  ],
+  "quickMoves": [
+    237,
+    264
+  ],
+  "chargedMoves": [
+    39,
+    69,
+    265
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2168,
+    2330
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 115,
+  "defense": 134,
+  "stamina": 146,
+  "height": 1.2,
+  "weight": 33,
+  "family": 592,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 593,
+      "candyCost": 50
+    }
+  ]
+}

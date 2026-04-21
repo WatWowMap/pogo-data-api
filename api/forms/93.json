@@ -1,0 +1,14 @@
+{
+  "formName": "Land",
+  "proto": "SHAYMIN_LAND",
+  "formId": 93,
+  "formChanges": [
+    {
+      "availableForms": [
+        92
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
+}

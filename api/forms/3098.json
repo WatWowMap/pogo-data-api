@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "MUDBRAY_NORMAL",
+  "formId": 3098,
+  "evolutions": [
+    {
+      "evoId": 750,
+      "formId": 3099,
+      "candyCost": 50
+    }
+  ]
+}

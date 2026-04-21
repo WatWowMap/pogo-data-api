@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SOLOSIS_NORMAL",
+  "formId": 2129,
+  "evolutions": [
+    {
+      "evoId": 578,
+      "formId": 2132,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

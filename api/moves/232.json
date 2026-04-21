@@ -1,0 +1,13 @@
+{
+  "moveId": 232,
+  "moveName": "Water Gun Blastoise",
+  "proto": "WATER_GUN_FAST_BLASTOISE",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 6,
+  "pvpEnergyDelta": 4,
+  "pvpDurationTurns": 1,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 6
+}

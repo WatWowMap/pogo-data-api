@@ -1,0 +1,8 @@
+{
+  "itemId": 604,
+  "itemName": "X Miracle",
+  "proto": "ITEM_X_MIRACLE",
+  "type": "Battle",
+  "category": "Boost",
+  "minTrainerLevel": 100
+}

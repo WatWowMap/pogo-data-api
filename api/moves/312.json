@@ -1,0 +1,16 @@
+{
+  "moveId": 312,
+  "moveName": "Leaf Tornado",
+  "proto": "LEAF_TORNADO",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 45,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -2,
+    "buffActivationChance": 0.5
+  },
+  "power": 45,
+  "durationMs": 3000,
+  "energyDelta": -33
+}

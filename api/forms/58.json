@@ -1,0 +1,30 @@
+{
+  "formName": "Alola",
+  "proto": "NINETALES_ALOLA",
+  "formId": 58,
+  "attack": 170,
+  "defense": 193,
+  "stamina": 177,
+  "quickMoves": [
+    238,
+    244,
+    320
+  ],
+  "chargedMoves": [
+    39,
+    40,
+    60,
+    86,
+    293
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    488
+  ],
+  "types": [
+    15,
+    18
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

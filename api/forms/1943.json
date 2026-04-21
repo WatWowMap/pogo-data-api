@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "PANSEAR_NORMAL",
+  "formId": 1943,
+  "evolutions": [
+    {
+      "evoId": 514,
+      "formId": 1946,
+      "candyCost": 50,
+      "itemRequirement": 1107
+    }
+  ]
+}

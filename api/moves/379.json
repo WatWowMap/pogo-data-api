@@ -1,0 +1,16 @@
+{
+  "moveId": 379,
+  "moveName": "Breaking Swipe",
+  "proto": "BREAKING_SWIPE",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 50,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 45,
+  "durationMs": 1000,
+  "energyDelta": -33
+}

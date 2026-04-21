@@ -1,0 +1,27 @@
+{
+  "formName": "Galarian",
+  "proto": "ZIGZAGOON_GALARIAN",
+  "formId": 946,
+  "quickMoves": [
+    221,
+    282
+  ],
+  "chargedMoves": [
+    26,
+    125,
+    131
+  ],
+  "types": [
+    1,
+    17
+  ],
+  "evolutions": [
+    {
+      "evoId": 264,
+      "formId": 948,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

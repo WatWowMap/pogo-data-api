@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SHROOMISH_NORMAL",
+  "formId": 1418,
+  "evolutions": [
+    {
+      "evoId": 286,
+      "formId": 1421,
+      "candyCost": 50
+    }
+  ]
+}

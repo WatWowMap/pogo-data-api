@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "BAYLEEF_NORMAL",
+  "formId": 1121,
+  "evolutions": [
+    {
+      "evoId": 154,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

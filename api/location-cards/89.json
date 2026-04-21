@@ -1,0 +1,8 @@
+{
+  "id": 89,
+  "proto": "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_DD_001",
+  "formatted": "2025 Global Gofest Dd 001",
+  "imageUrl": "sb_GoFest2025_Eternatus",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_goFest_2025_eternatus"
+}

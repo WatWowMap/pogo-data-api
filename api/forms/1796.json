@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SKORUPI_NORMAL",
+  "formId": 1796,
+  "evolutions": [
+    {
+      "evoId": 452,
+      "formId": 1799,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

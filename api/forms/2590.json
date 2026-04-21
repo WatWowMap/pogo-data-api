@@ -1,0 +1,15 @@
+{
+  "formName": "Female",
+  "proto": "MEOWSTIC_FEMALE",
+  "formId": 2590,
+  "quickMoves": [
+    235,
+    320,
+    357
+  ],
+  "chargedMoves": [
+    70,
+    108,
+    273
+  ]
+}

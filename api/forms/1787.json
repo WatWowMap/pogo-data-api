@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "MUNCHLAX_NORMAL",
+  "formId": 1787,
+  "evolutions": [
+    {
+      "evoId": 143,
+      "formId": 199,
+      "candyCost": 50
+    }
+  ]
+}

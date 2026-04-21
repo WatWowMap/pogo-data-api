@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "JIGGLYPUFF_NORMAL",
+  "formId": 987,
+  "evolutions": [
+    {
+      "evoId": 40,
+      "formId": 990,
+      "candyCost": 50
+    }
+  ]
+}

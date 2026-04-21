@@ -1,0 +1,13 @@
+{
+  "formName": "Chill",
+  "proto": "GENESECT_CHILL",
+  "formId": 596,
+  "chargedMoves": [
+    39,
+    72,
+    100
+  ],
+  "eliteChargedMoves": [
+    338
+  ]
+}

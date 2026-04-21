@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Torterra",
+  "pokedexId": 389,
+  "defaultFormId": 694,
+  "types": [
+    5,
+    12
+  ],
+  "quickMoves": [
+    202,
+    215,
+    233
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    116,
+    258
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    296
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    694
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.078
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.65
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.41
+    }
+  ],
+  "attack": 202,
+  "defense": 188,
+  "stamina": 216,
+  "height": 2.2,
+  "weight": 310,
+  "family": 387,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

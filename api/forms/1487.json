@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "MANECTRIC_NORMAL",
+  "formId": 1487,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 286,
+      "defense": 179,
+      "stamina": 172,
+      "height": 1.8,
+      "weight": 44,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "LATIOS_NORMAL",
+  "formId": 1634,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 335,
+      "defense": 241,
+      "stamina": 190,
+      "height": 2.3,
+      "weight": 70,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

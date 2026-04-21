@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Primarina",
+  "pokedexId": 730,
+  "defaultFormId": 3083,
+  "types": [
+    11,
+    18
+  ],
+  "quickMoves": [
+    283,
+    320
+  ],
+  "chargedMoves": [
+    84,
+    87,
+    107,
+    108,
+    463
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    299
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3083
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 232,
+  "defense": 195,
+  "stamina": 190,
+  "height": 1.8,
+  "weight": 44,
+  "family": 728,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

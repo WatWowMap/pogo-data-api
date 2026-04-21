@@ -1,0 +1,13 @@
+{
+  "formName": "Winter 2020",
+  "proto": "CUBCHOO_WINTER_2020",
+  "formId": 2672,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 614,
+      "formId": 2820,
+      "candyCost": 50
+    }
+  ]
+}

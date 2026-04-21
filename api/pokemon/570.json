@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Zorua",
+  "pokedexId": 570,
+  "defaultFormId": 2108,
+  "types": [
+    17
+  ],
+  "quickMoves": [
+    220,
+    238
+  ],
+  "chargedMoves": [
+    16,
+    45,
+    265,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2108,
+    2796
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.225
+    }
+  ],
+  "attack": 153,
+  "defense": 78,
+  "stamina": 120,
+  "height": 0.7,
+  "weight": 12.5,
+  "family": 570,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 571,
+      "formId": 2111,
+      "candyCost": 50
+    }
+  ]
+}

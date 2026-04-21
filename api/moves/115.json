@@ -1,0 +1,12 @@
+{
+  "moveId": 115,
+  "moveName": "Fire Punch",
+  "proto": "FIRE_PUNCH",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -40,
+  "power": 50,
+  "durationMs": 2000,
+  "energyDelta": -33
+}

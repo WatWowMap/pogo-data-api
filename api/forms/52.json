@@ -1,0 +1,59 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.225
+    }
+  ],
+  "formName": "Alola",
+  "proto": "SANDSHREW_ALOLA",
+  "formId": 52,
+  "attack": 125,
+  "defense": 129,
+  "stamina": 137,
+  "height": 0.7,
+  "weight": 40,
+  "quickMoves": [
+    228,
+    244
+  ],
+  "chargedMoves": [
+    40,
+    51,
+    267
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    9,
+    15
+  ],
+  "evolutions": [
+    {
+      "evoId": 28,
+      "formId": 54,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,88 @@
+{
+  "pokemonName": "Alakazam",
+  "pokedexId": 65,
+  "defaultFormId": 310,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    226,
+    235
+  ],
+  "chargedMoves": [
+    70,
+    115,
+    247,
+    275
+  ],
+  "eliteQuickMoves": [
+    243
+  ],
+  "eliteChargedMoves": [
+    86,
+    108
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    310
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 271,
+  "defense": 167,
+  "stamina": 146,
+  "height": 1.5,
+  "weight": 48,
+  "family": 63,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 367,
+      "defense": 207,
+      "stamina": 146,
+      "height": 1.2,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,56 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    },
+    {
+      "name": "xxsScaleMultiplier",
+      "value": 0.67
+    },
+    {
+      "name": "xsScaleMultiplier",
+      "value": 0.8
+    },
+    {
+      "name": "xlScaleMultiplier",
+      "value": 1.2
+    },
+    {
+      "name": "xxlScaleMultiplier",
+      "value": 1.5
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "formName": "Large",
+  "proto": "GOURGEIST_LARGE",
+  "formId": 2647,
+  "attack": 179,
+  "defense": 206,
+  "stamina": 181,
+  "height": 1.1,
+  "weight": 14
+}

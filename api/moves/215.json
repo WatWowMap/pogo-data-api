@@ -1,0 +1,13 @@
+{
+  "moveId": 215,
+  "moveName": "Razor Leaf",
+  "proto": "RAZOR_LEAF_FAST",
+  "fast": true,
+  "type": 12,
+  "pvpPower": 9,
+  "pvpEnergyDelta": 4,
+  "pvpDurationTurns": 1,
+  "power": 13,
+  "durationMs": 1000,
+  "energyDelta": 7
+}

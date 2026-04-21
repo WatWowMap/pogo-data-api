@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Snom",
+  "pokedexId": 872,
+  "defaultFormId": 3199,
+  "types": [
+    7,
+    15
+  ],
+  "quickMoves": [
+    244,
+    261
+  ],
+  "chargedMoves": [
+    49,
+    111
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3199
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 76,
+  "defense": 59,
+  "stamina": 102,
+  "height": 0.3,
+  "weight": 3.8,
+  "family": 872,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 873,
+      "candyCost": 400,
+      "onlyNighttime": true,
+      "questRequirement": "SNOM_FROSMOTH_EVOLUTION_QUEST"
+    }
+  ]
+}

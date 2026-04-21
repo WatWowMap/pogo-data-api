@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "CHANSEY_NORMAL",
+  "formId": 1056,
+  "evolutions": [
+    {
+      "evoId": 242,
+      "formId": 1328,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Passimian",
+  "pokedexId": 766,
+  "defaultFormId": 3114,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    241,
+    243,
+    282
+  ],
+  "chargedMoves": [
+    123,
+    245,
+    310,
+    314,
+    367
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3114
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.98
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.5
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.1
+    }
+  ],
+  "attack": 222,
+  "defense": 160,
+  "stamina": 225,
+  "height": 2,
+  "weight": 82.8,
+  "family": 766,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

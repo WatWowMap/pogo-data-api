@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Makuhita",
+  "pokedexId": 296,
+  "defaultFormId": 1451,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    221,
+    241
+  ],
+  "chargedMoves": [
+    28,
+    56,
+    268,
+    471
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1451
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.4851
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.495
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.7425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.2375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.485
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.7325
+    }
+  ],
+  "attack": 99,
+  "defense": 54,
+  "stamina": 176,
+  "height": 0.99,
+  "weight": 86.4,
+  "family": 296,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 297,
+      "formId": 1454,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

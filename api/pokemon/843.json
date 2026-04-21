@@ -1,0 +1,73 @@
+{
+  "pokemonName": "Silicobra",
+  "pokedexId": 843,
+  "defaultFormId": 3180,
+  "types": [
+    5
+  ],
+  "quickMoves": [
+    216,
+    233
+  ],
+  "chargedMoves": [
+    13,
+    26,
+    95,
+    304
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3180
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.078
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.65
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.41
+    }
+  ],
+  "attack": 103,
+  "defense": 123,
+  "stamina": 141,
+  "height": 2.2,
+  "weight": 7.6,
+  "family": 843,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 844,
+      "candyCost": 50
+    }
+  ]
+}

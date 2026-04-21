@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "MONFERNO_NORMAL",
+  "formId": 821,
+  "evolutions": [
+    {
+      "evoId": 392,
+      "formId": 824,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

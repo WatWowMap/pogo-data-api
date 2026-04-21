@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "STANTLER_NORMAL",
+  "formId": 941,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "evolutions": [
+    {
+      "evoId": 899
+    }
+  ]
+}

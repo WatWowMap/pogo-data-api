@@ -1,0 +1,54 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.8
+    }
+  ],
+  "formName": "Hisuian",
+  "proto": "TYPHLOSION_HISUIAN",
+  "formId": 2786,
+  "attack": 238,
+  "defense": 172,
+  "stamina": 177,
+  "height": 1.6,
+  "weight": 69.8,
+  "quickMoves": [
+    209,
+    264
+  ],
+  "chargedMoves": [
+    70,
+    115,
+    251,
+    265,
+    270
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    8,
+    10
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

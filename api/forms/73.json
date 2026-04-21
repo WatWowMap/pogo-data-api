@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "GRIMER_NORMAL",
+  "formId": 73,
+  "evolutions": [
+    {
+      "evoId": 89,
+      "formId": 75,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

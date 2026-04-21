@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "STUNKY_NORMAL",
+  "formId": 791,
+  "evolutions": [
+    {
+      "evoId": 435,
+      "formId": 794,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

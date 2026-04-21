@@ -1,0 +1,87 @@
+{
+  "pokemonName": "Starmie",
+  "pokedexId": 121,
+  "defaultFormId": 1077,
+  "types": [
+    11,
+    14
+  ],
+  "quickMoves": [
+    230,
+    281,
+    401
+  ],
+  "chargedMoves": [
+    30,
+    39,
+    65,
+    78,
+    107,
+    108,
+    284
+  ],
+  "eliteQuickMoves": [
+    221
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1077
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "attack": 210,
+  "defense": 184,
+  "stamina": 155,
+  "height": 1.1,
+  "weight": 80,
+  "family": 120,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 850,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 303,
+      "defense": 229,
+      "stamina": 155,
+      "unreleased": true
+    }
+  ]
+}

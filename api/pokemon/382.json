@@ -1,0 +1,83 @@
+{
+  "pokemonName": "Kyogre",
+  "pokedexId": 382,
+  "defaultFormId": 1637,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    283
+  ],
+  "chargedMoves": [
+    40,
+    78,
+    107,
+    254,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    289
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1637
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.205
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 3.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 5.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 6.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 6.975
+    }
+  ],
+  "attack": 270,
+  "defense": 228,
+  "stamina": 205,
+  "height": 4.5,
+  "weight": 352,
+  "family": 382,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "buddyMegaEnergy": 100,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 4,
+      "attack": 353,
+      "defense": 268,
+      "stamina": 218,
+      "height": 9.8,
+      "weight": 430,
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

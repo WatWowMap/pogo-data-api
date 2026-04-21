@@ -1,0 +1,13 @@
+{
+  "moveId": 233,
+  "moveName": "Mud Slap",
+  "proto": "MUD_SLAP_FAST",
+  "fast": true,
+  "type": 5,
+  "pvpPower": 11,
+  "pvpEnergyDelta": 10,
+  "pvpDurationTurns": 2,
+  "power": 19,
+  "durationMs": 1500,
+  "energyDelta": 13
+}

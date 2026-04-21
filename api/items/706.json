@@ -1,0 +1,8 @@
+{
+  "itemId": 706,
+  "itemName": "Golden Razz Berry",
+  "proto": "ITEM_GOLDEN_RAZZ_BERRY",
+  "type": "Food",
+  "category": "Food",
+  "minTrainerLevel": 10
+}

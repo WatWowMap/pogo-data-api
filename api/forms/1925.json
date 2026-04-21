@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "HERDIER_NORMAL",
+  "formId": 1925,
+  "evolutions": [
+    {
+      "evoId": 508,
+      "formId": 1928,
+      "candyCost": 100
+    }
+  ]
+}

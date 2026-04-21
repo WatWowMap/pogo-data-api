@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "CHINCHOU_NORMAL",
+  "formId": 1169,
+  "evolutions": [
+    {
+      "evoId": 171,
+      "formId": 1172,
+      "candyCost": 50
+    }
+  ]
+}

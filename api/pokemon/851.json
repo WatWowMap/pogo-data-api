@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Centiskorch",
+  "pokedexId": 851,
+  "defaultFormId": 3187,
+  "types": [
+    7,
+    10
+  ],
+  "quickMoves": [
+    201,
+    209
+  ],
+  "chargedMoves": [
+    42,
+    49,
+    279,
+    306
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3187
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.47
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.25
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.65
+    }
+  ],
+  "gmaxMove": 447,
+  "attack": 220,
+  "defense": 158,
+  "stamina": 225,
+  "height": 3,
+  "weight": 120,
+  "family": 850,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

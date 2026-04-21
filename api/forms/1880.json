@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "DARKRAI_NORMAL",
+  "formId": 1880,
+  "purificationDust": 20000,
+  "purificationCandy": 20,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 325,
+      "defense": 265,
+      "stamina": 172,
+      "unreleased": true
+    }
+  ]
+}

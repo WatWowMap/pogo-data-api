@@ -1,0 +1,12 @@
+{
+  "moveId": 104,
+  "moveName": "Brine",
+  "proto": "BRINE",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -50,
+  "power": 65,
+  "durationMs": 2500,
+  "energyDelta": -50
+}

@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Watchog",
+  "pokedexId": 505,
+  "defaultFormId": 1919,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    202,
+    207
+  ],
+  "chargedMoves": [
+    129,
+    272,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    1919
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.705
+    }
+  ],
+  "attack": 165,
+  "defense": 139,
+  "stamina": 155,
+  "height": 1.1,
+  "weight": 27,
+  "family": 504,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

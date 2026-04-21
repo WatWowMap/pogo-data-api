@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "SWAMPERT_NORMAL",
+  "formId": 211,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 283,
+      "defense": 218,
+      "stamina": 225,
+      "height": 1.9,
+      "weight": 102,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

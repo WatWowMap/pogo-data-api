@@ -1,0 +1,12 @@
+{
+  "moveId": 352,
+  "moveName": "Weather Ball Normal",
+  "proto": "WEATHER_BALL_NORMAL",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -35,
+  "power": 55,
+  "durationMs": 1500,
+  "energyDelta": -33
+}

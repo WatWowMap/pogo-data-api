@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "HOUNDOOM_NORMAL",
+  "formId": 232,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 289,
+      "defense": 194,
+      "stamina": 181,
+      "height": 1.9,
+      "weight": 49.5,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

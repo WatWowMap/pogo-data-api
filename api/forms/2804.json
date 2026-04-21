@@ -1,0 +1,19 @@
+{
+  "formName": "White Striped",
+  "proto": "BASCULIN_WHITE_STRIPED",
+  "formId": 2804,
+  "evolutions": [
+    {
+      "evoId": 902,
+      "formId": 2807,
+      "candyCost": 50,
+      "genderRequirement": 1
+    },
+    {
+      "evoId": 902,
+      "formId": 2808,
+      "candyCost": 50,
+      "genderRequirement": 2
+    }
+  ]
+}

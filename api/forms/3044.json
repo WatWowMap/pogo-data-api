@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "SPRITZEE_NORMAL",
+  "formId": 3044,
+  "evolutions": [
+    {
+      "evoId": 683,
+      "formId": 3045,
+      "candyCost": 50,
+      "questRequirement": "SPRITZEE_EVOLUTION_QUEST"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "moveId": 234,
+  "moveName": "Zen Headbutt",
+  "proto": "ZEN_HEADBUTT_FAST",
+  "fast": true,
+  "type": 14,
+  "pvpPower": 8,
+  "pvpEnergyDelta": 6,
+  "pvpDurationTurns": 2,
+  "power": 11,
+  "durationMs": 1000,
+  "energyDelta": 9
+}

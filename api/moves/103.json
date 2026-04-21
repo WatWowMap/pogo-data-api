@@ -1,0 +1,12 @@
+{
+  "moveId": 103,
+  "moveName": "Fire Blast",
+  "proto": "FIRE_BLAST",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 140,
+  "pvpEnergyDelta": -80,
+  "power": 140,
+  "durationMs": 4000,
+  "energyDelta": -100
+}

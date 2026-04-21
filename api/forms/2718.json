@@ -1,0 +1,52 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.862
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.85
+    },
+    {
+      "name": "mUpperBound",
+      "value": 4.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 5.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5.89
+    }
+  ],
+  "formName": "Dusk Mane",
+  "proto": "NECROZMA_DUSK_MANE",
+  "formId": 2718,
+  "attack": 277,
+  "defense": 220,
+  "stamina": 200,
+  "height": 3.8,
+  "weight": 460,
+  "types": [
+    9,
+    14
+  ],
+  "formChanges": [
+    {
+      "availableForms": [
+        2717
+      ],
+      "componentPokemonSettings": {
+        "pokedexId": 791,
+        "formChangeType": "UNFUSE",
+        "familyId": 789
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "moveId": 415,
+  "moveName": "Max Hailstorm",
+  "proto": "VN_BM_007",
+  "fast": false,
+  "type": 15,
+  "power": 350,
+  "durationMs": 2500
+}

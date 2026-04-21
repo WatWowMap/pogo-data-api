@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "CROCALOR_NORMAL",
+  "formId": 3226,
+  "evolutions": [
+    {
+      "evoId": 911,
+      "formId": 3227,
+      "candyCost": 100
+    }
+  ]
+}

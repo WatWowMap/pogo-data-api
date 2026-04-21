@@ -1,0 +1,8 @@
+{
+  "itemId": 1150,
+  "itemName": "Other Evolution Stone A",
+  "proto": "ITEM_OTHER_EVOLUTION_STONE_A",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 10
+}

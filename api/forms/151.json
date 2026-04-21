@@ -1,0 +1,15 @@
+{
+  "formName": "Aria",
+  "proto": "MELOETTA_ARIA",
+  "formId": 151,
+  "quickMoves": [
+    219,
+    235
+  ],
+  "chargedMoves": [
+    14,
+    60,
+    79,
+    86
+  ]
+}

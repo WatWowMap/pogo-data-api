@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "RATTATA_NORMAL",
+  "formId": 45,
+  "evolutions": [
+    {
+      "evoId": 20,
+      "formId": 47,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

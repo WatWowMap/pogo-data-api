@@ -1,0 +1,22 @@
+{
+  "id": 87,
+  "type": "Ghost Balloon",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_GHOST_BALLOON_GRUNT_FEMALE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

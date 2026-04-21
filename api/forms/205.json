@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "MUDKIP_NORMAL",
+  "formId": 205,
+  "evolutions": [
+    {
+      "evoId": 259,
+      "formId": 208,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

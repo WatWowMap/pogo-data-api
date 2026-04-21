@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SNIVY_NORMAL",
+  "formId": 1889,
+  "evolutions": [
+    {
+      "evoId": 496,
+      "formId": 1892,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

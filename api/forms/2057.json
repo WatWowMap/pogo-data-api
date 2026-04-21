@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "KROKOROK_NORMAL",
+  "formId": 2057,
+  "evolutions": [
+    {
+      "evoId": 553,
+      "formId": 2060,
+      "candyCost": 100
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "pokemonName": "Espurr",
+  "pokedexId": 677,
+  "defaultFormId": 3041,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    220,
+    235
+  ],
+  "chargedMoves": [
+    60,
+    108,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3041
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 120,
+  "defense": 114,
+  "stamina": 158,
+  "height": 0.3,
+  "weight": 3.5,
+  "family": 677,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 678,
+      "formId": 2589,
+      "genderRequirement": 1,
+      "candyCost": 50
+    },
+    {
+      "evoId": 678,
+      "formId": 2590,
+      "genderRequirement": 2,
+      "candyCost": 50
+    }
+  ]
+}

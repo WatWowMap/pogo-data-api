@@ -1,0 +1,16 @@
+{
+  "formName": "Fan",
+  "proto": "ROTOM_FAN",
+  "formId": 83,
+  "attack": 204,
+  "defense": 219,
+  "stamina": 137,
+  "quickMoves": [
+    255,
+    263
+  ],
+  "types": [
+    3,
+    13
+  ]
+}

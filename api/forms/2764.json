@@ -1,0 +1,12 @@
+{
+  "formName": "Tundra",
+  "proto": "SCATTERBUG_TUNDRA",
+  "formId": 2764,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2784,
+      "candyCost": 25
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "type": "Blanche",
+  "gender": 0,
+  "grunt": "Blanche",
+  "proto": "CHARACTER_BLANCHE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

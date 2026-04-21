@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "CHESNAUGHT_NORMAL",
+  "formId": 3024,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 242,
+      "defense": 282,
+      "stamina": 204,
+      "unreleased": true
+    }
+  ]
+}

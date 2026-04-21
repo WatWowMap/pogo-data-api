@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "STARMIE_NORMAL",
+  "formId": 1077,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 303,
+      "defense": 229,
+      "stamina": 155,
+      "unreleased": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 325,
+  "moveName": "Lock On",
+  "proto": "LOCK_ON_FAST",
+  "fast": true,
+  "type": 1,
+  "pvpPower": 1,
+  "pvpEnergyDelta": 5,
+  "power": 2,
+  "durationMs": 500,
+  "energyDelta": 10
+}

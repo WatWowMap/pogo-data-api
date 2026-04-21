@@ -1,0 +1,138 @@
+{
+  "pokemonName": "Kyurem",
+  "pokedexId": 646,
+  "defaultFormId": 146,
+  "types": [
+    15,
+    16
+  ],
+  "quickMoves": [
+    204,
+    239
+  ],
+  "chargedMoves": [
+    40,
+    83,
+    285
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    378
+  ],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    146,
+    147,
+    148
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.47
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.25
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.65
+    }
+  ],
+  "attack": 246,
+  "defense": 170,
+  "stamina": 245,
+  "height": 3,
+  "weight": 325,
+  "family": 646,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "formChanges": [
+    {
+      "availableForms": [
+        147
+      ],
+      "candyCost": 30,
+      "itemRequirement": 1352,
+      "itemCostCount": 1000,
+      "componentPokemonSettings": {
+        "pokedexId": 644,
+        "componentCandyCost": 30,
+        "formChangeType": "FUSE",
+        "locationCardSettings": [
+          {
+            "basePokemonLocationCard": 66,
+            "componentPokemonLocationCard": 65,
+            "fusionPokemonLocationCard": 67
+          }
+        ],
+        "familyId": 644
+      },
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [
+              378
+            ],
+            "replacementMoves": [
+              466
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "availableForms": [
+        148
+      ],
+      "candyCost": 30,
+      "itemRequirement": 1353,
+      "itemCostCount": 1000,
+      "componentPokemonSettings": {
+        "pokedexId": 643,
+        "componentCandyCost": 30,
+        "formChangeType": "FUSE",
+        "locationCardSettings": [
+          {
+            "basePokemonLocationCard": 65,
+            "componentPokemonLocationCard": 66,
+            "fusionPokemonLocationCard": 67
+          }
+        ],
+        "familyId": 643
+      },
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [
+              378
+            ],
+            "replacementMoves": [
+              467
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Regidrago",
+  "pokedexId": 895,
+  "defaultFormId": 3215,
+  "types": [
+    16
+  ],
+  "quickMoves": [
+    202
+  ],
+  "chargedMoves": [
+    14,
+    20,
+    82,
+    277,
+    379
+  ],
+  "eliteQuickMoves": [
+    204
+  ],
+  "eliteChargedMoves": [
+    486
+  ],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3215
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.029
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.255
+    }
+  ],
+  "attack": 202,
+  "defense": 101,
+  "stamina": 400,
+  "height": 2.1,
+  "weight": 200,
+  "family": 895,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

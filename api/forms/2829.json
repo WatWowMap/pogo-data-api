@@ -1,0 +1,38 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 3.43
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 3.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 5.25
+    },
+    {
+      "name": "mUpperBound",
+      "value": 8.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 10.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 10.85
+    }
+  ],
+  "formName": "Origin",
+  "proto": "DIALGA_ORIGIN",
+  "formId": 2829,
+  "attack": 270,
+  "defense": 225,
+  "stamina": 205,
+  "height": 7,
+  "weight": 850,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

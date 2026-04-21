@@ -1,0 +1,13 @@
+{
+  "moveId": 271,
+  "moveName": "Bullet Seed",
+  "proto": "BULLET_SEED_FAST",
+  "fast": true,
+  "type": 12,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 13,
+  "pvpDurationTurns": 2,
+  "power": 7,
+  "durationMs": 1000,
+  "energyDelta": 13
+}

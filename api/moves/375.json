@@ -1,0 +1,12 @@
+{
+  "moveId": 375,
+  "moveName": "Fusion Flare",
+  "proto": "FUSION_FLARE",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -45,
+  "power": 140,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

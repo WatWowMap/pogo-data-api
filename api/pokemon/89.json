@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Muk",
+  "pokedexId": 89,
+  "defaultFormId": 75,
+  "types": [
+    4
+  ],
+  "quickMoves": [
+    224,
+    260
+  ],
+  "chargedMoves": [
+    16,
+    77,
+    91,
+    92,
+    303
+  ],
+  "eliteQuickMoves": [
+    212
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    75,
+    76
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.4
+    }
+  ],
+  "attack": 190,
+  "defense": 172,
+  "stamina": 233,
+  "height": 1.2,
+  "weight": 30,
+  "family": 88,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

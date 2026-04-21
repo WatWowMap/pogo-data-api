@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "type": "Bug Balloon",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_BUG_BALLOON_GRUNT_MALE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

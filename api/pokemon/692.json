@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Clauncher",
+  "pokedexId": 692,
+  "defaultFormId": 3054,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    230,
+    297
+  ],
+  "chargedMoves": [
+    57,
+    105,
+    305
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3054
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 108,
+  "defense": 117,
+  "stamina": 137,
+  "height": 0.5,
+  "weight": 8.3,
+  "family": 692,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 693,
+      "candyCost": 50
+    }
+  ]
+}

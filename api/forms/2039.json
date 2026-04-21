@@ -1,0 +1,16 @@
+{
+  "formName": "Normal",
+  "proto": "SCOLIPEDE_NORMAL",
+  "formId": 2039,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 257,
+      "defense": 254,
+      "stamina": 155,
+      "unreleased": true
+    }
+  ]
+}

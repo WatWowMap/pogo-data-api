@@ -1,0 +1,21 @@
+{
+  "id": 40,
+  "type": "Player Team Leader",
+  "gender": 0,
+  "proto": "CHARACTER_PLAYER_TEAM_LEADER",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

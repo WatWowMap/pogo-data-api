@@ -1,0 +1,36 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 4.018
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 4.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 6.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 10.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 12.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 16.4
+    }
+  ],
+  "formName": "School",
+  "proto": "WISHIWASHI_SCHOOL",
+  "formId": 2688,
+  "attack": 255,
+  "defense": 242,
+  "stamina": 128,
+  "height": 8.2,
+  "weight": 78.6
+}

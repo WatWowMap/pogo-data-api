@@ -1,0 +1,21 @@
+{
+  "formName": "Normal",
+  "proto": "CROAGUNK_NORMAL",
+  "formId": 1802,
+  "evolutions": [
+    {
+      "evoId": 454,
+      "formId": 1805,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 16,
+      "costumeProto": "FALL_2020_NOEVOLVE",
+      "costumeName": "Fall 2020 Noevolve"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "formName": "2020",
+  "proto": "SLOWPOKE_2020",
+  "formId": 2673,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 80,
+      "formId": 2674,
+      "candyCost": 50
+    },
+    {
+      "evoId": 199,
+      "formId": 2734,
+      "candyCost": 50,
+      "itemRequirement": 1102
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

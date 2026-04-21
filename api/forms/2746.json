@@ -1,0 +1,12 @@
+{
+  "formName": "Continental",
+  "proto": "SCATTERBUG_CONTINENTAL",
+  "formId": 2746,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2766,
+      "candyCost": 25
+    }
+  ]
+}

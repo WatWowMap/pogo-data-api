@@ -1,0 +1,24 @@
+{
+  "formName": "Hisuian",
+  "proto": "LILLIGANT_HISUIAN",
+  "formId": 2789,
+  "attack": 208,
+  "defense": 159,
+  "stamina": 172,
+  "height": 1.2,
+  "weight": 19.2,
+  "quickMoves": [
+    271,
+    357
+  ],
+  "chargedMoves": [
+    47,
+    116,
+    245,
+    471
+  ],
+  "types": [
+    2,
+    12
+  ]
+}

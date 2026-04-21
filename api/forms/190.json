@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "DRATINI_NORMAL",
+  "formId": 190,
+  "evolutions": [
+    {
+      "evoId": 148,
+      "formId": 193,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

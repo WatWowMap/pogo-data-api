@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Xerneas",
+  "pokedexId": 716,
+  "defaultFormId": 3072,
+  "types": [
+    18
+  ],
+  "quickMoves": [
+    221,
+    234
+  ],
+  "chargedMoves": [
+    22,
+    78,
+    87,
+    245,
+    321
+  ],
+  "eliteQuickMoves": [
+    387
+  ],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2649,
+    2650,
+    3072
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.47
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.25
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.65
+    }
+  ],
+  "attack": 250,
+  "defense": 185,
+  "stamina": 246,
+  "height": 3,
+  "weight": 215,
+  "family": 716,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

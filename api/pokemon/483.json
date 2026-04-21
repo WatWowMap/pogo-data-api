@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Dialga",
+  "pokedexId": 483,
+  "defaultFormId": 1856,
+  "types": [
+    9,
+    16
+  ],
+  "quickMoves": [
+    204,
+    228
+  ],
+  "chargedMoves": [
+    74,
+    78,
+    285
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1856,
+    2829
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.646
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 6.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 8.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 8.37
+    }
+  ],
+  "attack": 275,
+  "defense": 211,
+  "stamina": 205,
+  "height": 5.4,
+  "weight": 683,
+  "family": 483,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

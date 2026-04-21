@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Corsola",
+  "pokedexId": 222,
+  "defaultFormId": 1283,
+  "types": [
+    6,
+    11
+  ],
+  "quickMoves": [
+    221,
+    237
+  ],
+  "chargedMoves": [
+    53,
+    65,
+    259
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1283,
+    2340,
+    3339
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.22
+    }
+  ],
+  "attack": 118,
+  "defense": 156,
+  "stamina": 146,
+  "height": 0.61,
+  "weight": 5,
+  "family": 222,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

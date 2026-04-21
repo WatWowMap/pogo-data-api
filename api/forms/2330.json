@@ -1,0 +1,12 @@
+{
+  "formName": "Female",
+  "proto": "FRILLISH_FEMALE",
+  "formId": 2330,
+  "evolutions": [
+    {
+      "evoId": 593,
+      "formId": 2331,
+      "candyCost": 50
+    }
+  ]
+}

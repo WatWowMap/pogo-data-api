@@ -1,0 +1,13 @@
+{
+  "moveId": 356,
+  "moveName": "Double Kick",
+  "proto": "DOUBLE_KICK_FAST",
+  "fast": true,
+  "type": 2,
+  "pvpPower": 8,
+  "pvpEnergyDelta": 12,
+  "pvpDurationTurns": 2,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 13
+}

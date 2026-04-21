@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Poltchageist",
+  "pokedexId": 1012,
+  "defaultFormId": 2871,
+  "types": [
+    8,
+    12
+  ],
+  "quickMoves": [
+    263,
+    357
+  ],
+  "chargedMoves": [
+    70,
+    273,
+    376
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    2871,
+    2872
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.049
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.155
+    }
+  ],
+  "attack": 134,
+  "defense": 96,
+  "stamina": 120,
+  "height": 0.1,
+  "weight": 1.1,
+  "family": 1012,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 1013,
+      "formId": 2873,
+      "candyCost": 50
+    }
+  ]
+}

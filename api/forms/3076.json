@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "ROWLET_NORMAL",
+  "formId": 3076,
+  "evolutions": [
+    {
+      "evoId": 723,
+      "formId": 3077,
+      "candyCost": 25
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemId": 1153,
+  "itemName": "Resource Crowned Zacian",
+  "proto": "ITEM_RESOURCE_CROWNED_ZACIAN",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 1
+}

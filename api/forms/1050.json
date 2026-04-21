@@ -1,0 +1,7 @@
+{
+  "formName": "Normal",
+  "proto": "ELECTRODE_NORMAL",
+  "formId": 1050,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

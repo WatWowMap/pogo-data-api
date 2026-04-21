@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "QUAXLY_NORMAL",
+  "formId": 3228,
+  "evolutions": [
+    {
+      "evoId": 913,
+      "formId": 3229,
+      "candyCost": 25
+    }
+  ]
+}

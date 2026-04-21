@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "CHEWTLE_NORMAL",
+  "formId": 3170,
+  "evolutions": [
+    {
+      "evoId": 834,
+      "formId": 3171,
+      "candyCost": 50
+    }
+  ]
+}

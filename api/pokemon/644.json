@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Zekrom",
+  "pokedexId": 644,
+  "defaultFormId": 2318,
+  "types": [
+    13,
+    16
+  ],
+  "quickMoves": [
+    204,
+    249
+  ],
+  "chargedMoves": [
+    36,
+    251,
+    277,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    374
+  ],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2318
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.421
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.495
+    }
+  ],
+  "attack": 275,
+  "defense": 211,
+  "stamina": 205,
+  "height": 2.9,
+  "weight": 345,
+  "family": 644,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

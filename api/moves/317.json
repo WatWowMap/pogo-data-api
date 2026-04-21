@@ -1,0 +1,12 @@
+{
+  "moveId": 317,
+  "moveName": "Blaze Kick",
+  "proto": "BLAZE_KICK",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -40,
+  "power": 40,
+  "durationMs": 1000,
+  "energyDelta": -33
+}

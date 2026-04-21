@@ -1,0 +1,21 @@
+{
+  "formName": "Normal",
+  "proto": "WARTORTLE_NORMAL",
+  "formId": 184,
+  "evolutions": [
+    {
+      "evoId": 9,
+      "formId": 187,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 11,
+      "costumeProto": "JAN_2020_NOEVOLVE",
+      "costumeName": "Jan 2020 Noevolve"
+    }
+  ]
+}

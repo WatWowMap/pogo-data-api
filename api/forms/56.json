@@ -1,0 +1,27 @@
+{
+  "formName": "Alola",
+  "proto": "VULPIX_ALOLA",
+  "formId": 56,
+  "quickMoves": [
+    234,
+    244
+  ],
+  "chargedMoves": [
+    16,
+    39,
+    40,
+    293
+  ],
+  "types": [
+    15
+  ],
+  "evolutions": [
+    {
+      "evoId": 38,
+      "formId": 58,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

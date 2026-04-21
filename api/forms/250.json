@@ -1,0 +1,18 @@
+{
+  "formName": "Normal",
+  "proto": "SCIZOR_NORMAL",
+  "formId": 250,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 279,
+      "defense": 250,
+      "stamina": 172,
+      "height": 2,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

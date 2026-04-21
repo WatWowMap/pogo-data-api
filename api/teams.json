@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "formatted": "Team Unset",
+    "proto": "TEAM_UNSET"
+  },
+  {
+    "id": 1,
+    "formatted": "Team Blue",
+    "proto": "TEAM_BLUE"
+  },
+  {
+    "id": 2,
+    "formatted": "Team Red",
+    "proto": "TEAM_RED"
+  },
+  {
+    "id": 3,
+    "formatted": "Team Yellow",
+    "proto": "TEAM_YELLOW"
+  }
+]

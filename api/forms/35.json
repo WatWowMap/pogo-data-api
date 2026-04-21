@@ -1,0 +1,17 @@
+{
+  "formName": "Defense",
+  "proto": "DEOXYS_DEFENSE",
+  "formId": 35,
+  "attack": 144,
+  "defense": 330,
+  "stamina": 137,
+  "quickMoves": [
+    234,
+    243
+  ],
+  "chargedMoves": [
+    64,
+    79,
+    288
+  ]
+}

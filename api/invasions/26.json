@@ -1,0 +1,58 @@
+{
+  "id": 26,
+  "type": "Ice",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_ICE_GRUNT_FEMALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 215,
+      "formId": 797,
+      "position": "first"
+    },
+    {
+      "id": 220,
+      "formId": 1277,
+      "position": "first"
+    },
+    {
+      "id": 363,
+      "formId": 1598,
+      "position": "first"
+    },
+    {
+      "id": 38,
+      "formId": 58,
+      "position": "second"
+    },
+    {
+      "id": 364,
+      "formId": 1601,
+      "position": "second"
+    },
+    {
+      "id": 478,
+      "formId": 1844,
+      "position": "second"
+    },
+    {
+      "id": 362,
+      "formId": 929,
+      "position": "third"
+    },
+    {
+      "id": 478,
+      "formId": 1844,
+      "position": "third"
+    },
+    {
+      "id": 699,
+      "formId": 0,
+      "position": "third"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "typeId": 18,
+  "typeName": "Fairy",
+  "strengths": [
+    2,
+    16,
+    17
+  ],
+  "weaknesses": [
+    4,
+    9
+  ],
+  "veryWeakAgainst": [],
+  "immunes": [
+    16
+  ],
+  "weakAgainst": [
+    4,
+    9,
+    10
+  ],
+  "resistances": [
+    2,
+    7,
+    17
+  ]
+}

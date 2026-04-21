@@ -1,0 +1,9 @@
+{
+  "moveId": 460,
+  "moveName": "Max Shield",
+  "proto": "VN_BM_052",
+  "fast": false,
+  "type": 1,
+  "power": 0,
+  "durationMs": 2500
+}

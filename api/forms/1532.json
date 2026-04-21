@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "SWABLU_NORMAL",
+  "formId": 1532,
+  "evolutions": [
+    {
+      "evoId": 334,
+      "formId": 1535,
+      "candyCost": 400
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

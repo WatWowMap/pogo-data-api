@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Tentacruel",
+  "pokedexId": 73,
+  "defaultFormId": 1008,
+  "types": [
+    4,
+    11
+  ],
+  "quickMoves": [
+    224,
+    225,
+    236
+  ],
+  "chargedMoves": [
+    40,
+    91,
+    106,
+    107,
+    303,
+    333
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1008
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.2
+    }
+  ],
+  "attack": 166,
+  "defense": 209,
+  "stamina": 190,
+  "height": 1.6,
+  "weight": 55,
+  "family": 72,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

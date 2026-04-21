@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Gimmighoul",
+  "pokedexId": 999,
+  "defaultFormId": 2998,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    263
+  ],
+  "chargedMoves": [
+    70
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    2998,
+    3018
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.049
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.155
+    }
+  ],
+  "attack": 140,
+  "defense": 76,
+  "stamina": 128,
+  "height": 0.1,
+  "weight": 0.1,
+  "family": 999,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 1000,
+      "itemRequirement": 1150
+    }
+  ]
+}

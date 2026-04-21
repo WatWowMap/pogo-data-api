@@ -1,0 +1,12 @@
+{
+  "moveId": 295,
+  "moveName": "Weather Ball Water",
+  "proto": "WEATHER_BALL_WATER",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -35,
+  "power": 55,
+  "durationMs": 1500,
+  "energyDelta": -33
+}

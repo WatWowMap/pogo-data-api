@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Hoopa",
+  "pokedexId": 720,
+  "defaultFormId": 2651,
+  "types": [
+    8,
+    14
+  ],
+  "quickMoves": [
+    235,
+    263
+  ],
+  "chargedMoves": [
+    30,
+    70,
+    108
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2651,
+    2652
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.775
+    }
+  ],
+  "attack": 261,
+  "defense": 187,
+  "stamina": 173,
+  "height": 0.5,
+  "weight": 9,
+  "family": 720,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "transferable": true,
+  "formChanges": [
+    {
+      "availableForms": [
+        2652
+      ],
+      "candyCost": 50,
+      "stardustCost": 10000
+    }
+  ]
+}

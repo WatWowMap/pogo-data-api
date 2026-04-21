@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Grimer",
+  "pokedexId": 88,
+  "defaultFormId": 73,
+  "types": [
+    4
+  ],
+  "quickMoves": [
+    224,
+    233
+  ],
+  "chargedMoves": [
+    18,
+    90,
+    96
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    73,
+    74
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.8
+    }
+  ],
+  "attack": 135,
+  "defense": 90,
+  "stamina": 190,
+  "height": 0.9,
+  "weight": 30,
+  "family": 88,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 89,
+      "formId": 75,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

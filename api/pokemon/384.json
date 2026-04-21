@@ -1,0 +1,82 @@
+{
+  "pokemonName": "Rayquaza",
+  "pokedexId": 384,
+  "defaultFormId": 1643,
+  "types": [
+    3,
+    16
+  ],
+  "quickMoves": [
+    253,
+    255
+  ],
+  "chargedMoves": [
+    45,
+    62,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    122,
+    379
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1643
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 3.4349
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 3.505
+    },
+    {
+      "name": "mLowerBound",
+      "value": 5.2575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 8.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 10.515
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 10.8655
+    }
+  ],
+  "attack": 284,
+  "defense": 170,
+  "stamina": 213,
+  "height": 7.01,
+  "weight": 206.5,
+  "family": 384,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "buddyMegaEnergy": 100,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 377,
+      "defense": 210,
+      "stamina": 227,
+      "height": 10.8,
+      "weight": 392,
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ]
+}

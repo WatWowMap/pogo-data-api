@@ -1,0 +1,8 @@
+{
+  "id": 219,
+  "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_SAPPHIRE_001",
+  "formatted": "2026 Global Sapphire 001",
+  "imageUrl": "sb_GoTour2026_sapphire",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_Sapphire"
+}

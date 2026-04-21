@@ -1,0 +1,12 @@
+{
+  "moveId": 493,
+  "moveName": "Pyroball",
+  "proto": "PYROBALL",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -40,
+  "power": 150,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

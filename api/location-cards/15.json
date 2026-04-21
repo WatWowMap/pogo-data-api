@@ -1,0 +1,8 @@
+{
+  "id": 15,
+  "proto": "LC_SPECIALBACKGROUND_2024_GLOBAL_GOFEST_RADIANCE_001",
+  "formatted": "2024 Global Gofest Radiance 001",
+  "imageUrl": "sb_GoFest2024_radiance",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_Sun"
+}

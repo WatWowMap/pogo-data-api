@@ -1,0 +1,28 @@
+{
+  "formName": "Galarian",
+  "proto": "SLOWBRO_GALARIAN",
+  "formId": 2583,
+  "attack": 182,
+  "defense": 156,
+  "stamina": 216,
+  "height": 1.6,
+  "weight": 70.5,
+  "quickMoves": [
+    224,
+    235
+  ],
+  "chargedMoves": [
+    90,
+    106,
+    108,
+    247,
+    314,
+    367
+  ],
+  "types": [
+    4,
+    14
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

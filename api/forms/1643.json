@@ -1,0 +1,17 @@
+{
+  "formName": "Normal",
+  "proto": "RAYQUAZA_NORMAL",
+  "formId": 1643,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 377,
+      "defense": 210,
+      "stamina": 227,
+      "height": 10.8,
+      "weight": 392,
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ]
+}

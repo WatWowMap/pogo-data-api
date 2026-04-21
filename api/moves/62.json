@@ -1,0 +1,17 @@
+{
+  "moveId": 62,
+  "moveName": "Ancient Power",
+  "proto": "ANCIENT_POWER",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 1,
+    "attackerDefenseStatStageChange": 1,
+    "buffActivationChance": 0.1
+  },
+  "power": 70,
+  "durationMs": 3500,
+  "energyDelta": -33
+}

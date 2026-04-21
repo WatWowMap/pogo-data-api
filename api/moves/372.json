@@ -1,0 +1,16 @@
+{
+  "moveId": 372,
+  "moveName": "Meteor Beam",
+  "proto": "METEOR_BEAM",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -60,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 1,
+    "buffActivationChance": 1
+  },
+  "power": 140,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

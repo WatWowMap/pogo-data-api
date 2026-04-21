@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "ELGYEM_NORMAL",
+  "formId": 2207,
+  "evolutions": [
+    {
+      "evoId": 606,
+      "formId": 2210,
+      "candyCost": 50
+    }
+  ]
+}

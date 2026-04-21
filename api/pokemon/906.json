@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Sprigatito",
+  "pokedexId": 906,
+  "defaultFormId": 3222,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    320,
+    385
+  ],
+  "chargedMoves": [
+    88,
+    272,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3222
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.62
+    }
+  ],
+  "attack": 116,
+  "defense": 99,
+  "stamina": 120,
+  "height": 0.4,
+  "weight": 4.1,
+  "family": 906,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 907,
+      "candyCost": 25
+    }
+  ]
+}

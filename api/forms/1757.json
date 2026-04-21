@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "GLAMEOW_NORMAL",
+  "formId": 1757,
+  "evolutions": [
+    {
+      "evoId": 432,
+      "formId": 1760,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

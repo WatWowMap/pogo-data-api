@@ -1,0 +1,8 @@
+{
+  "itemId": 1002,
+  "itemName": "Item Storage Upgrade",
+  "proto": "ITEM_ITEM_STORAGE_UPGRADE",
+  "type": "Inventory Upgrade",
+  "category": "Inventory Upgrade",
+  "minTrainerLevel": 100
+}

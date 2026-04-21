@@ -1,0 +1,77 @@
+{
+  "pokemonName": "Trapinch",
+  "pokedexId": 328,
+  "defaultFormId": 746,
+  "types": [
+    5
+  ],
+  "quickMoves": [
+    216,
+    261,
+    403
+  ],
+  "chargedMoves": [
+    26,
+    258,
+    279,
+    393
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    746
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3479
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.355
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.065
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.2425
+    }
+  ],
+  "attack": 162,
+  "defense": 78,
+  "stamina": 128,
+  "height": 0.71,
+  "weight": 15,
+  "family": 328,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 329,
+      "formId": 749,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

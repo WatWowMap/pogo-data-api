@@ -1,0 +1,12 @@
+{
+  "moveId": 294,
+  "moveName": "Weather Ball Rock",
+  "proto": "WEATHER_BALL_ROCK",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -35,
+  "power": 55,
+  "durationMs": 1500,
+  "energyDelta": -33
+}

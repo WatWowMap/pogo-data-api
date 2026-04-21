@@ -1,0 +1,9 @@
+{
+  "moveId": 429,
+  "moveName": "Gmax Voltcrash",
+  "proto": "VN_BM_021",
+  "fast": false,
+  "type": 13,
+  "power": 450,
+  "durationMs": 2500
+}

@@ -1,0 +1,62 @@
+{
+  "pokemonName": "Ragingbolt",
+  "pokedexId": 1021,
+  "defaultFormId": 3333,
+  "types": [
+    13,
+    16
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3333
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.548
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 3.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 6.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 7.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 8.06
+    }
+  ],
+  "attack": 235,
+  "defense": 165,
+  "stamina": 245,
+  "height": 5.2,
+  "weight": 480,
+  "family": 1021,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

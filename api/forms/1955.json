@@ -1,0 +1,13 @@
+{
+  "formName": "Normal",
+  "proto": "MUNNA_NORMAL",
+  "formId": 1955,
+  "evolutions": [
+    {
+      "evoId": 518,
+      "formId": 1958,
+      "candyCost": 50,
+      "itemRequirement": 1107
+    }
+  ]
+}

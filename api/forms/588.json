@@ -1,0 +1,12 @@
+{
+  "formName": "Winter",
+  "proto": "DEERLING_WINTER",
+  "formId": 588,
+  "evolutions": [
+    {
+      "evoId": 586,
+      "formId": 592,
+      "candyCost": 50
+    }
+  ]
+}

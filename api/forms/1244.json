@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "PINECO_NORMAL",
+  "formId": 1244,
+  "evolutions": [
+    {
+      "evoId": 205,
+      "formId": 1247,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "MEOWSTIC_NORMAL",
+  "formId": 2589,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 288,
+      "defense": 201,
+      "stamina": 179,
+      "unreleased": true
+    }
+  ]
+}

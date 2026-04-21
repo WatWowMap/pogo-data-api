@@ -1,0 +1,16 @@
+{
+  "moveId": 472,
+  "moveName": "Thunder Cage",
+  "proto": "THUNDER_CAGE",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "targetDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 220,
+  "durationMs": 3500,
+  "energyDelta": -100
+}

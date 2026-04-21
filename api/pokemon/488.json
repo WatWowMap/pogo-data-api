@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Cresselia",
+  "pokedexId": 488,
+  "defaultFormId": 1871,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    226,
+    235
+  ],
+  "chargedMoves": [
+    87,
+    248,
+    275
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    272
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1871
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 152,
+  "defense": 258,
+  "stamina": 260,
+  "height": 1.5,
+  "weight": 85.6,
+  "family": 488,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

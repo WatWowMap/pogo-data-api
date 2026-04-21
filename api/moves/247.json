@@ -1,0 +1,12 @@
+{
+  "moveId": 247,
+  "moveName": "Focus Blast",
+  "proto": "FOCUS_BLAST",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 150,
+  "pvpEnergyDelta": -75,
+  "power": 140,
+  "durationMs": 3500,
+  "energyDelta": -100
+}

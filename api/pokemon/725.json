@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Litten",
+  "pokedexId": 725,
+  "defaultFormId": 3078,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    220
+  ],
+  "chargedMoves": [
+    24,
+    101,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3078
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.62
+    }
+  ],
+  "attack": 128,
+  "defense": 79,
+  "stamina": 128,
+  "height": 0.4,
+  "weight": 4.3,
+  "family": 725,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 726,
+      "candyCost": 25
+    }
+  ]
+}

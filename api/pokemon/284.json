@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Masquerain",
+  "pokedexId": 284,
+  "defaultFormId": 1415,
+  "types": [
+    3,
+    7
+  ],
+  "quickMoves": [
+    255,
+    260
+  ],
+  "chargedMoves": [
+    53,
+    69,
+    121,
+    262,
+    306
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1415
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 192,
+  "defense": 150,
+  "stamina": 172,
+  "height": 0.79,
+  "weight": 3.6,
+  "family": 283,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 4,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

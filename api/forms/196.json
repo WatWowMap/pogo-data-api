@@ -1,0 +1,18 @@
+{
+  "formName": "Normal",
+  "proto": "DRAGONITE_NORMAL",
+  "formId": 196,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 299,
+      "defense": 255,
+      "stamina": 209,
+      "weight": 290,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

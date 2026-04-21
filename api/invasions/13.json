@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "type": "Dragon",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_DRAGON_GRUNT_MALE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

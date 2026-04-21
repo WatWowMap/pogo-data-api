@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "MILCERY_NORMAL",
+  "formId": 3196,
+  "evolutions": [
+    {
+      "evoId": 869,
+      "formId": 3197,
+      "candyCost": 50
+    }
+  ]
+}

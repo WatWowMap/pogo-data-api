@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Milotic",
+  "pokedexId": 350,
+  "defaultFormId": 1583,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    253,
+    283
+  ],
+  "chargedMoves": [
+    13,
+    14,
+    40,
+    58,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1583
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 3.038
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 3.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.65
+    },
+    {
+      "name": "mUpperBound",
+      "value": 7.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 9.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 12.4
+    }
+  ],
+  "attack": 192,
+  "defense": 219,
+  "stamina": 216,
+  "height": 6.2,
+  "weight": 162,
+  "family": 349,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

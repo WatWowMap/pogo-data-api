@@ -1,0 +1,68 @@
+{
+  "pokemonName": "Lunala",
+  "pokedexId": 792,
+  "defaultFormId": 3137,
+  "types": [
+    8,
+    14
+  ],
+  "quickMoves": [
+    213,
+    235,
+    255
+  ],
+  "chargedMoves": [
+    70,
+    87,
+    108,
+    275
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3137
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.96
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 6.2
+    }
+  ],
+  "attack": 255,
+  "defense": 191,
+  "stamina": 264,
+  "height": 4,
+  "weight": 120,
+  "family": 789,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

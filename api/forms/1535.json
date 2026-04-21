@@ -1,0 +1,22 @@
+{
+  "formName": "Normal",
+  "proto": "ALTARIA_NORMAL",
+  "formId": 1535,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 222,
+      "defense": 218,
+      "stamina": 181,
+      "height": 1.5,
+      "types": [
+        16,
+        18
+      ],
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "CORVISQUIRE_NORMAL",
+  "formId": 3161,
+  "evolutions": [
+    {
+      "evoId": 823,
+      "formId": 3162,
+      "candyCost": 100
+    }
+  ]
+}

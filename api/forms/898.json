@@ -1,0 +1,23 @@
+{
+  "formName": "Normal",
+  "proto": "PINSIR_NORMAL",
+  "formId": 898,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 305,
+      "defense": 231,
+      "stamina": 163,
+      "height": 1.7,
+      "weight": 59,
+      "types": [
+        3,
+        7
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

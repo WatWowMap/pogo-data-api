@@ -1,0 +1,71 @@
+{
+  "pokemonName": "Dudunsparce",
+  "pokedexId": 982,
+  "defaultFormId": 2994,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    202,
+    253,
+    263,
+    368
+  ],
+  "chargedMoves": [
+    26,
+    46,
+    64,
+    131
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    2994,
+    2995
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.764
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.7
+    },
+    {
+      "name": "mUpperBound",
+      "value": 4.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 5.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5.58
+    }
+  ],
+  "attack": 188,
+  "defense": 150,
+  "stamina": 268,
+  "height": 3.6,
+  "weight": 39.2,
+  "family": 206,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Thundurus",
+  "pokedexId": 642,
+  "defaultFormId": 142,
+  "types": [
+    3,
+    13
+  ],
+  "quickMoves": [
+    205,
+    263
+  ],
+  "chargedMoves": [
+    77,
+    78,
+    123,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    142,
+    143
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 266,
+  "defense": 164,
+  "stamina": 188,
+  "height": 1.5,
+  "weight": 61,
+  "family": 642,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

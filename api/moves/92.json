@@ -1,0 +1,12 @@
+{
+  "moveId": 92,
+  "moveName": "Gunk Shot",
+  "proto": "GUNK_SHOT",
+  "fast": false,
+  "type": 4,
+  "pvpPower": 130,
+  "pvpEnergyDelta": -75,
+  "power": 130,
+  "durationMs": 3000,
+  "energyDelta": -100
+}

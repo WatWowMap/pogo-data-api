@@ -1,0 +1,65 @@
+{
+  "pokemonName": "Fezandipiti",
+  "pokedexId": 1016,
+  "defaultFormId": 3329,
+  "types": [
+    4,
+    18
+  ],
+  "quickMoves": [
+    224,
+    320
+  ],
+  "chargedMoves": [
+    84,
+    87,
+    90
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3329
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.17
+    }
+  ],
+  "attack": 169,
+  "defense": 208,
+  "stamina": 186,
+  "height": 1.4,
+  "weight": 30.1,
+  "family": 1016,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

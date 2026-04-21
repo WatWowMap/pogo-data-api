@@ -1,0 +1,12 @@
+{
+  "moveId": 298,
+  "moveName": "Blast Burn",
+  "proto": "BLAST_BURN",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -50,
+  "power": 120,
+  "durationMs": 3500,
+  "energyDelta": -50
+}

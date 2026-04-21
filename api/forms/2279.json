@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "VULLABY_NORMAL",
+  "formId": 2279,
+  "evolutions": [
+    {
+      "evoId": 630,
+      "formId": 2282,
+      "candyCost": 50
+    }
+  ]
+}

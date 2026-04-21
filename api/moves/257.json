@@ -1,0 +1,12 @@
+{
+  "moveId": 257,
+  "moveName": "Sky Attack",
+  "proto": "SKY_ATTACK",
+  "fast": false,
+  "type": 3,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -50,
+  "power": 80,
+  "durationMs": 2000,
+  "energyDelta": -50
+}

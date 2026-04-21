@@ -1,0 +1,13 @@
+{
+  "moveId": 224,
+  "moveName": "Poison Jab",
+  "proto": "POISON_JAB_FAST",
+  "fast": true,
+  "type": 4,
+  "pvpPower": 7,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 1,
+  "power": 13,
+  "durationMs": 1000,
+  "energyDelta": 9
+}

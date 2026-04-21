@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Dracozolt",
+  "pokedexId": 880,
+  "defaultFormId": 3204,
+  "types": [
+    13,
+    16
+  ],
+  "quickMoves": [
+    205,
+    253
+  ],
+  "chargedMoves": [
+    35,
+    62,
+    82
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3204
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 195,
+  "defense": 165,
+  "stamina": 207,
+  "height": 1.8,
+  "weight": 190,
+  "family": 880,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

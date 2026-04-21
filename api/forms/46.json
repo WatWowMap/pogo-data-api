@@ -1,0 +1,25 @@
+{
+  "formName": "Alola",
+  "proto": "RATTATA_ALOLA",
+  "formId": 46,
+  "height": 0.3,
+  "weight": 3.8,
+  "chargedMoves": [
+    70,
+    129,
+    279
+  ],
+  "types": [
+    1,
+    17
+  ],
+  "evolutions": [
+    {
+      "evoId": 20,
+      "formId": 48,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

@@ -1,0 +1,27 @@
+{
+  "formName": "Galarian",
+  "proto": "ARTICUNO_GALARIAN",
+  "formId": 2801,
+  "attack": 250,
+  "defense": 197,
+  "stamina": 207,
+  "height": 1.7,
+  "weight": 50.9,
+  "quickMoves": [
+    226,
+    235
+  ],
+  "chargedMoves": [
+    62,
+    256,
+    275,
+    341
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    3,
+    14
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

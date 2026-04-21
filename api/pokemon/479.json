@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Rotom",
+  "pokedexId": 479,
+  "defaultFormId": 81,
+  "types": [
+    8,
+    13
+  ],
+  "quickMoves": [
+    205,
+    263
+  ],
+  "chargedMoves": [
+    69,
+    78,
+    79
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 185,
+  "defense": 159,
+  "stamina": 137,
+  "height": 0.3,
+  "weight": 0.3,
+  "family": 479,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

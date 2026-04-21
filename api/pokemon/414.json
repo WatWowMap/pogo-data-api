@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Mothim",
+  "pokedexId": 414,
+  "defaultFormId": 1712,
+  "types": [
+    3,
+    7
+  ],
+  "quickMoves": [
+    201,
+    255
+  ],
+  "chargedMoves": [
+    30,
+    45,
+    49
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1712
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.575
+    }
+  ],
+  "attack": 185,
+  "defense": 98,
+  "stamina": 172,
+  "height": 0.9,
+  "weight": 23.3,
+  "family": 412,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

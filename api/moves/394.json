@@ -1,0 +1,12 @@
+{
+  "moveId": 394,
+  "moveName": "Roar Of Time",
+  "proto": "ROAR_OF_TIME",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 150,
+  "pvpEnergyDelta": -65,
+  "power": 160,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

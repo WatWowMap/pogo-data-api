@@ -1,0 +1,20 @@
+{
+  "formName": "Normal",
+  "proto": "POLIWHIRL_NORMAL",
+  "formId": 238,
+  "evolutions": [
+    {
+      "evoId": 62,
+      "formId": 241,
+      "candyCost": 100
+    },
+    {
+      "evoId": 186,
+      "formId": 244,
+      "candyCost": 100,
+      "itemRequirement": 1102
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

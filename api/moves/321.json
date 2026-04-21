@@ -1,0 +1,12 @@
+{
+  "moveId": 321,
+  "moveName": "Giga Impact",
+  "proto": "GIGA_IMPACT",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 150,
+  "pvpEnergyDelta": -80,
+  "power": 200,
+  "durationMs": 4500,
+  "energyDelta": -100
+}

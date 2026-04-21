@@ -1,0 +1,12 @@
+{
+  "moveId": 371,
+  "moveName": "Shadow Force",
+  "proto": "SHADOW_FORCE",
+  "fast": false,
+  "type": 8,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -90,
+  "power": 140,
+  "durationMs": 2000,
+  "energyDelta": -100
+}

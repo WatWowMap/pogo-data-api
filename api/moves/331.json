@@ -1,0 +1,12 @@
+{
+  "moveId": 331,
+  "moveName": "Flying Press",
+  "proto": "FLYING_PRESS",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -40,
+  "power": 115,
+  "durationMs": 2500,
+  "energyDelta": -50
+}

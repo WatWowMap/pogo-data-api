@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Arctibax",
+  "pokedexId": 997,
+  "defaultFormId": 3307,
+  "types": [
+    15,
+    16
+  ],
+  "quickMoves": [
+    204,
+    327
+  ],
+  "chargedMoves": [
+    83,
+    111,
+    254,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3307
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 173,
+  "defense": 128,
+  "stamina": 207,
+  "height": 0.8,
+  "weight": 30,
+  "family": 996,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 998,
+      "candyCost": 100
+    }
+  ]
+}

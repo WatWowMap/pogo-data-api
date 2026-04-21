@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "TADBULB_NORMAL",
+  "formId": 3251,
+  "evolutions": [
+    {
+      "evoId": 939,
+      "formId": 3252,
+      "candyCost": 50
+    }
+  ]
+}

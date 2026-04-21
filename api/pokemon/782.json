@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Jangmo O",
+  "pokedexId": 782,
+  "defaultFormId": 3127,
+  "types": [
+    16
+  ],
+  "quickMoves": [
+    221,
+    253
+  ],
+  "chargedMoves": [
+    82,
+    83,
+    123
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3127
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 102,
+  "defense": 108,
+  "stamina": 128,
+  "height": 0.6,
+  "weight": 29.7,
+  "family": 782,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 783,
+      "candyCost": 25
+    }
+  ]
+}

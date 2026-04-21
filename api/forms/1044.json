@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "GENGAR_NORMAL",
+  "formId": 1044,
+  "gmaxMove": 432,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 349,
+      "defense": 199,
+      "stamina": 155,
+      "height": 1.4,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

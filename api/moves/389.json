@@ -1,0 +1,16 @@
+{
+  "moveId": 389,
+  "moveName": "Oblivion Wing",
+  "proto": "OBLIVION_WING",
+  "fast": false,
+  "type": 3,
+  "pvpPower": 85,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": 1,
+    "buffActivationChance": 1
+  },
+  "power": 85,
+  "durationMs": 2000,
+  "energyDelta": -50
+}

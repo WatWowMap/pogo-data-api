@@ -1,0 +1,22 @@
+{
+  "id": 510,
+  "type": "NPC 10",
+  "gender": 0,
+  "grunt": "Event",
+  "proto": "CHARACTER_EVENT_NPC_10",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

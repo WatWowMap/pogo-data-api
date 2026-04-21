@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "IGGLYBUFF_NORMAL",
+  "formId": 1181,
+  "evolutions": [
+    {
+      "evoId": 39,
+      "formId": 987,
+      "candyCost": 25
+    }
+  ]
+}

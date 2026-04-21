@@ -1,0 +1,69 @@
+{
+  "pokemonName": "Delcatty",
+  "pokedexId": 301,
+  "defaultFormId": 1466,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    234,
+    238,
+    320
+  ],
+  "chargedMoves": [
+    84,
+    88,
+    251
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1466
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.545
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.635
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.6895
+    }
+  ],
+  "attack": 132,
+  "defense": 127,
+  "stamina": 172,
+  "height": 1.09,
+  "weight": 32.6,
+  "family": 300,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

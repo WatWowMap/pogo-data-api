@@ -1,0 +1,70 @@
+{
+  "pokemonName": "Tapu Lele",
+  "pokedexId": 786,
+  "defaultFormId": 3131,
+  "types": [
+    14,
+    18
+  ],
+  "quickMoves": [
+    235,
+    263
+  ],
+  "chargedMoves": [
+    60,
+    85,
+    87,
+    247,
+    275
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    390
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3131
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 259,
+  "defense": 208,
+  "stamina": 172,
+  "height": 1.2,
+  "weight": 18.6,
+  "family": 786,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
+}

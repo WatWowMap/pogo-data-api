@@ -1,0 +1,49 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "formName": "Alola",
+  "proto": "PERSIAN_ALOLA",
+  "formId": 66,
+  "attack": 158,
+  "defense": 136,
+  "stamina": 163,
+  "height": 1.1,
+  "weight": 33,
+  "chargedMoves": [
+    16,
+    88,
+    280,
+    333,
+    392
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    17
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

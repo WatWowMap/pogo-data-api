@@ -1,0 +1,77 @@
+{
+  "pokemonName": "Diancie",
+  "pokedexId": 719,
+  "defaultFormId": 3074,
+  "types": [
+    6,
+    18
+  ],
+  "quickMoves": [
+    221,
+    227
+  ],
+  "chargedMoves": [
+    64,
+    65,
+    87
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3074
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.085
+    }
+  ],
+  "attack": 190,
+  "defense": 285,
+  "stamina": 137,
+  "height": 0.7,
+  "weight": 8.8,
+  "family": 719,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "buddyMegaEnergy": 100,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 342,
+      "defense": 235,
+      "stamina": 137,
+      "height": 1.1,
+      "weight": 27.8,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ]
+}

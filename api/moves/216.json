@@ -1,0 +1,13 @@
+{
+  "moveId": 216,
+  "moveName": "Mud Shot",
+  "proto": "MUD_SHOT_FAST",
+  "fast": true,
+  "type": 5,
+  "pvpPower": 3,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 1,
+  "power": 4,
+  "durationMs": 500,
+  "energyDelta": 6
+}

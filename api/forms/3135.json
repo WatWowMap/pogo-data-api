@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "COSMOEM_NORMAL",
+  "formId": 3135,
+  "evolutions": [
+    {
+      "evoId": 791,
+      "formId": 3136,
+      "candyCost": 100,
+      "onlyDaytime": true
+    },
+    {
+      "evoId": 792,
+      "formId": 3137,
+      "candyCost": 100,
+      "onlyNighttime": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "pokemonName": "Cosmoem",
+  "pokedexId": 790,
+  "defaultFormId": 3135,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3135
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.049
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.155
+    }
+  ],
+  "attack": 54,
+  "defense": 242,
+  "stamina": 125,
+  "height": 0.1,
+  "weight": 999.9,
+  "family": 789,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 791,
+      "candyCost": 100,
+      "onlyDaytime": true
+    },
+    {
+      "evoId": 792,
+      "candyCost": 100,
+      "onlyNighttime": true
+    }
+  ]
+}

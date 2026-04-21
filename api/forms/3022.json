@@ -1,0 +1,14 @@
+{
+  "formName": "Normal",
+  "proto": "CHESPIN_NORMAL",
+  "formId": 3022,
+  "evolutions": [
+    {
+      "evoId": 651,
+      "formId": 3023,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

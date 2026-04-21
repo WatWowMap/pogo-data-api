@@ -1,0 +1,13 @@
+{
+  "moveId": 255,
+  "moveName": "Air Slash",
+  "proto": "AIR_SLASH_FAST",
+  "fast": true,
+  "type": 3,
+  "pvpPower": 9,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 2,
+  "power": 12,
+  "durationMs": 1000,
+  "energyDelta": 8
+}

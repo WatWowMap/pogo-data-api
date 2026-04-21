@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Veluza",
+  "pokedexId": 976,
+  "defaultFormId": 3288,
+  "types": [
+    11,
+    14
+  ],
+  "quickMoves": [
+    234,
+    327
+  ],
+  "chargedMoves": [
+    46,
+    105,
+    279,
+    353
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3288
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.225
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.875
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.375
+    }
+  ],
+  "attack": 196,
+  "defense": 139,
+  "stamina": 207,
+  "height": 2.5,
+  "weight": 90,
+  "family": 976,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
+}

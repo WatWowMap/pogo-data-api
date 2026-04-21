@@ -1,0 +1,12 @@
+{
+  "formName": "Tundra",
+  "proto": "SPEWPA_TUNDRA",
+  "formId": 2784,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2613,
+      "candyCost": 100
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "pokemonName": "Garchomp",
+  "pokedexId": 445,
+  "defaultFormId": 867,
+  "types": [
+    5,
+    16
+  ],
+  "quickMoves": [
+    216,
+    253
+  ],
+  "chargedMoves": [
+    31,
+    80,
+    103,
+    258,
+    277,
+    379
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    304
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    867
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.8
+    }
+  ],
+  "attack": 261,
+  "defense": 193,
+  "stamina": 239,
+  "height": 1.9,
+  "weight": 95,
+  "family": 443,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 339,
+      "defense": 222,
+      "stamina": 239,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    },
+    {
+      "tempEvoId": 5,
+      "attack": 321,
+      "defense": 196,
+      "stamina": 239,
+      "types": [
+        16
+      ],
+      "unreleased": true
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

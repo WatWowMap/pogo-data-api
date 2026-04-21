@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SLIGGOO_NORMAL",
+  "formId": 2810,
+  "evolutions": [
+    {
+      "evoId": 706,
+      "formId": 2811,
+      "candyCost": 100
+    }
+  ]
+}

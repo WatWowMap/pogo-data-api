@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "type": "Fighting",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_FIGHTING_GRUNT_MALE",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
+}

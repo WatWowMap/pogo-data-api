@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Mudkip",
+  "pokedexId": 258,
+  "defaultFormId": 205,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    221,
+    230
+  ],
+  "chargedMoves": [
+    18,
+    26,
+    127
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    205
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2009
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.205
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.615
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.6355
+    }
+  ],
+  "attack": 126,
+  "defense": 93,
+  "stamina": 137,
+  "height": 0.41,
+  "weight": 7.6,
+  "family": 258,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 259,
+      "formId": 208,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

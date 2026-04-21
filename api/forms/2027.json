@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SWADLOON_NORMAL",
+  "formId": 2027,
+  "evolutions": [
+    {
+      "evoId": 542,
+      "formId": 2030,
+      "candyCost": 100
+    }
+  ]
+}

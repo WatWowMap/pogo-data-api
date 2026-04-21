@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Anorith",
+  "pokedexId": 347,
+  "defaultFormId": 1574,
+  "types": [
+    6,
+    7
+  ],
+  "quickMoves": [
+    220,
+    261
+  ],
+  "chargedMoves": [
+    57,
+    62,
+    89
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1574
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3479
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.355
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.065
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.2425
+    }
+  ],
+  "attack": 176,
+  "defense": 100,
+  "stamina": 128,
+  "height": 0.71,
+  "weight": 12.5,
+  "family": 347,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 348,
+      "formId": 1577,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

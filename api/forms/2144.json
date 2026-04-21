@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "VANILLITE_NORMAL",
+  "formId": 2144,
+  "evolutions": [
+    {
+      "evoId": 583,
+      "formId": 2147,
+      "candyCost": 25
+    }
+  ]
+}

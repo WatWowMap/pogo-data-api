@@ -1,0 +1,15 @@
+{
+  "formName": "Winter 2025",
+  "proto": "CHARJABUG_WINTER_2025",
+  "formId": 3316,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 738,
+      "formId": 3317,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
+}

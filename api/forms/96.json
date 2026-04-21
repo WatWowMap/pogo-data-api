@@ -1,0 +1,12 @@
+{
+  "formName": "West Sea",
+  "proto": "SHELLOS_WEST_SEA",
+  "formId": 96,
+  "evolutions": [
+    {
+      "evoId": 423,
+      "formId": 98,
+      "candyCost": 50
+    }
+  ]
+}

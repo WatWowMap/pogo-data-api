@@ -1,0 +1,15 @@
+{
+  "formName": "Normal",
+  "proto": "HELIOPTILE_NORMAL",
+  "formId": 3056,
+  "evolutions": [
+    {
+      "evoId": 695,
+      "formId": 3057,
+      "candyCost": 50,
+      "itemRequirement": 1101
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

@@ -1,0 +1,34 @@
+{
+  "formName": "Galarian",
+  "proto": "MEOWTH_GALARIAN",
+  "formId": 2335,
+  "attack": 115,
+  "defense": 92,
+  "stamina": 137,
+  "height": 0.4,
+  "weight": 7.5,
+  "quickMoves": [
+    220,
+    228,
+    402
+  ],
+  "chargedMoves": [
+    26,
+    51,
+    267,
+    392
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    9
+  ],
+  "evolutions": [
+    {
+      "evoId": 863,
+      "formId": 2504,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

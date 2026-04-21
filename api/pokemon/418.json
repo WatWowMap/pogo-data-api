@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Buizel",
+  "pokedexId": 418,
+  "defaultFormId": 1724,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    219,
+    230
+  ],
+  "chargedMoves": [
+    57,
+    105,
+    125
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1724
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.225
+    }
+  ],
+  "attack": 132,
+  "defense": 67,
+  "stamina": 146,
+  "height": 0.7,
+  "weight": 29.5,
+  "family": 418,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 419,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "pokemonName": "Doublade",
+  "pokedexId": 680,
+  "defaultFormId": 3043,
+  "types": [
+    8,
+    9
+  ],
+  "quickMoves": [
+    213,
+    221,
+    226
+  ],
+  "chargedMoves": [
+    74,
+    267,
+    330
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3043
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 188,
+  "defense": 206,
+  "stamina": 153,
+  "height": 0.8,
+  "weight": 4.5,
+  "family": 679,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 681,
+      "formId": 2639,
+      "candyCost": 100
+    }
+  ]
+}

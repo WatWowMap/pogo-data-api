@@ -1,0 +1,13 @@
+{
+  "moveId": 241,
+  "moveName": "Rock Smash",
+  "proto": "ROCK_SMASH_FAST",
+  "fast": true,
+  "type": 2,
+  "pvpPower": 9,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 2,
+  "power": 17,
+  "durationMs": 1500,
+  "energyDelta": 12
+}

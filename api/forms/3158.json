@@ -1,0 +1,12 @@
+{
+  "formName": "Normal",
+  "proto": "SKWOVET_NORMAL",
+  "formId": 3158,
+  "evolutions": [
+    {
+      "evoId": 820,
+      "formId": 3159,
+      "candyCost": 50
+    }
+  ]
+}

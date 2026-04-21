@@ -1,0 +1,8 @@
+{
+  "itemId": 409,
+  "itemName": "Incense Night Bonus",
+  "proto": "ITEM_INCENSE_NIGHT_BONUS",
+  "type": "Incense",
+  "category": "Incense",
+  "minTrainerLevel": 1
+}

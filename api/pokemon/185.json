@@ -1,0 +1,72 @@
+{
+  "pokemonName": "Sudowoodo",
+  "pokedexId": 185,
+  "defaultFormId": 1202,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    227,
+    243
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    63,
+    64,
+    372,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1202,
+    3315
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5831
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.595
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.4875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.785
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.38
+    }
+  ],
+  "attack": 167,
+  "defense": 176,
+  "stamina": 172,
+  "height": 1.19,
+  "weight": 38,
+  "family": 185,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
+}

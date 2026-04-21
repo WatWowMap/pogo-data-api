@@ -1,0 +1,75 @@
+{
+  "pokemonName": "Mamoswine",
+  "pokedexId": 473,
+  "defaultFormId": 1838,
+  "types": [
+    5,
+    15
+  ],
+  "quickMoves": [
+    233,
+    244
+  ],
+  "chargedMoves": [
+    32,
+    95,
+    254,
+    359,
+    377
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    62
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1838
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.225
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.875
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.375
+    }
+  ],
+  "attack": 247,
+  "defense": 146,
+  "stamina": 242,
+  "height": 2.5,
+  "weight": 291,
+  "family": 220,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
+}

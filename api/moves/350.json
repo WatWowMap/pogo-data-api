@@ -1,0 +1,13 @@
+{
+  "moveId": 350,
+  "moveName": "Fairy Wind",
+  "proto": "FAIRY_WIND_FAST",
+  "fast": true,
+  "type": 18,
+  "pvpPower": 4,
+  "pvpEnergyDelta": 9,
+  "pvpDurationTurns": 1,
+  "power": 9,
+  "durationMs": 1000,
+  "energyDelta": 13
+}

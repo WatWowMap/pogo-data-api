@@ -1,0 +1,10 @@
+{
+  "weatherId": 1,
+  "weatherName": "Clear",
+  "proto": "CLEAR",
+  "types": [
+    5,
+    10,
+    12
+  ]
+}

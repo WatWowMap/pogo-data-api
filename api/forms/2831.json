@@ -1,0 +1,19 @@
+{
+  "formName": "Normal",
+  "proto": "ROCKRUFF_NORMAL",
+  "formId": 2831,
+  "evolutions": [
+    {
+      "evoId": 745,
+      "formId": 2684,
+      "candyCost": 50,
+      "onlyDaytime": true
+    },
+    {
+      "evoId": 745,
+      "formId": 2685,
+      "candyCost": 50,
+      "onlyNighttime": true
+    }
+  ]
+}

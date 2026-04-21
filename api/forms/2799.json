@@ -1,0 +1,27 @@
+{
+  "formName": "Galarian",
+  "proto": "MOLTRES_GALARIAN",
+  "formId": 2799,
+  "attack": 202,
+  "defense": 231,
+  "stamina": 207,
+  "height": 2,
+  "weight": 66,
+  "quickMoves": [
+    203,
+    210
+  ],
+  "chargedMoves": [
+    62,
+    256,
+    333,
+    341
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    3,
+    17
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
+}

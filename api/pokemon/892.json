@@ -1,0 +1,67 @@
+{
+  "pokemonName": "Urshifu",
+  "pokedexId": 892,
+  "defaultFormId": 2723,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    241,
+    243
+  ],
+  "chargedMoves": [
+    123,
+    245,
+    246
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    2723,
+    2724
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "attack": 254,
+  "defense": 177,
+  "stamina": 225,
+  "height": 1.9,
+  "weight": 105,
+  "family": 891,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true
+}

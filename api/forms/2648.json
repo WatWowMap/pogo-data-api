@@ -1,0 +1,56 @@
+{
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.4
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.4
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.4
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.7
+    },
+    {
+      "name": "xxsScaleMultiplier",
+      "value": 0.67
+    },
+    {
+      "name": "xsScaleMultiplier",
+      "value": 0.8
+    },
+    {
+      "name": "xlScaleMultiplier",
+      "value": 1.2
+    },
+    {
+      "name": "xxlScaleMultiplier",
+      "value": 1
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "formName": "Super",
+  "proto": "GOURGEIST_SUPER",
+  "formId": 2648,
+  "attack": 182,
+  "defense": 200,
+  "stamina": 198,
+  "height": 1.7,
+  "weight": 39
+}

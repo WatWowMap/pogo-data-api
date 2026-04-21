@@ -1,0 +1,17 @@
+{
+  "formName": "Normal",
+  "proto": "RUFFLET_NORMAL",
+  "formId": 2273,
+  "evolutions": [
+    {
+      "evoId": 628,
+      "formId": 2276,
+      "candyCost": 50
+    },
+    {
+      "evoId": 628,
+      "formId": 2798,
+      "candyCost": 50
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "moveId": 338,
+  "moveName": "Techno Blast Chill",
+  "proto": "TECHNO_BLAST_CHILL",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -55,
+  "power": 120,
+  "durationMs": 2000,
+  "energyDelta": -100
+}
