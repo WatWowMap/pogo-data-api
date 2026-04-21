@@ -36,15 +36,13 @@ That means you can do both:
 
 ## Endpoint Model
 
-This repository does not currently run an HTTP server. It generates static JSON files.
+This repository does not currently run an HTTP server but can be used with GitHub raw.
 
-If your site is hosted at `https://example.com`, then these files behave like endpoints:
-
-- `https://example.com/api/pokemon.json`
-- `https://example.com/api/pokemon/1.json`
-- `https://example.com/api/moves/13.json`
-- `https://example.com/api/translations/en.json`
-- `https://example.com/api/translations/en/misc.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/pokemon.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/pokemon/1.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/moves/13.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/translations/en.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/translations/en/misc.json`
 
 ## Endpoint Patterns
 
