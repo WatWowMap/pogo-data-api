@@ -10,7 +10,7 @@ interface FileWriteTask {
 	contents: string;
 }
 
-const API_DIRECTORY = new URL("./api/", import.meta.url);
+const V1_DIRECTORY = new URL("./v1/", import.meta.url);
 const WRITE_CONCURRENCY = 64;
 
 function isRecord(value: unknown): value is DataRecord {
@@ -64,13 +64,13 @@ export async function writeApiData(data: DataRecord): Promise<void> {
 		}
 
 		const categorySlug = toKebabCase(categoryKey);
-		const categoryDirectory = new URL(`${categorySlug}/`, API_DIRECTORY);
+		const categoryDirectory = new URL(`${categorySlug}/`, V1_DIRECTORY);
 		const categoryEntries = Object.entries(categoryValue);
 
 		directoryTasks.push(categoryDirectory);
 		if (categoryKey !== "translations") {
 			fileWriteTasks.push({
-				path: new URL(`${categorySlug}.json`, API_DIRECTORY),
+				path: new URL(`${categorySlug}.json`, V1_DIRECTORY),
 				contents: JSON.stringify(
 					categoryEntries.map(([, value]) => value),
 					null,
@@ -105,8 +105,8 @@ export async function writeApiData(data: DataRecord): Promise<void> {
 		}
 	}
 
-	await rm(API_DIRECTORY, { recursive: true, force: true });
-	await mkdir(API_DIRECTORY, { recursive: true });
+	await rm(V1_DIRECTORY, { recursive: true, force: true });
+	await mkdir(V1_DIRECTORY, { recursive: true });
 	await runWithConcurrency(
 		directoryTasks,
 		WRITE_CONCURRENCY,

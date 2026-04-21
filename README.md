@@ -1,8 +1,8 @@
 # pogo-data-api
 
-Generated Pokemon GO data as static JSON files, ready to serve from `/api`.
+Generated Pokemon GO data as static JSON files, ready to serve from `/v1`.
 
-This project takes data from [`pogo-data-generator`](https://www.npmjs.com/package/pogo-data-generator), normalizes the output into a file-based API, and writes the results into the local [`api/`](/Users/rin/GitHub/pogo-data-api/api) directory.
+This project takes data from [`pogo-data-generator`](https://www.npmjs.com/package/pogo-data-generator), normalizes the output into a file-based API, and writes the results into the local [`v1/`](/Users/rin/GitHub/pogo-data-api/api) directory.
 
 If you deploy this folder behind any static file host, the file paths become your endpoints.
 
@@ -13,7 +13,7 @@ Before this repo runs, there is no API surface beyond the generator call itself.
 After running it, you get a predictable JSON tree like:
 
 ```text
-api/
+v1/
   pokemon.json
   pokemon/1.json
   pokemon/150.json
@@ -38,11 +38,11 @@ That means you can do both:
 
 This repository does not currently run an HTTP server but can be used with GitHub raw.
 
-- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/pokemon.json`
-- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/pokemon/1.json`
-- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/moves/13.json`
-- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/translations/en.json`
-- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/api/translations/en/misc.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/pokemon.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/pokemon/1.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/moves/13.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/translations/en.json`
+- `https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/translations/en/misc.json`
 
 ## Endpoint Patterns
 
@@ -52,10 +52,10 @@ These return arrays of values with the original top-level keys removed.
 
 Examples:
 
-- `/api/pokemon.json`
-- `/api/moves.json`
-- `/api/items.json`
-- `/api/forms.json`
+- `/v1/pokemon.json`
+- `/v1/moves.json`
+- `/v1/items.json`
+- `/v1/forms.json`
 
 Use these when you want the whole dataset for a category in one request.
 
@@ -65,10 +65,10 @@ These return a single value from a category, using the original object key as th
 
 Examples:
 
-- `/api/pokemon/1.json`
-- `/api/forms/163.json`
-- `/api/moves/13.json`
-- `/api/items/1.json`
+- `/v1/pokemon/1.json`
+- `/v1/forms/163.json`
+- `/v1/moves/13.json`
+- `/v1/items/1.json`
 
 Use these when you want one record without downloading the full collection.
 
@@ -78,9 +78,9 @@ These return the full translation object for a single locale.
 
 Examples:
 
-- `/api/translations/en.json`
-- `/api/translations/de.json`
-- `/api/translations/ja.json`
+- `/v1/translations/en.json`
+- `/v1/translations/de.json`
+- `/v1/translations/ja.json`
 
 ### 4. Translation locale-category endpoints
 
@@ -88,10 +88,10 @@ These return a single translation category for a locale.
 
 Examples:
 
-- `/api/translations/en/misc.json`
-- `/api/translations/en/pokemon.json`
-- `/api/translations/en/items.json`
-- `/api/translations/ja/moves.json`
+- `/v1/translations/en/misc.json`
+- `/v1/translations/en/pokemon.json`
+- `/v1/translations/en/items.json`
+- `/v1/translations/ja/moves.json`
 
 This extra layer is useful when you want only one translation group instead of the full locale payload.
 
@@ -99,25 +99,25 @@ This extra layer is useful when you want only one translation group instead of t
 
 The generated output currently includes these top-level datasets:
 
-| Dataset | File | Records |
-| --- | --- | ---: |
-| Costumes | `/api/costumes.json` | 87 |
-| Forms | `/api/forms.json` | 1478 |
-| Invasions | `/api/invasions.json` | 123 |
-| Items | `/api/items.json` | 141 |
-| Location Cards | `/api/location-cards.json` | 180 |
-| Moves | `/api/moves.json` | 433 |
-| Pokemon | `/api/pokemon.json` | 1025 |
-| Quest Conditions | `/api/quest-conditions.json` | 80 |
-| Quest Reward Types | `/api/quest-reward-types.json` | 21 |
-| Quest Types | `/api/quest-types.json` | 102 |
-| Raids | `/api/raids.json` | 20 |
-| Route Types | `/api/route-types.json` | 5 |
-| Teams | `/api/teams.json` | 4 |
-| Types | `/api/types.json` | 19 |
-| Weather | `/api/weather.json` | 8 |
+| Dataset            | File                          | Records |
+| ------------------ | ----------------------------- | ------: |
+| Costumes           | `/v1/costumes.json`           |      87 |
+| Forms              | `/v1/forms.json`              |    1478 |
+| Invasions          | `/v1/invasions.json`          |     123 |
+| Items              | `/v1/items.json`              |     141 |
+| Location Cards     | `/v1/location-cards.json`     |     180 |
+| Moves              | `/v1/moves.json`              |     433 |
+| Pokemon            | `/v1/pokemon.json`            |    1025 |
+| Quest Conditions   | `/v1/quest-conditions.json`   |      80 |
+| Quest Reward Types | `/v1/quest-reward-types.json` |      21 |
+| Quest Types        | `/v1/quest-types.json`        |     102 |
+| Raids              | `/v1/raids.json`              |      20 |
+| Route Types        | `/v1/route-types.json`        |       5 |
+| Teams              | `/v1/teams.json`              |       4 |
+| Types              | `/v1/types.json`              |      19 |
+| Weather            | `/v1/weather.json`            |       8 |
 
-Translations are split by locale instead of having a single `/api/translations.json` collection file.
+Translations are split by locale instead of having a single `/v1/translations.json` collection file.
 
 ## Translation Coverage
 
@@ -166,7 +166,7 @@ Current nested translation categories:
 
 ### Example: all Pokemon
 
-`GET /api/pokemon.json`
+`GET /v1/pokemon.json`
 
 Response shape:
 
@@ -183,7 +183,7 @@ Response shape:
 
 ### Example: one Pokemon
 
-`GET /api/pokemon/1.json`
+`GET /v1/pokemon/1.json`
 
 Response excerpt:
 
@@ -201,7 +201,7 @@ Response excerpt:
 
 ### Example: one move
 
-`GET /api/moves/13.json`
+`GET /v1/moves/13.json`
 
 Response excerpt:
 
@@ -219,7 +219,7 @@ Response excerpt:
 
 ### Example: full English translations
 
-`GET /api/translations/en.json`
+`GET /v1/translations/en.json`
 
 Response shape:
 
@@ -236,7 +236,7 @@ Response shape:
 
 ### Example: one English translation category
 
-`GET /api/translations/en/misc.json`
+`GET /v1/translations/en/misc.json`
 
 Response excerpt:
 
@@ -256,10 +256,10 @@ Response excerpt:
 
 Examples:
 
-- `questRewardTypes` becomes `/api/quest-reward-types.json`
-- `locationCards` becomes `/api/location-cards.json`
-- translation locale `pt-br` becomes `/api/translations/pt-br.json`
-- translation category `characterCategories` becomes `/api/translations/en/character-categories.json`
+- `questRewardTypes` becomes `/v1/quest-reward-types.json`
+- `locationCards` becomes `/v1/location-cards.json`
+- translation locale `pt-br` becomes `/v1/translations/pt-br.json`
+- translation category `characterCategories` becomes `/v1/translations/en/character-categories.json`
 
 ## Generate The API
 
@@ -284,7 +284,7 @@ bun run start
 The generator:
 
 - fetches raw Pokemon GO data through `pogo-data-generator`
-- writes fresh output into [`api/`](/Users/rin/GitHub/pogo-data-api/api)
+- writes fresh output into [`v1/`](v1)
 - removes stale generated files before writing new ones
 - creates per-record files for direct lookup
 - creates nested translation files for locale and locale-category access
@@ -300,7 +300,7 @@ The generation script in [index.ts](/Users/rin/GitHub/pogo-data-api/index.ts):
 
 ## When To Use Which Endpoint
 
-- Use collection endpoints like `/api/pokemon.json` when you need everything in one request.
-- Use item endpoints like `/api/pokemon/1.json` when you only need one record.
-- Use `/api/translations/<locale>.json` when you need a full locale pack.
-- Use `/api/translations/<locale>/<category>.json` when you want smaller translation payloads and faster client startup.
+- Use collection endpoints like `/v1/pokemon.json` when you need everything in one request.
+- Use item endpoints like `/v1/pokemon/1.json` when you only need one record.
+- Use `/v1/translations/<locale>.json` when you need a full locale pack.
+- Use `/v1/translations/<locale>/<category>.json` when you want smaller translation payloads and faster client startup.
