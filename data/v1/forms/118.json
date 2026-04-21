@@ -1,0 +1,18 @@
+{
+	"formName": "Plant",
+	"proto": "BURMY_PLANT",
+	"formId": 118,
+	"evolutions": [
+		{
+			"evoId": 413,
+			"formId": 87,
+			"genderRequirement": 2,
+			"candyCost": 50
+		},
+		{
+			"evoId": 414,
+			"genderRequirement": 1,
+			"candyCost": 50
+		}
+	]
+}

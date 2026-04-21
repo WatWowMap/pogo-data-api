@@ -1,0 +1,13 @@
+{
+	"moveId": 213,
+	"moveName": "Shadow Claw",
+	"proto": "SHADOW_CLAW_FAST",
+	"fast": true,
+	"type": 8,
+	"pvpPower": 6,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 1,
+	"power": 6,
+	"durationMs": 500,
+	"energyDelta": 4
+}

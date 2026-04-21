@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "TIMBURR_NORMAL",
+	"formId": 2000,
+	"evolutions": [
+		{
+			"evoId": 533,
+			"formId": 2003,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

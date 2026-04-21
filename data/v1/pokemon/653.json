@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Fennekin",
+	"pokedexId": 653,
+	"defaultFormId": 3025,
+	"types": [10],
+	"quickMoves": [209, 220],
+	"chargedMoves": [24, 60, 101],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3025],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.196
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.7
+		}
+	],
+	"attack": 116,
+	"defense": 102,
+	"stamina": 120,
+	"height": 0.4,
+	"weight": 9.4,
+	"family": 653,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 1,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 654,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,12 @@
+{
+	"moveId": 265,
+	"moveName": "Night Shade",
+	"proto": "NIGHT_SHADE",
+	"fast": false,
+	"type": 8,
+	"pvpPower": 70,
+	"pvpEnergyDelta": -45,
+	"power": 60,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

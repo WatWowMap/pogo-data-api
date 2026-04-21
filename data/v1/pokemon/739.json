@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Crabrawler",
+	"pokedexId": 739,
+	"defaultFormId": 3092,
+	"types": [2],
+	"quickMoves": [237, 241],
+	"chargedMoves": [123, 305, 319, 333],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3092],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 150,
+	"defense": 104,
+	"stamina": 132,
+	"height": 0.6,
+	"weight": 7,
+	"family": 739,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 740,
+			"candyCost": 50
+		}
+	]
+}

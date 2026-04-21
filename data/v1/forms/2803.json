@@ -1,0 +1,10 @@
+{
+	"formName": "Therian",
+	"proto": "ENAMORUS_THERIAN",
+	"formId": 2803,
+	"attack": 250,
+	"defense": 201,
+	"stamina": 179,
+	"quickMoves": [263, 274, 350],
+	"chargedMoves": [87, 304, 341, 382]
+}

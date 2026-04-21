@@ -1,0 +1,53 @@
+{
+	"pokemonName": "Deoxys",
+	"pokedexId": 386,
+	"defaultFormId": 33,
+	"types": [14],
+	"quickMoves": [234, 249],
+	"chargedMoves": [14, 252, 288],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [33, 34, 35, 36],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.635
+		}
+	],
+	"attack": 345,
+	"defense": 115,
+	"stamina": 137,
+	"height": 1.7,
+	"weight": 60.8,
+	"family": 386,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"transferable": true
+}

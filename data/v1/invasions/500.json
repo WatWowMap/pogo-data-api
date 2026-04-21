@@ -1,0 +1,22 @@
+{
+	"id": 500,
+	"type": "NPC 0",
+	"gender": 0,
+	"grunt": "Event",
+	"proto": "CHARACTER_EVENT_NPC_0",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

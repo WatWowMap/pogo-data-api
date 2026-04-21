@@ -1,0 +1,17 @@
+{
+	"formName": "Normal",
+	"proto": "TANDEMAUS_NORMAL",
+	"formId": 3239,
+	"evolutions": [
+		{
+			"evoId": 925,
+			"formId": 2984,
+			"candyCost": 50
+		},
+		{
+			"evoId": 925,
+			"formId": 2983,
+			"candyCost": 50
+		}
+	]
+}

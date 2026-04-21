@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Ledyba",
+	"pokedexId": 165,
+	"defaultFormId": 1157,
+	"types": [3, 7],
+	"quickMoves": [201, 221],
+	"chargedMoves": [45, 125, 262],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1157],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.4851
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.495
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.7425
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.2375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.485
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.7325
+		}
+	],
+	"attack": 72,
+	"defense": 118,
+	"stamina": 120,
+	"height": 0.99,
+	"weight": 10.8,
+	"family": 165,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 5,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 166,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

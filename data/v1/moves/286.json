@@ -1,0 +1,12 @@
+{
+	"moveId": 286,
+	"moveName": "Doom Desire",
+	"proto": "DOOM_DESIRE",
+	"fast": false,
+	"type": 9,
+	"pvpPower": 80,
+	"pvpEnergyDelta": -40,
+	"power": 65,
+	"durationMs": 1500,
+	"energyDelta": -33
+}

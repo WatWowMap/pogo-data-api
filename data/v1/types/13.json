@@ -1,0 +1,10 @@
+{
+	"typeId": 13,
+	"typeName": "Electric",
+	"strengths": [3, 11],
+	"weaknesses": [5],
+	"veryWeakAgainst": [5],
+	"immunes": [],
+	"weakAgainst": [12, 13, 16],
+	"resistances": [3, 9, 13]
+}

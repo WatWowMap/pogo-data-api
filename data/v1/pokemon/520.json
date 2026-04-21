@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Tranquill",
+	"pokedexId": 520,
+	"defaultFormId": 1964,
+	"types": [1, 3],
+	"quickMoves": [239, 255],
+	"chargedMoves": [42, 45, 257],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1964],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 144,
+	"defense": 107,
+	"stamina": 158,
+	"height": 0.6,
+	"weight": 15,
+	"family": 519,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 521,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

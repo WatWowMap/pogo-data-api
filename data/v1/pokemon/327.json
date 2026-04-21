@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Spinda",
+	"pokedexId": 327,
+	"defaultFormId": 37,
+	"types": [1],
+	"quickMoves": [203, 226],
+	"chargedMoves": [26, 63, 111],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [
+		37, 38, 39, 40, 41, 42, 43, 44, 121, 122, 123, 124, 125, 126, 127, 128, 129,
+		130, 131, 132
+	],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.5341
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.545
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.8175
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.3625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.635
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.6895
+		},
+		{
+			"name": "disablePokedexRecordDisplayForForms",
+			"value": true
+		}
+	],
+	"attack": 116,
+	"defense": 116,
+	"stamina": 155,
+	"height": 1.09,
+	"weight": 5,
+	"family": 327,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

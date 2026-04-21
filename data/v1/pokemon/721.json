@@ -1,0 +1,52 @@
+{
+	"pokemonName": "Volcanion",
+	"pokedexId": 721,
+	"defaultFormId": 3075,
+	"types": [10, 11],
+	"quickMoves": [230, 282, 346],
+	"chargedMoves": [90, 106, 107, 270, 304],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3075],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.635
+		}
+	],
+	"attack": 252,
+	"defense": 216,
+	"stamina": 190,
+	"height": 1.7,
+	"weight": 195,
+	"family": 721,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100
+}

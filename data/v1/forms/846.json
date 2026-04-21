@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "RHYHORN_NORMAL",
+	"formId": 846,
+	"evolutions": [
+		{
+			"evoId": 112,
+			"formId": 849,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

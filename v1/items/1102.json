@@ -1,8 +1,0 @@
-{
-  "itemId": 1102,
-  "itemName": "Kings Rock",
-  "proto": "ITEM_KINGS_ROCK",
-  "type": "Evolution Requirement",
-  "category": "Evolution Requirement",
-  "minTrainerLevel": 10
-}

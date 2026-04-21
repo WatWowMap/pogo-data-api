@@ -1,0 +1,9 @@
+{
+	"moveId": 451,
+	"moveName": "Gmax Steelsurge",
+	"proto": "VN_BM_043",
+	"fast": false,
+	"type": 9,
+	"power": 450,
+	"durationMs": 2500
+}

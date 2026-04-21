@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Poochyena",
+	"pokedexId": 261,
+	"defaultFormId": 1367,
+	"types": [17],
+	"quickMoves": [221, 278],
+	"chargedMoves": [26, 50, 279],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1367],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2499
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.255
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.6375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.765
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.8925
+		}
+	],
+	"attack": 96,
+	"defense": 61,
+	"stamina": 111,
+	"height": 0.51,
+	"weight": 13.6,
+	"family": 261,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 262,
+			"formId": 1370,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

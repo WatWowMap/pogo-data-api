@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Fletchinder",
+	"pokedexId": 662,
+	"defaultFormId": 3034,
+	"types": [3, 10],
+	"quickMoves": [209, 211, 239],
+	"chargedMoves": [42, 45, 101, 341],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3034],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.343
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.35
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.525
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.05
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.225
+		}
+	],
+	"attack": 145,
+	"defense": 110,
+	"stamina": 158,
+	"height": 0.7,
+	"weight": 16,
+	"family": 661,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 663,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

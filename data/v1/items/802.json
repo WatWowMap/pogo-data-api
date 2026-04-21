@@ -1,0 +1,8 @@
+{
+	"itemId": 802,
+	"itemName": "Sticker Inventory",
+	"proto": "ITEM_STICKER_INVENTORY",
+	"type": "Sticker Inventory",
+	"category": "Sticker",
+	"minTrainerLevel": 100
+}

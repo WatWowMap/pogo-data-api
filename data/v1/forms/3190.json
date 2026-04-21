@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "HATENNA_NORMAL",
+	"formId": 3190,
+	"evolutions": [
+		{
+			"evoId": 857,
+			"formId": 3191,
+			"candyCost": 25
+		}
+	]
+}

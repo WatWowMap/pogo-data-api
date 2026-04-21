@@ -1,0 +1,68 @@
+{
+	"pokemonName": "Heracross",
+	"pokedexId": 214,
+	"defaultFormId": 1262,
+	"types": [2, 7],
+	"quickMoves": [200, 243, 261],
+	"chargedMoves": [22, 31, 63, 245, 259, 471],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1262],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.625
+		}
+	],
+	"attack": 234,
+	"defense": 179,
+	"stamina": 190,
+	"height": 1.5,
+	"weight": 54,
+	"family": 214,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 334,
+			"defense": 223,
+			"stamina": 190,
+			"height": 1.7,
+			"weight": 62.5,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	]
+}

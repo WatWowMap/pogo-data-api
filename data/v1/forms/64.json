@@ -1,0 +1,20 @@
+{
+	"formName": "Alola",
+	"proto": "MEOWTH_ALOLA",
+	"formId": 64,
+	"attack": 99,
+	"defense": 78,
+	"stamina": 120,
+	"chargedMoves": [16, 51, 280, 392],
+	"eliteChargedMoves": [],
+	"types": [17],
+	"evolutions": [
+		{
+			"evoId": 53,
+			"formId": 66,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

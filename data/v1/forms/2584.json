@@ -1,0 +1,41 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.79
+		}
+	],
+	"formName": "Galarian",
+	"proto": "SLOWKING_GALARIAN",
+	"formId": 2584,
+	"attack": 190,
+	"defense": 180,
+	"stamina": 216,
+	"height": 1.8,
+	"weight": 79.5,
+	"quickMoves": [225, 235, 264],
+	"chargedMoves": [60, 70, 91, 106, 275],
+	"types": [4, 14],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

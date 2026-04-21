@@ -1,0 +1,8 @@
+{
+	"itemId": 5,
+	"itemName": "Premier Ball",
+	"proto": "ITEM_PREMIER_BALL",
+	"type": "Pokeball",
+	"category": "Pokeball",
+	"minTrainerLevel": 100
+}

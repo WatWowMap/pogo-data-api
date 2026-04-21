@@ -1,0 +1,12 @@
+{
+	"moveId": 78,
+	"moveName": "Thunder",
+	"proto": "THUNDER",
+	"fast": false,
+	"type": 13,
+	"pvpPower": 100,
+	"pvpEnergyDelta": -60,
+	"power": 100,
+	"durationMs": 2500,
+	"energyDelta": -100
+}

@@ -1,0 +1,17 @@
+{
+	"formName": "Normal",
+	"proto": "GARDEVOIR_NORMAL",
+	"formId": 298,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 326,
+			"defense": 229,
+			"stamina": 169,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

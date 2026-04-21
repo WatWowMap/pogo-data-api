@@ -1,0 +1,12 @@
+{
+	"moveId": 21,
+	"moveName": "Flame Wheel",
+	"proto": "FLAME_WHEEL",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 80,
+	"pvpEnergyDelta": -45,
+	"power": 55,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

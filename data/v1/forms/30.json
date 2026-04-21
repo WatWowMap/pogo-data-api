@@ -1,0 +1,8 @@
+{
+	"formName": "Sunny",
+	"proto": "CASTFORM_SUNNY",
+	"formId": 30,
+	"quickMoves": [209, 221],
+	"chargedMoves": [103, 116, 292],
+	"types": [10]
+}

@@ -1,8 +1,0 @@
-{
-  "itemId": 1001,
-  "itemName": "Pokemon Storage Upgrade",
-  "proto": "ITEM_POKEMON_STORAGE_UPGRADE",
-  "type": "Inventory Upgrade",
-  "category": "Inventory Upgrade",
-  "minTrainerLevel": 100
-}

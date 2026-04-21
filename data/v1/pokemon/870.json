@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Falinks",
+	"pokedexId": 870,
+	"defaultFormId": 2325,
+	"types": [2],
+	"quickMoves": [241, 243],
+	"chargedMoves": [22, 123, 310],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [2325, 2870],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.47
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.5
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.25
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 4.5
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.65
+		}
+	],
+	"attack": 193,
+	"defense": 170,
+	"stamina": 163,
+	"height": 3,
+	"weight": 62,
+	"family": 870,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 267,
+			"defense": 229,
+			"stamina": 163,
+			"unreleased": true
+		}
+	]
+}

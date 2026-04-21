@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Psyduck",
+	"pokedexId": 54,
+	"defaultFormId": 286,
+	"types": [11],
+	"quickMoves": [230, 234],
+	"chargedMoves": [28, 30, 58],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [286, 3019],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.392
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.4
+		}
+	],
+	"attack": 122,
+	"defense": 95,
+	"stamina": 137,
+	"height": 0.8,
+	"weight": 19.6,
+	"family": 54,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 55,
+			"formId": 289,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

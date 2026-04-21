@@ -1,0 +1,12 @@
+{
+	"moveId": 367,
+	"moveName": "Brutal Swing",
+	"proto": "BRUTAL_SWING",
+	"fast": false,
+	"type": 17,
+	"pvpPower": 55,
+	"pvpEnergyDelta": -35,
+	"power": 65,
+	"durationMs": 2000,
+	"energyDelta": -33
+}

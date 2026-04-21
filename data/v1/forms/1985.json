@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "WOOBAT_NORMAL",
+	"formId": 1985,
+	"evolutions": [
+		{
+			"evoId": 528,
+			"formId": 1988,
+			"candyCost": 50,
+			"questRequirement": "SWOOBAT_EVOLUTION_QUEST"
+		}
+	]
+}

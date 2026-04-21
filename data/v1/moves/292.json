@@ -1,0 +1,12 @@
+{
+	"moveId": 292,
+	"moveName": "Weather Ball Fire",
+	"proto": "WEATHER_BALL_FIRE",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 60,
+	"pvpEnergyDelta": -35,
+	"power": 55,
+	"durationMs": 1500,
+	"energyDelta": -33
+}

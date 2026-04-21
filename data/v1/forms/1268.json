@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "URSARING_NORMAL",
+	"formId": 1268,
+	"evolutions": [
+		{
+			"evoId": 901,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,10 @@
+{
+	"formName": "Hisuian",
+	"proto": "ZOROARK_HISUIAN",
+	"formId": 2797,
+	"attack": 261,
+	"defense": 128,
+	"stamina": 146,
+	"chargedMoves": [24, 70, 90, 280],
+	"types": [1, 8]
+}

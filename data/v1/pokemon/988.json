@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Slitherwing",
+	"pokedexId": 988,
+	"defaultFormId": 3298,
+	"types": [2, 7],
+	"quickMoves": [231],
+	"chargedMoves": [133],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3298],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.568
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.6
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.4
+		},
+		{
+			"name": "mUpperBound",
+			"value": 4
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 4.8
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.96
+		}
+	],
+	"attack": 261,
+	"defense": 193,
+	"stamina": 198,
+	"height": 3.2,
+	"weight": 92,
+	"family": 988,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,39 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.49
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.5
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.5
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2
+		}
+	],
+	"formName": "Alola",
+	"proto": "MUK_ALOLA",
+	"formId": 76,
+	"height": 1,
+	"weight": 52,
+	"quickMoves": [202, 224, 278],
+	"chargedMoves": [16, 91, 92, 303],
+	"eliteQuickMoves": [],
+	"types": [4, 17],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

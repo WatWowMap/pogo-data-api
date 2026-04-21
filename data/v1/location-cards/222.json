@@ -1,0 +1,8 @@
+{
+	"id": 222,
+	"proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_X_001",
+	"formatted": "2026 Global X 001",
+	"imageUrl": "sb_GoTour2026_x",
+	"cardType": "SPECIAL_BACKGROUND",
+	"vfxAddress": "bgfx_X"
+}

@@ -1,0 +1,40 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.343
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.35
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.525
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.05
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.225
+		}
+	],
+	"formName": "Alola",
+	"proto": "RAICHU_ALOLA",
+	"formId": 50,
+	"attack": 201,
+	"defense": 154,
+	"stamina": 155,
+	"height": 0.7,
+	"weight": 21,
+	"quickMoves": [205, 206, 250],
+	"chargedMoves": [60, 77, 108, 251, 272, 284, 392],
+	"eliteChargedMoves": [],
+	"types": [13, 14]
+}

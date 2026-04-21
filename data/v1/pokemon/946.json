@@ -1,0 +1,60 @@
+{
+	"pokemonName": "Bramblin",
+	"pokedexId": 946,
+	"defaultFormId": 3259,
+	"types": [8, 12],
+	"quickMoves": [263, 271],
+	"chargedMoves": [66, 118, 265],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3259],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 121,
+	"defense": 64,
+	"stamina": 120,
+	"height": 0.6,
+	"weight": 0.6,
+	"family": 946,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 947,
+			"candyCost": 50
+		}
+	]
+}

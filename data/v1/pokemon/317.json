@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Swalot",
+	"pokedexId": 317,
+	"defaultFormId": 1508,
+	"types": [4],
+	"quickMoves": [216, 241, 260],
+	"chargedMoves": [18, 39, 90, 92, 303],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1508],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.4
+		}
+	],
+	"attack": 140,
+	"defense": 159,
+	"stamina": 225,
+	"height": 1.7,
+	"weight": 80,
+	"family": 316,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

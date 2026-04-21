@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Electivire",
+	"pokedexId": 466,
+	"defaultFormId": 643,
+	"types": [13],
+	"quickMoves": [205, 207],
+	"chargedMoves": [33, 77, 78, 251],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [24],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [643],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.79
+		}
+	],
+	"attack": 249,
+	"defense": 163,
+	"stamina": 181,
+	"height": 1.8,
+	"weight": 138.6,
+	"family": 125,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

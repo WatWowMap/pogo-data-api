@@ -1,8 +1,0 @@
-{
-  "itemId": 801,
-  "itemName": "Special Camera",
-  "proto": "ITEM_SPECIAL_CAMERA",
-  "type": "Camera",
-  "category": "Camera",
-  "minTrainerLevel": 100
-}

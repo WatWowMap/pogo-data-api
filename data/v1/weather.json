@@ -1,0 +1,50 @@
+[
+	{
+		"weatherId": 0,
+		"weatherName": "None",
+		"proto": "NONE",
+		"types": []
+	},
+	{
+		"weatherId": 1,
+		"weatherName": "Clear",
+		"proto": "CLEAR",
+		"types": [5, 10, 12]
+	},
+	{
+		"weatherId": 2,
+		"weatherName": "Rainy",
+		"proto": "RAINY",
+		"types": [7, 11, 13]
+	},
+	{
+		"weatherId": 3,
+		"weatherName": "Partly Cloudy",
+		"proto": "PARTLY_CLOUDY",
+		"types": [1, 6]
+	},
+	{
+		"weatherId": 4,
+		"weatherName": "Overcast",
+		"proto": "OVERCAST",
+		"types": [2, 4, 18]
+	},
+	{
+		"weatherId": 5,
+		"weatherName": "Windy",
+		"proto": "WINDY",
+		"types": [3, 14, 16]
+	},
+	{
+		"weatherId": 6,
+		"weatherName": "Snow",
+		"proto": "SNOW",
+		"types": [9, 15]
+	},
+	{
+		"weatherId": 7,
+		"weatherName": "Fog",
+		"proto": "FOG",
+		"types": [8, 17]
+	}
+]

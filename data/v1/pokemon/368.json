@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Gorebyss",
+	"pokedexId": 368,
+	"defaultFormId": 1613,
+	"types": [11],
+	"quickMoves": [230, 235],
+	"chargedMoves": [85, 105, 108],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1613],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.6
+		}
+	],
+	"attack": 211,
+	"defense": 179,
+	"stamina": 146,
+	"height": 1.8,
+	"weight": 22.6,
+	"family": 366,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

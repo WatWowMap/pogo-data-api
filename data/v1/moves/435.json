@@ -1,0 +1,9 @@
+{
+	"moveId": 435,
+	"moveName": "Gmax Cuddle",
+	"proto": "VN_BM_027",
+	"fast": false,
+	"type": 1,
+	"power": 450,
+	"durationMs": 2500
+}

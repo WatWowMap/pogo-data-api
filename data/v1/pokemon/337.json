@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Lunatone",
+	"pokedexId": 337,
+	"defaultFormId": 1544,
+	"types": [6, 14],
+	"quickMoves": [227, 235, 401],
+	"chargedMoves": [64, 87, 108, 293],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1544],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.4851
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.495
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.7425
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.2375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.485
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.98
+		}
+	],
+	"attack": 178,
+	"defense": 153,
+	"stamina": 207,
+	"height": 0.99,
+	"weight": 168,
+	"family": 337,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,8 @@
+{
+	"itemId": 1,
+	"itemName": "Poke Ball",
+	"proto": "ITEM_POKE_BALL",
+	"type": "Pokeball",
+	"category": "Pokeball",
+	"minTrainerLevel": 1
+}

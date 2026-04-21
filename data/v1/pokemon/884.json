@@ -1,0 +1,62 @@
+{
+	"evolutions": [
+		{
+			"evoId": 1018,
+			"formId": 3330
+		}
+	],
+	"legendary": false,
+	"mythic": false,
+	"pokemonName": "Duraludon",
+	"pokedexId": 884,
+	"defaultFormId": 3208,
+	"types": [9, 16],
+	"quickMoves": [228, 253],
+	"chargedMoves": [14, 36, 83],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3208],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.15
+		}
+	],
+	"gmaxMove": 452,
+	"attack": 239,
+	"defense": 185,
+	"stamina": 172,
+	"height": 1.8,
+	"weight": 40,
+	"family": 884,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

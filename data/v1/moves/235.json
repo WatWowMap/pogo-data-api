@@ -1,0 +1,13 @@
+{
+	"moveId": 235,
+	"moveName": "Confusion",
+	"proto": "CONFUSION_FAST",
+	"fast": true,
+	"type": 14,
+	"pvpPower": 16,
+	"pvpEnergyDelta": 14,
+	"pvpDurationTurns": 3,
+	"power": 19,
+	"durationMs": 1500,
+	"energyDelta": 14
+}

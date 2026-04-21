@@ -1,0 +1,16 @@
+{
+	"moveId": 50,
+	"moveName": "Poison Fang",
+	"proto": "POISON_FANG",
+	"fast": false,
+	"type": 4,
+	"pvpPower": 45,
+	"pvpEnergyDelta": -40,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 30,
+	"durationMs": 1500,
+	"energyDelta": -33
+}

@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "FINNEON_NORMAL",
+	"formId": 1811,
+	"evolutions": [
+		{
+			"evoId": 457,
+			"formId": 1814,
+			"candyCost": 50
+		}
+	]
+}

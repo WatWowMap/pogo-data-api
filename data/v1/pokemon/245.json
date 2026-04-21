@@ -1,0 +1,56 @@
+{
+	"pokemonName": "Suicune",
+	"pokedexId": 245,
+	"defaultFormId": 1337,
+	"types": [11],
+	"quickMoves": [230, 274, 278, 327],
+	"chargedMoves": [39, 53, 105, 106, 107],
+	"eliteQuickMoves": [281],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1337, 2733],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.9849
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.005
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.5075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.015
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.5175
+		}
+	],
+	"attack": 180,
+	"defense": 235,
+	"stamina": 225,
+	"height": 2.01,
+	"weight": 187,
+	"family": 245,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 20000,
+	"purificationCandy": 20
+}

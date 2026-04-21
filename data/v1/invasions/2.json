@@ -1,0 +1,22 @@
+{
+	"id": 2,
+	"type": "Candela",
+	"gender": 0,
+	"grunt": "Candela",
+	"proto": "CHARACTER_CANDELA",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

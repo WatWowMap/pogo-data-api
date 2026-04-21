@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Drilbur",
+	"pokedexId": 529,
+	"defaultFormId": 1991,
+	"types": [5],
+	"quickMoves": [220, 233],
+	"chargedMoves": [26, 46, 63],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1991],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 154,
+	"defense": 85,
+	"stamina": 155,
+	"height": 0.3,
+	"weight": 8.5,
+	"family": 529,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 530,
+			"formId": 1994,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

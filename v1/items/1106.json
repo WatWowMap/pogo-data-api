@@ -1,8 +1,0 @@
-{
-  "itemId": 1106,
-  "itemName": "Gen4 Evolution Stone",
-  "proto": "ITEM_GEN4_EVOLUTION_STONE",
-  "type": "Evolution Requirement",
-  "category": "Evolution Requirement",
-  "minTrainerLevel": 10
-}

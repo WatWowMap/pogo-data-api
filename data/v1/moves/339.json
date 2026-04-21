@@ -1,0 +1,12 @@
+{
+	"moveId": 339,
+	"moveName": "Techno Blast Water",
+	"proto": "TECHNO_BLAST_WATER",
+	"fast": false,
+	"type": 11,
+	"pvpPower": 120,
+	"pvpEnergyDelta": -55,
+	"power": 120,
+	"durationMs": 2000,
+	"energyDelta": -100
+}

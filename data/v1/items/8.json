@@ -1,0 +1,8 @@
+{
+	"itemId": 8,
+	"itemName": "Wild Ball Premier",
+	"proto": "ITEM_WILD_BALL_PREMIER",
+	"type": "Pokeball",
+	"category": "Pokeball",
+	"minTrainerLevel": 1
+}

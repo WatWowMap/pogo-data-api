@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Remoraid",
+	"pokedexId": 223,
+	"defaultFormId": 1286,
+	"types": [11],
+	"quickMoves": [216, 230],
+	"chargedMoves": [105, 248, 259],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1286],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.0675
+		}
+	],
+	"attack": 127,
+	"defense": 69,
+	"stamina": 111,
+	"height": 0.61,
+	"weight": 12,
+	"family": 223,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 224,
+			"candyCost": 50
+		}
+	]
+}

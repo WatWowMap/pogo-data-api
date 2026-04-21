@@ -1,0 +1,58 @@
+{
+	"id": 7,
+	"type": "Bug",
+	"gender": 1,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_BUG_GRUNT_MALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 48,
+			"formId": 259,
+			"position": "first"
+		},
+		{
+			"id": 588,
+			"formId": 2156,
+			"position": "first"
+		},
+		{
+			"id": 616,
+			"formId": 2240,
+			"position": "first"
+		},
+		{
+			"id": 127,
+			"formId": 898,
+			"position": "second"
+		},
+		{
+			"id": 213,
+			"formId": 827,
+			"position": "second"
+		},
+		{
+			"id": 347,
+			"formId": 1574,
+			"position": "second"
+		},
+		{
+			"id": 212,
+			"formId": 250,
+			"position": "third"
+		},
+		{
+			"id": 545,
+			"formId": 2039,
+			"position": "third"
+		},
+		{
+			"id": 738,
+			"formId": 0,
+			"position": "third"
+		}
+	]
+}

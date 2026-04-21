@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Mudbray",
+	"pokedexId": 749,
+	"defaultFormId": 3098,
+	"types": [5],
+	"quickMoves": [233, 241],
+	"chargedMoves": [31, 95, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3098],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.49
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.5
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.5
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.55
+		}
+	],
+	"attack": 175,
+	"defense": 121,
+	"stamina": 172,
+	"height": 1,
+	"weight": 110,
+	"family": 749,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 750,
+			"candyCost": 50
+		}
+	]
+}

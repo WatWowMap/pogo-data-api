@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Bronzor",
+	"pokedexId": 436,
+	"defaultFormId": 1766,
+	"types": [9, 14],
+	"quickMoves": [221, 235],
+	"chargedMoves": [60, 267, 268, 333],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1766],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.245
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.875
+		}
+	],
+	"attack": 43,
+	"defense": 154,
+	"stamina": 149,
+	"height": 0.5,
+	"weight": 60.5,
+	"family": 436,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 437,
+			"candyCost": 50
+		}
+	]
+}

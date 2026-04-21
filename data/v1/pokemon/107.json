@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Hitmonchan",
+	"pokedexId": 107,
+	"defaultFormId": 277,
+	"types": [2],
+	"quickMoves": [229, 243],
+	"chargedMoves": [33, 77, 115, 245, 319],
+	"eliteQuickMoves": [241],
+	"eliteChargedMoves": [123],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [277],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.17
+		}
+	],
+	"attack": 193,
+	"defense": 197,
+	"stamina": 137,
+	"height": 1.4,
+	"weight": 50.2,
+	"family": 236,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

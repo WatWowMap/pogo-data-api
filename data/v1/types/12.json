@@ -1,0 +1,10 @@
+{
+	"typeId": 12,
+	"typeName": "Grass",
+	"strengths": [5, 6, 11],
+	"weaknesses": [3, 4, 7, 10, 15],
+	"veryWeakAgainst": [],
+	"immunes": [],
+	"weakAgainst": [3, 4, 7, 9, 10, 12, 16],
+	"resistances": [5, 11, 12, 13]
+}

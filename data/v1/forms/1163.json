@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SPINARAK_NORMAL",
+	"formId": 1163,
+	"evolutions": [
+		{
+			"evoId": 168,
+			"formId": 1166,
+			"candyCost": 50
+		}
+	]
+}

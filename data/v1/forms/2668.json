@@ -1,0 +1,20 @@
+{
+	"formName": "Costume 2020",
+	"proto": "SABLEYE_COSTUME_2020",
+	"formId": 2668,
+	"isCostume": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 151,
+			"defense": 216,
+			"stamina": 137,
+			"height": 0.5,
+			"weight": 161,
+			"firstEnergyCost": 100,
+			"subsequentEnergyCost": 20
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

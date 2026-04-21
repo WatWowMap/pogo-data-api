@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Treecko",
+	"pokedexId": 252,
+	"defaultFormId": 1349,
+	"types": [12],
+	"quickMoves": [222, 271],
+	"chargedMoves": [45, 272, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1349],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2499
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.255
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.6375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.765
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.7905
+		}
+	],
+	"attack": 124,
+	"defense": 94,
+	"stamina": 120,
+	"height": 0.51,
+	"weight": 5,
+	"family": 252,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 253,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,21 @@
+{
+	"formName": "Normal",
+	"proto": "RAICHU_NORMAL",
+	"formId": 49,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 2,
+			"attack": 277,
+			"defense": 203,
+			"stamina": 155,
+			"unreleased": true
+		},
+		{
+			"tempEvoId": 3,
+			"attack": 339,
+			"defense": 157,
+			"stamina": 155,
+			"unreleased": true
+		}
+	]
+}

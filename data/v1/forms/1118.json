@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "CHIKORITA_NORMAL",
+	"formId": 1118,
+	"evolutions": [
+		{
+			"evoId": 153,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

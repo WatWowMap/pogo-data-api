@@ -1,0 +1,53 @@
+{
+	"pokemonName": "Genesect",
+	"pokedexId": 649,
+	"defaultFormId": 593,
+	"types": [7, 9],
+	"quickMoves": [200, 228],
+	"chargedMoves": [14, 72, 100],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [593, 594, 595, 596, 597],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.325
+		}
+	],
+	"attack": 252,
+	"defense": 199,
+	"stamina": 174,
+	"height": 1.5,
+	"weight": 82.5,
+	"family": 649,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"transferable": true
+}

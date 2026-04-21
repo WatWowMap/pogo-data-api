@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "POPPLIO_NORMAL",
+	"formId": 3081,
+	"evolutions": [
+		{
+			"evoId": 729,
+			"formId": 3082,
+			"candyCost": 25
+		}
+	]
+}

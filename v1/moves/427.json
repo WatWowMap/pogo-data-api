@@ -1,9 +1,0 @@
-{
-  "moveId": 427,
-  "moveName": "Gmax Wildfire",
-  "proto": "VN_BM_019",
-  "fast": false,
-  "type": 10,
-  "power": 450,
-  "durationMs": 2500
-}

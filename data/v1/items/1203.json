@@ -1,0 +1,8 @@
+{
+	"itemId": 1203,
+	"itemName": "Move Reroll Elite Fast Attack",
+	"proto": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+	"type": "Move Reroll",
+	"category": "Move Reroll",
+	"minTrainerLevel": 1
+}

@@ -1,0 +1,38 @@
+{
+	"id": 44,
+	"type": "Giovanni",
+	"gender": 0,
+	"grunt": "Giovanni",
+	"proto": "CHARACTER_GIOVANNI",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 53,
+			"formId": 65,
+			"position": "first"
+		},
+		{
+			"id": 68,
+			"formId": 815,
+			"position": "second"
+		},
+		{
+			"id": 115,
+			"formId": 839,
+			"position": "second"
+		},
+		{
+			"id": 464,
+			"formId": 852,
+			"position": "second"
+		},
+		{
+			"id": 642,
+			"formId": 142,
+			"position": "third"
+		}
+	]
+}

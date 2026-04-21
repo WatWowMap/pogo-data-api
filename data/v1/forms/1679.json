@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "SHINX_NORMAL",
+	"formId": 1679,
+	"evolutions": [
+		{
+			"evoId": 404,
+			"formId": 1682,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

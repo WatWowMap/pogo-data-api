@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Pheromosa",
+	"pokedexId": 795,
+	"defaultFormId": 3140,
+	"types": [2, 7],
+	"quickMoves": [201, 207],
+	"chargedMoves": [49, 245, 247, 306],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3140],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.79
+		}
+	],
+	"attack": 316,
+	"defense": 85,
+	"stamina": 174,
+	"height": 1.8,
+	"weight": 25,
+	"family": 795,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": true,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

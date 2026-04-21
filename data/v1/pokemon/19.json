@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Rattata",
+	"pokedexId": 19,
+	"defaultFormId": 45,
+	"types": [1],
+	"quickMoves": [219, 221],
+	"chargedMoves": [26, 129, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [45, 46],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 103,
+	"defense": 70,
+	"stamina": 102,
+	"height": 0.3,
+	"weight": 3.5,
+	"family": 19,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 20,
+			"formId": 47,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

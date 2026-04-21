@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Yanmega",
+	"pokedexId": 469,
+	"defaultFormId": 1829,
+	"types": [3, 7],
+	"quickMoves": [201, 210],
+	"chargedMoves": [45, 49, 62],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1829],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.931
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.95
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.425
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.85
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.945
+		}
+	],
+	"attack": 231,
+	"defense": 156,
+	"stamina": 200,
+	"height": 1.9,
+	"weight": 51.5,
+	"family": 193,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

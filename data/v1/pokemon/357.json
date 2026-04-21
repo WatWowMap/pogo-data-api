@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Tropius",
+	"pokedexId": 357,
+	"defaultFormId": 1589,
+	"types": [3, 12],
+	"quickMoves": [215, 255],
+	"chargedMoves": [45, 117, 127, 367],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1589],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.9849
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.005
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.5075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.015
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.02
+		}
+	],
+	"attack": 136,
+	"defense": 163,
+	"stamina": 223,
+	"height": 2.01,
+	"weight": 100,
+	"family": 357,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

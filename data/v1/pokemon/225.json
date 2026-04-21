@@ -1,0 +1,58 @@
+{
+	"pokemonName": "Delibird",
+	"pokedexId": 225,
+	"defaultFormId": 938,
+	"types": [3, 15],
+	"quickMoves": [291],
+	"chargedMoves": [33, 45, 111, 341, 391],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [938, 2671],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.4361
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.445
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.1125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.335
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.5575
+		}
+	],
+	"attack": 128,
+	"defense": 90,
+	"stamina": 128,
+	"height": 0.89,
+	"weight": 16,
+	"family": 225,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

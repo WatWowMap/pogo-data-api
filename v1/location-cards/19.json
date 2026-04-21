@@ -1,8 +1,0 @@
-{
-  "id": 19,
-  "proto": "LC_SPECIALBACKGROUND_TEAM_RED",
-  "formatted": "Team Red",
-  "imageUrl": "sb_TeamLeader_red",
-  "cardType": "SPECIAL_BACKGROUND",
-  "vfxAddress": "bgfx_TeamLeader_red"
-}

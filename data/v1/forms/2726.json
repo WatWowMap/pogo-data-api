@@ -1,0 +1,39 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.176
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.8
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.72
+		}
+	],
+	"formName": "Ice Rider",
+	"proto": "CALYREX_ICE_RIDER",
+	"formId": 2726,
+	"attack": 268,
+	"defense": 246,
+	"stamina": 205,
+	"height": 2.4,
+	"weight": 809.1,
+	"quickMoves": [235, 282],
+	"chargedMoves": [60, 108, 254, 273],
+	"types": [14, 15]
+}

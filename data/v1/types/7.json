@@ -1,0 +1,10 @@
+{
+	"typeId": 7,
+	"typeName": "Bug",
+	"strengths": [12, 14, 17],
+	"weaknesses": [3, 6, 10],
+	"veryWeakAgainst": [],
+	"immunes": [],
+	"weakAgainst": [2, 3, 4, 8, 9, 10, 18],
+	"resistances": [2, 5, 12]
+}

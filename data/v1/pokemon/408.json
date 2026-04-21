@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Cranidos",
+	"pokedexId": 408,
+	"defaultFormId": 1694,
+	"types": [6],
+	"quickMoves": [234, 282],
+	"chargedMoves": [62, 63, 95],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1694],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.8
+		}
+	],
+	"attack": 218,
+	"defense": 71,
+	"stamina": 167,
+	"height": 0.9,
+	"weight": 31.5,
+	"family": 408,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 409,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

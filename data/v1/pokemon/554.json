@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Darumaka",
+	"pokedexId": 554,
+	"defaultFormId": 2063,
+	"types": [10],
+	"quickMoves": [221, 240],
+	"chargedMoves": [101, 115],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2063, 2341],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.93
+		}
+	],
+	"attack": 153,
+	"defense": 86,
+	"stamina": 172,
+	"height": 0.6,
+	"weight": 37.5,
+	"family": 554,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 555,
+			"formId": 138,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

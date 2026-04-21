@@ -1,0 +1,12 @@
+{
+	"moveId": 221,
+	"moveName": "Tackle",
+	"proto": "TACKLE_FAST",
+	"fast": true,
+	"type": 1,
+	"pvpPower": 3,
+	"pvpEnergyDelta": 3,
+	"power": 5,
+	"durationMs": 500,
+	"energyDelta": 5
+}

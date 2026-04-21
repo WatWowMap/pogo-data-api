@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "MELTAN_NORMAL",
+	"formId": 2321,
+	"evolutions": [
+		{
+			"evoId": 809,
+			"formId": 2324,
+			"candyCost": 400
+		}
+	]
+}

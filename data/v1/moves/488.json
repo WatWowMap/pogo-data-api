@@ -1,0 +1,16 @@
+{
+	"moveId": 488,
+	"moveName": "Chilling Water",
+	"proto": "CHILLING_WATER",
+	"fast": false,
+	"type": 11,
+	"pvpPower": 60,
+	"pvpEnergyDelta": -45,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 65,
+	"durationMs": 3500,
+	"energyDelta": -33
+}

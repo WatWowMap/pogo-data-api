@@ -1,8 +1,0 @@
-{
-  "itemId": 401,
-  "itemName": "Incense Ordinary",
-  "proto": "ITEM_INCENSE_ORDINARY",
-  "type": "Incense",
-  "category": "Incense",
-  "minTrainerLevel": 1
-}

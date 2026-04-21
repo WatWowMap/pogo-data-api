@@ -1,0 +1,20 @@
+{
+	"formName": "Hisuian",
+	"proto": "VOLTORB_HISUIAN",
+	"formId": 2728,
+	"height": 0.5,
+	"weight": 13,
+	"quickMoves": [221, 249],
+	"chargedMoves": [79, 125, 273],
+	"eliteChargedMoves": [],
+	"types": [12, 13],
+	"evolutions": [
+		{
+			"evoId": 101,
+			"formId": 2735,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

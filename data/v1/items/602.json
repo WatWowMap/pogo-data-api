@@ -1,0 +1,8 @@
+{
+	"itemId": 602,
+	"itemName": "X Attack",
+	"proto": "ITEM_X_ATTACK",
+	"type": "Battle",
+	"category": "Boost",
+	"minTrainerLevel": 100
+}

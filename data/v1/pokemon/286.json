@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Breloom",
+	"pokedexId": 286,
+	"defaultFormId": 1421,
+	"types": [2, 12],
+	"quickMoves": [243, 271, 462],
+	"chargedMoves": [59, 90, 246],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [272],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1421],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.5831
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.595
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.8925
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.4875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.785
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.0825
+		}
+	],
+	"attack": 241,
+	"defense": 144,
+	"stamina": 155,
+	"height": 1.19,
+	"weight": 39.2,
+	"family": 285,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 600,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

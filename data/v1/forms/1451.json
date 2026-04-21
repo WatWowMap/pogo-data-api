@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "MAKUHITA_NORMAL",
+	"formId": 1451,
+	"evolutions": [
+		{
+			"evoId": 297,
+			"formId": 1454,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

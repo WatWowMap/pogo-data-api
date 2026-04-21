@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "PAWMI_NORMAL",
+	"formId": 3236,
+	"evolutions": [
+		{
+			"evoId": 922,
+			"formId": 3237,
+			"candyCost": 25
+		}
+	]
+}

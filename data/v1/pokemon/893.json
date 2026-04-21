@@ -1,0 +1,52 @@
+{
+	"pokemonName": "Zarude",
+	"pokedexId": 893,
+	"defaultFormId": 3213,
+	"types": [12, 17],
+	"quickMoves": [202, 214],
+	"chargedMoves": [16, 118, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3213],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.882
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.35
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.79
+		}
+	],
+	"attack": 242,
+	"defense": 215,
+	"stamina": 233,
+	"height": 1.8,
+	"weight": 70,
+	"family": 893,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100
+}

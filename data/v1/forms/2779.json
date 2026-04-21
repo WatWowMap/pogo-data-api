@@ -1,0 +1,12 @@
+{
+	"formName": "Polar",
+	"proto": "SPEWPA_POLAR",
+	"formId": 2779,
+	"evolutions": [
+		{
+			"evoId": 666,
+			"formId": 2608,
+			"candyCost": 100
+		}
+	]
+}

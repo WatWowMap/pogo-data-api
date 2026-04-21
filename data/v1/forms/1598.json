@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "SPHEAL_NORMAL",
+	"formId": 1598,
+	"evolutions": [
+		{
+			"evoId": 364,
+			"formId": 1601,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

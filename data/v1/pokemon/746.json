@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Wishiwashi",
+	"pokedexId": 746,
+	"defaultFormId": 2687,
+	"types": [11],
+	"quickMoves": [230, 266, 283],
+	"chargedMoves": [58, 104, 284],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [2687, 2688],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.4
+		}
+	],
+	"attack": 46,
+	"defense": 43,
+	"stamina": 128,
+	"height": 0.2,
+	"weight": 0.3,
+	"family": 746,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 1,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

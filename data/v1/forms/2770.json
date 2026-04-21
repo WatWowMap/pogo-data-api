@@ -1,0 +1,12 @@
+{
+	"formName": "High Plains",
+	"proto": "SPEWPA_HIGH_PLAINS",
+	"formId": 2770,
+	"evolutions": [
+		{
+			"evoId": 666,
+			"formId": 2599,
+			"candyCost": 100
+		}
+	]
+}

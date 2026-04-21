@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "SEADRA_NORMAL",
+	"formId": 1065,
+	"evolutions": [
+		{
+			"evoId": 230,
+			"formId": 1298,
+			"candyCost": 100,
+			"itemRequirement": 1104
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

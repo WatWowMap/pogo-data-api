@@ -1,0 +1,71 @@
+{
+	"pokemonName": "Gengar",
+	"pokedexId": 94,
+	"defaultFormId": 1044,
+	"types": [4, 8],
+	"quickMoves": [203, 213, 264],
+	"chargedMoves": [70, 90, 247, 314],
+	"eliteQuickMoves": [212],
+	"eliteChargedMoves": [16, 67, 91, 108],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [1044, 2586],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3
+		}
+	],
+	"attack": 261,
+	"defense": 149,
+	"stamina": 155,
+	"height": 1.5,
+	"weight": 40.5,
+	"family": 92,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 349,
+			"defense": 199,
+			"stamina": 155,
+			"height": 1.4,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

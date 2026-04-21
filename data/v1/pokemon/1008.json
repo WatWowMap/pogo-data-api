@@ -1,0 +1,53 @@
+{
+	"pokemonName": "Miraidon",
+	"pokedexId": 1008,
+	"defaultFormId": 2997,
+	"types": [13, 16],
+	"quickMoves": [204, 205],
+	"chargedMoves": [14, 78, 82, 277],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [2997],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.715
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.625
+		},
+		{
+			"name": "mUpperBound",
+			"value": 4.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 5.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 5.425
+		}
+	],
+	"attack": 263,
+	"defense": 223,
+	"stamina": 205,
+	"height": 3.5,
+	"weight": 240,
+	"family": 1008,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

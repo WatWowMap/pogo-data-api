@@ -1,0 +1,12 @@
+{
+	"moveId": 117,
+	"moveName": "Leaf Blade",
+	"proto": "LEAF_BLADE",
+	"fast": false,
+	"type": 12,
+	"pvpPower": 70,
+	"pvpEnergyDelta": -35,
+	"power": 70,
+	"durationMs": 2500,
+	"energyDelta": -33
+}

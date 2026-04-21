@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "STARYU_NORMAL",
+	"formId": 1074,
+	"evolutions": [
+		{
+			"evoId": 121,
+			"formId": 1077,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

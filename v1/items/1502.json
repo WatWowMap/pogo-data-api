@@ -1,8 +1,0 @@
-{
-  "itemId": 1502,
-  "itemName": "Leader Map",
-  "proto": "ITEM_LEADER_MAP",
-  "type": "Incident Ticket",
-  "category": "Incident Ticket",
-  "minTrainerLevel": 8
-}

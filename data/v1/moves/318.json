@@ -1,0 +1,16 @@
+{
+	"moveId": 318,
+	"moveName": "Razor Shell",
+	"proto": "RAZOR_SHELL",
+	"fast": false,
+	"type": 11,
+	"pvpPower": 35,
+	"pvpEnergyDelta": -35,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 0.5
+	},
+	"power": 55,
+	"durationMs": 1500,
+	"energyDelta": -33
+}

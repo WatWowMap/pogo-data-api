@@ -1,9 +1,0 @@
-{
-  "moveId": 242,
-  "moveName": "Transform",
-  "proto": "TRANSFORM_FAST",
-  "fast": true,
-  "type": 1,
-  "pvpDurationTurns": 2,
-  "durationMs": 2000
-}

@@ -1,0 +1,13 @@
+{
+	"moveId": 237,
+	"moveName": "Bubble",
+	"proto": "BUBBLE_FAST",
+	"fast": true,
+	"type": 11,
+	"pvpPower": 8,
+	"pvpEnergyDelta": 11,
+	"pvpDurationTurns": 2,
+	"power": 10,
+	"durationMs": 1000,
+	"energyDelta": 12
+}

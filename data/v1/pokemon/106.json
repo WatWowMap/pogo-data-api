@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Hitmonlee",
+	"pokedexId": 106,
+	"defaultFormId": 713,
+	"types": [2],
+	"quickMoves": [207, 241, 356],
+	"chargedMoves": [32, 56, 245, 317],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [123, 127],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [713],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.325
+		}
+	],
+	"attack": 224,
+	"defense": 181,
+	"stamina": 137,
+	"height": 1.5,
+	"weight": 49.8,
+	"family": 236,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

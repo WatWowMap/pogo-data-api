@@ -1,0 +1,11 @@
+{
+	"formName": "Trash",
+	"proto": "WORMADAM_TRASH",
+	"formId": 89,
+	"attack": 127,
+	"defense": 175,
+	"stamina": 155,
+	"quickMoves": [201, 203, 235, 402],
+	"chargedMoves": [30, 49, 74],
+	"types": [7, 9]
+}

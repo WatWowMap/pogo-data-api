@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Nidoqueen",
+	"pokedexId": 31,
+	"defaultFormId": 782,
+	"types": [4, 5],
+	"quickMoves": [202, 224, 233, 236],
+	"chargedMoves": [31, 32, 50, 91, 304],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [782],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.637
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.65
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.975
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.95
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.6
+		}
+	],
+	"attack": 180,
+	"defense": 173,
+	"stamina": 207,
+	"height": 1.3,
+	"weight": 60,
+	"family": 29,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

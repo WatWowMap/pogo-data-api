@@ -1,0 +1,71 @@
+{
+	"pokemonName": "Scizor",
+	"pokedexId": 212,
+	"defaultFormId": 250,
+	"types": [7, 9],
+	"quickMoves": [200, 229],
+	"chargedMoves": [51, 74, 100, 392],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [250],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.9849
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.005
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.5075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.015
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.1155
+		}
+	],
+	"attack": 236,
+	"defense": 181,
+	"stamina": 172,
+	"height": 2.01,
+	"weight": 125,
+	"family": 123,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"buddyMegaEnergy": 25,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 279,
+			"defense": 250,
+			"stamina": 172,
+			"height": 2,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

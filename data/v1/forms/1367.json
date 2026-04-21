@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "POOCHYENA_NORMAL",
+	"formId": 1367,
+	"evolutions": [
+		{
+			"evoId": 262,
+			"formId": 1370,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

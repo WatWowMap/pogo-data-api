@@ -1,0 +1,9 @@
+{
+	"moveId": 458,
+	"moveName": "Gmax Oneblow",
+	"proto": "VN_BM_050",
+	"fast": false,
+	"type": 17,
+	"power": 450,
+	"durationMs": 2500
+}

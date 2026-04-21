@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "LOTAD_NORMAL",
+	"formId": 1391,
+	"evolutions": [
+		{
+			"evoId": 271,
+			"formId": 1394,
+			"candyCost": 25
+		}
+	]
+}

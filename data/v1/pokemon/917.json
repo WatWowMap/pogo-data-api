@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Tarountula",
+	"pokedexId": 917,
+	"defaultFormId": 3232,
+	"types": [7],
+	"quickMoves": [201, 261],
+	"chargedMoves": [100, 272, 306],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3232],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 70,
+	"defense": 77,
+	"stamina": 111,
+	"height": 0.3,
+	"weight": 4,
+	"family": 917,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 1,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 918,
+			"candyCost": 50
+		}
+	]
+}

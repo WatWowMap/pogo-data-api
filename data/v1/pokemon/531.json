@@ -1,0 +1,70 @@
+{
+	"pokemonName": "Audino",
+	"pokedexId": 531,
+	"defaultFormId": 1997,
+	"types": [1],
+	"quickMoves": [222, 234],
+	"chargedMoves": [14, 84, 86, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1997],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.705
+		}
+	],
+	"attack": 114,
+	"defense": 163,
+	"stamina": 230,
+	"height": 1.1,
+	"weight": 31,
+	"family": 531,
+	"bonusStardustCapture": 2000,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 147,
+			"defense": 239,
+			"stamina": 230,
+			"height": 1.5,
+			"weight": 32,
+			"types": [1, 18],
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	]
+}

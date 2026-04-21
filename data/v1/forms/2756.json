@@ -1,0 +1,12 @@
+{
+	"formName": "Monsoon",
+	"proto": "SCATTERBUG_MONSOON",
+	"formId": 2756,
+	"evolutions": [
+		{
+			"evoId": 665,
+			"formId": 2776,
+			"candyCost": 25
+		}
+	]
+}

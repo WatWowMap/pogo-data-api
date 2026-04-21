@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "POIPOLE_NORMAL",
+	"formId": 3146,
+	"evolutions": [
+		{
+			"evoId": 804,
+			"formId": 3147,
+			"candyCost": 200,
+			"questRequirement": "NAGANADEL_EVOLUTION_QUEST"
+		}
+	]
+}

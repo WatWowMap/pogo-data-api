@@ -1,0 +1,13 @@
+{
+	"moveId": 243,
+	"moveName": "Counter",
+	"proto": "COUNTER_FAST",
+	"fast": true,
+	"type": 2,
+	"pvpPower": 8,
+	"pvpEnergyDelta": 6,
+	"pvpDurationTurns": 1,
+	"power": 13,
+	"durationMs": 1000,
+	"energyDelta": 9
+}

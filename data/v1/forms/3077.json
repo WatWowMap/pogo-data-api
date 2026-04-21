@@ -1,0 +1,16 @@
+{
+	"formName": "Normal",
+	"proto": "DARTRIX_NORMAL",
+	"formId": 3077,
+	"evolutions": [
+		{
+			"evoId": 724,
+			"candyCost": 100
+		},
+		{
+			"evoId": 724,
+			"formId": 2785,
+			"candyCost": 100
+		}
+	]
+}

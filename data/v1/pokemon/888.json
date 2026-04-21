@@ -1,0 +1,134 @@
+{
+	"pokemonName": "Zacian",
+	"pokedexId": 888,
+	"defaultFormId": 2577,
+	"types": [9, 18],
+	"quickMoves": [219, 228, 240, 278],
+	"chargedMoves": [74, 88, 245, 251],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [2576, 2577],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.372
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.1
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 4.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.34
+		}
+	],
+	"attack": 254,
+	"defense": 236,
+	"stamina": 192,
+	"height": 2.8,
+	"weight": 110,
+	"family": 888,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true,
+	"formChanges": [
+		{
+			"availableForms": [2576],
+			"candyCost": 30,
+			"itemRequirement": 1153,
+			"itemCostCount": 1000,
+			"moveReassignment": {
+				"chargedMoves": [
+					{
+						"existingMoves": [74],
+						"replacementMoves": [469]
+					}
+				]
+			},
+			"requiredChargedMoves": [
+				{
+					"requiredMoves": [74]
+				}
+			],
+			"formChangeBonusAttributes": [
+				{
+					"targetForm": 2576,
+					"breadMode": "BREAD_SPECIAL_MODE",
+					"maxMoves": [
+						{
+							"moveType": "A",
+							"moveLevel": "LEVEL_1"
+						}
+					]
+				}
+			],
+			"locationCardSettings": [
+				{
+					"existingLocationCard": 87,
+					"replacementLocationCard": 90
+				}
+			]
+		},
+		{
+			"availableForms": [2576],
+			"moveReassignment": {
+				"chargedMoves": [
+					{
+						"existingMoves": [74],
+						"replacementMoves": [469]
+					}
+				]
+			},
+			"requiredChargedMoves": [
+				{
+					"requiredMoves": [74]
+				}
+			],
+			"requiredBreadMoves": [
+				{
+					"moveTypes": ["A"],
+					"moveLevel": "LEVEL_1"
+				}
+			],
+			"priority": 1,
+			"formChangeBonusAttributes": [
+				{
+					"targetForm": 2576,
+					"breadMode": "BREAD_SPECIAL_MODE",
+					"maxMoves": [
+						{
+							"moveType": "A",
+							"moveLevel": "LEVEL_1"
+						}
+					]
+				}
+			],
+			"locationCardSettings": [
+				{
+					"existingLocationCard": 87,
+					"replacementLocationCard": 90
+				}
+			]
+		}
+	]
+}

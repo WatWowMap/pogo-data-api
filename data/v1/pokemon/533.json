@@ -1,0 +1,66 @@
+{
+	"pokemonName": "Gurdurr",
+	"pokedexId": 533,
+	"defaultFormId": 2003,
+	"types": [2],
+	"quickMoves": [207, 224],
+	"chargedMoves": [32, 56, 123],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2003],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.588
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.8
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.86
+		}
+	],
+	"attack": 180,
+	"defense": 134,
+	"stamina": 198,
+	"height": 1.2,
+	"weight": 40,
+	"family": 532,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 534,
+			"candyCost": 200,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

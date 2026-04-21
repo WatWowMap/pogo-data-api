@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "SHELGON_NORMAL",
+	"formId": 758,
+	"evolutions": [
+		{
+			"evoId": 373,
+			"formId": 761,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

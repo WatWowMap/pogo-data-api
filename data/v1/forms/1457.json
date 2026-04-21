@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "AZURILL_NORMAL",
+	"formId": 1457,
+	"evolutions": [
+		{
+			"evoId": 183,
+			"formId": 1196,
+			"candyCost": 25
+		}
+	]
+}

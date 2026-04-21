@@ -1,0 +1,8 @@
+{
+	"formName": "Sandy",
+	"proto": "WORMADAM_SANDY",
+	"formId": 88,
+	"quickMoves": [201, 203, 235],
+	"chargedMoves": [30, 49, 95],
+	"types": [5, 7]
+}

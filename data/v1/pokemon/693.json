@@ -1,0 +1,56 @@
+{
+	"pokemonName": "Clawitzer",
+	"pokedexId": 693,
+	"defaultFormId": 3055,
+	"types": [11],
+	"quickMoves": [230, 297],
+	"chargedMoves": [16, 39, 105, 305],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3055],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.637
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.65
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.975
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.95
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.275
+		}
+	],
+	"attack": 221,
+	"defense": 171,
+	"stamina": 174,
+	"height": 1.3,
+	"weight": 35.3,
+	"family": 692,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

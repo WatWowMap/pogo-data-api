@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "BARBARACLE_NORMAL",
+	"formId": 3051,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 268,
+			"defense": 248,
+			"stamina": 176,
+			"types": [2, 6],
+			"unreleased": true
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Rhyperior",
+	"pokedexId": 464,
+	"defaultFormId": 852,
+	"types": [5, 6],
+	"quickMoves": [233, 297],
+	"chargedMoves": [31, 32, 284, 302, 310, 379],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [334],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [852],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.176
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.8
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.72
+		}
+	],
+	"attack": 241,
+	"defense": 190,
+	"stamina": 251,
+	"height": 2.4,
+	"weight": 282.8,
+	"family": 111,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,41 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.635
+		}
+	],
+	"formName": "Galarian Zen",
+	"proto": "DARMANITAN_GALARIAN_ZEN",
+	"formId": 2343,
+	"attack": 323,
+	"defense": 123,
+	"stamina": 233,
+	"height": 1.7,
+	"weight": 120,
+	"quickMoves": [221, 327],
+	"chargedMoves": [33, 254, 270, 310],
+	"types": [10, 15],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

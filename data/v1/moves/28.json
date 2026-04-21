@@ -1,0 +1,12 @@
+{
+	"moveId": 28,
+	"moveName": "Cross Chop",
+	"proto": "CROSS_CHOP",
+	"fast": false,
+	"type": 2,
+	"pvpPower": 55,
+	"pvpEnergyDelta": -35,
+	"power": 50,
+	"durationMs": 1500,
+	"energyDelta": -50
+}

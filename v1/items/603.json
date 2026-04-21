@@ -1,8 +1,0 @@
-{
-  "itemId": 603,
-  "itemName": "X Defense",
-  "proto": "ITEM_X_DEFENSE",
-  "type": "Battle",
-  "category": "Boost",
-  "minTrainerLevel": 100
-}

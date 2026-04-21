@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "KARRABLAST_NORMAL",
+	"formId": 2156,
+	"evolutions": [
+		{
+			"evoId": 589,
+			"formId": 2159,
+			"candyCost": 200,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

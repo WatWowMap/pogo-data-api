@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Goldeen",
+	"pokedexId": 118,
+	"defaultFormId": 1068,
+	"types": [11],
+	"quickMoves": [211, 216],
+	"chargedMoves": [58, 105, 126],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [1068],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.2
+		}
+	],
+	"attack": 123,
+	"defense": 110,
+	"stamina": 128,
+	"height": 0.6,
+	"weight": 15,
+	"family": 118,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 119,
+			"candyCost": 50
+		}
+	]
+}

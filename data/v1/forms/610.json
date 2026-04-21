@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "CACNEA_NORMAL",
+	"formId": 610,
+	"evolutions": [
+		{
+			"evoId": 332,
+			"formId": 613,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

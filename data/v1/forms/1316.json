@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SMOOCHUM_NORMAL",
+	"formId": 1316,
+	"evolutions": [
+		{
+			"evoId": 124,
+			"formId": 1083,
+			"candyCost": 25
+		}
+	]
+}

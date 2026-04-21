@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Skiddo",
+	"pokedexId": 672,
+	"defaultFormId": 3037,
+	"types": [12],
+	"quickMoves": [234, 241],
+	"chargedMoves": [59, 123],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3037],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.575
+		}
+	],
+	"attack": 123,
+	"defense": 102,
+	"stamina": 165,
+	"height": 0.9,
+	"weight": 31,
+	"family": 672,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 673,
+			"candyCost": 50
+		}
+	]
+}

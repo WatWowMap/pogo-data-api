@@ -1,0 +1,8 @@
+{
+	"itemId": 904,
+	"itemName": "Incubator Timed",
+	"proto": "ITEM_INCUBATOR_TIMED",
+	"type": "Incubator",
+	"category": "Incubator",
+	"minTrainerLevel": 100
+}

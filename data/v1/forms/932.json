@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "SNOVER_NORMAL",
+	"formId": 932,
+	"evolutions": [
+		{
+			"evoId": 460,
+			"formId": 935,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

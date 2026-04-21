@@ -1,0 +1,67 @@
+{
+	"pokemonName": "Charcadet",
+	"pokedexId": 935,
+	"defaultFormId": 3248,
+	"types": [10],
+	"quickMoves": [209, 346],
+	"chargedMoves": [24, 42, 101],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3248],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.93
+		}
+	],
+	"attack": 92,
+	"defense": 74,
+	"stamina": 120,
+	"height": 0.6,
+	"weight": 10.5,
+	"family": 935,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 936,
+			"candyCost": 50,
+			"questRequirement": "CHARCADET_ARMAROUGE_EVOLUTION_QUEST"
+		},
+		{
+			"evoId": 937,
+			"candyCost": 50,
+			"questRequirement": "CHARCADET_CERULEDGE_EVOLUTION_QUEST"
+		}
+	]
+}

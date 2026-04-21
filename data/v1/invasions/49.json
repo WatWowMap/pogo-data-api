@@ -1,0 +1,58 @@
+{
+	"id": 49,
+	"type": "Electric",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 81,
+			"formId": 655,
+			"position": "first"
+		},
+		{
+			"id": 100,
+			"formId": 1047,
+			"position": "first"
+		},
+		{
+			"id": 403,
+			"formId": 1679,
+			"position": "first"
+		},
+		{
+			"id": 74,
+			"formId": 68,
+			"position": "second"
+		},
+		{
+			"id": 100,
+			"formId": 1047,
+			"position": "second"
+		},
+		{
+			"id": 125,
+			"formId": 640,
+			"position": "second"
+		},
+		{
+			"id": 181,
+			"formId": 652,
+			"position": "third"
+		},
+		{
+			"id": 405,
+			"formId": 1685,
+			"position": "third"
+		},
+		{
+			"id": 596,
+			"formId": 2180,
+			"position": "third"
+		}
+	]
+}

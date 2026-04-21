@@ -1,0 +1,12 @@
+{
+	"formName": "Spring",
+	"proto": "DEERLING_SPRING",
+	"formId": 585,
+	"evolutions": [
+		{
+			"evoId": 586,
+			"formId": 589,
+			"candyCost": 50
+		}
+	]
+}

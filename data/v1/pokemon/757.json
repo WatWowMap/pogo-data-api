@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Salandit",
+	"pokedexId": 757,
+	"defaultFormId": 3106,
+	"types": [4, 10],
+	"quickMoves": [209, 224],
+	"chargedMoves": [24, 50, 82],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3106],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 136,
+	"defense": 80,
+	"stamina": 134,
+	"height": 0.6,
+	"weight": 4.8,
+	"family": 757,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 758,
+			"genderRequirement": 2,
+			"candyCost": 50
+		}
+	]
+}

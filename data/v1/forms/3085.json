@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "TRUMBEAK_NORMAL",
+	"formId": 3085,
+	"evolutions": [
+		{
+			"evoId": 733,
+			"formId": 3086,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

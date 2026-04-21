@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Sandile",
+	"pokedexId": 551,
+	"defaultFormId": 2054,
+	"types": [5, 17],
+	"quickMoves": [202, 233],
+	"chargedMoves": [26, 95, 279],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2054],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.343
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.35
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.525
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.05
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.225
+		}
+	],
+	"attack": 132,
+	"defense": 69,
+	"stamina": 137,
+	"height": 0.7,
+	"weight": 15.2,
+	"family": 551,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 552,
+			"candyCost": 25
+		}
+	]
+}

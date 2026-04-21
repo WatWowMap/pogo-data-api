@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Runerigus",
+	"pokedexId": 867,
+	"defaultFormId": 2516,
+	"types": [5, 8],
+	"quickMoves": [213, 263],
+	"chargedMoves": [63, 70, 258, 367],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [2516],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.784
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.8
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.4
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.48
+		}
+	],
+	"attack": 163,
+	"defense": 237,
+	"stamina": 151,
+	"height": 1.6,
+	"weight": 66.6,
+	"family": 562,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,16 @@
+{
+	"moveId": 108,
+	"moveName": "Psychic",
+	"proto": "PSYCHIC",
+	"fast": false,
+	"type": 14,
+	"pvpPower": 75,
+	"pvpEnergyDelta": -55,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 0.1
+	},
+	"power": 95,
+	"durationMs": 3000,
+	"energyDelta": -50
+}

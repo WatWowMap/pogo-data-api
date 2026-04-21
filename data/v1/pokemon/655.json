@@ -1,0 +1,68 @@
+{
+	"pokemonName": "Delphox",
+	"pokedexId": 655,
+	"defaultFormId": 3027,
+	"types": [10, 14],
+	"quickMoves": [220, 234, 269],
+	"chargedMoves": [24, 60, 101, 103, 108, 382],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [298],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3027],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.625
+		}
+	],
+	"attack": 230,
+	"defense": 189,
+	"stamina": 181,
+	"height": 1.5,
+	"weight": 39,
+	"family": 653,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 331,
+			"defense": 235,
+			"stamina": 181,
+			"unreleased": true
+		}
+	]
+}

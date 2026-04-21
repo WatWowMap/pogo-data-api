@@ -1,0 +1,9 @@
+{
+	"moveId": 446,
+	"moveName": "Gmax Stun Shock",
+	"proto": "VN_BM_038",
+	"fast": false,
+	"type": 13,
+	"power": 450,
+	"durationMs": 2500
+}

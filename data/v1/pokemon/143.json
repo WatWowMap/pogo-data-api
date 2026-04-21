@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Snorlax",
+	"pokedexId": 143,
+	"defaultFormId": 199,
+	"types": [1],
+	"quickMoves": [212, 234],
+	"chargedMoves": [14, 31, 131, 268, 277, 302, 310],
+	"eliteQuickMoves": [287],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [199, 2849],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.029
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.15
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.675
+		}
+	],
+	"attack": 190,
+	"defense": 169,
+	"stamina": 330,
+	"height": 2.1,
+	"weight": 460,
+	"family": 143,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

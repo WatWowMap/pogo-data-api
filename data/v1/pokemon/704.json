@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Goomy",
+	"pokedexId": 704,
+	"defaultFormId": 3065,
+	"types": [16],
+	"quickMoves": [221, 230],
+	"chargedMoves": [82, 91, 316],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3065],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 101,
+	"defense": 112,
+	"stamina": 128,
+	"height": 0.3,
+	"weight": 2.8,
+	"family": 704,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 705,
+			"candyCost": 25
+		},
+		{
+			"evoId": 705,
+			"formId": 2790,
+			"candyCost": 25
+		}
+	]
+}

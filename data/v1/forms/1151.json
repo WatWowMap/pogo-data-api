@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "HOOTHOOT_NORMAL",
+	"formId": 1151,
+	"evolutions": [
+		{
+			"evoId": 164,
+			"formId": 1154,
+			"candyCost": 50
+		}
+	],
+	"costumeOverrideEvos": [
+		{
+			"costumeId": 54,
+			"costumeProto": "JAN_2022_NOEVOLVE",
+			"costumeName": "Jan 2022 Noevolve"
+		}
+	]
+}

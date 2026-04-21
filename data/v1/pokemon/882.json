@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Dracovish",
+	"pokedexId": 882,
+	"defaultFormId": 3206,
+	"types": [11, 16],
+	"quickMoves": [204, 230],
+	"chargedMoves": [62, 82, 104],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3206],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.127
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.725
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.565
+		}
+	],
+	"attack": 175,
+	"defense": 185,
+	"stamina": 207,
+	"height": 2.3,
+	"weight": 215,
+	"family": 882,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

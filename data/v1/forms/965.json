@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "PIDGEOTTO_NORMAL",
+	"formId": 965,
+	"evolutions": [
+		{
+			"evoId": 18,
+			"formId": 968,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

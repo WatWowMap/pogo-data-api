@@ -1,0 +1,8 @@
+{
+	"itemId": 4,
+	"itemName": "Master Ball",
+	"proto": "ITEM_MASTER_BALL",
+	"type": "Pokeball",
+	"category": "Pokeball",
+	"minTrainerLevel": 1
+}

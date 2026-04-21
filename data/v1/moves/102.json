@@ -1,0 +1,12 @@
+{
+	"moveId": 102,
+	"moveName": "Flame Burst",
+	"proto": "FLAME_BURST",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 70,
+	"pvpEnergyDelta": -55,
+	"power": 70,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

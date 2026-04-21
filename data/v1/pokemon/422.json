@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Shellos",
+	"pokedexId": 422,
+	"defaultFormId": 96,
+	"types": [11],
+	"quickMoves": [233, 281],
+	"chargedMoves": [96, 105, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [96, 97, 1736],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 103,
+	"defense": 105,
+	"stamina": 183,
+	"height": 0.3,
+	"weight": 6.3,
+	"family": 422,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 423,
+			"formId": 99,
+			"candyCost": 50
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Drakloak",
+	"pokedexId": 886,
+	"defaultFormId": 3210,
+	"types": [8, 16],
+	"quickMoves": [253, 263],
+	"chargedMoves": [70, 82, 277],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3210],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.45
+		}
+	],
+	"attack": 163,
+	"defense": 105,
+	"stamina": 169,
+	"height": 1.4,
+	"weight": 11,
+	"family": 885,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 887,
+			"candyCost": 100
+		}
+	]
+}

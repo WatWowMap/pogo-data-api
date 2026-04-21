@@ -1,0 +1,9 @@
+{
+	"moveId": 426,
+	"moveName": "Max Steelspike",
+	"proto": "VN_BM_018",
+	"fast": false,
+	"type": 9,
+	"power": 350,
+	"durationMs": 2500
+}

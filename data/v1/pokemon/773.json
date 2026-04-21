@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Silvally",
+	"pokedexId": 773,
+	"defaultFormId": 2689,
+	"types": [1],
+	"quickMoves": [202, 221, 282],
+	"chargedMoves": [45, 74, 100, 344],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [
+		2689, 2690, 2691, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, 2700,
+		2701, 2702, 2703, 2704, 2705, 2706
+	],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.127
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.725
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.565
+		}
+	],
+	"attack": 198,
+	"defense": 198,
+	"stamina": 216,
+	"height": 2.3,
+	"weight": 100.5,
+	"family": 772,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "PIDOVE_NORMAL",
+	"formId": 1961,
+	"evolutions": [
+		{
+			"evoId": 520,
+			"formId": 1964,
+			"candyCost": 12
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

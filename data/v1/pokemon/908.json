@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Meowscarada",
+	"pokedexId": 908,
+	"defaultFormId": 3224,
+	"types": [12, 17],
+	"quickMoves": [320, 385],
+	"chargedMoves": [51, 88, 272, 273, 465],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [296],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3224],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.325
+		}
+	],
+	"attack": 233,
+	"defense": 153,
+	"stamina": 183,
+	"height": 1.5,
+	"weight": 31.2,
+	"family": 906,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

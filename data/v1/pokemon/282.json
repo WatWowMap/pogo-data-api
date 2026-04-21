@@ -1,0 +1,69 @@
+{
+	"pokemonName": "Gardevoir",
+	"pokedexId": 282,
+	"defaultFormId": 298,
+	"types": [14, 18],
+	"quickMoves": [235, 249, 320, 357],
+	"chargedMoves": [70, 86, 108, 391],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [324],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [298],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.784
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.8
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.4
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.48
+		}
+	],
+	"attack": 237,
+	"defense": 195,
+	"stamina": 169,
+	"height": 1.6,
+	"weight": 48.4,
+	"family": 280,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 326,
+			"defense": 229,
+			"stamina": 169,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

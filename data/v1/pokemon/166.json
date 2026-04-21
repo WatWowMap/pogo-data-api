@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Ledian",
+	"pokedexId": 166,
+	"defaultFormId": 1160,
+	"types": [3, 7],
+	"quickMoves": [201, 243, 261],
+	"chargedMoves": [45, 49, 246, 262],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1160],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.45
+		}
+	],
+	"attack": 107,
+	"defense": 179,
+	"stamina": 146,
+	"height": 1.4,
+	"weight": 35.6,
+	"family": 165,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 5,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

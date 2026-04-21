@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "CHARJABUG_NORMAL",
+	"formId": 3090,
+	"evolutions": [
+		{
+			"evoId": 738,
+			"formId": 3091,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

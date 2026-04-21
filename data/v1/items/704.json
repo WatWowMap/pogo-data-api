@@ -1,0 +1,8 @@
+{
+	"itemId": 704,
+	"itemName": "Wepar Berry",
+	"proto": "ITEM_WEPAR_BERRY",
+	"type": "Food",
+	"category": "Food",
+	"minTrainerLevel": 100
+}

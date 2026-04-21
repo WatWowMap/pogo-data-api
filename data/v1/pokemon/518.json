@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Musharna",
+	"pokedexId": 518,
+	"defaultFormId": 1958,
+	"types": [14],
+	"quickMoves": [234, 249],
+	"chargedMoves": [60, 86, 275],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1958],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.705
+		}
+	],
+	"attack": 183,
+	"defense": 166,
+	"stamina": 253,
+	"height": 1.1,
+	"weight": 60.5,
+	"family": 517,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

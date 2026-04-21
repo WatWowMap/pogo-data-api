@@ -1,0 +1,6 @@
+{
+	"weatherId": 5,
+	"weatherName": "Windy",
+	"proto": "WINDY",
+	"types": [3, 14, 16]
+}

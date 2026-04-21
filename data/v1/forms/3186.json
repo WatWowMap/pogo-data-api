@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SIZZLIPEDE_NORMAL",
+	"formId": 3186,
+	"evolutions": [
+		{
+			"evoId": 851,
+			"formId": 3187,
+			"candyCost": 50
+		}
+	]
+}

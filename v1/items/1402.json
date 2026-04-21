@@ -1,8 +1,0 @@
-{
-  "itemId": 1402,
-  "itemName": "Paid Raid Ticket",
-  "proto": "ITEM_PAID_RAID_TICKET",
-  "type": "Raid Ticket",
-  "category": "Raid Ticket",
-  "minTrainerLevel": 1
-}

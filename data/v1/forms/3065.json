@@ -1,0 +1,16 @@
+{
+	"formName": "Normal",
+	"proto": "GOOMY_NORMAL",
+	"formId": 3065,
+	"evolutions": [
+		{
+			"evoId": 705,
+			"candyCost": 25
+		},
+		{
+			"evoId": 705,
+			"formId": 2790,
+			"candyCost": 25
+		}
+	]
+}

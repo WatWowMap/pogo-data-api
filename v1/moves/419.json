@@ -1,9 +1,0 @@
-{
-  "moveId": 419,
-  "moveName": "Max Starfall",
-  "proto": "VN_BM_011",
-  "fast": false,
-  "type": 18,
-  "power": 350,
-  "durationMs": 2500
-}

@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Cryogonal",
+	"pokedexId": 615,
+	"defaultFormId": 2237,
+	"types": [15],
+	"quickMoves": [217, 218],
+	"chargedMoves": [51, 105, 116, 248, 391],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2237],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.2
+		}
+	],
+	"attack": 190,
+	"defense": 218,
+	"stamina": 190,
+	"height": 1.1,
+	"weight": 148,
+	"family": 615,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Heatran",
+	"pokedexId": 485,
+	"defaultFormId": 1862,
+	"types": [9, 10],
+	"quickMoves": [201, 269],
+	"chargedMoves": [24, 32, 74, 103, 304],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [386],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1862],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.635
+		}
+	],
+	"attack": 251,
+	"defense": 213,
+	"stamina": 209,
+	"height": 1.7,
+	"weight": 430,
+	"family": 485,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 20000,
+	"purificationCandy": 20,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 331,
+			"defense": 252,
+			"stamina": 209,
+			"unreleased": true
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"pokemonName": "Alcremie",
+	"pokedexId": 869,
+	"defaultFormId": 3197,
+	"types": [18],
+	"quickMoves": [221, 320],
+	"chargedMoves": [60, 86, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3197],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.6
+		}
+	],
+	"gmaxMove": 450,
+	"attack": 203,
+	"defense": 203,
+	"stamina": 163,
+	"height": 0.3,
+	"weight": 0.5,
+	"family": 868,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

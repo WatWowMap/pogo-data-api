@@ -1,0 +1,22 @@
+{
+	"id": 72,
+	"type": "Ground Balloon",
+	"gender": 1,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_GROUND_BALLOON_GRUNT_MALE",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

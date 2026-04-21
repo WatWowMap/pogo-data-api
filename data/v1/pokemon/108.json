@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Lickitung",
+	"pokedexId": 108,
+	"defaultFormId": 1053,
+	"types": [1],
+	"quickMoves": [212, 234],
+	"chargedMoves": [13, 14, 118, 127],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [131],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [1053],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.588
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.9
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.8
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.1
+		}
+	],
+	"attack": 108,
+	"defense": 137,
+	"stamina": 207,
+	"height": 1.2,
+	"weight": 65.5,
+	"family": 108,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 463,
+			"candyCost": 100,
+			"itemRequirement": 1106
+		}
+	]
+}

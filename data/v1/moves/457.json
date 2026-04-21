@@ -1,0 +1,9 @@
+{
+	"moveId": 457,
+	"moveName": "Gmax Hydrosnipe",
+	"proto": "VN_BM_049",
+	"fast": false,
+	"type": 11,
+	"power": 450,
+	"durationMs": 2500
+}

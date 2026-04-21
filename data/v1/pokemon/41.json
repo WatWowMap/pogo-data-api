@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Zubat",
+	"pokedexId": 41,
+	"defaultFormId": 157,
+	"types": [3, 4],
+	"quickMoves": [202, 219],
+	"chargedMoves": [50, 121, 125],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [90],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [157],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.392
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.4
+		}
+	],
+	"attack": 83,
+	"defense": 73,
+	"stamina": 120,
+	"height": 0.8,
+	"weight": 7.5,
+	"family": 41,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 42,
+			"formId": 160,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Machop",
+	"pokedexId": 66,
+	"defaultFormId": 809,
+	"types": [2],
+	"quickMoves": [208, 241],
+	"chargedMoves": [28, 56, 123],
+	"eliteQuickMoves": [207],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [809],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.392
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.4
+		}
+	],
+	"attack": 137,
+	"defense": 82,
+	"stamina": 172,
+	"height": 0.8,
+	"weight": 19.5,
+	"family": 66,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 67,
+			"formId": 812,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

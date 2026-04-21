@@ -1,0 +1,16 @@
+{
+	"moveId": 491,
+	"moveName": "Mind Blown",
+	"proto": "MIND_BLOWN",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 90,
+	"pvpEnergyDelta": -35,
+	"pvpBuffs": {
+		"attackerDefenseStatStageChange": -4,
+		"buffActivationChance": 1
+	},
+	"power": 130,
+	"durationMs": 4000,
+	"energyDelta": -33
+}

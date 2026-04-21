@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Mew",
+	"pokedexId": 151,
+	"defaultFormId": 1115,
+	"types": [14],
+	"quickMoves": [
+		213, 218, 222, 223, 224, 239, 241, 249, 250, 253, 260, 261, 278, 283
+	],
+	"chargedMoves": [
+		14, 16, 32, 36, 39, 40, 56, 60, 62, 64, 78, 79, 83, 86, 95, 101, 108, 116,
+		247, 251, 267, 270, 272, 273, 284
+	],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [1115],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.196
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.7
+		}
+	],
+	"attack": 210,
+	"defense": 210,
+	"stamina": 225,
+	"height": 0.4,
+	"weight": 4,
+	"family": 151,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100
+}

@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "EKANS_NORMAL",
+	"formId": 697,
+	"evolutions": [
+		{
+			"evoId": 24,
+			"formId": 700,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

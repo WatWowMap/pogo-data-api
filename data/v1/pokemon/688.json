@@ -1,0 +1,60 @@
+{
+	"pokemonName": "Binacle",
+	"pokedexId": 688,
+	"defaultFormId": 3050,
+	"types": [6, 11],
+	"quickMoves": [220, 233],
+	"chargedMoves": [26, 28, 62],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3050],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.245
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.875
+		}
+	],
+	"attack": 96,
+	"defense": 120,
+	"stamina": 123,
+	"height": 0.5,
+	"weight": 31,
+	"family": 688,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 689,
+			"candyCost": 50
+		}
+	]
+}

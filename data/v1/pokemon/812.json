@@ -1,0 +1,58 @@
+{
+	"pokemonName": "Rillaboom",
+	"pokedexId": 812,
+	"defaultFormId": 2326,
+	"types": [12],
+	"quickMoves": [215, 220],
+	"chargedMoves": [272, 273, 304, 492],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [296],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [2326],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.029
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.15
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.255
+		}
+	],
+	"gmaxMove": 455,
+	"attack": 239,
+	"defense": 168,
+	"stamina": 225,
+	"height": 2.1,
+	"weight": 90,
+	"family": 810,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

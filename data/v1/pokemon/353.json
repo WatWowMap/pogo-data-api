@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Shuppet",
+	"pokedexId": 353,
+	"defaultFormId": 908,
+	"types": [8],
+	"quickMoves": [238, 263],
+	"chargedMoves": [66, 69, 265],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [908],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.0675
+		}
+	],
+	"attack": 138,
+	"defense": 65,
+	"stamina": 127,
+	"height": 0.61,
+	"weight": 2.3,
+	"family": 353,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 354,
+			"formId": 911,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

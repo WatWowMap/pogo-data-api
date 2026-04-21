@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Cyndaquil",
+	"pokedexId": 155,
+	"defaultFormId": 1127,
+	"types": [10],
+	"quickMoves": [209, 221],
+	"chargedMoves": [24, 101, 125],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1127],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2499
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.255
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.6375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.765
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.8925
+		}
+	],
+	"attack": 116,
+	"defense": 93,
+	"stamina": 118,
+	"height": 0.51,
+	"weight": 7.9,
+	"family": 155,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 156,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

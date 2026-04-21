@@ -1,0 +1,7 @@
+{
+	"formName": "Shock",
+	"proto": "GENESECT_SHOCK",
+	"formId": 594,
+	"chargedMoves": [72, 100, 252],
+	"eliteChargedMoves": [340]
+}

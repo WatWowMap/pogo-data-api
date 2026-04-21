@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Bunnelby",
+	"pokedexId": 659,
+	"defaultFormId": 3031,
+	"types": [1],
+	"quickMoves": [219, 233],
+	"chargedMoves": [26, 31, 95],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3031],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.196
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.7
+		}
+	],
+	"attack": 68,
+	"defense": 72,
+	"stamina": 116,
+	"height": 0.4,
+	"weight": 5,
+	"family": 659,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 660,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

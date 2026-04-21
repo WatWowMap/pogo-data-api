@@ -1,0 +1,56 @@
+{
+	"pokemonName": "Lugia",
+	"pokedexId": 249,
+	"defaultFormId": 1340,
+	"types": [3, 14],
+	"quickMoves": [253, 274],
+	"chargedMoves": [107, 257, 275, 341],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [335],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1340, 2729],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 2.5529
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 2.605
+		},
+		{
+			"name": "mLowerBound",
+			"value": 3.9075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 6.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 7.815
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 9.1175
+		}
+	],
+	"attack": 193,
+	"defense": 310,
+	"stamina": 235,
+	"height": 5.21,
+	"weight": 216,
+	"family": 249,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 7,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 20000,
+	"purificationCandy": 20
+}

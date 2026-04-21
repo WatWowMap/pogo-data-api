@@ -1,0 +1,11 @@
+{
+	"moveId": 287,
+	"moveName": "Yawn",
+	"proto": "YAWN_FAST",
+	"fast": true,
+	"type": 1,
+	"pvpEnergyDelta": 12,
+	"pvpDurationTurns": 3,
+	"durationMs": 1500,
+	"energyDelta": 13
+}

@@ -1,0 +1,12 @@
+{
+	"moveId": 135,
+	"moveName": "Hydro Pump Blastoise",
+	"proto": "HYDRO_PUMP_BLASTOISE",
+	"fast": false,
+	"type": 11,
+	"pvpPower": 90,
+	"pvpEnergyDelta": -80,
+	"power": 90,
+	"durationMs": 4500,
+	"energyDelta": -100
+}

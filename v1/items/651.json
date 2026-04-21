@@ -1,8 +1,0 @@
-{
-  "itemId": 651,
-  "itemName": "Breakfast",
-  "proto": "ITEM_BREAKFAST",
-  "type": "Breakfast",
-  "category": "Utilites",
-  "minTrainerLevel": 1
-}

@@ -1,0 +1,67 @@
+{
+	"pokemonName": "Shelgon",
+	"pokedexId": 372,
+	"defaultFormId": 758,
+	"types": [16],
+	"quickMoves": [204, 209],
+	"chargedMoves": [24, 80, 82, 279],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [758],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.5341
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.545
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.8175
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.3625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.635
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.9075
+		}
+	],
+	"attack": 172,
+	"defense": 155,
+	"stamina": 163,
+	"height": 1.09,
+	"weight": 110.5,
+	"family": 371,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"buddyMegaEnergy": 25,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 373,
+			"formId": 761,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

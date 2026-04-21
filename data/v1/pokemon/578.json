@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Duosion",
+	"pokedexId": 578,
+	"defaultFormId": 2132,
+	"types": [14],
+	"quickMoves": [234, 281],
+	"chargedMoves": [60, 78, 265],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2132],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 208,
+	"defense": 103,
+	"stamina": 163,
+	"height": 0.6,
+	"weight": 8,
+	"family": 577,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 579,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

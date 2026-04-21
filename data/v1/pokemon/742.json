@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Cutiefly",
+	"pokedexId": 742,
+	"defaultFormId": 3094,
+	"types": [7, 18],
+	"quickMoves": [261, 350],
+	"chargedMoves": [49, 86],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3094],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.049
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.05
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.15
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.175
+		}
+	],
+	"attack": 110,
+	"defense": 81,
+	"stamina": 120,
+	"height": 0.1,
+	"weight": 0.2,
+	"family": 742,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 743,
+			"candyCost": 50
+		}
+	]
+}

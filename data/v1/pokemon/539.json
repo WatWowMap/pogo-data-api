@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Sawk",
+	"pokedexId": 539,
+	"defaultFormId": 2021,
+	"types": [2],
+	"quickMoves": [207, 224],
+	"chargedMoves": [56, 123, 131, 247],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2021],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.17
+		}
+	],
+	"attack": 231,
+	"defense": 153,
+	"stamina": 181,
+	"height": 1.4,
+	"weight": 51,
+	"family": 539,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 5000,
+	"purificationCandy": 1
+}

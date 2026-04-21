@@ -1,0 +1,6 @@
+{
+	"formName": "Water",
+	"proto": "ARCEUS_WATER",
+	"formId": 110,
+	"types": [11]
+}

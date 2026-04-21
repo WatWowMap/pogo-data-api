@@ -1,0 +1,10 @@
+{
+	"typeId": 6,
+	"typeName": "Rock",
+	"strengths": [3, 7, 10, 15],
+	"weaknesses": [2, 5, 9, 11, 12],
+	"veryWeakAgainst": [],
+	"immunes": [],
+	"weakAgainst": [2, 5, 9],
+	"resistances": [1, 3, 4, 10]
+}

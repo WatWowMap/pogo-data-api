@@ -1,0 +1,18 @@
+{
+	"formName": "Normal",
+	"proto": "AUDINO_NORMAL",
+	"formId": 1997,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 147,
+			"defense": 239,
+			"stamina": 230,
+			"height": 1.5,
+			"weight": 32,
+			"types": [1, 18],
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	]
+}

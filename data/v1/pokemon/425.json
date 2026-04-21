@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Drifloon",
+	"pokedexId": 425,
+	"defaultFormId": 1745,
+	"types": [3, 8],
+	"quickMoves": [263, 264],
+	"chargedMoves": [69, 70, 111],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1745],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.196
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.8
+		}
+	],
+	"attack": 117,
+	"defense": 80,
+	"stamina": 207,
+	"height": 0.4,
+	"weight": 1.2,
+	"family": 425,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 426,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

@@ -1,0 +1,16 @@
+{
+	"moveId": 362,
+	"moveName": "Sacred Fire Plus",
+	"proto": "SACRED_FIRE_PLUS",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 130,
+	"pvpEnergyDelta": -65,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -1,
+		"buffActivationChance": 0.5
+	},
+	"power": 135,
+	"durationMs": 2500,
+	"energyDelta": -100
+}

@@ -1,9 +1,0 @@
-{
-  "moveId": 432,
-  "moveName": "Gmax Terror",
-  "proto": "VN_BM_024",
-  "fast": false,
-  "type": 8,
-  "power": 450,
-  "durationMs": 2500
-}

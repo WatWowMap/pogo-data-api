@@ -1,0 +1,12 @@
+{
+	"moveId": 70,
+	"moveName": "Shadow Ball",
+	"proto": "SHADOW_BALL",
+	"fast": false,
+	"type": 8,
+	"pvpPower": 100,
+	"pvpEnergyDelta": -50,
+	"power": 100,
+	"durationMs": 3000,
+	"energyDelta": -50
+}

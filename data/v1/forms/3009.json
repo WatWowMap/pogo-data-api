@@ -1,0 +1,18 @@
+{
+	"formName": "Paldea",
+	"proto": "WOOPER_PALDEA",
+	"formId": 3009,
+	"height": 0.41,
+	"weight": 11,
+	"quickMoves": [216, 224],
+	"chargedMoves": [26, 91, 131],
+	"types": [4, 5],
+	"evolutions": [
+		{
+			"evoId": 980,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

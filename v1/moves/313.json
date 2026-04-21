@@ -1,8 +1,0 @@
-{
-  "moveId": 313,
-  "moveName": "Leech Life",
-  "proto": "LEECH_LIFE",
-  "fast": false,
-  "type": 7,
-  "durationMs": 2500
-}

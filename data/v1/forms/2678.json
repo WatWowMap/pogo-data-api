@@ -1,0 +1,8 @@
+{
+	"formName": "Flying 5th Anniv",
+	"proto": "PIKACHU_FLYING_5TH_ANNIV",
+	"formId": 2678,
+	"isCostume": true,
+	"chargedMoves": [35, 79, 251, 341],
+	"eliteChargedMoves": []
+}

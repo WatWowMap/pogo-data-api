@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "LECHONK_NORMAL",
+	"formId": 3231,
+	"evolutions": [
+		{
+			"evoId": 916,
+			"formId": 2981,
+			"genderRequirement": 1,
+			"candyCost": 50
+		},
+		{
+			"evoId": 916,
+			"formId": 2982,
+			"genderRequirement": 2,
+			"candyCost": 50
+		}
+	]
+}

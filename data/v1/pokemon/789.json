@@ -1,0 +1,60 @@
+{
+	"pokemonName": "Cosmog",
+	"pokedexId": 789,
+	"defaultFormId": 3134,
+	"types": [14],
+	"quickMoves": [231],
+	"chargedMoves": [133],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3134],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.31
+		}
+	],
+	"attack": 54,
+	"defense": 57,
+	"stamina": 125,
+	"height": 0.2,
+	"weight": 0.1,
+	"family": 789,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 790,
+			"candyCost": 25
+		}
+	]
+}

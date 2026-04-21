@@ -1,0 +1,16 @@
+{
+	"moveId": 273,
+	"moveName": "Energy Ball",
+	"proto": "ENERGY_BALL",
+	"fast": false,
+	"type": 12,
+	"pvpPower": 90,
+	"pvpEnergyDelta": -55,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 0.1
+	},
+	"power": 90,
+	"durationMs": 4000,
+	"energyDelta": -50
+}

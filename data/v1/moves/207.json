@@ -1,0 +1,13 @@
+{
+	"moveId": 207,
+	"moveName": "Low Kick",
+	"proto": "LOW_KICK_FAST",
+	"fast": true,
+	"type": 2,
+	"pvpPower": 5,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 1,
+	"power": 5,
+	"durationMs": 500,
+	"energyDelta": 5
+}

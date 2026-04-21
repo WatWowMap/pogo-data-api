@@ -1,8 +1,0 @@
-{
-  "itemId": 1101,
-  "itemName": "Sun Stone",
-  "proto": "ITEM_SUN_STONE",
-  "type": "Evolution Requirement",
-  "category": "Evolution Requirement",
-  "minTrainerLevel": 10
-}

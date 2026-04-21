@@ -1,0 +1,16 @@
+{
+	"moveId": 101,
+	"moveName": "Flame Charge",
+	"proto": "FLAME_CHARGE",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 65,
+	"pvpEnergyDelta": -50,
+	"pvpBuffs": {
+		"attackerAttackStatStageChange": 1,
+		"buffActivationChance": 1
+	},
+	"power": 70,
+	"durationMs": 4000,
+	"energyDelta": -33
+}

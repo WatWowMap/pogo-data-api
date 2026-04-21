@@ -1,0 +1,66 @@
+{
+	"pokemonName": "Staravia",
+	"pokedexId": 397,
+	"defaultFormId": 1661,
+	"types": [1, 3],
+	"quickMoves": [210, 219, 403],
+	"chargedMoves": [42, 45, 256, 341],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1661],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 142,
+	"defense": 94,
+	"stamina": 146,
+	"height": 0.6,
+	"weight": 15.5,
+	"family": 396,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 398,
+			"formId": 1664,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

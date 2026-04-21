@@ -1,9 +1,0 @@
-{
-  "moveId": 422,
-  "moveName": "Max Rockfall",
-  "proto": "VN_BM_014",
-  "fast": false,
-  "type": 6,
-  "power": 350,
-  "durationMs": 2500
-}

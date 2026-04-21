@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Kartana",
+	"pokedexId": 798,
+	"defaultFormId": 3143,
+	"types": [9, 12],
+	"quickMoves": [200, 215, 255],
+	"chargedMoves": [45, 51, 100, 117, 330],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3143],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.465
+		}
+	],
+	"attack": 323,
+	"defense": 182,
+	"stamina": 139,
+	"height": 0.3,
+	"weight": 0.1,
+	"family": 798,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": true,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

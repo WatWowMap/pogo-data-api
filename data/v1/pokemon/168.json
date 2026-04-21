@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Ariados",
+	"pokedexId": 168,
+	"defaultFormId": 1166,
+	"types": [4, 7],
+	"quickMoves": [236, 260],
+	"chargedMoves": [22, 66, 89, 306, 392],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1166],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.5341
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.545
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.8175
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.3625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.635
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.9075
+		}
+	],
+	"attack": 161,
+	"defense": 124,
+	"stamina": 172,
+	"height": 1.09,
+	"weight": 33.5,
+	"family": 167,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

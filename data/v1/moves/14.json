@@ -1,0 +1,12 @@
+{
+	"moveId": 14,
+	"moveName": "Hyper Beam",
+	"proto": "HYPER_BEAM",
+	"fast": false,
+	"type": 1,
+	"pvpPower": 150,
+	"pvpEnergyDelta": -80,
+	"power": 150,
+	"durationMs": 4000,
+	"energyDelta": -100
+}

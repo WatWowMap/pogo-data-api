@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Cherrim",
+	"pokedexId": 421,
+	"defaultFormId": 94,
+	"types": [12],
+	"quickMoves": [215, 271],
+	"chargedMoves": [14, 86, 116],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [94, 95, 1733],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.245
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1
+		}
+	],
+	"attack": 170,
+	"defense": 153,
+	"stamina": 172,
+	"height": 0.5,
+	"weight": 9.3,
+	"family": 420,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

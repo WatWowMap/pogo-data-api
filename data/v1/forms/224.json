@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "CUBONE_NORMAL",
+	"formId": 224,
+	"evolutions": [
+		{
+			"evoId": 105,
+			"formId": 79,
+			"candyCost": 50
+		},
+		{
+			"evoId": 105,
+			"formId": 80,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

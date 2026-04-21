@@ -1,0 +1,48 @@
+{
+	"id": 5,
+	"type": "Mixed",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_GRUNT_FEMALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 143,
+			"formId": 199,
+			"position": "first"
+		},
+		{
+			"id": 62,
+			"formId": 241,
+			"position": "second"
+		},
+		{
+			"id": 143,
+			"formId": 199,
+			"position": "second"
+		},
+		{
+			"id": 282,
+			"formId": 298,
+			"position": "second"
+		},
+		{
+			"id": 130,
+			"formId": 256,
+			"position": "third"
+		},
+		{
+			"id": 143,
+			"formId": 199,
+			"position": "third"
+		},
+		{
+			"id": 149,
+			"formId": 196,
+			"position": "third"
+		}
+	]
+}

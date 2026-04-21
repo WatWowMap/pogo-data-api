@@ -1,0 +1,17 @@
+{
+	"formName": "Normal",
+	"proto": "WURMPLE_NORMAL",
+	"formId": 600,
+	"evolutions": [
+		{
+			"evoId": 266,
+			"formId": 1379,
+			"candyCost": 12
+		},
+		{
+			"evoId": 268,
+			"formId": 1385,
+			"candyCost": 12
+		}
+	]
+}

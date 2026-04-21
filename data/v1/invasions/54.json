@@ -1,0 +1,22 @@
+{
+	"id": 54,
+	"type": "Gruntb",
+	"gender": 1,
+	"grunt": "Gruntb",
+	"proto": "CHARACTER_GRUNTB_MALE",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

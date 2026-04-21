@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Cetitan",
+	"pokedexId": 975,
+	"defaultFormId": 3287,
+	"types": [15],
+	"quickMoves": [217, 221, 244],
+	"chargedMoves": [131, 254, 268, 310, 359],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3287],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 2.205
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 2.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 3.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 5.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 6.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 6.975
+		}
+	],
+	"attack": 208,
+	"defense": 123,
+	"stamina": 347,
+	"height": 4.5,
+	"weight": 700,
+	"family": 974,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

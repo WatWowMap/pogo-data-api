@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "ABRA_NORMAL",
+	"formId": 304,
+	"evolutions": [
+		{
+			"evoId": 64,
+			"formId": 307,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

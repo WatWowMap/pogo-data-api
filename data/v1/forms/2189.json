@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "KLINK_NORMAL",
+	"formId": 2189,
+	"evolutions": [
+		{
+			"evoId": 600,
+			"formId": 2192,
+			"candyCost": 25
+		}
+	]
+}

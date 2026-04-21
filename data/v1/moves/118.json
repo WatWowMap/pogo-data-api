@@ -1,0 +1,12 @@
+{
+	"moveId": 118,
+	"moveName": "Power Whip",
+	"proto": "POWER_WHIP",
+	"fast": false,
+	"type": 12,
+	"pvpPower": 90,
+	"pvpEnergyDelta": -50,
+	"power": 90,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

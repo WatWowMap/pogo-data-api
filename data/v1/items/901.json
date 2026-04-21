@@ -1,0 +1,8 @@
+{
+	"itemId": 901,
+	"itemName": "Incubator Basic Unlimited",
+	"proto": "ITEM_INCUBATOR_BASIC_UNLIMITED",
+	"type": "Incubator",
+	"category": "Incubator",
+	"minTrainerLevel": 100
+}

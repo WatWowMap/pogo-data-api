@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Sawsbuck",
+	"pokedexId": 586,
+	"defaultFormId": 589,
+	"types": [1, 12],
+	"quickMoves": [238, 282],
+	"chargedMoves": [14, 22, 116, 251, 392],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [589, 590, 591, 592],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.931
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.95
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.425
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.85
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.945
+		}
+	],
+	"attack": 198,
+	"defense": 146,
+	"stamina": 190,
+	"height": 1.9,
+	"weight": 92.5,
+	"family": 585,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

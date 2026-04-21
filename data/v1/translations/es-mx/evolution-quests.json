@@ -1,0 +1,19 @@
+{
+	"challenge_buddy_affection_plural": "Consigue {{amount}} corazones con tu compañero",
+	"challenge_buddy_treat_plural": "Dale {{amount}} golosinas a tu compañero",
+	"quest_buddy_walk_km_plural": "Camina {{amount}} km con tu Pokémon compañero",
+	"quest_catch_type_dark_plural": "Atrapa {{amount}} Pokémon de tipo Siniestro",
+	"quest_catch_type_dragon_plural": "Atrapa {{amount}} Pokémon de tipo Dragón",
+	"quest_catch_type_fighting_plural": "Atrapa {{amount}} Pokémon de tipo Pelea",
+	"quest_catch_type_poison_plural": "Atrapa {{amount}} Pokémon de tipo Veneno",
+	"quest_catch_type_psychic_plural": "Atrapa {{amount}} Pokémon de tipo Psíquico",
+	"quest_defeat_dark_or_steel_type_raid": "Derrota a {{amount}} Jefes de Incursión de tipo Siniestro o Acero",
+	"quest_defeat_dark_type_raid_and_max_battle": "Derrota a {{amount}} Pokémon de tipo Siniestro en incursiones o combates Max",
+	"quest_defeat_water_type_raid_and_max_battle": "Derrota a {{amount}} Pokémon de tipo Agua en incursiones o combates Max",
+	"quest_fight_type_ghost_plural": "Derrota a {{amount}} Pokémon de tipo Fantasma",
+	"quest_fight_type_ghost_psychic_plural": "Derrota a {{amount}} Pokémon de tipo Psíquico o Fantasma",
+	"quest_fight_type_psychic_plural": "Derrota a {{amount}} Pokémon de tipo Psíquico",
+	"quest_incense_singular": "Usa un Incienso",
+	"quest_land_excellent_plural": "Haz {{amount}} lanzamientos excelentes",
+	"quest_win_raid_plural": "Gana en {{amount}} incursiones"
+}

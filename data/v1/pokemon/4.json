@@ -1,0 +1,72 @@
+{
+	"pokemonName": "Charmander",
+	"pokedexId": 4,
+	"defaultFormId": 172,
+	"types": [10],
+	"quickMoves": [209, 220],
+	"chargedMoves": [24, 101, 102],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [172, 896],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 116,
+	"defense": 93,
+	"stamina": 118,
+	"height": 0.6,
+	"weight": 8.5,
+	"family": 4,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 5,
+			"formId": 175,
+			"candyCost": 25
+		}
+	],
+	"costumeOverrideEvos": [
+		{
+			"costumeId": 11,
+			"costumeProto": "JAN_2020_NOEVOLVE",
+			"costumeName": "Jan 2020 Noevolve"
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

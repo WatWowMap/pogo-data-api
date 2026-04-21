@@ -1,0 +1,12 @@
+{
+	"formName": "Fancy",
+	"proto": "SPEWPA_FANCY",
+	"formId": 2768,
+	"evolutions": [
+		{
+			"evoId": 666,
+			"formId": 2597,
+			"candyCost": 100
+		}
+	]
+}

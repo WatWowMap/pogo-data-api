@@ -1,0 +1,18 @@
+{
+	"formName": "Normal",
+	"proto": "DEWOTT_NORMAL",
+	"formId": 1910,
+	"evolutions": [
+		{
+			"evoId": 503,
+			"candyCost": 100
+		},
+		{
+			"evoId": 503,
+			"formId": 2787,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

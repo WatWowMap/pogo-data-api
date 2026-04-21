@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "CAPSAKID_NORMAL",
+	"formId": 3264,
+	"evolutions": [
+		{
+			"evoId": 952,
+			"formId": 3265,
+			"candyCost": 50
+		}
+	]
+}

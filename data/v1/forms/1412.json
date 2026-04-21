@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SURSKIT_NORMAL",
+	"formId": 1412,
+	"evolutions": [
+		{
+			"evoId": 284,
+			"formId": 1415,
+			"candyCost": 50
+		}
+	]
+}

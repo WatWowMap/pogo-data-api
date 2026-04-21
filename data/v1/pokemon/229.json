@@ -1,0 +1,72 @@
+{
+	"pokemonName": "Houndoom",
+	"pokedexId": 229,
+	"defaultFormId": 232,
+	"types": [10, 17],
+	"quickMoves": [240, 278],
+	"chargedMoves": [24, 103, 279, 280],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [232],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.45
+		}
+	],
+	"attack": 224,
+	"defense": 144,
+	"stamina": 181,
+	"height": 1.4,
+	"weight": 35,
+	"family": 228,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 289,
+			"defense": 194,
+			"stamina": 181,
+			"height": 1.9,
+			"weight": 49.5,
+			"firstEnergyCost": 100,
+			"subsequentEnergyCost": 20
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

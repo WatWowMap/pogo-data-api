@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "TORRACAT_NORMAL",
+	"formId": 3079,
+	"evolutions": [
+		{
+			"evoId": 727,
+			"formId": 3080,
+			"candyCost": 100
+		}
+	]
+}

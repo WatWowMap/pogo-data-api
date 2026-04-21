@@ -1,0 +1,8 @@
+{
+	"id": 25,
+	"proto": "LC_SPECIAL_BACKGROUND_2024_GLOBAL_GOFEST_SUN_ULTRA_WORMHOLE_001",
+	"formatted": "2024 Global Gofest Sun Ultra Wormhole 001",
+	"imageUrl": "sb_GoFest2024_wormhole_sun",
+	"cardType": "SPECIAL_BACKGROUND",
+	"vfxAddress": "bgfx_UltraWormhole"
+}

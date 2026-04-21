@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "ELECTRIKE_NORMAL",
+	"formId": 1484,
+	"evolutions": [
+		{
+			"evoId": 310,
+			"formId": 1487,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

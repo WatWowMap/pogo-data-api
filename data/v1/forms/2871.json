@@ -1,0 +1,12 @@
+{
+	"formName": "Counterfeit",
+	"proto": "POLTCHAGEIST_COUNTERFEIT",
+	"formId": 2871,
+	"evolutions": [
+		{
+			"evoId": 1013,
+			"formId": 2873,
+			"candyCost": 50
+		}
+	]
+}

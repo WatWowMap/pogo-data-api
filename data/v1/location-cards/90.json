@@ -1,0 +1,8 @@
+{
+	"id": 90,
+	"proto": "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_SWORD_CROWNED_001",
+	"formatted": "2025 Global Gofest Sword Crowned 001",
+	"imageUrl": "sb_GoTour2025_black",
+	"cardType": "SPECIAL_BACKGROUND",
+	"vfxAddress": "bgfx_goFest_2025_sword_c"
+}

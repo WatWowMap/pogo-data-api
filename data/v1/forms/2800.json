@@ -1,0 +1,16 @@
+{
+	"formName": "Galarian",
+	"proto": "ZAPDOS_GALARIAN",
+	"formId": 2800,
+	"attack": 252,
+	"defense": 189,
+	"stamina": 207,
+	"height": 1.6,
+	"weight": 58.2,
+	"quickMoves": [243],
+	"chargedMoves": [62, 245, 256, 341],
+	"eliteQuickMoves": [],
+	"types": [2, 3],
+	"purificationDust": 20000,
+	"purificationCandy": 20
+}

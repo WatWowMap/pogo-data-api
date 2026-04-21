@@ -1,0 +1,13 @@
+{
+	"formName": "Blue",
+	"proto": "FLOETTE_BLUE",
+	"formId": 2622,
+	"evolutions": [
+		{
+			"evoId": 671,
+			"formId": 2627,
+			"candyCost": 100,
+			"questRequirement": "FLORGES_EVOLUTION_QUEST"
+		}
+	]
+}

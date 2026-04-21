@@ -1,0 +1,13 @@
+{
+	"moveId": 219,
+	"moveName": "Quick Attack",
+	"proto": "QUICK_ATTACK_FAST",
+	"fast": true,
+	"type": 1,
+	"pvpPower": 5,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 1,
+	"power": 10,
+	"durationMs": 1000,
+	"energyDelta": 13
+}

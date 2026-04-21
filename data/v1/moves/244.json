@@ -1,0 +1,13 @@
+{
+	"moveId": 244,
+	"moveName": "Powder Snow",
+	"proto": "POWDER_SNOW_FAST",
+	"fast": true,
+	"type": 15,
+	"pvpPower": 6,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 1,
+	"power": 6,
+	"durationMs": 1000,
+	"energyDelta": 15
+}

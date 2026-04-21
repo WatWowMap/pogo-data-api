@@ -1,0 +1,12 @@
+{
+	"formName": "Orange",
+	"proto": "FLABEBE_ORANGE",
+	"formId": 2616,
+	"evolutions": [
+		{
+			"evoId": 670,
+			"formId": 2621,
+			"candyCost": 25
+		}
+	]
+}

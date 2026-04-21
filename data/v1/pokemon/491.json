@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Darkrai",
+	"pokedexId": 491,
+	"defaultFormId": 1880,
+	"types": [17],
+	"quickMoves": [238, 278],
+	"chargedMoves": [16, 70, 247],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [90],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1880],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.325
+		}
+	],
+	"attack": 285,
+	"defense": 198,
+	"stamina": 172,
+	"height": 1.5,
+	"weight": 50.5,
+	"family": 491,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"transferable": true,
+	"purificationDust": 20000,
+	"purificationCandy": 20,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 325,
+			"defense": 265,
+			"stamina": 172,
+			"unreleased": true
+		}
+	]
+}

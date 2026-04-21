@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "CHIMECHO_NORMAL",
+	"formId": 1592,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 244,
+			"defense": 228,
+			"stamina": 181,
+			"types": [9, 14],
+			"unreleased": true
+		}
+	]
+}

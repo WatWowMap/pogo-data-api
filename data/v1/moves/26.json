@@ -1,0 +1,12 @@
+{
+	"moveId": 26,
+	"moveName": "Dig",
+	"proto": "DIG",
+	"fast": false,
+	"type": 5,
+	"pvpPower": 70,
+	"pvpEnergyDelta": -50,
+	"power": 100,
+	"durationMs": 4500,
+	"energyDelta": -50
+}

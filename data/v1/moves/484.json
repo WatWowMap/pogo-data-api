@@ -1,0 +1,16 @@
+{
+	"moveId": 484,
+	"moveName": "Clanging Scales",
+	"proto": "CLANGING_SCALES",
+	"fast": false,
+	"type": 16,
+	"pvpPower": 120,
+	"pvpEnergyDelta": -45,
+	"pvpBuffs": {
+		"attackerDefenseStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 120,
+	"durationMs": 3500,
+	"energyDelta": -100
+}

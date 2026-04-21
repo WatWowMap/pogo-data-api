@@ -1,0 +1,12 @@
+{
+	"moveId": 405,
+	"moveName": "Moongeist Beam",
+	"proto": "MOONGEIST_BEAM",
+	"fast": false,
+	"type": 8,
+	"pvpPower": 135,
+	"pvpEnergyDelta": -65,
+	"power": 230,
+	"durationMs": 3000,
+	"energyDelta": -100
+}

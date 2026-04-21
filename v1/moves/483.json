@@ -1,9 +1,0 @@
-{
-  "moveId": 483,
-  "moveName": "Max Dynamax Cannon",
-  "proto": "VN_BM_062",
-  "fast": false,
-  "type": 16,
-  "power": 450,
-  "durationMs": 2500
-}

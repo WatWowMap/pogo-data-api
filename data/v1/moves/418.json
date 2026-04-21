@@ -1,0 +1,9 @@
+{
+	"moveId": 418,
+	"moveName": "Max Airstream",
+	"proto": "VN_BM_010",
+	"fast": false,
+	"type": 3,
+	"power": 350,
+	"durationMs": 2500
+}

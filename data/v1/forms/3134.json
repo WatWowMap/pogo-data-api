@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "COSMOG_NORMAL",
+	"formId": 3134,
+	"evolutions": [
+		{
+			"evoId": 790,
+			"formId": 3135,
+			"candyCost": 25
+		}
+	]
+}

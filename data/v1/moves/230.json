@@ -1,0 +1,12 @@
+{
+	"moveId": 230,
+	"moveName": "Water Gun",
+	"proto": "WATER_GUN_FAST",
+	"fast": true,
+	"type": 11,
+	"pvpPower": 3,
+	"pvpEnergyDelta": 3,
+	"power": 5,
+	"durationMs": 500,
+	"energyDelta": 5
+}

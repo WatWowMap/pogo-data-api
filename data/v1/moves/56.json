@@ -1,0 +1,12 @@
+{
+	"moveId": 56,
+	"moveName": "Low Sweep",
+	"proto": "LOW_SWEEP",
+	"fast": false,
+	"type": 2,
+	"pvpPower": 40,
+	"pvpEnergyDelta": -40,
+	"power": 40,
+	"durationMs": 2000,
+	"energyDelta": -33
+}

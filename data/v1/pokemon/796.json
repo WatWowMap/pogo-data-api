@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Xurkitree",
+	"pokedexId": 796,
+	"defaultFormId": 3141,
+	"types": [13],
+	"quickMoves": [205, 206],
+	"chargedMoves": [35, 78, 86, 118],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3141],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.862
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.9
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.85
+		},
+		{
+			"name": "mUpperBound",
+			"value": 4.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 5.7
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 5.89
+		}
+	],
+	"attack": 330,
+	"defense": 144,
+	"stamina": 195,
+	"height": 3.8,
+	"weight": 100,
+	"family": 796,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": true,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

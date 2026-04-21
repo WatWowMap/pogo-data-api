@@ -1,0 +1,16 @@
+{
+	"formName": "Normal",
+	"proto": "GRENINJA_NORMAL",
+	"formId": 3030,
+	"purificationDust": 3000,
+	"purificationCandy": 3,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 299,
+			"defense": 180,
+			"stamina": 176,
+			"unreleased": true
+		}
+	]
+}

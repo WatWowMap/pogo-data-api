@@ -1,0 +1,70 @@
+{
+	"pokemonName": "Dewott",
+	"pokedexId": 502,
+	"defaultFormId": 1910,
+	"types": [11],
+	"quickMoves": [200, 230],
+	"chargedMoves": [58, 100, 105],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1910],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.392
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.24
+		}
+	],
+	"attack": 159,
+	"defense": 116,
+	"stamina": 181,
+	"height": 0.8,
+	"weight": 24.5,
+	"family": 501,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 503,
+			"candyCost": 100
+		},
+		{
+			"evoId": 503,
+			"formId": 2787,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

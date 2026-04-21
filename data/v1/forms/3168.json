@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "GOSSIFLEUR_NORMAL",
+	"formId": 3168,
+	"evolutions": [
+		{
+			"evoId": 830,
+			"formId": 3169,
+			"candyCost": 50
+		}
+	]
+}

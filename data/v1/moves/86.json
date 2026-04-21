@@ -1,0 +1,12 @@
+{
+	"moveId": 86,
+	"moveName": "Dazzling Gleam",
+	"proto": "DAZZLING_GLEAM",
+	"fast": false,
+	"type": 18,
+	"pvpPower": 90,
+	"pvpEnergyDelta": -55,
+	"power": 100,
+	"durationMs": 3500,
+	"energyDelta": -50
+}

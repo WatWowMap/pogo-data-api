@@ -1,0 +1,16 @@
+{
+	"moveId": 279,
+	"moveName": "Crunch",
+	"proto": "CRUNCH",
+	"fast": false,
+	"type": 17,
+	"pvpPower": 70,
+	"pvpEnergyDelta": -45,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 0.2
+	},
+	"power": 65,
+	"durationMs": 3000,
+	"energyDelta": -33
+}

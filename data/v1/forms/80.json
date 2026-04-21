@@ -1,0 +1,13 @@
+{
+	"formName": "Alola",
+	"proto": "MAROWAK_ALOLA",
+	"formId": 80,
+	"height": 1,
+	"weight": 34,
+	"quickMoves": [241, 264, 269],
+	"chargedMoves": [21, 70, 94, 103],
+	"eliteChargedMoves": [315],
+	"types": [8, 10],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,12 @@
+{
+	"formName": "Dandy",
+	"proto": "FURFROU_DANDY",
+	"formId": 2635,
+	"formChanges": [
+		{
+			"availableForms": [2629, 2632, 2634],
+			"candyCost": 25,
+			"stardustCost": 10000
+		}
+	]
+}

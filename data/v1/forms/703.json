@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "KOFFING_NORMAL",
+	"formId": 703,
+	"evolutions": [
+		{
+			"evoId": 110,
+			"formId": 706,
+			"candyCost": 50
+		},
+		{
+			"evoId": 110,
+			"formId": 944,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "WATTREL_NORMAL",
+	"formId": 3253,
+	"evolutions": [
+		{
+			"evoId": 941,
+			"formId": 3254,
+			"candyCost": 50
+		}
+	]
+}

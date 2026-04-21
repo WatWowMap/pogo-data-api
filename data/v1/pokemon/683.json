@@ -1,0 +1,56 @@
+{
+	"pokemonName": "Aromatisse",
+	"pokedexId": 683,
+	"defaultFormId": 3045,
+	"types": [18],
+	"quickMoves": [249, 320],
+	"chargedMoves": [60, 79, 85, 87, 108],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3045],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.392
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.4
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.2
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.4
+		}
+	],
+	"attack": 173,
+	"defense": 150,
+	"stamina": 226,
+	"height": 0.8,
+	"weight": 15.5,
+	"family": 682,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

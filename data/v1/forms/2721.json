@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "MAGEARNA_NORMAL",
+	"formId": 2721,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 342,
+			"defense": 239,
+			"stamina": 190,
+			"unreleased": true
+		}
+	]
+}

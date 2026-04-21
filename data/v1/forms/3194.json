@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "MORGREM_NORMAL",
+	"formId": 3194,
+	"evolutions": [
+		{
+			"evoId": 861,
+			"formId": 3195,
+			"candyCost": 100
+		}
+	]
+}

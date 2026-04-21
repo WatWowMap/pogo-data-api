@@ -1,0 +1,16 @@
+{
+	"moveId": 348,
+	"moveName": "Feather Dance",
+	"proto": "FEATHER_DANCE",
+	"fast": false,
+	"type": 3,
+	"pvpPower": 35,
+	"pvpEnergyDelta": -50,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -2,
+		"buffActivationChance": 1
+	},
+	"power": 35,
+	"durationMs": 3000,
+	"energyDelta": -50
+}

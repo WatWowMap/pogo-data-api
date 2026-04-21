@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "TAROUNTULA_NORMAL",
+	"formId": 3232,
+	"evolutions": [
+		{
+			"evoId": 918,
+			"formId": 3233,
+			"candyCost": 50
+		}
+	]
+}

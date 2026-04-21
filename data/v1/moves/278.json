@@ -1,0 +1,13 @@
+{
+	"moveId": 278,
+	"moveName": "Snarl",
+	"proto": "SNARL_FAST",
+	"fast": true,
+	"type": 17,
+	"pvpPower": 5,
+	"pvpEnergyDelta": 13,
+	"pvpDurationTurns": 2,
+	"power": 11,
+	"durationMs": 1000,
+	"energyDelta": 13
+}

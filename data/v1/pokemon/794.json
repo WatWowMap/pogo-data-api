@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Buzzwole",
+	"pokedexId": 794,
+	"defaultFormId": 3139,
+	"types": [2, 7],
+	"quickMoves": [224, 243],
+	"chargedMoves": [306, 310, 311, 319],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3139],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.176
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.8
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.6
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.72
+		}
+	],
+	"attack": 236,
+	"defense": 196,
+	"stamina": 216,
+	"height": 2.4,
+	"weight": 333.6,
+	"family": 794,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": true,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

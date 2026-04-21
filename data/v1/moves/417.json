@@ -1,0 +1,9 @@
+{
+	"moveId": 417,
+	"moveName": "Max Geyser",
+	"proto": "VN_BM_009",
+	"fast": false,
+	"type": 11,
+	"power": 350,
+	"durationMs": 2500
+}

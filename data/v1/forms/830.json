@@ -1,0 +1,26 @@
+{
+	"formName": "Normal",
+	"proto": "ABSOL_NORMAL",
+	"formId": 830,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 314,
+			"defense": 130,
+			"stamina": 163,
+			"weight": 49,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		},
+		{
+			"tempEvoId": 5,
+			"attack": 332,
+			"defense": 138,
+			"stamina": 163,
+			"types": [8, 17],
+			"unreleased": true
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

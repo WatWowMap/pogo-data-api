@@ -1,0 +1,67 @@
+{
+	"pokemonName": "Gabite",
+	"pokedexId": 444,
+	"defaultFormId": 864,
+	"types": [5, 16],
+	"quickMoves": [216, 282],
+	"chargedMoves": [24, 26, 80],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [864],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.8
+		}
+	],
+	"attack": 172,
+	"defense": 125,
+	"stamina": 169,
+	"height": 1.4,
+	"weight": 56,
+	"family": 443,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"buddyMegaEnergy": 25,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 445,
+			"formId": 867,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

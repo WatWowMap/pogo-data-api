@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "FERROSEED_NORMAL",
+	"formId": 2183,
+	"evolutions": [
+		{
+			"evoId": 598,
+			"formId": 2186,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

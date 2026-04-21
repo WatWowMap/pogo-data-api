@@ -1,0 +1,72 @@
+{
+	"pokemonName": "Altaria",
+	"pokedexId": 334,
+	"defaultFormId": 1535,
+	"types": [3, 16],
+	"quickMoves": [204, 211],
+	"chargedMoves": [24, 82, 86, 257],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [87],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1535],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.5341
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.545
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.8175
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.3625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.635
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.9075
+		}
+	],
+	"attack": 141,
+	"defense": 201,
+	"stamina": 181,
+	"height": 1.09,
+	"weight": 20.6,
+	"family": 333,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 1,
+	"buddyMegaEnergy": 5,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 222,
+			"defense": 218,
+			"stamina": 181,
+			"height": 1.5,
+			"types": [16, 18],
+			"firstEnergyCost": 300,
+			"subsequentEnergyCost": 60
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

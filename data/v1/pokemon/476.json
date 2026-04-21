@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Probopass",
+	"pokedexId": 476,
+	"defaultFormId": 1841,
+	"types": [6, 9],
+	"quickMoves": [206, 227],
+	"chargedMoves": [64, 72, 79, 252],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [1841],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.45
+		}
+	],
+	"attack": 135,
+	"defense": 275,
+	"stamina": 155,
+	"height": 1.4,
+	"weight": 340,
+	"family": 299,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

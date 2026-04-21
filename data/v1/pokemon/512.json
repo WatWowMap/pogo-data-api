@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Simisage",
+	"pokedexId": 512,
+	"defaultFormId": 1940,
+	"types": [12],
+	"quickMoves": [202, 214],
+	"chargedMoves": [116, 272, 279],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1940],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.925
+		}
+	],
+	"attack": 206,
+	"defense": 133,
+	"stamina": 181,
+	"height": 1.1,
+	"weight": 30.5,
+	"family": 511,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

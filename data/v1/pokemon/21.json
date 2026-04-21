@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Spearow",
+	"pokedexId": 21,
+	"defaultFormId": 971,
+	"types": [1, 3],
+	"quickMoves": [211, 219],
+	"chargedMoves": [38, 45, 257],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [80],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [971],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 112,
+	"defense": 60,
+	"stamina": 120,
+	"height": 0.3,
+	"weight": 2,
+	"family": 21,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 22,
+			"candyCost": 50
+		}
+	]
+}

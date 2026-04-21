@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "PATRAT_NORMAL",
+	"formId": 1916,
+	"evolutions": [
+		{
+			"evoId": 505,
+			"formId": 1919,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

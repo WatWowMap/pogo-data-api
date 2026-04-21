@@ -1,0 +1,58 @@
+{
+	"pokemonName": "Grimmsnarl",
+	"pokedexId": 861,
+	"defaultFormId": 3195,
+	"types": [17, 18],
+	"quickMoves": [202, 203, 207],
+	"chargedMoves": [16, 88, 280, 319],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3195],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.735
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.75
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.125
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.25
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.325
+		}
+	],
+	"gmaxMove": 449,
+	"attack": 227,
+	"defense": 139,
+	"stamina": 216,
+	"height": 1.5,
+	"weight": 61,
+	"family": 859,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

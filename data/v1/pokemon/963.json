@@ -1,0 +1,60 @@
+{
+	"pokemonName": "Finizen",
+	"pokedexId": 963,
+	"defaultFormId": 3276,
+	"types": [11],
+	"quickMoves": [283, 320],
+	"chargedMoves": [57, 105, 111],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3276],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.637
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.65
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.975
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.95
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.275
+		}
+	],
+	"attack": 90,
+	"defense": 80,
+	"stamina": 172,
+	"height": 1.3,
+	"weight": 60.2,
+	"family": 963,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 964,
+			"candyCost": 50
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "KUBFU_NORMAL",
+	"formId": 3212,
+	"evolutions": [
+		{
+			"evoId": 892,
+			"formId": 2723,
+			"candyCost": 200,
+			"questRequirement": "KUBFU_SINGLE_STRIKE_EVOLUTION_QUEST"
+		},
+		{
+			"evoId": 892,
+			"formId": 2724,
+			"candyCost": 200,
+			"questRequirement": "KUBFU_RAPID_STRIKE_EVOLUTION_QUEST"
+		}
+	]
+}

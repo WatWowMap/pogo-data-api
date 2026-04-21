@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Milcery",
+	"pokedexId": 868,
+	"defaultFormId": 3196,
+	"types": [18],
+	"quickMoves": [221, 320],
+	"chargedMoves": [86],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3196],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.4
+		}
+	],
+	"attack": 90,
+	"defense": 97,
+	"stamina": 128,
+	"height": 0.2,
+	"weight": 0.3,
+	"family": 868,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 869,
+			"candyCost": 50
+		}
+	]
+}

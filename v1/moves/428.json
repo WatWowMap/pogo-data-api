@@ -1,9 +1,0 @@
-{
-  "moveId": 428,
-  "moveName": "Gmax Befuddle",
-  "proto": "VN_BM_020",
-  "fast": false,
-  "type": 7,
-  "power": 450,
-  "durationMs": 2500
-}

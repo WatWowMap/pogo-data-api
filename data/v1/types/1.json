@@ -1,0 +1,10 @@
+{
+	"typeId": 1,
+	"typeName": "Normal",
+	"strengths": [],
+	"weaknesses": [2],
+	"veryWeakAgainst": [8],
+	"immunes": [8],
+	"weakAgainst": [6, 9],
+	"resistances": []
+}

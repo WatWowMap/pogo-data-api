@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Cacnea",
+	"pokedexId": 331,
+	"defaultFormId": 610,
+	"types": [12],
+	"quickMoves": [203, 236, 403],
+	"chargedMoves": [59, 123, 272, 333, 392],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [610],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2009
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.205
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.615
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.82
+		}
+	],
+	"attack": 156,
+	"defense": 74,
+	"stamina": 137,
+	"height": 0.41,
+	"weight": 51.3,
+	"family": 331,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 332,
+			"formId": 613,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,10 @@
+{
+	"typeId": 17,
+	"typeName": "Dark",
+	"strengths": [8, 14],
+	"weaknesses": [2, 7, 18],
+	"veryWeakAgainst": [],
+	"immunes": [14],
+	"weakAgainst": [2, 17, 18],
+	"resistances": [8, 17]
+}

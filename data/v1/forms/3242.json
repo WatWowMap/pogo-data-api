@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SMOLIV_NORMAL",
+	"formId": 3242,
+	"evolutions": [
+		{
+			"evoId": 929,
+			"formId": 3243,
+			"candyCost": 25
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"pokemonName": "Boldore",
+	"pokedexId": 525,
+	"defaultFormId": 1979,
+	"types": [6],
+	"quickMoves": [233, 297],
+	"chargedMoves": [32, 64, 95],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1979],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.8
+		}
+	],
+	"attack": 174,
+	"defense": 143,
+	"stamina": 172,
+	"height": 0.9,
+	"weight": 102,
+	"family": 524,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 526,
+			"candyCost": 200,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

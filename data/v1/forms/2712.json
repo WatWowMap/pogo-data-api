@@ -1,0 +1,10 @@
+{
+	"formName": "Red",
+	"proto": "MINIOR_RED",
+	"formId": 2712,
+	"attack": 218,
+	"defense": 131,
+	"stamina": 155,
+	"height": 0.3,
+	"weight": 0.3
+}

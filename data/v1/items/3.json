@@ -1,0 +1,8 @@
+{
+	"itemId": 3,
+	"itemName": "Ultra Ball",
+	"proto": "ITEM_ULTRA_BALL",
+	"type": "Pokeball",
+	"category": "Pokeball",
+	"minTrainerLevel": 20
+}

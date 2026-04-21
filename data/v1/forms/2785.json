@@ -1,0 +1,14 @@
+{
+	"formName": "Hisuian",
+	"proto": "DECIDUEYE_HISUIAN",
+	"formId": 2785,
+	"attack": 213,
+	"defense": 174,
+	"stamina": 204,
+	"height": 1.6,
+	"weight": 37,
+	"quickMoves": [226, 357],
+	"chargedMoves": [45, 265, 273, 332, 392],
+	"eliteChargedMoves": [],
+	"types": [2, 12]
+}

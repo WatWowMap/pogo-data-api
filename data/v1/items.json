@@ -1,0 +1,1079 @@
+[
+	{
+		"itemId": 1,
+		"itemName": "Poke Ball",
+		"proto": "ITEM_POKE_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 2,
+		"itemName": "Great Ball",
+		"proto": "ITEM_GREAT_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 12
+	},
+	{
+		"itemId": 3,
+		"itemName": "Ultra Ball",
+		"proto": "ITEM_ULTRA_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 20
+	},
+	{
+		"itemId": 4,
+		"itemName": "Master Ball",
+		"proto": "ITEM_MASTER_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 5,
+		"itemName": "Premier Ball",
+		"proto": "ITEM_PREMIER_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 6,
+		"itemName": "Beast Ball",
+		"proto": "ITEM_BEAST_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 7,
+		"itemName": "Wild Ball",
+		"proto": "ITEM_WILD_BALL",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 8,
+		"itemName": "Wild Ball Premier",
+		"proto": "ITEM_WILD_BALL_PREMIER",
+		"type": "Pokeball",
+		"category": "Pokeball",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 101,
+		"itemName": "Potion",
+		"proto": "ITEM_POTION",
+		"type": "Potion",
+		"category": "Medicine",
+		"minTrainerLevel": 5
+	},
+	{
+		"itemId": 102,
+		"itemName": "Super Potion",
+		"proto": "ITEM_SUPER_POTION",
+		"type": "Potion",
+		"category": "Medicine",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 103,
+		"itemName": "Hyper Potion",
+		"proto": "ITEM_HYPER_POTION",
+		"type": "Potion",
+		"category": "Medicine",
+		"minTrainerLevel": 15
+	},
+	{
+		"itemId": 104,
+		"itemName": "Max Potion",
+		"proto": "ITEM_MAX_POTION",
+		"type": "Potion",
+		"category": "Medicine",
+		"minTrainerLevel": 25
+	},
+	{
+		"itemId": 201,
+		"itemName": "Revive",
+		"proto": "ITEM_REVIVE",
+		"type": "Revive",
+		"category": "Medicine",
+		"minTrainerLevel": 5
+	},
+	{
+		"itemId": 202,
+		"itemName": "Max Revive",
+		"proto": "ITEM_MAX_REVIVE",
+		"type": "Revive",
+		"category": "Medicine",
+		"minTrainerLevel": 30
+	},
+	{
+		"itemId": 301,
+		"itemName": "Lucky Egg",
+		"proto": "ITEM_LUCKY_EGG",
+		"type": "Xp Boost",
+		"category": "Xp Boost",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 302,
+		"itemName": "Max Boost",
+		"proto": "ITEM_MAX_BOOST",
+		"type": "Battle",
+		"category": "Boost",
+		"minTrainerLevel": 12
+	},
+	{
+		"itemId": 303,
+		"itemName": "Lucky Friend Applicator",
+		"proto": "ITEM_LUCKY_FRIEND_APPLICATOR",
+		"type": "Friend Boost",
+		"category": "Xp Boost"
+	},
+	{
+		"itemId": 304,
+		"itemName": "Single Stat Increase",
+		"proto": "ITEM_SINGLE_STAT_INCREASE",
+		"type": "Stat Increase",
+		"category": "Stat Increase"
+	},
+	{
+		"itemId": 305,
+		"itemName": "Triple Stat Increase",
+		"proto": "ITEM_TRIPLE_STAT_INCREASE",
+		"type": "Stat Increase",
+		"category": "Stat Increase"
+	},
+	{
+		"itemId": 401,
+		"itemName": "Incense Ordinary",
+		"proto": "ITEM_INCENSE_ORDINARY",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 405,
+		"itemName": "Incense Beluga Box",
+		"proto": "ITEM_INCENSE_BELUGA_BOX",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 406,
+		"itemName": "Incense Daily Adventure",
+		"proto": "ITEM_INCENSE_DAILY_ADVENTURE",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 6
+	},
+	{
+		"itemId": 407,
+		"itemName": "Incense Sparkly",
+		"proto": "ITEM_INCENSE_SPARKLY",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 408,
+		"itemName": "Incense Day Bonus",
+		"proto": "ITEM_INCENSE_DAY_BONUS",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 409,
+		"itemName": "Incense Night Bonus",
+		"proto": "ITEM_INCENSE_NIGHT_BONUS",
+		"type": "Incense",
+		"category": "Incense",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 501,
+		"itemName": "Troy Disk",
+		"proto": "ITEM_TROY_DISK",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 502,
+		"itemName": "Troy Disk Glacial",
+		"proto": "ITEM_TROY_DISK_GLACIAL",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 503,
+		"itemName": "Troy Disk Mossy",
+		"proto": "ITEM_TROY_DISK_MOSSY",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 504,
+		"itemName": "Troy Disk Magnetic",
+		"proto": "ITEM_TROY_DISK_MAGNETIC",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 505,
+		"itemName": "Troy Disk Rainy",
+		"proto": "ITEM_TROY_DISK_RAINY",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 506,
+		"itemName": "Troy Disk Sparkly",
+		"proto": "ITEM_TROY_DISK_SPARKLY",
+		"type": "Disk",
+		"category": "Disk",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 602,
+		"itemName": "X Attack",
+		"proto": "ITEM_X_ATTACK",
+		"type": "Battle",
+		"category": "Boost",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 603,
+		"itemName": "X Defense",
+		"proto": "ITEM_X_DEFENSE",
+		"type": "Battle",
+		"category": "Boost",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 604,
+		"itemName": "X Miracle",
+		"proto": "ITEM_X_MIRACLE",
+		"type": "Battle",
+		"category": "Boost",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 650,
+		"itemName": "Beans",
+		"proto": "ITEM_BEANS",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 651,
+		"itemName": "Breakfast",
+		"proto": "ITEM_BREAKFAST",
+		"type": "Breakfast",
+		"category": "Utilites",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 701,
+		"itemName": "Razz Berry",
+		"proto": "ITEM_RAZZ_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 8
+	},
+	{
+		"itemId": 702,
+		"itemName": "Bluk Berry",
+		"proto": "ITEM_BLUK_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 703,
+		"itemName": "Nanab Berry",
+		"proto": "ITEM_NANAB_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 4
+	},
+	{
+		"itemId": 704,
+		"itemName": "Wepar Berry",
+		"proto": "ITEM_WEPAR_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 705,
+		"itemName": "Pinap Berry",
+		"proto": "ITEM_PINAP_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 18
+	},
+	{
+		"itemId": 706,
+		"itemName": "Golden Razz Berry",
+		"proto": "ITEM_GOLDEN_RAZZ_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 708,
+		"itemName": "Golden Pinap Berry",
+		"proto": "ITEM_GOLDEN_PINAP_BERRY",
+		"type": "Food",
+		"category": "Food",
+		"minTrainerLevel": 20
+	},
+	{
+		"itemId": 709,
+		"itemName": "Poffin",
+		"proto": "ITEM_POFFIN",
+		"type": "Food",
+		"category": "Buddy Exclusive Food"
+	},
+	{
+		"itemId": 801,
+		"itemName": "Special Camera",
+		"proto": "ITEM_SPECIAL_CAMERA",
+		"type": "Camera",
+		"category": "Camera",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 802,
+		"itemName": "Sticker Inventory",
+		"proto": "ITEM_STICKER_INVENTORY",
+		"type": "Sticker Inventory",
+		"category": "Sticker",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 803,
+		"itemName": "Postcard Inventory",
+		"proto": "ITEM_POSTCARD_INVENTORY",
+		"type": "Postcard Inventory",
+		"category": "Postcard Inventory",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 804,
+		"itemName": "Soft Sfida",
+		"proto": "ITEM_SOFT_SFIDA",
+		"type": "Soft Sfida",
+		"category": "Utilites",
+		"minTrainerLevel": 99
+	},
+	{
+		"itemId": 901,
+		"itemName": "Incubator Basic Unlimited",
+		"proto": "ITEM_INCUBATOR_BASIC_UNLIMITED",
+		"type": "Incubator",
+		"category": "Incubator",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 902,
+		"itemName": "Incubator Basic",
+		"proto": "ITEM_INCUBATOR_BASIC",
+		"type": "Incubator",
+		"category": "Incubator",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 903,
+		"itemName": "Incubator Super",
+		"proto": "ITEM_INCUBATOR_SUPER",
+		"type": "Incubator",
+		"category": "Incubator",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 904,
+		"itemName": "Incubator Timed",
+		"proto": "ITEM_INCUBATOR_TIMED",
+		"type": "Incubator",
+		"category": "Incubator",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 905,
+		"itemName": "Incubator Special",
+		"proto": "ITEM_INCUBATOR_SPECIAL",
+		"type": "Incubator",
+		"category": "Incubator",
+		"minTrainerLevel": 15
+	},
+	{
+		"itemId": 1001,
+		"itemName": "Pokemon Storage Upgrade",
+		"proto": "ITEM_POKEMON_STORAGE_UPGRADE",
+		"type": "Inventory Upgrade",
+		"category": "Inventory Upgrade",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1002,
+		"itemName": "Item Storage Upgrade",
+		"proto": "ITEM_ITEM_STORAGE_UPGRADE",
+		"type": "Inventory Upgrade",
+		"category": "Inventory Upgrade",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1003,
+		"itemName": "Postcard Storage Upgrade",
+		"proto": "ITEM_POSTCARD_STORAGE_UPGRADE",
+		"type": "Inventory Upgrade",
+		"category": "Inventory Upgrade",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1101,
+		"itemName": "Sun Stone",
+		"proto": "ITEM_SUN_STONE",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1102,
+		"itemName": "Kings Rock",
+		"proto": "ITEM_KINGS_ROCK",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1103,
+		"itemName": "Metal Coat",
+		"proto": "ITEM_METAL_COAT",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1104,
+		"itemName": "Dragon Scale",
+		"proto": "ITEM_DRAGON_SCALE",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1105,
+		"itemName": "Up Grade",
+		"proto": "ITEM_UP_GRADE",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1106,
+		"itemName": "Gen4 Evolution Stone",
+		"proto": "ITEM_GEN4_EVOLUTION_STONE",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1107,
+		"itemName": "Gen5 Evolution Stone",
+		"proto": "ITEM_GEN5_EVOLUTION_STONE",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1150,
+		"itemName": "Other Evolution Stone A",
+		"proto": "ITEM_OTHER_EVOLUTION_STONE_A",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1151,
+		"itemName": "Other Evolution Stone Maple A",
+		"proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_A",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1152,
+		"itemName": "Other Evolution Stone Maple B",
+		"proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_B",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1153,
+		"itemName": "Resource Crowned Zacian",
+		"proto": "ITEM_RESOURCE_CROWNED_ZACIAN",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1154,
+		"itemName": "Resource Crowned Zamazenta",
+		"proto": "ITEM_RESOURCE_CROWNED_ZAMAZENTA",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1155,
+		"itemName": "Other Evolution Stone Maple C",
+		"proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_C",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 10
+	},
+	{
+		"itemId": 1201,
+		"itemName": "Move Reroll Fast Attack",
+		"proto": "ITEM_MOVE_REROLL_FAST_ATTACK",
+		"type": "Move Reroll",
+		"category": "Move Reroll",
+		"minTrainerLevel": 15
+	},
+	{
+		"itemId": 1202,
+		"itemName": "Move Reroll Special Attack",
+		"proto": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
+		"type": "Move Reroll",
+		"category": "Move Reroll",
+		"minTrainerLevel": 25
+	},
+	{
+		"itemId": 1203,
+		"itemName": "Move Reroll Elite Fast Attack",
+		"proto": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+		"type": "Move Reroll",
+		"category": "Move Reroll",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1204,
+		"itemName": "Move Reroll Elite Special Attack",
+		"proto": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+		"type": "Move Reroll",
+		"category": "Move Reroll",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1250,
+		"itemName": "Move Reroll Other Special Attack A",
+		"proto": "ITEM_MOVE_REROLL_OTHER_SPECIAL_ATTACK_A",
+		"type": "Move Reroll",
+		"category": "Move Reroll"
+	},
+	{
+		"itemId": 1301,
+		"itemName": "Rare Candy",
+		"proto": "ITEM_RARE_CANDY",
+		"type": "Candy",
+		"category": "Candy",
+		"minTrainerLevel": 5
+	},
+	{
+		"itemId": 1302,
+		"itemName": "XL Rare Candy",
+		"proto": "ITEM_XL_RARE_CANDY",
+		"type": "Candy",
+		"category": "Candy",
+		"minTrainerLevel": 31
+	},
+	{
+		"itemId": 1350,
+		"itemName": "Fusion Resource Dawnwings Necrozma",
+		"proto": "FUSION_RESOURCE_DAWNWINGS_NECROZMA",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1351,
+		"itemName": "Fusion Resource Duskmane Necrozma",
+		"proto": "FUSION_RESOURCE_DUSKMANE_NECROZMA",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1352,
+		"itemName": "Fusion Resource Black Kyurem",
+		"proto": "FUSION_RESOURCE_BLACK_KYUREM",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1353,
+		"itemName": "Fusion Resource White Kyurem",
+		"proto": "FUSION_RESOURCE_WHITE_KYUREM",
+		"type": "Evolution Requirement",
+		"category": "Evolution Requirement",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1401,
+		"itemName": "Free Raid Ticket",
+		"proto": "ITEM_FREE_RAID_TICKET",
+		"type": "Raid Ticket",
+		"category": "Raid Ticket",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1402,
+		"itemName": "Paid Raid Ticket",
+		"proto": "ITEM_PAID_RAID_TICKET",
+		"type": "Raid Ticket",
+		"category": "Raid Ticket",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1404,
+		"itemName": "Star Piece",
+		"proto": "ITEM_STAR_PIECE",
+		"type": "Stardust Boost",
+		"category": "Stardust Boost",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1405,
+		"itemName": "Friend Gift Box",
+		"proto": "ITEM_FRIEND_GIFT_BOX",
+		"type": "Friend Gift Box",
+		"category": "Friend Gift Box",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1406,
+		"itemName": "Team Change",
+		"proto": "ITEM_TEAM_CHANGE",
+		"type": "Team Change",
+		"category": "Team Change",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1407,
+		"itemName": "Route Maker",
+		"proto": "ITEM_ROUTE_MAKER",
+		"type": "Route Maker",
+		"category": "Route Maker",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1408,
+		"itemName": "Remote Raid Ticket",
+		"proto": "ITEM_REMOTE_RAID_TICKET",
+		"type": "Raid Ticket",
+		"category": "Raid Ticket",
+		"minTrainerLevel": 5
+	},
+	{
+		"itemId": 1410,
+		"itemName": "Enhanced Currency",
+		"proto": "ITEM_ENHANCED_CURRENCY",
+		"type": "Enhanced Currency",
+		"category": "Enhanced Currency",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1411,
+		"itemName": "Enhanced Currency Holder",
+		"proto": "ITEM_ENHANCED_CURRENCY_HOLDER",
+		"type": "Enhanced Currency Holder",
+		"category": "Enhanced Currency Holder"
+	},
+	{
+		"itemId": 1501,
+		"itemName": "Leader Map Fragment",
+		"proto": "ITEM_LEADER_MAP_FRAGMENT",
+		"type": "Incident Ticket",
+		"category": "Incident Ticket",
+		"minTrainerLevel": 8
+	},
+	{
+		"itemId": 1502,
+		"itemName": "Leader Map",
+		"proto": "ITEM_LEADER_MAP",
+		"type": "Incident Ticket",
+		"category": "Incident Ticket",
+		"minTrainerLevel": 8
+	},
+	{
+		"itemId": 1503,
+		"itemName": "Giovanni Map",
+		"proto": "ITEM_GIOVANNI_MAP",
+		"type": "Incident Ticket",
+		"category": "Incident Ticket",
+		"minTrainerLevel": 8
+	},
+	{
+		"itemId": 1504,
+		"itemName": "Shadow Gem Fragment",
+		"proto": "ITEM_SHADOW_GEM_FRAGMENT",
+		"type": "Incident Ticket",
+		"category": "Incident Ticket",
+		"minTrainerLevel": 5
+	},
+	{
+		"itemId": 1505,
+		"itemName": "Shadow Gem",
+		"proto": "ITEM_SHADOW_GEM",
+		"type": "Incident Ticket",
+		"category": "Incident Ticket",
+		"minTrainerLevel": 100
+	},
+	{
+		"itemId": 1506,
+		"itemName": "Mp",
+		"proto": "ITEM_MP",
+		"type": "Mp",
+		"category": "Mp",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1507,
+		"itemName": "Mp Replenish",
+		"proto": "ITEM_MP_REPLENISH",
+		"type": "Mp Replenish",
+		"category": "Bread",
+		"minTrainerLevel": 1
+	},
+	{
+		"itemId": 1600,
+		"itemName": "Global Event Ticket",
+		"proto": "ITEM_GLOBAL_EVENT_TICKET",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1601,
+		"itemName": "Event Ticket Pink",
+		"proto": "ITEM_EVENT_TICKET_PINK",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1602,
+		"itemName": "Event Ticket Gray",
+		"proto": "ITEM_EVENT_TICKET_GRAY",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1603,
+		"itemName": "Global Event Ticket To Gift",
+		"proto": "ITEM_GLOBAL_EVENT_TICKET_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1604,
+		"itemName": "Event Ticket Pink To Gift",
+		"proto": "ITEM_EVENT_TICKET_PINK_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1605,
+		"itemName": "Event Ticket Gray To Gift",
+		"proto": "ITEM_EVENT_TICKET_GRAY_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1606,
+		"itemName": "Battle Pass Ticket",
+		"proto": "ITEM_BATTLE_PASS_TICKET",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1607,
+		"itemName": "Evergreen Ticket",
+		"proto": "ITEM_EVERGREEN_TICKET",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1608,
+		"itemName": "Evergreen Ticket To Gift",
+		"proto": "ITEM_EVERGREEN_TICKET_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1610,
+		"itemName": "Ticket City Safari 00",
+		"proto": "ITEM_TICKET_CITY_SAFARI_00",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1611,
+		"itemName": "Ticket City Safari 01",
+		"proto": "ITEM_TICKET_CITY_SAFARI_01",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1612,
+		"itemName": "Ticket City Safari 02",
+		"proto": "ITEM_TICKET_CITY_SAFARI_02",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1614,
+		"itemName": "Ticket City Safari 04",
+		"proto": "ITEM_TICKET_CITY_SAFARI_04",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1616,
+		"itemName": "Event Ticket 02",
+		"proto": "ITEM_EVENT_TICKET_02",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1617,
+		"itemName": "Event Ticket 03",
+		"proto": "ITEM_EVENT_TICKET_03",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1618,
+		"itemName": "Event Ticket 04",
+		"proto": "ITEM_EVENT_TICKET_04",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1619,
+		"itemName": "Event Ticket 05",
+		"proto": "ITEM_EVENT_TICKET_05",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1620,
+		"itemName": "Event Ticket 06",
+		"proto": "ITEM_EVENT_TICKET_06",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1621,
+		"itemName": "Event Ticket 07",
+		"proto": "ITEM_EVENT_TICKET_07",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1622,
+		"itemName": "Event Ticket 08",
+		"proto": "ITEM_EVENT_TICKET_08",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1623,
+		"itemName": "Event Ticket 09",
+		"proto": "ITEM_EVENT_TICKET_09",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1624,
+		"itemName": "Event Ticket 10",
+		"proto": "ITEM_EVENT_TICKET_10",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1626,
+		"itemName": "Event Ticket 02 To Gift",
+		"proto": "ITEM_EVENT_TICKET_02_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1627,
+		"itemName": "Event Ticket 03 To Gift",
+		"proto": "ITEM_EVENT_TICKET_03_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1628,
+		"itemName": "Event Ticket 04 To Gift",
+		"proto": "ITEM_EVENT_TICKET_04_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1629,
+		"itemName": "Event Ticket 05 To Gift",
+		"proto": "ITEM_EVENT_TICKET_05_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1631,
+		"itemName": "Event Ticket 07 To Gift",
+		"proto": "ITEM_EVENT_TICKET_07_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1632,
+		"itemName": "Event Ticket 08 To Gift",
+		"proto": "ITEM_EVENT_TICKET_08_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1633,
+		"itemName": "Event Ticket 09 To Gift",
+		"proto": "ITEM_EVENT_TICKET_09_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 1634,
+		"itemName": "Event Ticket 10 To Gift",
+		"proto": "ITEM_EVENT_TICKET_10_TO_GIFT",
+		"type": "Global Event Ticket",
+		"category": "Global Event Ticket"
+	},
+	{
+		"itemId": 2001,
+		"itemName": "Event Pass Point Go Tour 01",
+		"proto": "ITEM_EVENT_PASS_POINT_GO_TOUR_01",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2002,
+		"itemName": "Event Pass Point Go Tour 02",
+		"proto": "ITEM_EVENT_PASS_POINT_GO_TOUR_02",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2021,
+		"itemName": "Event Pass Point Go Fest 01",
+		"proto": "ITEM_EVENT_PASS_POINT_GO_FEST_01",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2022,
+		"itemName": "Event Pass Point Go Fest 02",
+		"proto": "ITEM_EVENT_PASS_POINT_GO_FEST_02",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2041,
+		"itemName": "Event Pass Point Go Wild Area 01",
+		"proto": "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2101,
+		"itemName": "Event Pass Point Live Ops 01",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_01",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2102,
+		"itemName": "Event Pass Point Live Ops 02",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2103,
+		"itemName": "Event Pass Point Live Ops 03",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_03",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2104,
+		"itemName": "Event Pass Point Live Ops 04",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_04",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2105,
+		"itemName": "Event Pass Point Live Ops 05",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_05",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2106,
+		"itemName": "Event Pass Point Live Ops 06",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_06",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2107,
+		"itemName": "Event Pass Point Live Ops 07",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_07",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2108,
+		"itemName": "Event Pass Point Live Ops 08",
+		"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_08",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2151,
+		"itemName": "Event Pass Point Monthly 01",
+		"proto": "ITEM_EVENT_PASS_POINT_MONTHLY_01",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	},
+	{
+		"itemId": 2152,
+		"itemName": "Event Pass Point Monthly 02",
+		"proto": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
+		"type": "Event Pass Point",
+		"category": "Event Pass Point"
+	}
+]

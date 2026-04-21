@@ -1,8 +1,0 @@
-{
-  "itemId": 501,
-  "itemName": "Troy Disk",
-  "proto": "ITEM_TROY_DISK",
-  "type": "Disk",
-  "category": "Disk",
-  "minTrainerLevel": 1
-}

@@ -1,9 +1,0 @@
-{
-  "moveId": 425,
-  "moveName": "Max Overgrowth",
-  "proto": "VN_BM_017",
-  "fast": false,
-  "type": 12,
-  "power": 350,
-  "durationMs": 2500
-}

@@ -1,0 +1,16 @@
+{
+	"moveId": 342,
+	"moveName": "V Create",
+	"proto": "V_CREATE",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 95,
+	"pvpEnergyDelta": -40,
+	"pvpBuffs": {
+		"attackerDefenseStatStageChange": -3,
+		"buffActivationChance": 1
+	},
+	"power": 105,
+	"durationMs": 3000,
+	"energyDelta": -33
+}

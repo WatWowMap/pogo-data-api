@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Skitty",
+	"pokedexId": 300,
+	"defaultFormId": 1463,
+	"types": [1],
+	"quickMoves": [221, 238],
+	"chargedMoves": [26, 84, 251],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1463],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.9455
+		}
+	],
+	"attack": 84,
+	"defense": 79,
+	"stamina": 137,
+	"height": 0.61,
+	"weight": 11,
+	"family": 300,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 301,
+			"candyCost": 50
+		}
+	]
+}

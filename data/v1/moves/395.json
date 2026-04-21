@@ -1,0 +1,16 @@
+{
+	"moveId": 395,
+	"moveName": "Bleakwind Storm",
+	"proto": "BLEAKWIND_STORM",
+	"fast": false,
+	"type": 3,
+	"pvpPower": 60,
+	"pvpEnergyDelta": -45,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 150,
+	"durationMs": 2500,
+	"energyDelta": -100
+}

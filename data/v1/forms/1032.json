@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "SEEL_NORMAL",
+	"formId": 1032,
+	"evolutions": [
+		{
+			"evoId": 87,
+			"formId": 1035,
+			"candyCost": 50
+		}
+	]
+}

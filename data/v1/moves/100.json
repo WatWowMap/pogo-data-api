@@ -1,0 +1,12 @@
+{
+	"moveId": 100,
+	"moveName": "X Scissor",
+	"proto": "X_SCISSOR",
+	"fast": false,
+	"type": 7,
+	"pvpPower": 65,
+	"pvpEnergyDelta": -40,
+	"power": 45,
+	"durationMs": 1500,
+	"energyDelta": -33
+}

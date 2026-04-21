@@ -1,0 +1,9 @@
+{
+	"formName": "Pirouette",
+	"proto": "MELOETTA_PIROUETTE",
+	"formId": 152,
+	"attack": 269,
+	"defense": 188,
+	"stamina": 225,
+	"types": [1, 2]
+}

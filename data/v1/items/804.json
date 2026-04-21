@@ -1,0 +1,8 @@
+{
+	"itemId": 804,
+	"itemName": "Soft Sfida",
+	"proto": "ITEM_SOFT_SFIDA",
+	"type": "Soft Sfida",
+	"category": "Utilites",
+	"minTrainerLevel": 99
+}

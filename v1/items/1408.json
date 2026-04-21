@@ -1,8 +1,0 @@
-{
-  "itemId": 1408,
-  "itemName": "Remote Raid Ticket",
-  "proto": "ITEM_REMOTE_RAID_TICKET",
-  "type": "Raid Ticket",
-  "category": "Raid Ticket",
-  "minTrainerLevel": 5
-}

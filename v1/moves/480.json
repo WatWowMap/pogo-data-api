@@ -1,9 +1,0 @@
-{
-  "moveId": 480,
-  "moveName": "Max Behemoth Bash",
-  "proto": "VN_BM_061",
-  "fast": false,
-  "type": 9,
-  "power": 350,
-  "durationMs": 2500
-}

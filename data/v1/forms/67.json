@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "GEODUDE_NORMAL",
+	"formId": 67,
+	"evolutions": [
+		{
+			"evoId": 75,
+			"formId": 69,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

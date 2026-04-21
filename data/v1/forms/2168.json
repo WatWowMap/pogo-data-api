@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "FRILLISH_NORMAL",
+	"formId": 2168,
+	"evolutions": [
+		{
+			"evoId": 593,
+			"formId": 2171,
+			"candyCost": 50
+		}
+	]
+}

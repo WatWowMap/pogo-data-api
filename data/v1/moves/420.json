@@ -1,0 +1,9 @@
+{
+	"moveId": 420,
+	"moveName": "Max Wyrmwind",
+	"proto": "VN_BM_012",
+	"fast": false,
+	"type": 16,
+	"power": 350,
+	"durationMs": 2500
+}

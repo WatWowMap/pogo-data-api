@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Octillery",
+	"pokedexId": 224,
+	"defaultFormId": 1289,
+	"types": [11],
+	"quickMoves": [216, 230, 325],
+	"chargedMoves": [92, 105, 248, 303, 308],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1289],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.4361
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.445
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.1125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.335
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.78
+		}
+	],
+	"attack": 197,
+	"defense": 141,
+	"stamina": 181,
+	"height": 0.89,
+	"weight": 28.5,
+	"family": 223,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

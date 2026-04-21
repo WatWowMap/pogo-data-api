@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "CLEFABLE_NORMAL",
+	"formId": 984,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 253,
+			"defense": 205,
+			"stamina": 216,
+			"types": [3, 18],
+			"unreleased": true
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": 12,
+	"type": "Dragon",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_DRAGON_GRUNT_FEMALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 147,
+			"formId": 190,
+			"position": "first"
+		},
+		{
+			"id": 371,
+			"formId": 755,
+			"position": "first"
+		},
+		{
+			"id": 633,
+			"formId": 2291,
+			"position": "first"
+		},
+		{
+			"id": 103,
+			"formId": 78,
+			"position": "second"
+		},
+		{
+			"id": 148,
+			"formId": 193,
+			"position": "second"
+		},
+		{
+			"id": 444,
+			"formId": 864,
+			"position": "second"
+		},
+		{
+			"id": 149,
+			"formId": 196,
+			"position": "third"
+		},
+		{
+			"id": 373,
+			"formId": 761,
+			"position": "third"
+		},
+		{
+			"id": 445,
+			"formId": 867,
+			"position": "third"
+		}
+	]
+}

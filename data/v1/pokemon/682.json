@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Spritzee",
+	"pokedexId": 682,
+	"defaultFormId": 3044,
+	"types": [18],
+	"quickMoves": [249, 320],
+	"chargedMoves": [79, 85],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3044],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.35
+		}
+	],
+	"attack": 110,
+	"defense": 113,
+	"stamina": 186,
+	"height": 0.2,
+	"weight": 0.5,
+	"family": 682,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 683,
+			"candyCost": 50,
+			"questRequirement": "SPRITZEE_EVOLUTION_QUEST"
+		}
+	]
+}

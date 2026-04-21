@@ -1,0 +1,12 @@
+{
+	"moveId": 324,
+	"moveName": "Synchronoise",
+	"proto": "SYNCHRONOISE",
+	"fast": false,
+	"type": 14,
+	"pvpPower": 80,
+	"pvpEnergyDelta": -50,
+	"power": 80,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

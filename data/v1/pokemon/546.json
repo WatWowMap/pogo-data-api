@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Cottonee",
+	"pokedexId": 546,
+	"defaultFormId": 2042,
+	"types": [12, 18],
+	"quickMoves": [215, 320],
+	"chargedMoves": [59, 272, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2042],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.525
+		}
+	],
+	"attack": 71,
+	"defense": 111,
+	"stamina": 120,
+	"height": 0.3,
+	"weight": 0.6,
+	"family": 546,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 547,
+			"candyCost": 50,
+			"itemRequirement": 1101
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"formName": "Normal",
+	"proto": "KANGASKHAN_NORMAL",
+	"formId": 839,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 246,
+			"defense": 210,
+			"stamina": 233,
+			"weight": 100,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,16 @@
+{
+	"moveId": 360,
+	"moveName": "Aeroblast Plus",
+	"proto": "AEROBLAST_PLUS",
+	"fast": false,
+	"type": 3,
+	"pvpPower": 170,
+	"pvpEnergyDelta": -75,
+	"pvpBuffs": {
+		"attackerAttackStatStageChange": 2,
+		"buffActivationChance": 0.125
+	},
+	"power": 200,
+	"durationMs": 3500,
+	"energyDelta": -100
+}

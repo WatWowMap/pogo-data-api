@@ -1,0 +1,16 @@
+{
+	"moveId": 256,
+	"moveName": "Brave Bird",
+	"proto": "BRAVE_BIRD",
+	"fast": false,
+	"type": 3,
+	"pvpPower": 130,
+	"pvpEnergyDelta": -55,
+	"pvpBuffs": {
+		"attackerDefenseStatStageChange": -3,
+		"buffActivationChance": 1
+	},
+	"power": 130,
+	"durationMs": 2000,
+	"energyDelta": -100
+}

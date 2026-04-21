@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Mudsdale",
+	"pokedexId": 750,
+	"defaultFormId": 3099,
+	"types": [5],
+	"quickMoves": [233, 241],
+	"chargedMoves": [31, 95, 131, 268],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3099],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.225
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.875
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 3.875
+		}
+	],
+	"attack": 214,
+	"defense": 174,
+	"stamina": 225,
+	"height": 2.5,
+	"weight": 920,
+	"family": 749,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

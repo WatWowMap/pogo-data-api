@@ -1,0 +1,72 @@
+{
+	"pokemonName": "Camerupt",
+	"pokedexId": 323,
+	"defaultFormId": 1520,
+	"types": [5, 10],
+	"quickMoves": [209, 241, 346],
+	"chargedMoves": [31, 63, 116, 270, 304, 393],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1520],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.9359
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.955
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.4325
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.3875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.865
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.9605
+		}
+	],
+	"attack": 194,
+	"defense": 136,
+	"stamina": 172,
+	"height": 1.91,
+	"weight": 220,
+	"family": 322,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 253,
+			"defense": 183,
+			"stamina": 172,
+			"height": 2.5,
+			"weight": 320.5,
+			"firstEnergyCost": 200,
+			"subsequentEnergyCost": 40
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

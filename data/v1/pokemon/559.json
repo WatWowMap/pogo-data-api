@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Scraggy",
+	"pokedexId": 559,
+	"defaultFormId": 2075,
+	"types": [2, 17],
+	"quickMoves": [238, 241],
+	"chargedMoves": [77, 123, 280, 303, 471],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2075],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 132,
+	"defense": 132,
+	"stamina": 137,
+	"height": 0.6,
+	"weight": 11.8,
+	"family": 559,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 560,
+			"candyCost": 50
+		}
+	]
+}

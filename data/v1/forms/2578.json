@@ -1,0 +1,36 @@
+{
+	"formName": "Crowned Shield",
+	"proto": "ZAMAZENTA_CROWNED_SHIELD",
+	"formId": 2578,
+	"gmaxMove": 480,
+	"attack": 250,
+	"defense": 292,
+	"stamina": 192,
+	"quickMoves": [228, 327],
+	"chargedMoves": [87, 245, 321],
+	"formChanges": [
+		{
+			"availableForms": [2579],
+			"moveReassignment": {
+				"chargedMoves": [
+					{
+						"existingMoves": [470],
+						"replacementMoves": [74]
+					}
+				]
+			},
+			"formChangeBonusAttributes": [
+				{
+					"targetForm": 2579,
+					"clearBreadMode": true
+				}
+			],
+			"locationCardSettings": [
+				{
+					"existingLocationCard": 91,
+					"replacementLocationCard": 88
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"formName": "Eternamax",
+	"proto": "ETERNATUS_ETERNAMAX",
+	"formId": 2580,
+	"gmaxMove": 483,
+	"attack": 251,
+	"defense": 505,
+	"stamina": 452,
+	"chargedMoves": [14, 24, 90]
+}

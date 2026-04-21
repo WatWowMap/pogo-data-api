@@ -1,0 +1,10 @@
+{
+	"typeId": 16,
+	"typeName": "Dragon",
+	"strengths": [16],
+	"weaknesses": [15, 16, 18],
+	"veryWeakAgainst": [18],
+	"immunes": [],
+	"weakAgainst": [9],
+	"resistances": [10, 11, 12, 13]
+}

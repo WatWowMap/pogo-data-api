@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Wingull",
+	"pokedexId": 278,
+	"defaultFormId": 1406,
+	"types": [3, 11],
+	"quickMoves": [219, 230],
+	"chargedMoves": [39, 105, 121],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1406],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.0675
+		}
+	],
+	"attack": 106,
+	"defense": 61,
+	"stamina": 120,
+	"height": 0.61,
+	"weight": 9.5,
+	"family": 278,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 279,
+			"candyCost": 50
+		}
+	]
+}

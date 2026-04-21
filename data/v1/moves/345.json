@@ -1,0 +1,13 @@
+{
+	"moveId": 345,
+	"moveName": "Gust",
+	"proto": "GUST_FAST",
+	"fast": true,
+	"type": 3,
+	"pvpPower": 16,
+	"pvpEnergyDelta": 12,
+	"pvpDurationTurns": 3,
+	"power": 25,
+	"durationMs": 2000,
+	"energyDelta": 20
+}

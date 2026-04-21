@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "IMPIDIMP_NORMAL",
+	"formId": 3193,
+	"evolutions": [
+		{
+			"evoId": 860,
+			"formId": 3194,
+			"candyCost": 25
+		}
+	]
+}

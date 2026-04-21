@@ -1,9 +1,0 @@
-{
-  "moveId": 411,
-  "moveName": "Max Lightning",
-  "proto": "VN_BM_003",
-  "fast": false,
-  "type": 13,
-  "power": 350,
-  "durationMs": 2500
-}

@@ -1,9 +1,0 @@
-{
-  "moveId": 431,
-  "moveName": "Gmax Chistrike",
-  "proto": "VN_BM_023",
-  "fast": false,
-  "type": 2,
-  "power": 450,
-  "durationMs": 2500
-}

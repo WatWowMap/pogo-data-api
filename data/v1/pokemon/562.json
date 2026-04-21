@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Yamask",
+	"pokedexId": 562,
+	"defaultFormId": 2084,
+	"types": [8],
+	"quickMoves": [234, 263],
+	"chargedMoves": [16, 69, 70],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2084, 2344],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.245
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.875
+		}
+	],
+	"attack": 95,
+	"defense": 141,
+	"stamina": 116,
+	"height": 0.5,
+	"weight": 1.5,
+	"family": 562,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 563,
+			"formId": 2087,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

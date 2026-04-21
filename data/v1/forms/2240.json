@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "SHELMET_NORMAL",
+	"formId": 2240,
+	"evolutions": [
+		{
+			"evoId": 617,
+			"formId": 2243,
+			"candyCost": 200,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

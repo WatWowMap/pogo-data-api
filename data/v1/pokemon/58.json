@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Growlithe",
+	"pokedexId": 58,
+	"defaultFormId": 280,
+	"types": [10],
+	"quickMoves": [202, 209],
+	"chargedMoves": [21, 24, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [280, 2792],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.343
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.35
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.525
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.05
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.225
+		}
+	],
+	"attack": 136,
+	"defense": 93,
+	"stamina": 146,
+	"height": 0.7,
+	"weight": 19,
+	"family": 58,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 59,
+			"formId": 283,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

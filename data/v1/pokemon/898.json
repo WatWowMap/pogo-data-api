@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Calyrex",
+	"pokedexId": 898,
+	"defaultFormId": 2725,
+	"types": [12, 14],
+	"quickMoves": [222, 235],
+	"chargedMoves": [60, 108, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [2725, 2726, 2727],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.705
+		}
+	],
+	"attack": 162,
+	"defense": 162,
+	"stamina": 225,
+	"height": 1.1,
+	"weight": 7.7,
+	"family": 898,
+	"legendary": true,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,6 @@
+{
+	"weatherId": 4,
+	"weatherName": "Overcast",
+	"proto": "OVERCAST",
+	"types": [2, 4, 18]
+}

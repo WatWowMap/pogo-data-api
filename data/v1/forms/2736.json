@@ -1,0 +1,9 @@
+{
+	"formName": "Flying Okinawa",
+	"proto": "PIKACHU_FLYING_OKINAWA",
+	"formId": 2736,
+	"isCostume": true,
+	"chargedMoves": [35, 79, 251, 341],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": []
+}

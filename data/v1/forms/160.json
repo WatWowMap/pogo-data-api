@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "GOLBAT_NORMAL",
+	"formId": 160,
+	"evolutions": [
+		{
+			"evoId": 169,
+			"formId": 202,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

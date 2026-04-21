@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Bounsweet",
+	"pokedexId": 761,
+	"defaultFormId": 3109,
+	"types": [12],
+	"quickMoves": [215, 320],
+	"chargedMoves": [85, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3109],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.6
+		}
+	],
+	"attack": 55,
+	"defense": 69,
+	"stamina": 123,
+	"height": 0.3,
+	"weight": 3.2,
+	"family": 761,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 1,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 762,
+			"candyCost": 25
+		}
+	]
+}

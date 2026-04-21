@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "CHARCADET_NORMAL",
+	"formId": 3248,
+	"evolutions": [
+		{
+			"evoId": 936,
+			"formId": 3249,
+			"candyCost": 50,
+			"questRequirement": "CHARCADET_ARMAROUGE_EVOLUTION_QUEST"
+		},
+		{
+			"evoId": 937,
+			"formId": 3250,
+			"candyCost": 50,
+			"questRequirement": "CHARCADET_CERULEDGE_EVOLUTION_QUEST"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"itemId": 1107,
+	"itemName": "Gen5 Evolution Stone",
+	"proto": "ITEM_GEN5_EVOLUTION_STONE",
+	"type": "Evolution Requirement",
+	"category": "Evolution Requirement",
+	"minTrainerLevel": 10
+}

@@ -1,0 +1,12 @@
+{
+	"formName": "Modern",
+	"proto": "SCATTERBUG_MODERN",
+	"formId": 2755,
+	"evolutions": [
+		{
+			"evoId": 665,
+			"formId": 2775,
+			"candyCost": 25
+		}
+	]
+}

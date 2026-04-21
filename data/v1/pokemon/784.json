@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Kommo O",
+	"pokedexId": 784,
+	"defaultFormId": 3129,
+	"types": [2, 16],
+	"quickMoves": [224, 253, 402],
+	"chargedMoves": [24, 83, 123, 245, 380, 471],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [484],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3129],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.784
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.8
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.2
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.4
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.8
+		}
+	],
+	"attack": 222,
+	"defense": 240,
+	"stamina": 181,
+	"height": 1.6,
+	"weight": 78.2,
+	"family": 782,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

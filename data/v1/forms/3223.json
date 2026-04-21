@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "FLORAGATO_NORMAL",
+	"formId": 3223,
+	"evolutions": [
+		{
+			"evoId": 908,
+			"formId": 3224,
+			"candyCost": 100
+		}
+	]
+}

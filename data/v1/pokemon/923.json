@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Pawmot",
+	"pokedexId": 923,
+	"defaultFormId": 3238,
+	"types": [2, 13],
+	"quickMoves": [205, 206, 207, 249],
+	"chargedMoves": [35, 77, 79, 245, 251],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [123],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3238],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.395
+		}
+	],
+	"attack": 232,
+	"defense": 141,
+	"stamina": 172,
+	"height": 0.9,
+	"weight": 41,
+	"family": 921,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

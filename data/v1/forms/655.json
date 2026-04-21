@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "MAGNEMITE_NORMAL",
+	"formId": 655,
+	"evolutions": [
+		{
+			"evoId": 82,
+			"formId": 658,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

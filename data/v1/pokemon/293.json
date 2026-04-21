@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Whismur",
+	"pokedexId": 293,
+	"defaultFormId": 1442,
+	"types": [1],
+	"quickMoves": [222, 263],
+	"chargedMoves": [24, 84, 127],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1442],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.0675
+		}
+	],
+	"attack": 92,
+	"defense": 42,
+	"stamina": 162,
+	"height": 0.61,
+	"weight": 16.3,
+	"family": 293,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 294,
+			"candyCost": 12
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

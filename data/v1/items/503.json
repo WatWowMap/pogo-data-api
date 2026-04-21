@@ -1,0 +1,8 @@
+{
+	"itemId": 503,
+	"itemName": "Troy Disk Mossy",
+	"proto": "ITEM_TROY_DISK_MOSSY",
+	"type": "Disk",
+	"category": "Disk",
+	"minTrainerLevel": 1
+}

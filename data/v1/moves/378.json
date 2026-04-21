@@ -1,0 +1,16 @@
+{
+	"moveId": 378,
+	"moveName": "Glaciate",
+	"proto": "GLACIATE",
+	"fast": false,
+	"type": 15,
+	"pvpPower": 60,
+	"pvpEnergyDelta": -40,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 160,
+	"durationMs": 2500,
+	"energyDelta": -100
+}

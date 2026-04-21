@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "LEDYBA_NORMAL",
+	"formId": 1157,
+	"evolutions": [
+		{
+			"evoId": 166,
+			"formId": 1160,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

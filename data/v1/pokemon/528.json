@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Swoobat",
+	"pokedexId": 528,
+	"defaultFormId": 1988,
+	"types": [3, 14],
+	"quickMoves": [235, 255],
+	"chargedMoves": [45, 108, 275, 341, 353],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1988],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.575
+		}
+	],
+	"attack": 161,
+	"defense": 119,
+	"stamina": 167,
+	"height": 0.9,
+	"weight": 10.5,
+	"family": 527,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

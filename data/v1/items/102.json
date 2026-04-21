@@ -1,0 +1,8 @@
+{
+	"itemId": 102,
+	"itemName": "Super Potion",
+	"proto": "ITEM_SUPER_POTION",
+	"type": "Potion",
+	"category": "Medicine",
+	"minTrainerLevel": 10
+}

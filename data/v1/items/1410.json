@@ -1,0 +1,8 @@
+{
+	"itemId": 1410,
+	"itemName": "Enhanced Currency",
+	"proto": "ITEM_ENHANCED_CURRENCY",
+	"type": "Enhanced Currency",
+	"category": "Enhanced Currency",
+	"minTrainerLevel": 1
+}

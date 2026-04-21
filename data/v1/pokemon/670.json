@@ -1,0 +1,74 @@
+{
+	"pokemonName": "Floette",
+	"pokedexId": 670,
+	"defaultFormId": 2619,
+	"types": [18],
+	"quickMoves": [214, 221],
+	"chargedMoves": [47, 86, 108],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [2619, 2620, 2621, 2622, 2623],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.35
+		}
+	],
+	"attack": 136,
+	"defense": 151,
+	"stamina": 144,
+	"height": 0.2,
+	"weight": 0.9,
+	"family": 669,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 671,
+			"formId": 2624,
+			"candyCost": 100,
+			"questRequirement": "FLORGES_EVOLUTION_QUEST"
+		}
+	],
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 309,
+			"defense": 264,
+			"stamina": 179,
+			"unreleased": true
+		}
+	]
+}

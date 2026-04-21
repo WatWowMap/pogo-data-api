@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Noibat",
+	"pokedexId": 714,
+	"defaultFormId": 3070,
+	"types": [3, 16],
+	"quickMoves": [202, 210],
+	"chargedMoves": [42, 82, 121],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [3070],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.245
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.375
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.875
+		}
+	],
+	"attack": 83,
+	"defense": 73,
+	"stamina": 120,
+	"height": 0.5,
+	"weight": 8,
+	"family": 714,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 715,
+			"candyCost": 400
+		}
+	]
+}

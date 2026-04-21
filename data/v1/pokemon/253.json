@@ -1,0 +1,66 @@
+{
+	"pokemonName": "Grovyle",
+	"pokedexId": 253,
+	"defaultFormId": 1352,
+	"types": [12],
+	"quickMoves": [219, 271],
+	"chargedMoves": [45, 117, 272],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1352],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.4361
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.445
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.6675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.1125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.335
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.3795
+		}
+	],
+	"attack": 172,
+	"defense": 120,
+	"stamina": 137,
+	"height": 0.89,
+	"weight": 21.6,
+	"family": 252,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 254,
+			"candyCost": 100
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

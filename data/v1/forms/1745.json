@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "DRIFLOON_NORMAL",
+	"formId": 1745,
+	"evolutions": [
+		{
+			"evoId": 426,
+			"formId": 1748,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

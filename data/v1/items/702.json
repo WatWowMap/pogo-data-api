@@ -1,0 +1,8 @@
+{
+	"itemId": 702,
+	"itemName": "Bluk Berry",
+	"proto": "ITEM_BLUK_BERRY",
+	"type": "Food",
+	"category": "Food",
+	"minTrainerLevel": 100
+}

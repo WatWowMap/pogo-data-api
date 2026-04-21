@@ -1,0 +1,58 @@
+{
+	"id": 20,
+	"type": "Flying",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_FLYING_GRUNT_FEMALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 16,
+			"formId": 962,
+			"position": "first"
+		},
+		{
+			"id": 276,
+			"formId": 1400,
+			"position": "first"
+		},
+		{
+			"id": 333,
+			"formId": 1532,
+			"position": "first"
+		},
+		{
+			"id": 41,
+			"formId": 157,
+			"position": "second"
+		},
+		{
+			"id": 123,
+			"formId": 247,
+			"position": "second"
+		},
+		{
+			"id": 207,
+			"formId": 803,
+			"position": "second"
+		},
+		{
+			"id": 149,
+			"formId": 196,
+			"position": "third"
+		},
+		{
+			"id": 581,
+			"formId": 2141,
+			"position": "third"
+		},
+		{
+			"id": 733,
+			"formId": 0,
+			"position": "third"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"formName": "Alola",
+	"proto": "DUGTRIO_ALOLA",
+	"formId": 62,
+	"attack": 201,
+	"defense": 142,
+	"stamina": 111,
+	"height": 0.7,
+	"weight": 66.6,
+	"quickMoves": [228, 233, 403],
+	"chargedMoves": [31, 74, 96],
+	"types": [5, 9],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

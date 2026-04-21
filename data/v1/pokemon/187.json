@@ -1,0 +1,64 @@
+{
+	"pokemonName": "Hoppip",
+	"pokedexId": 187,
+	"defaultFormId": 1205,
+	"types": [3, 12],
+	"quickMoves": [221, 271],
+	"chargedMoves": [59, 86, 272],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1205],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2009
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.205
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.3075
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.5125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.615
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.7175
+		}
+	],
+	"attack": 67,
+	"defense": 94,
+	"stamina": 111,
+	"height": 0.41,
+	"weight": 0.5,
+	"family": 187,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 188,
+			"formId": 1208,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

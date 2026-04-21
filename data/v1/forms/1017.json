@@ -1,0 +1,20 @@
+{
+	"formName": "Normal",
+	"proto": "SLOWPOKE_NORMAL",
+	"formId": 1017,
+	"evolutions": [
+		{
+			"evoId": 80,
+			"formId": 1020,
+			"candyCost": 50
+		},
+		{
+			"evoId": 199,
+			"formId": 1238,
+			"candyCost": 50,
+			"itemRequirement": 1102
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

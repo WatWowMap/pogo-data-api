@@ -1,0 +1,13 @@
+{
+	"formName": "Paldea Combat",
+	"proto": "TAUROS_PALDEA_COMBAT",
+	"formId": 3006,
+	"attack": 210,
+	"defense": 193,
+	"stamina": 181,
+	"height": 1.4,
+	"weight": 115,
+	"quickMoves": [221, 234, 356],
+	"chargedMoves": [31, 74, 245, 392],
+	"types": [2]
+}

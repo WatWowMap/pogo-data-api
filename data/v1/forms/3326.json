@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "DIPPLIN_NORMAL",
+	"formId": 3326,
+	"evolutions": [
+		{
+			"evoId": 1019,
+			"formId": 3331,
+			"candyCost": 400,
+			"questRequirement": "DIPPLIN_EVOLUTION_QUEST"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"formName": "S",
+	"proto": "LATIAS_S",
+	"formId": 2821,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 289,
+			"defense": 297,
+			"stamina": 190,
+			"height": 1.8,
+			"weight": 52,
+			"firstEnergyCost": 300,
+			"subsequentEnergyCost": 60
+		}
+	],
+	"purificationDust": 20000,
+	"purificationCandy": 20
+}

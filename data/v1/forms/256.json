@@ -1,0 +1,19 @@
+{
+	"formName": "Normal",
+	"proto": "GYARADOS_NORMAL",
+	"formId": 256,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 292,
+			"defense": 247,
+			"stamina": 216,
+			"weight": 305,
+			"types": [11, 17],
+			"firstEnergyCost": 300,
+			"subsequentEnergyCost": 60
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

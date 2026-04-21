@@ -1,9 +1,0 @@
-{
-  "moveId": 438,
-  "moveName": "Gmax Meltdown",
-  "proto": "VN_BM_030",
-  "fast": false,
-  "type": 9,
-  "power": 450,
-  "durationMs": 2500
-}

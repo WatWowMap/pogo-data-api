@@ -1,0 +1,12 @@
+{
+	"moveId": 401,
+	"moveName": "Psywave",
+	"proto": "PSYWAVE_FAST",
+	"fast": true,
+	"type": 14,
+	"pvpPower": 3,
+	"pvpEnergyDelta": 4,
+	"power": 4,
+	"durationMs": 500,
+	"energyDelta": 7
+}

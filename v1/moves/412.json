@@ -1,9 +1,0 @@
-{
-  "moveId": 412,
-  "moveName": "Max Strike",
-  "proto": "VN_BM_004",
-  "fast": false,
-  "type": 1,
-  "power": 350,
-  "durationMs": 2500
-}

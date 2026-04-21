@@ -1,0 +1,13 @@
+{
+	"moveId": 297,
+	"moveName": "Smack Down",
+	"proto": "SMACK_DOWN_FAST",
+	"fast": true,
+	"type": 6,
+	"pvpPower": 11,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 2,
+	"power": 13,
+	"durationMs": 1000,
+	"energyDelta": 7
+}

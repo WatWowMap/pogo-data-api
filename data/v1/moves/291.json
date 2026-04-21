@@ -1,0 +1,13 @@
+{
+	"moveId": 291,
+	"moveName": "Present",
+	"proto": "PRESENT_FAST",
+	"fast": true,
+	"type": 1,
+	"pvpPower": 3,
+	"pvpEnergyDelta": 12,
+	"pvpDurationTurns": 2,
+	"power": 6,
+	"durationMs": 1500,
+	"energyDelta": 23
+}

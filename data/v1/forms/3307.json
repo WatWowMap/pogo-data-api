@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "ARCTIBAX_NORMAL",
+	"formId": 3307,
+	"evolutions": [
+		{
+			"evoId": 998,
+			"formId": 3308,
+			"candyCost": 100
+		}
+	]
+}

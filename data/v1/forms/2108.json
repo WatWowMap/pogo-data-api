@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "ZORUA_NORMAL",
+	"formId": 2108,
+	"evolutions": [
+		{
+			"evoId": 571,
+			"formId": 2111,
+			"candyCost": 50
+		}
+	]
+}

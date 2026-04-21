@@ -1,0 +1,9 @@
+{
+	"moveId": 440,
+	"moveName": "Gmax Gravitas",
+	"proto": "VN_BM_032",
+	"fast": false,
+	"type": 14,
+	"power": 450,
+	"durationMs": 2500
+}

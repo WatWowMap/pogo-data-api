@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "TRANQUILL_NORMAL",
+	"formId": 1964,
+	"evolutions": [
+		{
+			"evoId": 521,
+			"formId": 1967,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

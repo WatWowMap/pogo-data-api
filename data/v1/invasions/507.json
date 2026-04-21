@@ -1,0 +1,22 @@
+{
+	"id": 507,
+	"type": "NPC 7",
+	"gender": 0,
+	"grunt": "Event",
+	"proto": "CHARACTER_EVENT_NPC_7",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": 34,
+	"type": "Psychic",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_PSYCHIC_GRUNT_FEMALE",
+	"active": false,
+	"firstReward": false,
+	"secondReward": false,
+	"thirdReward": false,
+	"encounters": [
+		{
+			"position": "first"
+		},
+		{
+			"position": "second"
+		},
+		{
+			"position": "third"
+		}
+	]
+}

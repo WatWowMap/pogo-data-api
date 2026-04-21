@@ -1,9 +1,0 @@
-{
-  "weatherId": 6,
-  "weatherName": "Snow",
-  "proto": "SNOW",
-  "types": [
-    9,
-    15
-  ]
-}

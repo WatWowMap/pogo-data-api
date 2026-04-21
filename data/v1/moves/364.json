@@ -1,0 +1,12 @@
+{
+	"moveId": 364,
+	"moveName": "Acrobatics",
+	"proto": "ACROBATICS",
+	"fast": false,
+	"type": 3,
+	"pvpPower": 110,
+	"pvpEnergyDelta": -55,
+	"power": 100,
+	"durationMs": 2000,
+	"energyDelta": -100
+}

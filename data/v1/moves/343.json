@@ -1,0 +1,16 @@
+{
+	"moveId": 343,
+	"moveName": "Leaf Storm",
+	"proto": "LEAF_STORM",
+	"fast": false,
+	"type": 12,
+	"pvpPower": 130,
+	"pvpEnergyDelta": -55,
+	"pvpBuffs": {
+		"attackerAttackStatStageChange": -2,
+		"buffActivationChance": 1
+	},
+	"power": 130,
+	"durationMs": 2500,
+	"energyDelta": -100
+}

@@ -1,0 +1,39 @@
+{
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.833
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.85
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.275
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.55
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.975
+		}
+	],
+	"formName": "Alola",
+	"proto": "GOLEM_ALOLA",
+	"formId": 72,
+	"height": 1.7,
+	"weight": 316,
+	"quickMoves": [227, 250],
+	"chargedMoves": [32, 251, 259],
+	"eliteQuickMoves": [368],
+	"types": [6, 13],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

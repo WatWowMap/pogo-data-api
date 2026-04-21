@@ -1,8 +1,0 @@
-{
-  "itemId": 1105,
-  "itemName": "Up Grade",
-  "proto": "ITEM_UP_GRADE",
-  "type": "Evolution Requirement",
-  "category": "Evolution Requirement",
-  "minTrainerLevel": 10
-}

@@ -1,0 +1,8 @@
+{
+	"id": 109,
+	"proto": "LC_SPECIALBACKGROUND_2025_9THANNIVERSARY",
+	"formatted": "2025 9thanniversary",
+	"imageUrl": "sb_9thAnniversary",
+	"cardType": "SPECIAL_BACKGROUND",
+	"vfxAddress": "bgfx_9thAnni"
+}

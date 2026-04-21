@@ -1,0 +1,13 @@
+{
+	"moveId": 227,
+	"moveName": "Rock Throw",
+	"proto": "ROCK_THROW_FAST",
+	"fast": true,
+	"type": 6,
+	"pvpPower": 8,
+	"pvpEnergyDelta": 5,
+	"pvpDurationTurns": 1,
+	"power": 13,
+	"durationMs": 1000,
+	"energyDelta": 8
+}

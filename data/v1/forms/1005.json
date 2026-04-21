@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "TENTACOOL_NORMAL",
+	"formId": 1005,
+	"evolutions": [
+		{
+			"evoId": 73,
+			"formId": 1008,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,13 @@
+{
+	"moveId": 225,
+	"moveName": "Acid",
+	"proto": "ACID_FAST",
+	"fast": true,
+	"type": 4,
+	"pvpPower": 6,
+	"pvpEnergyDelta": 8,
+	"pvpDurationTurns": 1,
+	"power": 11,
+	"durationMs": 1000,
+	"energyDelta": 10
+}

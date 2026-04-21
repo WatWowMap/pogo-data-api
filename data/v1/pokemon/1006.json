@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Ironvaliant",
+	"pokedexId": 1006,
+	"defaultFormId": 3314,
+	"types": [2, 18],
+	"quickMoves": [231],
+	"chargedMoves": [133],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 9,
+	"generation": "Paldea",
+	"forms": [3314],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.686
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.7
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 2.1
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.17
+		}
+	],
+	"attack": 279,
+	"defense": 171,
+	"stamina": 179,
+	"height": 1.4,
+	"weight": 35,
+	"family": 1006,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

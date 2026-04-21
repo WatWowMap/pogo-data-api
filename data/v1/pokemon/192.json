@@ -1,0 +1,57 @@
+{
+	"pokemonName": "Sunflora",
+	"pokedexId": 192,
+	"defaultFormId": 1220,
+	"types": [12],
+	"quickMoves": [215, 271],
+	"chargedMoves": [47, 90, 116, 343],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1220],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.3871
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.395
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.5925
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.9875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.185
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.58
+		}
+	],
+	"attack": 185,
+	"defense": 135,
+	"stamina": 181,
+	"height": 0.79,
+	"weight": 8.5,
+	"family": 191,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

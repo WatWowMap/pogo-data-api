@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Wynaut",
+	"pokedexId": 360,
+	"defaultFormId": 1595,
+	"types": [14],
+	"quickMoves": [231, 243],
+	"chargedMoves": [276],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1595],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.2989
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.305
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.4575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.7625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.915
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.0675
+		}
+	],
+	"attack": 41,
+	"defense": 86,
+	"stamina": 216,
+	"height": 0.61,
+	"weight": 14,
+	"family": 202,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 202,
+			"candyCost": 25
+		}
+	]
+}

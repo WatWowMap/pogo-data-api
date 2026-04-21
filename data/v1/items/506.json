@@ -1,0 +1,8 @@
+{
+	"itemId": 506,
+	"itemName": "Troy Disk Sparkly",
+	"proto": "ITEM_TROY_DISK_SPARKLY",
+	"type": "Disk",
+	"category": "Disk",
+	"minTrainerLevel": 1
+}

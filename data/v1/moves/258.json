@@ -1,0 +1,16 @@
+{
+	"moveId": 258,
+	"moveName": "Sand Tomb",
+	"proto": "SAND_TOMB",
+	"fast": false,
+	"type": 5,
+	"pvpPower": 40,
+	"pvpEnergyDelta": -40,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 1
+	},
+	"power": 60,
+	"durationMs": 4000,
+	"energyDelta": -33
+}

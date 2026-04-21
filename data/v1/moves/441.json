@@ -1,0 +1,9 @@
+{
+	"moveId": 441,
+	"moveName": "Gmax Stonesurge",
+	"proto": "VN_BM_033",
+	"fast": false,
+	"type": 11,
+	"power": 450,
+	"durationMs": 2500
+}

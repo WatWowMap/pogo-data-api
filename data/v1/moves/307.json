@@ -1,0 +1,8 @@
+{
+	"moveId": 307,
+	"moveName": "Crush Claw",
+	"proto": "CRUSH_CLAW",
+	"fast": false,
+	"type": 1,
+	"durationMs": 2000
+}

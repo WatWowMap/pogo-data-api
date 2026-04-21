@@ -1,0 +1,16 @@
+{
+	"moveId": 270,
+	"moveName": "Overheat",
+	"proto": "OVERHEAT",
+	"fast": false,
+	"type": 10,
+	"pvpPower": 130,
+	"pvpEnergyDelta": -55,
+	"pvpBuffs": {
+		"attackerAttackStatStageChange": -2,
+		"buffActivationChance": 1
+	},
+	"power": 160,
+	"durationMs": 4000,
+	"energyDelta": -100
+}

@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Pansear",
+	"pokedexId": 513,
+	"defaultFormId": 1943,
+	"types": [10],
+	"quickMoves": [220, 269],
+	"chargedMoves": [101, 102, 279],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1943],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.294
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.3
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.75
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.9
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.05
+		}
+	],
+	"attack": 104,
+	"defense": 94,
+	"stamina": 137,
+	"height": 0.6,
+	"weight": 11,
+	"family": 513,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 514,
+			"candyCost": 50,
+			"itemRequirement": 1107
+		}
+	]
+}

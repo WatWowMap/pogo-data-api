@@ -1,0 +1,16 @@
+{
+	"moveId": 365,
+	"moveName": "Luster Purge",
+	"proto": "LUSTER_PURGE",
+	"fast": false,
+	"type": 14,
+	"pvpPower": 120,
+	"pvpEnergyDelta": -60,
+	"pvpBuffs": {
+		"targetDefenseStatStageChange": -1,
+		"buffActivationChance": 0.5
+	},
+	"power": 100,
+	"durationMs": 1500,
+	"energyDelta": -100
+}

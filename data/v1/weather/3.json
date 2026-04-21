@@ -1,0 +1,6 @@
+{
+	"weatherId": 3,
+	"weatherName": "Partly Cloudy",
+	"proto": "PARTLY_CLOUDY",
+	"types": [1, 6]
+}

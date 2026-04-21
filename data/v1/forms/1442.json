@@ -1,0 +1,13 @@
+{
+	"formName": "Normal",
+	"proto": "WHISMUR_NORMAL",
+	"formId": 1442,
+	"evolutions": [
+		{
+			"evoId": 294,
+			"candyCost": 12
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

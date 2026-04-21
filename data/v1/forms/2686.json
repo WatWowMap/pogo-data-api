@@ -1,0 +1,10 @@
+{
+	"formName": "Dusk",
+	"proto": "LYCANROC_DUSK",
+	"formId": 2686,
+	"attack": 234,
+	"defense": 139,
+	"stamina": 181,
+	"quickMoves": [203, 227, 243],
+	"chargedMoves": [32, 74, 279, 392]
+}

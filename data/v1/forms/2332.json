@@ -1,0 +1,9 @@
+{
+	"formName": "Costume 2020",
+	"proto": "PIKACHU_COSTUME_2020",
+	"formId": 2332,
+	"isCostume": true,
+	"chargedMoves": [35, 79, 251, 341],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": []
+}

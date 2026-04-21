@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Stonjourner",
+	"pokedexId": 874,
+	"defaultFormId": 3201,
+	"types": [6],
+	"quickMoves": [227],
+	"chargedMoves": [32, 64, 127],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3201],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.225
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.25
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.875
+		},
+		{
+			"name": "mUpperBound",
+			"value": 3.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.75
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 5
+		}
+	],
+	"attack": 222,
+	"defense": 182,
+	"stamina": 225,
+	"height": 2.5,
+	"weight": 520,
+	"family": 874,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

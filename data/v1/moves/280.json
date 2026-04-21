@@ -1,0 +1,12 @@
+{
+	"moveId": 280,
+	"moveName": "Foul Play",
+	"proto": "FOUL_PLAY",
+	"fast": false,
+	"type": 17,
+	"pvpPower": 65,
+	"pvpEnergyDelta": -40,
+	"power": 70,
+	"durationMs": 2000,
+	"energyDelta": -50
+}

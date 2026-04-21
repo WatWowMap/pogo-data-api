@@ -1,0 +1,75 @@
+{
+	"pokemonName": "Applin",
+	"pokedexId": 840,
+	"defaultFormId": 3177,
+	"types": [12, 16],
+	"quickMoves": [263],
+	"chargedMoves": [133],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3177],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.35
+		}
+	],
+	"attack": 71,
+	"defense": 116,
+	"stamina": 120,
+	"height": 0.2,
+	"weight": 0.5,
+	"family": 840,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 841,
+			"formId": 3178,
+			"candyCost": 200,
+			"itemRequirement": 1152
+		},
+		{
+			"evoId": 842,
+			"formId": 3179,
+			"candyCost": 200,
+			"itemRequirement": 1151
+		},
+		{
+			"evoId": 1011,
+			"formId": 3326,
+			"candyCost": 200,
+			"itemRequirement": 1155
+		}
+	]
+}

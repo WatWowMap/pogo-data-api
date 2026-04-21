@@ -1,0 +1,8 @@
+{
+	"itemId": 302,
+	"itemName": "Max Boost",
+	"proto": "ITEM_MAX_BOOST",
+	"type": "Battle",
+	"category": "Boost",
+	"minTrainerLevel": 12
+}

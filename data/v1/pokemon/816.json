@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Sobble",
+	"pokedexId": 816,
+	"defaultFormId": 3155,
+	"types": [11],
+	"quickMoves": [222, 230],
+	"chargedMoves": [105, 284],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 8,
+	"generation": "Galar",
+	"forms": [3155],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.147
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.225
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.45
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.465
+		}
+	],
+	"attack": 132,
+	"defense": 79,
+	"stamina": 137,
+	"height": 0.3,
+	"weight": 4,
+	"family": 816,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 817,
+			"candyCost": 25
+		}
+	]
+}

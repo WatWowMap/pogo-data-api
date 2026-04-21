@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Jumpluff",
+	"pokedexId": 189,
+	"defaultFormId": 1211,
+	"types": [3, 12],
+	"quickMoves": [260, 271, 350],
+	"chargedMoves": [45, 86, 116, 273],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [364],
+	"genId": 2,
+	"generation": "Johto",
+	"forms": [1211],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.3871
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.395
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.5925
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.9875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.185
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.3825
+		}
+	],
+	"attack": 118,
+	"defense": 183,
+	"stamina": 181,
+	"height": 0.79,
+	"weight": 3,
+	"family": 187,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 4,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

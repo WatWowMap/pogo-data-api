@@ -1,0 +1,9 @@
+{
+	"moveId": 454,
+	"moveName": "Gmax Cannonade",
+	"proto": "VN_BM_046",
+	"fast": false,
+	"type": 11,
+	"power": 450,
+	"durationMs": 2500
+}

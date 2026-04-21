@@ -1,0 +1,65 @@
+{
+	"pokemonName": "Bellsprout",
+	"pokedexId": 69,
+	"defaultFormId": 664,
+	"types": [4, 12],
+	"quickMoves": [214, 225],
+	"chargedMoves": [13, 90, 118],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [664],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.343
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.35
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.525
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.875
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.05
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.085
+		}
+	],
+	"attack": 139,
+	"defense": 61,
+	"stamina": 137,
+	"height": 0.7,
+	"weight": 4,
+	"family": 69,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"buddyMegaEnergy": 15,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 70,
+			"formId": 667,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

@@ -1,0 +1,48 @@
+{
+	"id": 41,
+	"type": "Cliff",
+	"gender": 0,
+	"grunt": "Executive",
+	"proto": "CHARACTER_EXECUTIVE_CLIFF",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 129,
+			"formId": 253,
+			"position": "first"
+		},
+		{
+			"id": 227,
+			"formId": 1295,
+			"position": "second"
+		},
+		{
+			"id": 346,
+			"formId": 1571,
+			"position": "second"
+		},
+		{
+			"id": 979,
+			"formId": 0,
+			"position": "second"
+		},
+		{
+			"id": 248,
+			"formId": 319,
+			"position": "third"
+		},
+		{
+			"id": 323,
+			"formId": 1520,
+			"position": "third"
+		},
+		{
+			"id": 475,
+			"formId": 301,
+			"position": "third"
+		}
+	]
+}

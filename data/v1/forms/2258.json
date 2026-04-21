@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "GOLETT_NORMAL",
+	"formId": 2258,
+	"evolutions": [
+		{
+			"evoId": 623,
+			"formId": 2261,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

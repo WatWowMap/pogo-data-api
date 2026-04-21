@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "PORYGON_NORMAL",
+	"formId": 677,
+	"evolutions": [
+		{
+			"evoId": 233,
+			"formId": 680,
+			"candyCost": 25,
+			"itemRequirement": 1105
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

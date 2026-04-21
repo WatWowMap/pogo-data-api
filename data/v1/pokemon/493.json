@@ -1,0 +1,55 @@
+{
+	"pokemonName": "Arceus",
+	"pokedexId": 493,
+	"defaultFormId": 100,
+	"types": [1],
+	"quickMoves": [213, 266],
+	"chargedMoves": [14, 275, 277],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 4,
+	"generation": "Sinnoh",
+	"forms": [
+		100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114,
+		115, 116, 117
+	],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.568
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.6
+		},
+		{
+			"name": "mLowerBound",
+			"value": 2.4
+		},
+		{
+			"name": "mUpperBound",
+			"value": 4
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 4.8
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.96
+		}
+	],
+	"attack": 238,
+	"defense": 238,
+	"stamina": 237,
+	"height": 3.2,
+	"weight": 320,
+	"family": 493,
+	"legendary": false,
+	"mythic": true,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100
+}

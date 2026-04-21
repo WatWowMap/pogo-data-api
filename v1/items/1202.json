@@ -1,8 +1,0 @@
-{
-  "itemId": 1202,
-  "itemName": "Move Reroll Special Attack",
-  "proto": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
-  "type": "Move Reroll",
-  "category": "Move Reroll",
-  "minTrainerLevel": 25
-}

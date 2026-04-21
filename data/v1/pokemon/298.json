@@ -1,0 +1,61 @@
+{
+	"pokemonName": "Azurill",
+	"pokedexId": 298,
+	"defaultFormId": 1457,
+	"types": [1, 18],
+	"quickMoves": [231, 237],
+	"chargedMoves": [39, 53, 131],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 3,
+	"generation": "Hoenn",
+	"forms": [1457],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.098
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.1
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.15
+		},
+		{
+			"name": "mUpperBound",
+			"value": 0.25
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 0.3
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 0.35
+		}
+	],
+	"attack": 36,
+	"defense": 71,
+	"stamina": 137,
+	"height": 0.2,
+	"weight": 2,
+	"family": 183,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 183,
+			"candyCost": 25
+		}
+	]
+}

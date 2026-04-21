@@ -1,0 +1,59 @@
+{
+	"pokemonName": "Darmanitan",
+	"pokedexId": 555,
+	"defaultFormId": 138,
+	"types": [10],
+	"quickMoves": [221, 240, 346],
+	"chargedMoves": [64, 108, 247, 270],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [138, 139, 2342, 2343],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.637
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.65
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.975
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.95
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 2.015
+		}
+	],
+	"attack": 263,
+	"defense": 114,
+	"stamina": 233,
+	"height": 1.3,
+	"weight": 92.9,
+	"family": 554,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

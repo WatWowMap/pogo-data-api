@@ -1,0 +1,107 @@
+[
+	{
+		"questId": 0,
+		"proto": "UNSET",
+		"formatted": "Unset"
+	},
+	{
+		"questId": 1,
+		"proto": "EXPERIENCE",
+		"formatted": "Experience"
+	},
+	{
+		"questId": 2,
+		"proto": "ITEM",
+		"formatted": "Item"
+	},
+	{
+		"questId": 3,
+		"proto": "STARDUST",
+		"formatted": "Stardust"
+	},
+	{
+		"questId": 4,
+		"proto": "CANDY",
+		"formatted": "Candy"
+	},
+	{
+		"questId": 5,
+		"proto": "AVATAR_CLOTHING",
+		"formatted": "Avatar Clothing"
+	},
+	{
+		"questId": 6,
+		"proto": "QUEST",
+		"formatted": "Quest"
+	},
+	{
+		"questId": 7,
+		"proto": "POKEMON_ENCOUNTER",
+		"formatted": "Pokemon Encounter"
+	},
+	{
+		"questId": 8,
+		"proto": "POKECOIN",
+		"formatted": "Pokecoin"
+	},
+	{
+		"questId": 9,
+		"proto": "XL_CANDY",
+		"formatted": "XL Candy"
+	},
+	{
+		"questId": 10,
+		"proto": "LEVEL_CAP",
+		"formatted": "Level Cap"
+	},
+	{
+		"questId": 11,
+		"proto": "STICKER",
+		"formatted": "Sticker"
+	},
+	{
+		"questId": 12,
+		"proto": "MEGA_RESOURCE",
+		"formatted": "Mega Resource"
+	},
+	{
+		"questId": 13,
+		"proto": "INCIDENT",
+		"formatted": "Incident"
+	},
+	{
+		"questId": 14,
+		"proto": "PLAYER_ATTRIBUTE",
+		"formatted": "Player Attribute"
+	},
+	{
+		"questId": 15,
+		"proto": "EVENT_BADGE",
+		"formatted": "Event Badge"
+	},
+	{
+		"questId": 16,
+		"proto": "POKEMON_EGG",
+		"formatted": "Pokemon Egg"
+	},
+	{
+		"questId": 17,
+		"proto": "POKEMON_INDIVIDUAL_STAT",
+		"formatted": "Pokemon Individual Stat"
+	},
+	{
+		"questId": 18,
+		"proto": "LOOT_TABLE",
+		"formatted": "Loot Table"
+	},
+	{
+		"questId": 19,
+		"proto": "FRIENDSHIP_POINTS",
+		"formatted": "Friendship Points"
+	},
+	{
+		"questId": 20,
+		"proto": "TEMP_EVO_BRANCH_RESOURCE",
+		"formatted": "Temp Evo Branch Resource"
+	}
+]

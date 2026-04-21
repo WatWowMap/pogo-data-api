@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "LITWICK_NORMAL",
+	"formId": 2213,
+	"evolutions": [
+		{
+			"evoId": 608,
+			"formId": 2216,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

@@ -1,0 +1,56 @@
+{
+	"pokemonName": "Florges",
+	"pokedexId": 671,
+	"defaultFormId": 2624,
+	"types": [18],
+	"quickMoves": [214, 215, 221, 350],
+	"chargedMoves": [47, 84, 87, 108, 392],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [488],
+	"genId": 6,
+	"generation": "Kalos",
+	"forms": [2624, 2625, 2626, 2627, 2628],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.925
+		}
+	],
+	"attack": 212,
+	"defense": 244,
+	"stamina": 186,
+	"height": 1.1,
+	"weight": 10,
+	"family": 669,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyDistance": 3,
+	"thirdMoveStardust": 50000,
+	"thirdMoveCandy": 50,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true
+}

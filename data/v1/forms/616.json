@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "WEEDLE_NORMAL",
+	"formId": 616,
+	"evolutions": [
+		{
+			"evoId": 14,
+			"formId": 619,
+			"candyCost": 12
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

@@ -1,0 +1,12 @@
+{
+	"formName": "Normal",
+	"proto": "ROLYCOLY_NORMAL",
+	"formId": 3174,
+	"evolutions": [
+		{
+			"evoId": 838,
+			"formId": 3175,
+			"candyCost": 25
+		}
+	]
+}

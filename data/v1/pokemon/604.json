@@ -1,0 +1,66 @@
+{
+	"pokemonName": "Eelektross",
+	"pokedexId": 604,
+	"defaultFormId": 2204,
+	"types": [13],
+	"quickMoves": [206, 225],
+	"chargedMoves": [79, 83, 279, 303, 383],
+	"eliteQuickMoves": [250],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [2204],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 1.029
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 1.05
+		},
+		{
+			"name": "mLowerBound",
+			"value": 1.575
+		},
+		{
+			"name": "mUpperBound",
+			"value": 2.625
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 3.15
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 4.2
+		}
+	],
+	"attack": 217,
+	"defense": 152,
+	"stamina": 198,
+	"height": 2.1,
+	"weight": 80.5,
+	"family": 602,
+	"bonusCandyCapture": 7,
+	"bonusStardustCapture": 400,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"tempEvolutions": [
+		{
+			"tempEvoId": 1,
+			"attack": 291,
+			"defense": 175,
+			"stamina": 198,
+			"unreleased": true
+		}
+	]
+}

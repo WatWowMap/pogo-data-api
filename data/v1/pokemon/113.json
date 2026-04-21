@@ -1,0 +1,62 @@
+{
+	"pokemonName": "Chansey",
+	"pokedexId": 113,
+	"defaultFormId": 1056,
+	"types": [1],
+	"quickMoves": [222, 234],
+	"chargedMoves": [14, 86, 108],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 1,
+	"generation": "Kanto",
+	"forms": [1056],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.539
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.55
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.825
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.375
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.65
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.925
+		}
+	],
+	"attack": 60,
+	"defense": 128,
+	"stamina": 487,
+	"height": 1.1,
+	"weight": 34.6,
+	"family": 113,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 5,
+	"thirdMoveStardust": 75000,
+	"thirdMoveCandy": 75,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 242,
+			"formId": 1328,
+			"candyCost": 50
+		}
+	]
+}

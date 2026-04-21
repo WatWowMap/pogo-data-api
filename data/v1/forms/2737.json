@@ -1,0 +1,12 @@
+{
+	"formName": "Dusk",
+	"proto": "ROCKRUFF_DUSK",
+	"formId": 2737,
+	"evolutions": [
+		{
+			"evoId": 745,
+			"formId": 2686,
+			"candyCost": 50
+		}
+	]
+}

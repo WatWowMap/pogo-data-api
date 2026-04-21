@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "PIDGEY_NORMAL",
+	"formId": 962,
+	"evolutions": [
+		{
+			"evoId": 17,
+			"formId": 965,
+			"candyCost": 12
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

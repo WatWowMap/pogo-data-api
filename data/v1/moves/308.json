@@ -1,0 +1,16 @@
+{
+	"moveId": 308,
+	"moveName": "Octazooka",
+	"proto": "OCTAZOOKA",
+	"fast": false,
+	"type": 11,
+	"pvpPower": 50,
+	"pvpEnergyDelta": -50,
+	"pvpBuffs": {
+		"targetAttackStatStageChange": -2,
+		"buffActivationChance": 0.5
+	},
+	"power": 55,
+	"durationMs": 2500,
+	"energyDelta": -50
+}

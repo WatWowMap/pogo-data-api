@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "MACHOKE_NORMAL",
+	"formId": 812,
+	"evolutions": [
+		{
+			"evoId": 68,
+			"formId": 815,
+			"candyCost": 100,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 3000,
+	"purificationCandy": 3
+}

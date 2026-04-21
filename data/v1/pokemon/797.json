@@ -1,0 +1,54 @@
+{
+	"pokemonName": "Celesteela",
+	"pokedexId": 797,
+	"defaultFormId": 3142,
+	"types": [3, 9],
+	"quickMoves": [255, 297],
+	"chargedMoves": [74, 95, 131, 268],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 7,
+	"generation": "Alola",
+	"forms": [3142],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 4.508
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 4.6
+		},
+		{
+			"name": "mLowerBound",
+			"value": 6.9
+		},
+		{
+			"name": "mUpperBound",
+			"value": 11.5
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 13.8
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 14.26
+		}
+	],
+	"attack": 207,
+	"defense": 199,
+	"stamina": 219,
+	"height": 9.2,
+	"weight": 999.9,
+	"family": 797,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": true,
+	"buddyGroupNumber": 3,
+	"buddyDistance": 20,
+	"thirdMoveStardust": 100000,
+	"thirdMoveCandy": 100,
+	"tradable": true,
+	"transferable": true
+}

@@ -1,0 +1,12 @@
+{
+	"moveId": 259,
+	"moveName": "Rock Blast",
+	"proto": "ROCK_BLAST",
+	"fast": false,
+	"type": 6,
+	"pvpPower": 50,
+	"pvpEnergyDelta": -40,
+	"power": 50,
+	"durationMs": 2000,
+	"energyDelta": -33
+}

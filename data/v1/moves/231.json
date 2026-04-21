@@ -1,0 +1,11 @@
+{
+	"moveId": 231,
+	"moveName": "Splash",
+	"proto": "SPLASH_FAST",
+	"fast": true,
+	"type": 11,
+	"pvpEnergyDelta": 12,
+	"pvpDurationTurns": 3,
+	"durationMs": 1500,
+	"energyDelta": 17
+}

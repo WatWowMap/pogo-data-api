@@ -1,0 +1,15 @@
+{
+	"formName": "Normal",
+	"proto": "PHANTUMP_NORMAL",
+	"formId": 3067,
+	"evolutions": [
+		{
+			"evoId": 709,
+			"formId": 3068,
+			"candyCost": 200,
+			"tradeBonus": true
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

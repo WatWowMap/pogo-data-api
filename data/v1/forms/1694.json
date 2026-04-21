@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "CRANIDOS_NORMAL",
+	"formId": 1694,
+	"evolutions": [
+		{
+			"evoId": 409,
+			"formId": 1697,
+			"candyCost": 50
+		}
+	],
+	"purificationDust": 5000,
+	"purificationCandy": 5
+}

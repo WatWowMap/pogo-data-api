@@ -1,0 +1,14 @@
+{
+	"formName": "Normal",
+	"proto": "PIKIPEK_NORMAL",
+	"formId": 3084,
+	"evolutions": [
+		{
+			"evoId": 732,
+			"formId": 3085,
+			"candyCost": 25
+		}
+	],
+	"purificationDust": 1000,
+	"purificationCandy": 1
+}

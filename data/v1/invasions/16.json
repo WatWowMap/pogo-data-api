@@ -1,0 +1,58 @@
+{
+	"id": 16,
+	"type": "Fighting",
+	"gender": 2,
+	"grunt": "Grunt",
+	"proto": "CHARACTER_FIGHTING_GRUNT_FEMALE",
+	"active": true,
+	"firstReward": true,
+	"secondReward": true,
+	"thirdReward": true,
+	"encounters": [
+		{
+			"id": 56,
+			"formId": 999,
+			"position": "first"
+		},
+		{
+			"id": 66,
+			"formId": 809,
+			"position": "first"
+		},
+		{
+			"id": 532,
+			"formId": 2000,
+			"position": "first"
+		},
+		{
+			"id": 106,
+			"formId": 713,
+			"position": "second"
+		},
+		{
+			"id": 107,
+			"formId": 277,
+			"position": "second"
+		},
+		{
+			"id": 237,
+			"formId": 1313,
+			"position": "second"
+		},
+		{
+			"id": 392,
+			"formId": 824,
+			"position": "third"
+		},
+		{
+			"id": 534,
+			"formId": 2006,
+			"position": "third"
+		},
+		{
+			"id": 979,
+			"formId": 0,
+			"position": "third"
+		}
+	]
+}

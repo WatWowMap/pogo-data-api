@@ -1,0 +1,63 @@
+{
+	"pokemonName": "Herdier",
+	"pokedexId": 507,
+	"defaultFormId": 1925,
+	"types": [1],
+	"quickMoves": [212, 282, 403],
+	"chargedMoves": [26, 79, 88],
+	"eliteQuickMoves": [],
+	"eliteChargedMoves": [],
+	"genId": 5,
+	"generation": "Unova",
+	"forms": [1925],
+	"sizeSettings": [
+		{
+			"name": "xxsLowerBound",
+			"value": 0.441
+		},
+		{
+			"name": "xsLowerBound",
+			"value": 0.45
+		},
+		{
+			"name": "mLowerBound",
+			"value": 0.675
+		},
+		{
+			"name": "mUpperBound",
+			"value": 1.125
+		},
+		{
+			"name": "xlUpperBound",
+			"value": 1.35
+		},
+		{
+			"name": "xxlUpperBound",
+			"value": 1.575
+		}
+	],
+	"attack": 145,
+	"defense": 126,
+	"stamina": 163,
+	"height": 0.9,
+	"weight": 14.7,
+	"family": 506,
+	"bonusCandyCapture": 2,
+	"bonusStardustCapture": 200,
+	"legendary": false,
+	"mythic": false,
+	"ultraBeast": false,
+	"buddyGroupNumber": 2,
+	"buddyDistance": 1,
+	"thirdMoveStardust": 10000,
+	"thirdMoveCandy": 25,
+	"gymDefenderEligible": true,
+	"tradable": true,
+	"transferable": true,
+	"evolutions": [
+		{
+			"evoId": 508,
+			"candyCost": 100
+		}
+	]
+}
