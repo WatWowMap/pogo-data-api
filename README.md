@@ -2,9 +2,49 @@
 
 Generated Pokemon GO data as static JSON files, ready to serve from `/v1`.
 
-This project takes data from [`pogo-data-generator`](https://www.npmjs.com/package/pogo-data-generator), normalizes the output into a file-based API, and writes the results into the local [`v1/`](/Users/rin/GitHub/pogo-data-api/api) directory.
+This project takes data from [`pogo-data-generator`](https://www.npmjs.com/package/pogo-data-generator), normalizes the output into a file-based API, and writes the results into the local [`v1/`](/Users/rin/GitHub/pogo-data-api/v1) directory.
 
 If you deploy this folder behind any static file host, the file paths become your endpoints.
+
+## Packages
+
+This repository now also contains language bindings under `packages/`.
+
+Before, a TypeScript consumer had to fetch raw files directly:
+
+```ts
+const response = await fetch(
+  "https://raw.githubusercontent.com/WatWowMap/pogo-data-api/refs/heads/main/v1/pokemon/1.json",
+);
+
+const bulbasaur = await response.json();
+```
+
+After, the first SDK package wraps those same endpoints behind typed methods:
+
+```ts
+import { createPogoDataClient } from "@watwowmap/pogo-data";
+
+const client = createPogoDataClient();
+const bulbasaur = await client.pokemon.get(1);
+const englishMisc = await client.translations.getCategory("en", "misc");
+```
+
+Current packages:
+
+- [`packages/typescript/`](/Users/rin/GitHub/pogo-data-api/packages/typescript) publishes `@watwowmap/pogo-data`
+
+The TypeScript package defaults to the canonical hosted `/v1` URL, and you can override it once when you want to point at your own mirror:
+
+```ts
+import { configurePogoData, pogoData } from "@watwowmap/pogo-data";
+
+configurePogoData({
+  baseUrl: "https://cdn.example.com/pogo/v1",
+});
+
+const mirroredBulbasaur = await pogoData.pokemon.get(1);
+```
 
 ## What You Get
 
@@ -288,6 +328,14 @@ The generator:
 - removes stale generated files before writing new ones
 - creates per-record files for direct lookup
 - creates nested translation files for locale and locale-category access
+
+## Workspace And Releases
+
+- the repo root remains responsible for generating the static JSON API
+- `packages/` is where publishable language bindings live
+- `.changeset/` tracks package releases for JavaScript packages
+- `.github/workflows/ci.yml` verifies metadata generation, builds, typechecks, and tests the workspace
+- `.github/workflows/release-packages.yml` opens or publishes NPM releases for package changes on `main`
 
 ## Implementation Notes
 

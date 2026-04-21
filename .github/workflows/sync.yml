@@ -25,6 +25,7 @@ jobs:
           bun upgrade pogo-data-generator
           bun upgrade @na-ji/pogo-protos
           bun run start
+          bun run sdk:generate-metadata
       - name: Check for changes
         run: |
           if git diff --quiet; then

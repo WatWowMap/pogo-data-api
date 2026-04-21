@@ -1,4 +1,5 @@
 import { mkdir, rm } from "node:fs/promises";
+import Bun from "bun";
 import { generate } from "pogo-data-generator";
 
 interface DataRecord {
