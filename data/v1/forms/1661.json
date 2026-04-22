@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "STARAVIA_NORMAL",
-	"formId": 1661,
-	"evolutions": [
-		{
-			"evoId": 398,
-			"formId": 1664,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "STARAVIA_NORMAL",
+  "formId": 1661,
+  "evolutions": [
+    {
+      "evoId": 398,
+      "formId": 1664,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

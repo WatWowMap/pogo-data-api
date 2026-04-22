@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "PALPITOAD_NORMAL",
-	"formId": 2012,
-	"evolutions": [
-		{
-			"evoId": 537,
-			"formId": 2015,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "PALPITOAD_NORMAL",
+  "formId": 2012,
+  "evolutions": [
+    {
+      "evoId": 537,
+      "formId": 2015,
+      "candyCost": 100
+    }
+  ]
 }

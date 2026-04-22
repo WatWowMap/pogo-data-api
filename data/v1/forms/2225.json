@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "FRAXURE_NORMAL",
-	"formId": 2225,
-	"evolutions": [
-		{
-			"evoId": 612,
-			"formId": 2228,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "FRAXURE_NORMAL",
+  "formId": 2225,
+  "evolutions": [
+    {
+      "evoId": 612,
+      "formId": 2228,
+      "candyCost": 100
+    }
+  ]
 }

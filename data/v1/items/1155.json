@@ -1,8 +1,8 @@
 {
-	"itemId": 1155,
-	"itemName": "Other Evolution Stone Maple C",
-	"proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_C",
-	"type": "Evolution Requirement",
-	"category": "Evolution Requirement",
-	"minTrainerLevel": 10
+  "itemId": 1155,
+  "itemName": "Other Evolution Stone Maple C",
+  "proto": "ITEM_OTHER_EVOLUTION_STONE_MAPLE_C",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 10
 }

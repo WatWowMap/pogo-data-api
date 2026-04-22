@@ -1,65 +1,75 @@
 {
-	"pokemonName": "Wurmple",
-	"pokedexId": 265,
-	"defaultFormId": 600,
-	"types": [7],
-	"quickMoves": [201, 221],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [600, 2327],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.525
-		}
-	],
-	"attack": 75,
-	"defense": 59,
-	"stamina": 128,
-	"height": 0.3,
-	"weight": 3.6,
-	"family": 265,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 1,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 266,
-			"candyCost": 12
-		},
-		{
-			"evoId": 268,
-			"candyCost": 12
-		}
-	]
+  "pokemonName": "Wurmple",
+  "pokedexId": 265,
+  "defaultFormId": 600,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    201,
+    221
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    600,
+    2327
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 75,
+  "defense": 59,
+  "stamina": 128,
+  "height": 0.3,
+  "weight": 3.6,
+  "family": 265,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 266,
+      "candyCost": 12
+    },
+    {
+      "evoId": 268,
+      "candyCost": 12
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
-	"moveId": 217,
-	"moveName": "Ice Shard",
-	"proto": "ICE_SHARD_FAST",
-	"fast": true,
-	"type": 15,
-	"pvpPower": 9,
-	"pvpEnergyDelta": 10,
-	"pvpDurationTurns": 2,
-	"power": 10,
-	"durationMs": 1000,
-	"energyDelta": 10
+  "moveId": 217,
+  "moveName": "Ice Shard",
+  "proto": "ICE_SHARD_FAST",
+  "fast": true,
+  "type": 15,
+  "pvpPower": 9,
+  "pvpEnergyDelta": 10,
+  "pvpDurationTurns": 2,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 10
 }

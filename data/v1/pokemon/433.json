@@ -1,61 +1,72 @@
 {
-	"pokemonName": "Chingling",
-	"pokedexId": 433,
-	"defaultFormId": 1763,
-	"types": [14],
-	"quickMoves": [234, 263],
-	"chargedMoves": [13, 60, 70],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1763],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.35
-		}
-	],
-	"attack": 114,
-	"defense": 94,
-	"stamina": 128,
-	"height": 0.2,
-	"weight": 0.6,
-	"family": 358,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 358,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Chingling",
+  "pokedexId": 433,
+  "defaultFormId": 1763,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    234,
+    263
+  ],
+  "chargedMoves": [
+    13,
+    60,
+    70
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1763
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 114,
+  "defense": 94,
+  "stamina": 128,
+  "height": 0.2,
+  "weight": 0.6,
+  "family": 358,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 358,
+      "candyCost": 50
+    }
+  ]
 }

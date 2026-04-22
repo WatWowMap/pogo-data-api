@@ -1,6 +1,6 @@
 {
-	"id": 82,
-	"name": "Horizons 2025 Noevolve",
-	"proto": "HORIZONS_2025_NOEVOLVE",
-	"noEvolve": true
+  "id": 82,
+  "name": "Horizons 2025 Noevolve",
+  "proto": "HORIZONS_2025_NOEVOLVE",
+  "noEvolve": true
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Jungle",
-	"proto": "SCATTERBUG_JUNGLE",
-	"formId": 2752,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2772,
-			"candyCost": 25
-		}
-	]
+  "formName": "Jungle",
+  "proto": "SCATTERBUG_JUNGLE",
+  "formId": 2752,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2772,
+      "candyCost": 25
+    }
+  ]
 }

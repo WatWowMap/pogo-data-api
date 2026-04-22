@@ -1,6 +1,8 @@
 {
-	"formName": "Dragon",
-	"proto": "ARCEUS_DRAGON",
-	"formId": 115,
-	"types": [16]
+  "formName": "Dragon",
+  "proto": "ARCEUS_DRAGON",
+  "formId": 115,
+  "types": [
+    16
+  ]
 }

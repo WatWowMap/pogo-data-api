@@ -1,12 +1,17 @@
 {
-	"formName": "Kabuki",
-	"proto": "FURFROU_KABUKI",
-	"formId": 2637,
-	"formChanges": [
-		{
-			"availableForms": [2629, 2632, 2634, 2635],
-			"candyCost": 25,
-			"stardustCost": 10000
-		}
-	]
+  "formName": "Kabuki",
+  "proto": "FURFROU_KABUKI",
+  "formId": 2637,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2632,
+        2634,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
 }

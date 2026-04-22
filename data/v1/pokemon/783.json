@@ -1,63 +1,76 @@
 {
-	"pokemonName": "Hakamo O",
-	"pokedexId": 783,
-	"defaultFormId": 3128,
-	"types": [2, 16],
-	"quickMoves": [221, 253],
-	"chargedMoves": [63, 82, 83, 123],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3128],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.588
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.8
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.1
-		}
-	],
-	"attack": 145,
-	"defense": 162,
-	"stamina": 146,
-	"height": 1.2,
-	"weight": 47,
-	"family": 782,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 784,
-			"candyCost": 100
-		}
-	]
+  "pokemonName": "Hakamo O",
+  "pokedexId": 783,
+  "defaultFormId": 3128,
+  "types": [
+    2,
+    16
+  ],
+  "quickMoves": [
+    221,
+    253
+  ],
+  "chargedMoves": [
+    63,
+    82,
+    83,
+    123
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3128
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.1
+    }
+  ],
+  "attack": 145,
+  "defense": 162,
+  "stamina": 146,
+  "height": 1.2,
+  "weight": 47,
+  "family": 782,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 784,
+      "candyCost": 100
+    }
+  ]
 }

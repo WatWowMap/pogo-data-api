@@ -1,66 +1,78 @@
 {
-	"pokemonName": "Skarmory",
-	"pokedexId": 227,
-	"defaultFormId": 1295,
-	"types": [3, 9],
-	"quickMoves": [239, 255],
-	"chargedMoves": [36, 256, 257],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1295],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.4
-		}
-	],
-	"attack": 148,
-	"defense": 226,
-	"stamina": 163,
-	"height": 1.7,
-	"weight": 50.5,
-	"family": 227,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 5,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 5000,
-	"purificationCandy": 5,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 273,
-			"defense": 228,
-			"stamina": 163,
-			"unreleased": true
-		}
-	]
+  "pokemonName": "Skarmory",
+  "pokedexId": 227,
+  "defaultFormId": 1295,
+  "types": [
+    3,
+    9
+  ],
+  "quickMoves": [
+    239,
+    255
+  ],
+  "chargedMoves": [
+    36,
+    256,
+    257
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1295
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.4
+    }
+  ],
+  "attack": 148,
+  "defense": 226,
+  "stamina": 163,
+  "height": 1.7,
+  "weight": 50.5,
+  "family": 227,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 273,
+      "defense": 228,
+      "stamina": 163,
+      "unreleased": true
+    }
+  ]
 }

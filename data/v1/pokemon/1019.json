@@ -1,57 +1,70 @@
 {
-	"pokemonName": "Hydrapple",
-	"pokedexId": 1019,
-	"defaultFormId": 3331,
-	"types": [12, 16],
-	"quickMoves": [253, 271, 368],
-	"chargedMoves": [59, 82, 277],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3331],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 216,
-	"defense": 186,
-	"stamina": 235,
-	"height": 1.8,
-	"weight": 93,
-	"family": 840,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 700,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Hydrapple",
+  "pokedexId": 1019,
+  "defaultFormId": 3331,
+  "types": [
+    12,
+    16
+  ],
+  "quickMoves": [
+    253,
+    271,
+    368
+  ],
+  "chargedMoves": [
+    59,
+    82,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3331
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 216,
+  "defense": 186,
+  "stamina": 235,
+  "height": 1.8,
+  "weight": 93,
+  "family": 840,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 700,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

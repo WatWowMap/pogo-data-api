@@ -1,12 +1,12 @@
 {
-	"moveId": 32,
-	"moveName": "Stone Edge",
-	"proto": "STONE_EDGE",
-	"fast": false,
-	"type": 6,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -55,
-	"power": 105,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 32,
+  "moveName": "Stone Edge",
+  "proto": "STONE_EDGE",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -55,
+  "power": 105,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

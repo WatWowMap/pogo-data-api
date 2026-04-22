@@ -1,47 +1,52 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 2.058
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 2.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 3.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 5.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 6.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 6.51
-		}
-	],
-	"formName": "Dawn Wings",
-	"proto": "NECROZMA_DAWN_WINGS",
-	"formId": 2719,
-	"attack": 277,
-	"defense": 220,
-	"stamina": 200,
-	"height": 4.2,
-	"weight": 350,
-	"types": [8, 14],
-	"formChanges": [
-		{
-			"availableForms": [2717],
-			"componentPokemonSettings": {
-				"pokedexId": 792,
-				"formChangeType": "UNFUSE",
-				"familyId": 789
-			}
-		}
-	]
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.058
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 3.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 5.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 6.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 6.51
+    }
+  ],
+  "formName": "Dawn Wings",
+  "proto": "NECROZMA_DAWN_WINGS",
+  "formId": 2719,
+  "attack": 277,
+  "defense": 220,
+  "stamina": 200,
+  "height": 4.2,
+  "weight": 350,
+  "types": [
+    8,
+    14
+  ],
+  "formChanges": [
+    {
+      "availableForms": [
+        2717
+      ],
+      "componentPokemonSettings": {
+        "pokedexId": 792,
+        "formChangeType": "UNFUSE",
+        "familyId": 789
+      }
+    }
+  ]
 }

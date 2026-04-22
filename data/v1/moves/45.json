@@ -1,12 +1,12 @@
 {
-	"moveId": 45,
-	"moveName": "Aerial Ace",
-	"proto": "AERIAL_ACE",
-	"fast": false,
-	"type": 3,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -45,
-	"power": 55,
-	"durationMs": 2500,
-	"energyDelta": -33
+  "moveId": 45,
+  "moveName": "Aerial Ace",
+  "proto": "AERIAL_ACE",
+  "fast": false,
+  "type": 3,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "power": 55,
+  "durationMs": 2500,
+  "energyDelta": -33
 }

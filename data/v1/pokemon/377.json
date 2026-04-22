@@ -1,56 +1,70 @@
 {
-	"pokemonName": "Regirock",
-	"pokedexId": 377,
-	"defaultFormId": 1622,
-	"types": [6],
-	"quickMoves": [227, 241, 325],
-	"chargedMoves": [32, 247, 252],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [31],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1622],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.635
-		}
-	],
-	"attack": 179,
-	"defense": 309,
-	"stamina": 190,
-	"height": 1.7,
-	"weight": 230,
-	"family": 377,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "pokemonName": "Regirock",
+  "pokedexId": 377,
+  "defaultFormId": 1622,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    227,
+    241,
+    325
+  ],
+  "chargedMoves": [
+    32,
+    247,
+    252
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    31
+  ],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1622
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.635
+    }
+  ],
+  "attack": 179,
+  "defense": 309,
+  "stamina": 190,
+  "height": 1.7,
+  "weight": 230,
+  "family": 377,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

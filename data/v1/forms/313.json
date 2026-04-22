@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "LARVITAR_NORMAL",
-	"formId": 313,
-	"evolutions": [
-		{
-			"evoId": 247,
-			"formId": 316,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "LARVITAR_NORMAL",
+  "formId": 313,
+  "evolutions": [
+    {
+      "evoId": 247,
+      "formId": 316,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

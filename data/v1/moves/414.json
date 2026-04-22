@@ -1,9 +1,9 @@
 {
-	"moveId": 414,
-	"moveName": "Max Phantasm",
-	"proto": "VN_BM_006",
-	"fast": false,
-	"type": 8,
-	"power": 350,
-	"durationMs": 2500
+  "moveId": 414,
+  "moveName": "Max Phantasm",
+  "proto": "VN_BM_006",
+  "fast": false,
+  "type": 8,
+  "power": 350,
+  "durationMs": 2500
 }

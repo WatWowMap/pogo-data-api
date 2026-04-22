@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "FLYGON_NORMAL",
-	"formId": 752,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "FLYGON_NORMAL",
+  "formId": 752,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

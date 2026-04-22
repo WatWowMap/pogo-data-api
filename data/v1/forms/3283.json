@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "GREAVARD_NORMAL",
-	"formId": 3283,
-	"evolutions": [
-		{
-			"evoId": 972,
-			"formId": 3284,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "GREAVARD_NORMAL",
+  "formId": 3283,
+  "evolutions": [
+    {
+      "evoId": 972,
+      "formId": 3284,
+      "candyCost": 50
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Savanna",
-	"proto": "SCATTERBUG_SAVANNA",
-	"formId": 2762,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2782,
-			"candyCost": 25
-		}
-	]
+  "formName": "Savanna",
+  "proto": "SCATTERBUG_SAVANNA",
+  "formId": 2762,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2782,
+      "candyCost": 25
+    }
+  ]
 }

@@ -1,17 +1,20 @@
 {
-	"formName": "Normal",
-	"proto": "MEGANIUM_NORMAL",
-	"formId": 1124,
-	"purificationDust": 3000,
-	"purificationCandy": 3,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 276,
-			"defense": 232,
-			"stamina": 190,
-			"types": [12, 18],
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "MEGANIUM_NORMAL",
+  "formId": 1124,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 276,
+      "defense": 232,
+      "stamina": 190,
+      "types": [
+        12,
+        18
+      ],
+      "unreleased": true
+    }
+  ]
 }

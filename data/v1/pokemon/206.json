@@ -1,67 +1,79 @@
 {
-	"pokemonName": "Dunsparce",
-	"pokedexId": 206,
-	"defaultFormId": 1250,
-	"types": [1],
-	"quickMoves": [202, 263, 368],
-	"chargedMoves": [26, 46, 64],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1250],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.625
-		}
-	],
-	"attack": 131,
-	"defense": 128,
-	"stamina": 225,
-	"height": 1.5,
-	"weight": 14,
-	"family": 206,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 982,
-			"formId": 2994,
-			"candyCost": 50
-		},
-		{
-			"evoId": 982,
-			"formId": 2995,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Dunsparce",
+  "pokedexId": 206,
+  "defaultFormId": 1250,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    202,
+    263,
+    368
+  ],
+  "chargedMoves": [
+    26,
+    46,
+    64
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1250
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 131,
+  "defense": 128,
+  "stamina": 225,
+  "height": 1.5,
+  "weight": 14,
+  "family": 206,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 982,
+      "formId": 2994,
+      "candyCost": 50
+    },
+    {
+      "evoId": 982,
+      "formId": 2995,
+      "candyCost": 50
+    }
+  ]
 }

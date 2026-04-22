@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "NYMBLE_NORMAL",
-	"formId": 3234,
-	"evolutions": [
-		{
-			"evoId": 920,
-			"formId": 3235,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "NYMBLE_NORMAL",
+  "formId": 3234,
+  "evolutions": [
+    {
+      "evoId": 920,
+      "formId": 3235,
+      "candyCost": 50
+    }
+  ]
 }

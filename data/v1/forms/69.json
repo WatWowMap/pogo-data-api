@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "GRAVELER_NORMAL",
-	"formId": 69,
-	"evolutions": [
-		{
-			"evoId": 76,
-			"formId": 71,
-			"candyCost": 100,
-			"tradeBonus": true
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "GRAVELER_NORMAL",
+  "formId": 69,
+  "evolutions": [
+    {
+      "evoId": 76,
+      "formId": 71,
+      "candyCost": 100,
+      "tradeBonus": true
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

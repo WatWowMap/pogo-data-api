@@ -1,7 +1,7 @@
 {
-	"itemId": 2022,
-	"itemName": "Event Pass Point Go Fest 02",
-	"proto": "ITEM_EVENT_PASS_POINT_GO_FEST_02",
-	"type": "Event Pass Point",
-	"category": "Event Pass Point"
+  "itemId": 2022,
+  "itemName": "Event Pass Point Go Fest 02",
+  "proto": "ITEM_EVENT_PASS_POINT_GO_FEST_02",
+  "type": "Event Pass Point",
+  "category": "Event Pass Point"
 }

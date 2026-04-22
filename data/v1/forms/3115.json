@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "WIMPOD_NORMAL",
-	"formId": 3115,
-	"evolutions": [
-		{
-			"evoId": 768,
-			"formId": 3116,
-			"candyCost": 400
-		}
-	]
+  "formName": "Normal",
+  "proto": "WIMPOD_NORMAL",
+  "formId": 3115,
+  "evolutions": [
+    {
+      "evoId": 768,
+      "formId": 3116,
+      "candyCost": 400
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
-	"moveId": 211,
-	"moveName": "Peck",
-	"proto": "PECK_FAST",
-	"fast": true,
-	"type": 3,
-	"pvpPower": 6,
-	"pvpEnergyDelta": 8,
-	"pvpDurationTurns": 1,
-	"power": 10,
-	"durationMs": 1000,
-	"energyDelta": 10
+  "moveId": 211,
+  "moveName": "Peck",
+  "proto": "PECK_FAST",
+  "fast": true,
+  "type": 3,
+  "pvpPower": 6,
+  "pvpEnergyDelta": 8,
+  "pvpDurationTurns": 1,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 10
 }

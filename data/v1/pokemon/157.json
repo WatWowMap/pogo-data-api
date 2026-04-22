@@ -1,59 +1,75 @@
 {
-	"pokemonName": "Typhlosion",
-	"pokedexId": 157,
-	"defaultFormId": 1133,
-	"types": [10],
-	"quickMoves": [209, 213, 346],
-	"chargedMoves": [77, 103, 116, 270],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [298],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1133, 2786],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.975
-		}
-	],
-	"attack": 223,
-	"defense": 173,
-	"stamina": 186,
-	"height": 1.7,
-	"weight": 79.5,
-	"family": 155,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Typhlosion",
+  "pokedexId": 157,
+  "defaultFormId": 1133,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    213,
+    346
+  ],
+  "chargedMoves": [
+    77,
+    103,
+    116,
+    270
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    298
+  ],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1133,
+    2786
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.975
+    }
+  ],
+  "attack": 223,
+  "defense": 173,
+  "stamina": 186,
+  "height": 1.7,
+  "weight": 79.5,
+  "family": 155,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

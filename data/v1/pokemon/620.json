@@ -1,57 +1,72 @@
 {
-	"pokemonName": "Mienshao",
-	"pokedexId": 620,
-	"defaultFormId": 2252,
-	"types": [2],
-	"quickMoves": [207, 224, 462],
-	"chargedMoves": [32, 123, 272, 314, 317, 367],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2252],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.17
-		}
-	],
-	"attack": 258,
-	"defense": 127,
-	"stamina": 163,
-	"height": 1.4,
-	"weight": 35.5,
-	"family": 619,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Mienshao",
+  "pokedexId": 620,
+  "defaultFormId": 2252,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    207,
+    224,
+    462
+  ],
+  "chargedMoves": [
+    32,
+    123,
+    272,
+    314,
+    317,
+    367
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2252
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.17
+    }
+  ],
+  "attack": 258,
+  "defense": 127,
+  "stamina": 163,
+  "height": 1.4,
+  "weight": 35.5,
+  "family": 619,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

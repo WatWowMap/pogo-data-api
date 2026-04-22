@@ -1,12 +1,12 @@
 {
-	"moveId": 332,
-	"moveName": "Aura Sphere",
-	"proto": "AURA_SPHERE",
-	"fast": false,
-	"type": 2,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -40,
-	"power": 100,
-	"durationMs": 2000,
-	"energyDelta": -50
+  "moveId": 332,
+  "moveName": "Aura Sphere",
+  "proto": "AURA_SPHERE",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -40,
+  "power": 100,
+  "durationMs": 2000,
+  "energyDelta": -50
 }

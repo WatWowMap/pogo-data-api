@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "BAXCALIBUR_NORMAL",
-	"formId": 3308,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 341,
-			"defense": 227,
-			"stamina": 251,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "BAXCALIBUR_NORMAL",
+  "formId": 3308,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 341,
+      "defense": 227,
+      "stamina": 251,
+      "unreleased": true
+    }
+  ]
 }

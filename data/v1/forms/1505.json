@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "GULPIN_NORMAL",
-	"formId": 1505,
-	"evolutions": [
-		{
-			"evoId": 317,
-			"formId": 1508,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "GULPIN_NORMAL",
+  "formId": 1505,
+  "evolutions": [
+    {
+      "evoId": 317,
+      "formId": 1508,
+      "candyCost": 50
+    }
+  ]
 }

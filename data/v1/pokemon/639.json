@@ -1,54 +1,69 @@
 {
-	"pokemonName": "Terrakion",
-	"pokedexId": 639,
-	"defaultFormId": 2309,
-	"types": [2, 6],
-	"quickMoves": [234, 297, 356],
-	"chargedMoves": [31, 64, 245],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [330],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2309],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.931
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.95
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.85
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.945
-		}
-	],
-	"attack": 260,
-	"defense": 192,
-	"stamina": 209,
-	"height": 1.9,
-	"weight": 260,
-	"family": 639,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Terrakion",
+  "pokedexId": 639,
+  "defaultFormId": 2309,
+  "types": [
+    2,
+    6
+  ],
+  "quickMoves": [
+    234,
+    297,
+    356
+  ],
+  "chargedMoves": [
+    31,
+    64,
+    245
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    330
+  ],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2309
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "attack": 260,
+  "defense": 192,
+  "stamina": 209,
+  "height": 1.9,
+  "weight": 260,
+  "family": 639,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

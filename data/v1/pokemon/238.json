@@ -1,61 +1,75 @@
 {
-	"pokemonName": "Smoochum",
-	"pokedexId": 238,
-	"defaultFormId": 1316,
-	"types": [14, 15],
-	"quickMoves": [222, 244],
-	"chargedMoves": [33, 39, 60],
-	"eliteQuickMoves": [218],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1316],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2009
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.205
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3075
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.615
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.7175
-		}
-	],
-	"attack": 153,
-	"defense": 91,
-	"stamina": 128,
-	"height": 0.41,
-	"weight": 6,
-	"family": 124,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 1,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 124,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Smoochum",
+  "pokedexId": 238,
+  "defaultFormId": 1316,
+  "types": [
+    14,
+    15
+  ],
+  "quickMoves": [
+    222,
+    244
+  ],
+  "chargedMoves": [
+    33,
+    39,
+    60
+  ],
+  "eliteQuickMoves": [
+    218
+  ],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1316
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2009
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.205
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.615
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7175
+    }
+  ],
+  "attack": 153,
+  "defense": 91,
+  "stamina": 128,
+  "height": 0.41,
+  "weight": 6,
+  "family": 124,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 124,
+      "candyCost": 25
+    }
+  ]
 }

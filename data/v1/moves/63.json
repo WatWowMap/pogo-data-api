@@ -1,16 +1,16 @@
 {
-	"moveId": 63,
-	"moveName": "Rock Tomb",
-	"proto": "ROCK_TOMB",
-	"fast": false,
-	"type": 6,
-	"pvpPower": 75,
-	"pvpEnergyDelta": -50,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 65,
-	"durationMs": 3000,
-	"energyDelta": -50
+  "moveId": 63,
+  "moveName": "Rock Tomb",
+  "proto": "ROCK_TOMB",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 65,
+  "durationMs": 3000,
+  "energyDelta": -50
 }

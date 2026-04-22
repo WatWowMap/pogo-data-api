@@ -1,12 +1,16 @@
 {
-	"formName": "Diamond",
-	"proto": "FURFROU_DIAMOND",
-	"formId": 2632,
-	"formChanges": [
-		{
-			"availableForms": [2629, 2634, 2635],
-			"candyCost": 25,
-			"stardustCost": 10000
-		}
-	]
+  "formName": "Diamond",
+  "proto": "FURFROU_DIAMOND",
+  "formId": 2632,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2634,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
-	"itemId": 1350,
-	"itemName": "Fusion Resource Dawnwings Necrozma",
-	"proto": "FUSION_RESOURCE_DAWNWINGS_NECROZMA",
-	"type": "Evolution Requirement",
-	"category": "Evolution Requirement",
-	"minTrainerLevel": 1
+  "itemId": 1350,
+  "itemName": "Fusion Resource Dawnwings Necrozma",
+  "proto": "FUSION_RESOURCE_DAWNWINGS_NECROZMA",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 1
 }

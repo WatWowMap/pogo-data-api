@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "LOMBRE_NORMAL",
-	"formId": 1394,
-	"evolutions": [
-		{
-			"evoId": 272,
-			"formId": 1397,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "LOMBRE_NORMAL",
+  "formId": 1394,
+  "evolutions": [
+    {
+      "evoId": 272,
+      "formId": 1397,
+      "candyCost": 100
+    }
+  ]
 }

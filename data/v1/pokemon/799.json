@@ -1,54 +1,67 @@
 {
-	"pokemonName": "Guzzlord",
-	"pokedexId": 799,
-	"defaultFormId": 3144,
-	"types": [16, 17],
-	"quickMoves": [253, 278],
-	"chargedMoves": [83, 90, 279, 367],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3144],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 2.695
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 2.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 4.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 6.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 8.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 8.525
-		}
-	],
-	"attack": 188,
-	"defense": 99,
-	"stamina": 440,
-	"height": 5.5,
-	"weight": 888,
-	"family": 799,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": true,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Guzzlord",
+  "pokedexId": 799,
+  "defaultFormId": 3144,
+  "types": [
+    16,
+    17
+  ],
+  "quickMoves": [
+    253,
+    278
+  ],
+  "chargedMoves": [
+    83,
+    90,
+    279,
+    367
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3144
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.695
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 6.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 8.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 8.525
+    }
+  ],
+  "attack": 188,
+  "defense": 99,
+  "stamina": 440,
+  "height": 5.5,
+  "weight": 888,
+  "family": 799,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": true,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,61 +1,72 @@
 {
-	"pokemonName": "Axew",
-	"pokedexId": 610,
-	"defaultFormId": 2222,
-	"types": [16],
-	"quickMoves": [220, 266],
-	"chargedMoves": [58, 82, 83],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2222],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.05
-		}
-	],
-	"attack": 154,
-	"defense": 101,
-	"stamina": 130,
-	"height": 0.6,
-	"weight": 18,
-	"family": 610,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 611,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Axew",
+  "pokedexId": 610,
+  "defaultFormId": 2222,
+  "types": [
+    16
+  ],
+  "quickMoves": [
+    220,
+    266
+  ],
+  "chargedMoves": [
+    58,
+    82,
+    83
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2222
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 154,
+  "defense": 101,
+  "stamina": 130,
+  "height": 0.6,
+  "weight": 18,
+  "family": 610,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 611,
+      "candyCost": 25
+    }
+  ]
 }

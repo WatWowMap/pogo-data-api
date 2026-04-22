@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "FRIGIBAX_NORMAL",
-	"formId": 3306,
-	"evolutions": [
-		{
-			"evoId": 997,
-			"formId": 3307,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "FRIGIBAX_NORMAL",
+  "formId": 3306,
+  "evolutions": [
+    {
+      "evoId": 997,
+      "formId": 3307,
+      "candyCost": 25
+    }
+  ]
 }

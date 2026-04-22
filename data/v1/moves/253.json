@@ -1,13 +1,13 @@
 {
-	"moveId": 253,
-	"moveName": "Dragon Tail",
-	"proto": "DRAGON_TAIL_FAST",
-	"fast": true,
-	"type": 16,
-	"pvpPower": 9,
-	"pvpEnergyDelta": 12,
-	"pvpDurationTurns": 2,
-	"power": 14,
-	"durationMs": 1000,
-	"energyDelta": 8
+  "moveId": 253,
+  "moveName": "Dragon Tail",
+  "proto": "DRAGON_TAIL_FAST",
+  "fast": true,
+  "type": 16,
+  "pvpPower": 9,
+  "pvpEnergyDelta": 12,
+  "pvpDurationTurns": 2,
+  "power": 14,
+  "durationMs": 1000,
+  "energyDelta": 8
 }

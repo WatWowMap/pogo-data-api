@@ -1,18 +1,21 @@
 {
-	"formName": "Normal",
-	"proto": "LOPUNNY_NORMAL",
-	"formId": 1754,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 282,
-			"defense": 214,
-			"stamina": 163,
-			"height": 1.3,
-			"weight": 28.3,
-			"types": [1, 2],
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	]
+  "formName": "Normal",
+  "proto": "LOPUNNY_NORMAL",
+  "formId": 1754,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 282,
+      "defense": 214,
+      "stamina": 163,
+      "height": 1.3,
+      "weight": 28.3,
+      "types": [
+        1,
+        2
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ]
 }

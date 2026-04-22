@@ -1,21 +1,21 @@
 {
-	"formName": "Normal",
-	"proto": "DIGLETT_NORMAL",
-	"formId": 59,
-	"evolutions": [
-		{
-			"evoId": 51,
-			"formId": 61,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3,
-	"costumeOverrideEvos": [
-		{
-			"costumeId": 57,
-			"costumeProto": "FALL_2022",
-			"costumeName": "Fall 2022"
-		}
-	]
+  "formName": "Normal",
+  "proto": "DIGLETT_NORMAL",
+  "formId": 59,
+  "evolutions": [
+    {
+      "evoId": 51,
+      "formId": 61,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 57,
+      "costumeProto": "FALL_2022",
+      "costumeName": "Fall 2022"
+    }
+  ]
 }

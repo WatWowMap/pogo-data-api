@@ -1,7 +1,7 @@
 {
-	"id": 70,
-	"proto": "LC_SPECIALBACKGROUND_2024_DECEMBERCDRECAP",
-	"formatted": "2024 Decembercdrecap",
-	"imageUrl": "sb_2024_decemberCdRecap",
-	"cardType": "SPECIAL_BACKGROUND"
+  "id": 70,
+  "proto": "LC_SPECIALBACKGROUND_2024_DECEMBERCDRECAP",
+  "formatted": "2024 Decembercdrecap",
+  "imageUrl": "sb_2024_decemberCdRecap",
+  "cardType": "SPECIAL_BACKGROUND"
 }

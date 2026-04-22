@@ -1,61 +1,72 @@
 {
-	"pokemonName": "Poipole",
-	"pokedexId": 803,
-	"defaultFormId": 3146,
-	"types": [4],
-	"quickMoves": [211, 224],
-	"chargedMoves": [90, 91, 311],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3146],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.93
-		}
-	],
-	"attack": 145,
-	"defense": 133,
-	"stamina": 167,
-	"height": 0.6,
-	"weight": 1.8,
-	"family": 803,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": true,
-	"buddyGroupNumber": 4,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 804,
-			"candyCost": 200,
-			"questRequirement": "NAGANADEL_EVOLUTION_QUEST"
-		}
-	]
+  "pokemonName": "Poipole",
+  "pokedexId": 803,
+  "defaultFormId": 3146,
+  "types": [
+    4
+  ],
+  "quickMoves": [
+    211,
+    224
+  ],
+  "chargedMoves": [
+    90,
+    91,
+    311
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3146
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.93
+    }
+  ],
+  "attack": 145,
+  "defense": 133,
+  "stamina": 167,
+  "height": 0.6,
+  "weight": 1.8,
+  "family": 803,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": true,
+  "buddyGroupNumber": 4,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 804,
+      "candyCost": 200,
+      "questRequirement": "NAGANADEL_EVOLUTION_QUEST"
+    }
+  ]
 }

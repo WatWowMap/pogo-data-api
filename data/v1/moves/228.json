@@ -1,13 +1,13 @@
 {
-	"moveId": 228,
-	"moveName": "Metal Claw",
-	"proto": "METAL_CLAW_FAST",
-	"fast": true,
-	"type": 9,
-	"pvpPower": 5,
-	"pvpEnergyDelta": 7,
-	"pvpDurationTurns": 1,
-	"power": 6,
-	"durationMs": 500,
-	"energyDelta": 5
+  "moveId": 228,
+  "moveName": "Metal Claw",
+  "proto": "METAL_CLAW_FAST",
+  "fast": true,
+  "type": 9,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 1,
+  "power": 6,
+  "durationMs": 500,
+  "energyDelta": 5
 }

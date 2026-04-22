@@ -1,5 +1,5 @@
 {
-	"questId": 41,
-	"proto": "QUEST_COLLECT_AS_REWARDS",
-	"formatted": "Collect As Rewards"
+  "questId": 41,
+  "proto": "QUEST_COLLECT_AS_REWARDS",
+  "formatted": "Collect As Rewards"
 }

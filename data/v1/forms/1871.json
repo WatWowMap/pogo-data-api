@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "CRESSELIA_NORMAL",
-	"formId": 1871,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Normal",
+  "proto": "CRESSELIA_NORMAL",
+  "formId": 1871,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Summer",
-	"proto": "DEERLING_SUMMER",
-	"formId": 586,
-	"evolutions": [
-		{
-			"evoId": 586,
-			"formId": 590,
-			"candyCost": 50
-		}
-	]
+  "formName": "Summer",
+  "proto": "DEERLING_SUMMER",
+  "formId": 586,
+  "evolutions": [
+    {
+      "evoId": 586,
+      "formId": 590,
+      "candyCost": 50
+    }
+  ]
 }

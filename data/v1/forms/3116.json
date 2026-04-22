@@ -1,15 +1,18 @@
 {
-	"formName": "Normal",
-	"proto": "GOLISOPOD_NORMAL",
-	"formId": 3116,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 260,
-			"defense": 287,
-			"stamina": 181,
-			"types": [7, 9],
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "GOLISOPOD_NORMAL",
+  "formId": 3116,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 260,
+      "defense": 287,
+      "stamina": 181,
+      "types": [
+        7,
+        9
+      ],
+      "unreleased": true
+    }
+  ]
 }

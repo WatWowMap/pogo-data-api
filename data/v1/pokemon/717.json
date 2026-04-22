@@ -1,54 +1,71 @@
 {
-	"pokemonName": "Yveltal",
-	"pokedexId": 717,
-	"defaultFormId": 3073,
-	"types": [3, 17],
-	"quickMoves": [203, 278, 345],
-	"chargedMoves": [14, 16, 108, 122, 247],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [389],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [3073],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 2.842
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 2.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 4.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 7.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 8.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 8.99
-		}
-	],
-	"attack": 250,
-	"defense": 185,
-	"stamina": 246,
-	"height": 5.8,
-	"weight": 203,
-	"family": 717,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 7,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Yveltal",
+  "pokedexId": 717,
+  "defaultFormId": 3073,
+  "types": [
+    3,
+    17
+  ],
+  "quickMoves": [
+    203,
+    278,
+    345
+  ],
+  "chargedMoves": [
+    14,
+    16,
+    108,
+    122,
+    247
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    389
+  ],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3073
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.842
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 4.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 7.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 8.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 8.99
+    }
+  ],
+  "attack": 250,
+  "defense": 185,
+  "stamina": 246,
+  "height": 5.8,
+  "weight": 203,
+  "family": 717,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

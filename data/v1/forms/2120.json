@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "GOTHITA_NORMAL",
-	"formId": 2120,
-	"evolutions": [
-		{
-			"evoId": 575,
-			"formId": 2123,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "GOTHITA_NORMAL",
+  "formId": 2120,
+  "evolutions": [
+    {
+      "evoId": 575,
+      "formId": 2123,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

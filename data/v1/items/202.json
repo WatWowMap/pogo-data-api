@@ -1,8 +1,8 @@
 {
-	"itemId": 202,
-	"itemName": "Max Revive",
-	"proto": "ITEM_MAX_REVIVE",
-	"type": "Revive",
-	"category": "Medicine",
-	"minTrainerLevel": 30
+  "itemId": 202,
+  "itemName": "Max Revive",
+  "proto": "ITEM_MAX_REVIVE",
+  "type": "Revive",
+  "category": "Medicine",
+  "minTrainerLevel": 30
 }

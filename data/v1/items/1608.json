@@ -1,7 +1,7 @@
 {
-	"itemId": 1608,
-	"itemName": "Evergreen Ticket To Gift",
-	"proto": "ITEM_EVERGREEN_TICKET_TO_GIFT",
-	"type": "Global Event Ticket",
-	"category": "Global Event Ticket"
+  "itemId": 1608,
+  "itemName": "Evergreen Ticket To Gift",
+  "proto": "ITEM_EVERGREEN_TICKET_TO_GIFT",
+  "type": "Global Event Ticket",
+  "category": "Global Event Ticket"
 }

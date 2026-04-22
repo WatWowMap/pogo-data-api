@@ -1,6 +1,6 @@
 {
-	"moveId": 128,
-	"moveName": "Headbutt",
-	"proto": "HEADBUTT",
-	"fast": false
+  "moveId": 128,
+  "moveName": "Headbutt",
+  "proto": "HEADBUTT",
+  "fast": false
 }

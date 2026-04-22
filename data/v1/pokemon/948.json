@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Toedscool",
-	"pokedexId": 948,
-	"defaultFormId": 3261,
-	"types": [5, 12],
-	"quickMoves": [216, 233],
-	"chargedMoves": [13, 59, 304],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3261],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.441
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.35
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.395
-		}
-	],
-	"attack": 97,
-	"defense": 149,
-	"stamina": 120,
-	"height": 0.9,
-	"weight": 33,
-	"family": 948,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 949,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Toedscool",
+  "pokedexId": 948,
+  "defaultFormId": 3261,
+  "types": [
+    5,
+    12
+  ],
+  "quickMoves": [
+    216,
+    233
+  ],
+  "chargedMoves": [
+    13,
+    59,
+    304
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3261
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.395
+    }
+  ],
+  "attack": 97,
+  "defense": 149,
+  "stamina": 120,
+  "height": 0.9,
+  "weight": 33,
+  "family": 948,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 949,
+      "candyCost": 50
+    }
+  ]
 }

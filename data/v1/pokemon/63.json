@@ -1,65 +1,76 @@
 {
-	"pokemonName": "Abra",
-	"pokedexId": 63,
-	"defaultFormId": 304,
-	"types": [14],
-	"quickMoves": [234, 249],
-	"chargedMoves": [60, 70, 99],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [304],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.441
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.35
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.575
-		}
-	],
-	"attack": 195,
-	"defense": 82,
-	"stamina": 93,
-	"height": 0.9,
-	"weight": 19.5,
-	"family": 63,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 64,
-			"formId": 307,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Abra",
+  "pokedexId": 63,
+  "defaultFormId": 304,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    234,
+    249
+  ],
+  "chargedMoves": [
+    60,
+    70,
+    99
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    304
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.575
+    }
+  ],
+  "attack": 195,
+  "defense": 82,
+  "stamina": 93,
+  "height": 0.9,
+  "weight": 19.5,
+  "family": 63,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 64,
+      "formId": 307,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

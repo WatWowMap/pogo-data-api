@@ -1,63 +1,74 @@
 {
-	"pokemonName": "Blitzle",
-	"pokedexId": 522,
-	"defaultFormId": 1970,
-	"types": [13],
-	"quickMoves": [206, 219],
-	"chargedMoves": [35, 79, 101],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [1970],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.392
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.2
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.4
-		}
-	],
-	"attack": 118,
-	"defense": 64,
-	"stamina": 128,
-	"height": 0.8,
-	"weight": 29.8,
-	"family": 522,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 523,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Blitzle",
+  "pokedexId": 522,
+  "defaultFormId": 1970,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    206,
+    219
+  ],
+  "chargedMoves": [
+    35,
+    79,
+    101
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    1970
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 118,
+  "defense": 64,
+  "stamina": 128,
+  "height": 0.8,
+  "weight": 29.8,
+  "family": 522,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 523,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

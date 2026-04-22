@@ -1,12 +1,12 @@
 {
-	"moveId": 293,
-	"moveName": "Weather Ball Ice",
-	"proto": "WEATHER_BALL_ICE",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -35,
-	"power": 55,
-	"durationMs": 1500,
-	"energyDelta": -33
+  "moveId": 293,
+  "moveName": "Weather Ball Ice",
+  "proto": "WEATHER_BALL_ICE",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -35,
+  "power": 55,
+  "durationMs": 1500,
+  "energyDelta": -33
 }

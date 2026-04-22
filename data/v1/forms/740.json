@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "OMANYTE_NORMAL",
-	"formId": 740,
-	"evolutions": [
-		{
-			"evoId": 139,
-			"formId": 743,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "OMANYTE_NORMAL",
+  "formId": 740,
+  "evolutions": [
+    {
+      "evoId": 139,
+      "formId": 743,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

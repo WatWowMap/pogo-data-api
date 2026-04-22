@@ -1,72 +1,86 @@
 {
-	"pokemonName": "Malamar",
-	"pokedexId": 687,
-	"defaultFormId": 3049,
-	"types": [14, 17],
-	"quickMoves": [211, 226, 401],
-	"chargedMoves": [14, 30, 280, 310],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [3049],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3
-		}
-	],
-	"attack": 177,
-	"defense": 165,
-	"stamina": 200,
-	"height": 1.5,
-	"weight": 47,
-	"family": 686,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 208,
-			"defense": 222,
-			"stamina": 200,
-			"height": 2.9,
-			"weight": 69.8,
-			"firstEnergyCost": 300,
-			"subsequentEnergyCost": 60
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Malamar",
+  "pokedexId": 687,
+  "defaultFormId": 3049,
+  "types": [
+    14,
+    17
+  ],
+  "quickMoves": [
+    211,
+    226,
+    401
+  ],
+  "chargedMoves": [
+    14,
+    30,
+    280,
+    310
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3049
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3
+    }
+  ],
+  "attack": 177,
+  "defense": 165,
+  "stamina": 200,
+  "height": 1.5,
+  "weight": 47,
+  "family": 686,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 208,
+      "defense": 222,
+      "stamina": 200,
+      "height": 2.9,
+      "weight": 69.8,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

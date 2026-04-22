@@ -1,55 +1,70 @@
 {
-	"pokemonName": "Oricorio",
-	"pokedexId": 741,
-	"defaultFormId": 2679,
-	"types": [3, 10],
-	"quickMoves": [222, 255],
-	"chargedMoves": [45, 121, 122],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [2679, 2680, 2681, 2683],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.05
-		}
-	],
-	"attack": 196,
-	"defense": 145,
-	"stamina": 181,
-	"height": 0.6,
-	"weight": 3.4,
-	"family": 741,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Oricorio",
+  "pokedexId": 741,
+  "defaultFormId": 2679,
+  "types": [
+    3,
+    10
+  ],
+  "quickMoves": [
+    222,
+    255
+  ],
+  "chargedMoves": [
+    45,
+    121,
+    122
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    2679,
+    2680,
+    2681,
+    2683
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 196,
+  "defense": 145,
+  "stamina": 181,
+  "height": 0.6,
+  "weight": 3.4,
+  "family": 741,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

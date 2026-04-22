@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "PSYDUCK_NORMAL",
-	"formId": 286,
-	"evolutions": [
-		{
-			"evoId": 55,
-			"formId": 289,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "PSYDUCK_NORMAL",
+  "formId": 286,
+  "evolutions": [
+    {
+      "evoId": 55,
+      "formId": 289,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

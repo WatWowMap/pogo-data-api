@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "MANTYKE_NORMAL",
-	"formId": 1817,
-	"evolutions": [
-		{
-			"evoId": 226,
-			"formId": 1292,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "MANTYKE_NORMAL",
+  "formId": 1817,
+  "evolutions": [
+    {
+      "evoId": 226,
+      "formId": 1292,
+      "candyCost": 50
+    }
+  ]
 }

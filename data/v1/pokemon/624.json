@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Pawniard",
-	"pokedexId": 624,
-	"defaultFormId": 2264,
-	"types": [9, 17],
-	"quickMoves": [200, 220],
-	"chargedMoves": [51, 74, 100],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2264],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.875
-		}
-	],
-	"attack": 154,
-	"defense": 114,
-	"stamina": 128,
-	"height": 0.5,
-	"weight": 10.2,
-	"family": 624,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 625,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Pawniard",
+  "pokedexId": 624,
+  "defaultFormId": 2264,
+  "types": [
+    9,
+    17
+  ],
+  "quickMoves": [
+    200,
+    220
+  ],
+  "chargedMoves": [
+    51,
+    74,
+    100
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2264
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 154,
+  "defense": 114,
+  "stamina": 128,
+  "height": 0.5,
+  "weight": 10.2,
+  "family": 624,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 625,
+      "candyCost": 50
+    }
+  ]
 }

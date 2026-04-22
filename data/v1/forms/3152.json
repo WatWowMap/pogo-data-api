@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "THWACKEY_NORMAL",
-	"formId": 3152,
-	"evolutions": [
-		{
-			"evoId": 812,
-			"formId": 2326,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "THWACKEY_NORMAL",
+  "formId": 3152,
+  "evolutions": [
+    {
+      "evoId": 812,
+      "formId": 2326,
+      "candyCost": 100
+    }
+  ]
 }

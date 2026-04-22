@@ -1,57 +1,71 @@
 {
-	"pokemonName": "Arboliva",
-	"pokedexId": 930,
-	"defaultFormId": 3244,
-	"types": [1, 12],
-	"quickMoves": [215, 221, 357],
-	"chargedMoves": [59, 273, 304, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3244],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.45
-		}
-	],
-	"attack": 219,
-	"defense": 189,
-	"stamina": 186,
-	"height": 1.4,
-	"weight": 48.2,
-	"family": 928,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Arboliva",
+  "pokedexId": 930,
+  "defaultFormId": 3244,
+  "types": [
+    1,
+    12
+  ],
+  "quickMoves": [
+    215,
+    221,
+    357
+  ],
+  "chargedMoves": [
+    59,
+    273,
+    304,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3244
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.45
+    }
+  ],
+  "attack": 219,
+  "defense": 189,
+  "stamina": 186,
+  "height": 1.4,
+  "weight": 48.2,
+  "family": 928,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

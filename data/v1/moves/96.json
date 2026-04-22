@@ -1,12 +1,12 @@
 {
-	"moveId": 96,
-	"moveName": "Mud Bomb",
-	"proto": "MUD_BOMB",
-	"fast": false,
-	"type": 5,
-	"pvpPower": 65,
-	"pvpEnergyDelta": -45,
-	"power": 60,
-	"durationMs": 2500,
-	"energyDelta": -33
+  "moveId": 96,
+  "moveName": "Mud Bomb",
+  "proto": "MUD_BOMB",
+  "fast": false,
+  "type": 5,
+  "pvpPower": 65,
+  "pvpEnergyDelta": -45,
+  "power": 60,
+  "durationMs": 2500,
+  "energyDelta": -33
 }

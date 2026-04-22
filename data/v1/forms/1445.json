@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "LOUDRED_NORMAL",
-	"formId": 1445,
-	"evolutions": [
-		{
-			"evoId": 295,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "LOUDRED_NORMAL",
+  "formId": 1445,
+  "evolutions": [
+    {
+      "evoId": 295,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

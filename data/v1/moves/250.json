@@ -1,13 +1,13 @@
 {
-	"moveId": 250,
-	"moveName": "Volt Switch",
-	"proto": "VOLT_SWITCH_FAST",
-	"fast": true,
-	"type": 13,
-	"pvpPower": 14,
-	"pvpEnergyDelta": 16,
-	"pvpDurationTurns": 3,
-	"power": 13,
-	"durationMs": 1500,
-	"energyDelta": 20
+  "moveId": 250,
+  "moveName": "Volt Switch",
+  "proto": "VOLT_SWITCH_FAST",
+  "fast": true,
+  "type": 13,
+  "pvpPower": 14,
+  "pvpEnergyDelta": 16,
+  "pvpDurationTurns": 3,
+  "power": 13,
+  "durationMs": 1500,
+  "energyDelta": 20
 }

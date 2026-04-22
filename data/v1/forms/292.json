@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "RALTS_NORMAL",
-	"formId": 292,
-	"evolutions": [
-		{
-			"evoId": 281,
-			"formId": 295,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "RALTS_NORMAL",
+  "formId": 292,
+  "evolutions": [
+    {
+      "evoId": 281,
+      "formId": 295,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

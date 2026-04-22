@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "HATTREM_NORMAL",
-	"formId": 3191,
-	"evolutions": [
-		{
-			"evoId": 858,
-			"formId": 3192,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "HATTREM_NORMAL",
+  "formId": 3191,
+  "evolutions": [
+    {
+      "evoId": 858,
+      "formId": 3192,
+      "candyCost": 100
+    }
+  ]
 }

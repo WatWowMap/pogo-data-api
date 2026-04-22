@@ -1,16 +1,16 @@
 {
-	"moveId": 75,
-	"moveName": "Parabolic Charge",
-	"proto": "PARABOLIC_CHARGE",
-	"fast": false,
-	"type": 13,
-	"pvpPower": 70,
-	"pvpEnergyDelta": -50,
-	"pvpBuffs": {
-		"attackerDefenseStatStageChange": 1,
-		"buffActivationChance": 1
-	},
-	"power": 70,
-	"durationMs": 3000,
-	"energyDelta": -50
+  "moveId": 75,
+  "moveName": "Parabolic Charge",
+  "proto": "PARABOLIC_CHARGE",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": 1,
+    "buffActivationChance": 1
+  },
+  "power": 70,
+  "durationMs": 3000,
+  "energyDelta": -50
 }

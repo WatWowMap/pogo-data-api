@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "PIPLUP_NORMAL",
-	"formId": 1649,
-	"evolutions": [
-		{
-			"evoId": 394,
-			"formId": 1652,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "PIPLUP_NORMAL",
+  "formId": 1649,
+  "evolutions": [
+    {
+      "evoId": 394,
+      "formId": 1652,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

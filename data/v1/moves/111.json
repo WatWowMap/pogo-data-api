@@ -1,16 +1,16 @@
 {
-	"moveId": 111,
-	"moveName": "Icy Wind",
-	"proto": "ICY_WIND",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -45,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 65,
-	"durationMs": 3500,
-	"energyDelta": -33
+  "moveId": 111,
+  "moveName": "Icy Wind",
+  "proto": "ICY_WIND",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 65,
+  "durationMs": 3500,
+  "energyDelta": -33
 }

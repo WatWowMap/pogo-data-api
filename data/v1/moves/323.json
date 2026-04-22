@@ -1,12 +1,12 @@
 {
-	"moveId": 323,
-	"moveName": "Return",
-	"proto": "RETURN",
-	"fast": false,
-	"type": 1,
-	"pvpPower": 130,
-	"pvpEnergyDelta": -70,
-	"power": 25,
-	"durationMs": 500,
-	"energyDelta": -33
+  "moveId": 323,
+  "moveName": "Return",
+  "proto": "RETURN",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 130,
+  "pvpEnergyDelta": -70,
+  "power": 25,
+  "durationMs": 500,
+  "energyDelta": -33
 }

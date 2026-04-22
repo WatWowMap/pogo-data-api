@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Stufful",
-	"pokedexId": 759,
-	"defaultFormId": 3108,
-	"types": [1, 2],
-	"quickMoves": [221, 282],
-	"chargedMoves": [123, 127, 310],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3108],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.875
-		}
-	],
-	"attack": 136,
-	"defense": 95,
-	"stamina": 172,
-	"height": 0.5,
-	"weight": 6.8,
-	"family": 759,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 760,
-			"candyCost": 400
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Stufful",
+  "pokedexId": 759,
+  "defaultFormId": 3108,
+  "types": [
+    1,
+    2
+  ],
+  "quickMoves": [
+    221,
+    282
+  ],
+  "chargedMoves": [
+    123,
+    127,
+    310
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3108
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 136,
+  "defense": 95,
+  "stamina": 172,
+  "height": 0.5,
+  "weight": 6.8,
+  "family": 759,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 760,
+      "candyCost": 400
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

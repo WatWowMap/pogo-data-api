@@ -1,13 +1,13 @@
 {
-	"moveId": 210,
-	"moveName": "Wing Attack",
-	"proto": "WING_ATTACK_FAST",
-	"fast": true,
-	"type": 3,
-	"pvpPower": 5,
-	"pvpEnergyDelta": 8,
-	"pvpDurationTurns": 1,
-	"power": 10,
-	"durationMs": 1000,
-	"energyDelta": 11
+  "moveId": 210,
+  "moveName": "Wing Attack",
+  "proto": "WING_ATTACK_FAST",
+  "fast": true,
+  "type": 3,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 8,
+  "pvpDurationTurns": 1,
+  "power": 10,
+  "durationMs": 1000,
+  "energyDelta": 11
 }

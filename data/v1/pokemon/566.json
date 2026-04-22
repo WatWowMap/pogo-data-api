@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Archen",
-	"pokedexId": 566,
-	"defaultFormId": 2096,
-	"types": [3, 6],
-	"quickMoves": [210, 219],
-	"chargedMoves": [62, 83, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2096],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1
-		}
-	],
-	"attack": 213,
-	"defense": 89,
-	"stamina": 146,
-	"height": 0.5,
-	"weight": 9.5,
-	"family": 566,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 567,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Archen",
+  "pokedexId": 566,
+  "defaultFormId": 2096,
+  "types": [
+    3,
+    6
+  ],
+  "quickMoves": [
+    210,
+    219
+  ],
+  "chargedMoves": [
+    62,
+    83,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2096
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1
+    }
+  ],
+  "attack": 213,
+  "defense": 89,
+  "stamina": 146,
+  "height": 0.5,
+  "weight": 9.5,
+  "family": 566,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 567,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

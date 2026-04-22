@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "WOOLOO_NORMAL",
-	"formId": 2861,
-	"evolutions": [
-		{
-			"evoId": 832,
-			"formId": 2862,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "WOOLOO_NORMAL",
+  "formId": 2861,
+  "evolutions": [
+    {
+      "evoId": 832,
+      "formId": 2862,
+      "candyCost": 50
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-	"moveId": 90,
-	"moveName": "Sludge Bomb",
-	"proto": "SLUDGE_BOMB",
-	"fast": false,
-	"type": 4,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -50,
-	"power": 85,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 90,
+  "moveName": "Sludge Bomb",
+  "proto": "SLUDGE_BOMB",
+  "fast": false,
+  "type": 4,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -50,
+  "power": 85,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

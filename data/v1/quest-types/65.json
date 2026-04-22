@@ -1,5 +1,5 @@
 {
-	"questId": 65,
-	"proto": "QUEST_ROUTE_COMPLETE",
-	"formatted": "Route Complete"
+  "questId": 65,
+  "proto": "QUEST_ROUTE_COMPLETE",
+  "formatted": "Route Complete"
 }

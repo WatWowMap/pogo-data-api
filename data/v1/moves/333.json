@@ -1,12 +1,12 @@
 {
-	"moveId": 333,
-	"moveName": "Payback",
-	"proto": "PAYBACK",
-	"fast": false,
-	"type": 17,
-	"pvpPower": 110,
-	"pvpEnergyDelta": -60,
-	"power": 95,
-	"durationMs": 2000,
-	"energyDelta": -100
+  "moveId": 333,
+  "moveName": "Payback",
+  "proto": "PAYBACK",
+  "fast": false,
+  "type": 17,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -60,
+  "power": 95,
+  "durationMs": 2000,
+  "energyDelta": -100
 }

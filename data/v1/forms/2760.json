@@ -1,12 +1,12 @@
 {
-	"formName": "River",
-	"proto": "SCATTERBUG_RIVER",
-	"formId": 2760,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2780,
-			"candyCost": 25
-		}
-	]
+  "formName": "River",
+  "proto": "SCATTERBUG_RIVER",
+  "formId": 2760,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2780,
+      "candyCost": 25
+    }
+  ]
 }

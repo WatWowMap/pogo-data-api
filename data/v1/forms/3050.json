@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "BINACLE_NORMAL",
-	"formId": 3050,
-	"evolutions": [
-		{
-			"evoId": 689,
-			"formId": 3051,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "BINACLE_NORMAL",
+  "formId": 3050,
+  "evolutions": [
+    {
+      "evoId": 689,
+      "formId": 3051,
+      "candyCost": 50
+    }
+  ]
 }

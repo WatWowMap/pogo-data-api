@@ -1,53 +1,62 @@
 {
-	"pokemonName": "Ironleaves",
-	"pokedexId": 1010,
-	"defaultFormId": 3325,
-	"types": [12, 14],
-	"quickMoves": [231],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3325],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.325
-		}
-	],
-	"attack": 236,
-	"defense": 194,
-	"stamina": 189,
-	"height": 1.5,
-	"weight": 125,
-	"family": 1010,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Ironleaves",
+  "pokedexId": 1010,
+  "defaultFormId": 3325,
+  "types": [
+    12,
+    14
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3325
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 236,
+  "defense": 194,
+  "stamina": 189,
+  "height": 1.5,
+  "weight": 125,
+  "family": 1010,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

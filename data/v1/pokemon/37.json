@@ -1,64 +1,77 @@
 {
-	"pokemonName": "Vulpix",
-	"pokedexId": 37,
-	"defaultFormId": 55,
-	"types": [10],
-	"quickMoves": [209, 219],
-	"chargedMoves": [24, 101, 131, 292],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [55, 56],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.05
-		}
-	],
-	"attack": 96,
-	"defense": 109,
-	"stamina": 116,
-	"height": 0.6,
-	"weight": 9.9,
-	"family": 37,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 38,
-			"formId": 57,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Vulpix",
+  "pokedexId": 37,
+  "defaultFormId": 55,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    219
+  ],
+  "chargedMoves": [
+    24,
+    101,
+    131,
+    292
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    55,
+    56
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 96,
+  "defense": 109,
+  "stamina": 116,
+  "height": 0.6,
+  "weight": 9.9,
+  "family": 37,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 38,
+      "formId": 57,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

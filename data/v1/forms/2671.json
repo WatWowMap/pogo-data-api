@@ -1,8 +1,8 @@
 {
-	"formName": "Winter 2020",
-	"proto": "DELIBIRD_WINTER_2020",
-	"formId": 2671,
-	"isCostume": true,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Winter 2020",
+  "proto": "DELIBIRD_WINTER_2020",
+  "formId": 2671,
+  "isCostume": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

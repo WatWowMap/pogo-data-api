@@ -1,7 +1,7 @@
 {
-	"formName": "Family Of Four",
-	"proto": "MAUSHOLD_FAMILY_OF_FOUR",
-	"formId": 2984,
-	"height": 0.3,
-	"weight": 2.8
+  "formName": "Family Of Four",
+  "proto": "MAUSHOLD_FAMILY_OF_FOUR",
+  "formId": 2984,
+  "height": 0.3,
+  "weight": 2.8
 }

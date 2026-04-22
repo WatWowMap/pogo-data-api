@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "OBSTAGOON_NORMAL",
-	"formId": 2501,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "OBSTAGOON_NORMAL",
+  "formId": 2501,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

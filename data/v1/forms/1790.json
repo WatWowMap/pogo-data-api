@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "RIOLU_NORMAL",
-	"formId": 1790,
-	"evolutions": [
-		{
-			"evoId": 448,
-			"formId": 1793,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "RIOLU_NORMAL",
+  "formId": 1790,
+  "evolutions": [
+    {
+      "evoId": 448,
+      "formId": 1793,
+      "candyCost": 50
+    }
+  ]
 }

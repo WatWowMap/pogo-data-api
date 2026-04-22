@@ -1,8 +1,8 @@
 {
-	"itemId": 101,
-	"itemName": "Potion",
-	"proto": "ITEM_POTION",
-	"type": "Potion",
-	"category": "Medicine",
-	"minTrainerLevel": 5
+  "itemId": 101,
+  "itemName": "Potion",
+  "proto": "ITEM_POTION",
+  "type": "Potion",
+  "category": "Medicine",
+  "minTrainerLevel": 5
 }

@@ -1,61 +1,70 @@
 {
-	"pokemonName": "Tynamo",
-	"pokedexId": 602,
-	"defaultFormId": 2198,
-	"types": [13],
-	"quickMoves": [206, 221],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2198],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.4
-		}
-	],
-	"attack": 105,
-	"defense": 78,
-	"stamina": 111,
-	"height": 0.2,
-	"weight": 0.3,
-	"family": 602,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 603,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Tynamo",
+  "pokedexId": 602,
+  "defaultFormId": 2198,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    206,
+    221
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2198
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.4
+    }
+  ],
+  "attack": 105,
+  "defense": 78,
+  "stamina": 111,
+  "height": 0.2,
+  "weight": 0.3,
+  "family": 602,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 603,
+      "candyCost": 25
+    }
+  ]
 }

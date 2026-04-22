@@ -1,8 +1,8 @@
 {
-	"formName": "Fall 2019",
-	"proto": "BULBASAUR_FALL_2019",
-	"formId": 897,
-	"isCostume": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Fall 2019",
+  "proto": "BULBASAUR_FALL_2019",
+  "formId": 897,
+  "isCostume": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

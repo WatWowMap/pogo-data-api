@@ -1,55 +1,66 @@
 {
-	"pokemonName": "Seviper",
-	"pokedexId": 336,
-	"defaultFormId": 1541,
-	"types": [4],
-	"quickMoves": [224, 266],
-	"chargedMoves": [13, 50, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1541],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.3181
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.345
-		},
-		{
-			"name": "mLowerBound",
-			"value": 2.0175
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3.3625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 4.035
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 4.1695
-		}
-	],
-	"attack": 196,
-	"defense": 118,
-	"stamina": 177,
-	"height": 2.69,
-	"weight": 52.5,
-	"family": 336,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Seviper",
+  "pokedexId": 336,
+  "defaultFormId": 1541,
+  "types": [
+    4
+  ],
+  "quickMoves": [
+    224,
+    266
+  ],
+  "chargedMoves": [
+    13,
+    50,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1541
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.3181
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.345
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.0175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 4.035
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.1695
+    }
+  ],
+  "attack": 196,
+  "defense": 118,
+  "stamina": 177,
+  "height": 2.69,
+  "weight": 52.5,
+  "family": 336,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,10 +1,25 @@
 {
-	"typeId": 14,
-	"typeName": "Psychic",
-	"strengths": [2, 4],
-	"weaknesses": [7, 8, 17],
-	"veryWeakAgainst": [17],
-	"immunes": [],
-	"weakAgainst": [9, 14],
-	"resistances": [2, 14]
+  "typeId": 14,
+  "typeName": "Psychic",
+  "strengths": [
+    2,
+    4
+  ],
+  "weaknesses": [
+    7,
+    8,
+    17
+  ],
+  "veryWeakAgainst": [
+    17
+  ],
+  "immunes": [],
+  "weakAgainst": [
+    9,
+    14
+  ],
+  "resistances": [
+    2,
+    14
+  ]
 }

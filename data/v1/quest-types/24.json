@@ -1,5 +1,5 @@
 {
-	"questId": 24,
-	"proto": "QUEST_SEND_GIFT",
-	"formatted": "Send Gift"
+  "questId": 24,
+  "proto": "QUEST_SEND_GIFT",
+  "formatted": "Send Gift"
 }

@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "BLASTOISE_NORMAL",
-	"formId": 187,
-	"gmaxMove": 454,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 264,
-			"defense": 237,
-			"stamina": 188,
-			"weight": 101.1,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "BLASTOISE_NORMAL",
+  "formId": 187,
+  "gmaxMove": 454,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 264,
+      "defense": 237,
+      "stamina": 188,
+      "weight": 101.1,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

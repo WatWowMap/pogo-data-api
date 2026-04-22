@@ -1,12 +1,12 @@
 {
-	"moveId": 42,
-	"moveName": "Heat Wave",
-	"proto": "HEAT_WAVE",
-	"fast": false,
-	"type": 10,
-	"pvpPower": 75,
-	"pvpEnergyDelta": -45,
-	"power": 95,
-	"durationMs": 3000,
-	"energyDelta": -100
+  "moveId": 42,
+  "moveName": "Heat Wave",
+  "proto": "HEAT_WAVE",
+  "fast": false,
+  "type": 10,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -45,
+  "power": 95,
+  "durationMs": 3000,
+  "energyDelta": -100
 }

@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "SLOWKING_NORMAL",
-	"formId": 1238,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SLOWKING_NORMAL",
+  "formId": 1238,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

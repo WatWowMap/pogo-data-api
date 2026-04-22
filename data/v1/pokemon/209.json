@@ -1,64 +1,75 @@
 {
-	"pokemonName": "Snubbull",
-	"pokedexId": 209,
-	"defaultFormId": 1253,
-	"types": [18],
-	"quickMoves": [202, 221],
-	"chargedMoves": [86, 123, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1253],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.0675
-		}
-	],
-	"attack": 137,
-	"defense": 85,
-	"stamina": 155,
-	"height": 0.61,
-	"weight": 7.8,
-	"family": 209,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 210,
-			"formId": 1256,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Snubbull",
+  "pokedexId": 209,
+  "defaultFormId": 1253,
+  "types": [
+    18
+  ],
+  "quickMoves": [
+    202,
+    221
+  ],
+  "chargedMoves": [
+    86,
+    123,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1253
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.0675
+    }
+  ],
+  "attack": 137,
+  "defense": 85,
+  "stamina": 155,
+  "height": 0.61,
+  "weight": 7.8,
+  "family": 209,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 210,
+      "formId": 1256,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

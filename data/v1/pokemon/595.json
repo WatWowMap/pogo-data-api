@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Joltik",
-	"pokedexId": 595,
-	"defaultFormId": 2177,
-	"types": [7, 13],
-	"quickMoves": [203, 249],
-	"chargedMoves": [35, 49, 89],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2177],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.049
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.05
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.075
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.15
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.155
-		}
-	],
-	"attack": 110,
-	"defense": 98,
-	"stamina": 137,
-	"height": 0.1,
-	"weight": 0.6,
-	"family": 595,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 596,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Joltik",
+  "pokedexId": 595,
+  "defaultFormId": 2177,
+  "types": [
+    7,
+    13
+  ],
+  "quickMoves": [
+    203,
+    249
+  ],
+  "chargedMoves": [
+    35,
+    49,
+    89
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2177
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.049
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.155
+    }
+  ],
+  "attack": 110,
+  "defense": 98,
+  "stamina": 137,
+  "height": 0.1,
+  "weight": 0.6,
+  "family": 595,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 596,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

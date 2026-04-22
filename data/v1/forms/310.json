@@ -1,18 +1,18 @@
 {
-	"formName": "Normal",
-	"proto": "ALAKAZAM_NORMAL",
-	"formId": 310,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 367,
-			"defense": 207,
-			"stamina": 146,
-			"height": 1.2,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "ALAKAZAM_NORMAL",
+  "formId": 310,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 367,
+      "defense": 207,
+      "stamina": 146,
+      "height": 1.2,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

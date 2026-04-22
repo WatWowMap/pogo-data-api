@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "KRABBY_NORMAL",
-	"formId": 870,
-	"evolutions": [
-		{
-			"evoId": 99,
-			"formId": 873,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "KRABBY_NORMAL",
+  "formId": 870,
+  "evolutions": [
+    {
+      "evoId": 99,
+      "formId": 873,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

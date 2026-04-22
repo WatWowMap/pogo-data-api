@@ -1,65 +1,77 @@
 {
-	"pokemonName": "Mareep",
-	"pokedexId": 179,
-	"defaultFormId": 646,
-	"types": [13],
-	"quickMoves": [205, 221],
-	"chargedMoves": [35, 79, 131, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [646],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.0675
-		}
-	],
-	"attack": 114,
-	"defense": 79,
-	"stamina": 146,
-	"height": 0.61,
-	"weight": 7.8,
-	"family": 179,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"buddyMegaEnergy": 25,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 180,
-			"formId": 649,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Mareep",
+  "pokedexId": 179,
+  "defaultFormId": 646,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    205,
+    221
+  ],
+  "chargedMoves": [
+    35,
+    79,
+    131,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    646
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.0675
+    }
+  ],
+  "attack": 114,
+  "defense": 79,
+  "stamina": 146,
+  "height": 0.61,
+  "weight": 7.8,
+  "family": 179,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 180,
+      "formId": 649,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

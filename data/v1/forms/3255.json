@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "MASCHIFF_NORMAL",
-	"formId": 3255,
-	"evolutions": [
-		{
-			"evoId": 943,
-			"formId": 3256,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "MASCHIFF_NORMAL",
+  "formId": 3255,
+  "evolutions": [
+    {
+      "evoId": 943,
+      "formId": 3256,
+      "candyCost": 50
+    }
+  ]
 }

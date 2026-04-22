@@ -1,43 +1,45 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 2.205
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 2.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 3.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 5.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 6.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 6.975
-		}
-	],
-	"formName": "Complete",
-	"proto": "ZYGARDE_COMPLETE",
-	"formId": 2593,
-	"attack": 184,
-	"defense": 207,
-	"stamina": 389,
-	"height": 4.5,
-	"weight": 610,
-	"formChanges": [
-		{
-			"availableForms": [2824],
-			"candyCost": 10,
-			"stardustCost": 2000
-		}
-	]
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 2.205
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 2.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 3.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 5.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 6.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 6.975
+    }
+  ],
+  "formName": "Complete",
+  "proto": "ZYGARDE_COMPLETE",
+  "formId": 2593,
+  "attack": 184,
+  "defense": 207,
+  "stamina": 389,
+  "height": 4.5,
+  "weight": 610,
+  "formChanges": [
+    {
+      "availableForms": [
+        2824
+      ],
+      "candyCost": 10,
+      "stardustCost": 2000
+    }
+  ]
 }

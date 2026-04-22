@@ -1,63 +1,74 @@
 {
-	"pokemonName": "Gothita",
-	"pokedexId": 574,
-	"defaultFormId": 2120,
-	"types": [14],
-	"quickMoves": [222, 235],
-	"chargedMoves": [30, 60, 108],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2120],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.7
-		}
-	],
-	"attack": 98,
-	"defense": 112,
-	"stamina": 128,
-	"height": 0.4,
-	"weight": 5.8,
-	"family": 574,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 575,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Gothita",
+  "pokedexId": 574,
+  "defaultFormId": 2120,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    222,
+    235
+  ],
+  "chargedMoves": [
+    30,
+    60,
+    108
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2120
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7
+    }
+  ],
+  "attack": 98,
+  "defense": 112,
+  "stamina": 128,
+  "height": 0.4,
+  "weight": 5.8,
+  "family": 574,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 575,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

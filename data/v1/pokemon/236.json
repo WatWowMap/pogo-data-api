@@ -1,69 +1,80 @@
 {
-	"pokemonName": "Tyrogue",
-	"pokedexId": 236,
-	"defaultFormId": 1310,
-	"types": [2],
-	"quickMoves": [221, 241],
-	"chargedMoves": [56, 64, 123],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1310],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3479
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.355
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5325
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.8875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.065
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.2425
-		}
-	],
-	"attack": 64,
-	"defense": 64,
-	"stamina": 111,
-	"height": 0.71,
-	"weight": 21,
-	"family": 236,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 106,
-			"candyCost": 25
-		},
-		{
-			"evoId": 107,
-			"candyCost": 25
-		},
-		{
-			"evoId": 237,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Tyrogue",
+  "pokedexId": 236,
+  "defaultFormId": 1310,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    221,
+    241
+  ],
+  "chargedMoves": [
+    56,
+    64,
+    123
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1310
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3479
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.355
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.065
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.2425
+    }
+  ],
+  "attack": 64,
+  "defense": 64,
+  "stamina": 111,
+  "height": 0.71,
+  "weight": 21,
+  "family": 236,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 106,
+      "candyCost": 25
+    },
+    {
+      "evoId": 107,
+      "candyCost": 25
+    },
+    {
+      "evoId": 237,
+      "candyCost": 25
+    }
+  ]
 }

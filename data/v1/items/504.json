@@ -1,8 +1,8 @@
 {
-	"itemId": 504,
-	"itemName": "Troy Disk Magnetic",
-	"proto": "ITEM_TROY_DISK_MAGNETIC",
-	"type": "Disk",
-	"category": "Disk",
-	"minTrainerLevel": 1
+  "itemId": 504,
+  "itemName": "Troy Disk Magnetic",
+  "proto": "ITEM_TROY_DISK_MAGNETIC",
+  "type": "Disk",
+  "category": "Disk",
+  "minTrainerLevel": 1
 }

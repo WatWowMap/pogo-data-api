@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "DWEBBLE_NORMAL",
-	"formId": 2069,
-	"evolutions": [
-		{
-			"evoId": 558,
-			"formId": 2072,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "DWEBBLE_NORMAL",
+  "formId": 2069,
+  "evolutions": [
+    {
+      "evoId": 558,
+      "formId": 2072,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

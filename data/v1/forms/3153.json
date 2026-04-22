@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "SCORBUNNY_NORMAL",
-	"formId": 3153,
-	"evolutions": [
-		{
-			"evoId": 814,
-			"formId": 3154,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "SCORBUNNY_NORMAL",
+  "formId": 3153,
+  "evolutions": [
+    {
+      "evoId": 814,
+      "formId": 3154,
+      "candyCost": 25
+    }
+  ]
 }

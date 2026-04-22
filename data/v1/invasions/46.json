@@ -1,38 +1,38 @@
 {
-	"id": 46,
-	"type": "Decoy",
-	"gender": 2,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_DECOY_GRUNT_FEMALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 69,
-			"formId": 664,
-			"position": "first"
-		},
-		{
-			"id": 20,
-			"formId": 47,
-			"position": "second"
-		},
-		{
-			"id": 70,
-			"formId": 667,
-			"position": "second"
-		},
-		{
-			"id": 20,
-			"formId": 47,
-			"position": "third"
-		},
-		{
-			"id": 143,
-			"formId": 199,
-			"position": "third"
-		}
-	]
+  "id": 46,
+  "type": "Decoy",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_DECOY_GRUNT_FEMALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 69,
+      "formId": 664,
+      "position": "first"
+    },
+    {
+      "id": 20,
+      "formId": 47,
+      "position": "second"
+    },
+    {
+      "id": 70,
+      "formId": 667,
+      "position": "second"
+    },
+    {
+      "id": 20,
+      "formId": 47,
+      "position": "third"
+    },
+    {
+      "id": 143,
+      "formId": 199,
+      "position": "third"
+    }
+  ]
 }

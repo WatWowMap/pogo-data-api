@@ -1,13 +1,13 @@
 {
-	"moveId": 249,
-	"moveName": "Charge Beam",
-	"proto": "CHARGE_BEAM_FAST",
-	"fast": true,
-	"type": 13,
-	"pvpPower": 5,
-	"pvpEnergyDelta": 11,
-	"pvpDurationTurns": 2,
-	"power": 7,
-	"durationMs": 1000,
-	"energyDelta": 14
+  "moveId": 249,
+  "moveName": "Charge Beam",
+  "proto": "CHARGE_BEAM_FAST",
+  "fast": true,
+  "type": 13,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 11,
+  "pvpDurationTurns": 2,
+  "power": 7,
+  "durationMs": 1000,
+  "energyDelta": 14
 }

@@ -1,10 +1,10 @@
 {
-	"weather_0": "Extrem",
-	"weather_1": "Klar",
-	"weather_2": "Regen",
-	"weather_3": "Teilweise bewölkt",
-	"weather_4": "Bedeckt",
-	"weather_5": "Windig",
-	"weather_6": "Schnee",
-	"weather_7": "Nebel"
+  "weather_0": "Extrem",
+  "weather_1": "Klar",
+  "weather_2": "Regen",
+  "weather_3": "Teilweise bewölkt",
+  "weather_4": "Bedeckt",
+  "weather_5": "Windig",
+  "weather_6": "Schnee",
+  "weather_7": "Nebel"
 }

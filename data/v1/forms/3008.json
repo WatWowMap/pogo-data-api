@@ -1,13 +1,25 @@
 {
-	"formName": "Paldea Aqua",
-	"proto": "TAUROS_PALDEA_AQUA",
-	"formId": 3008,
-	"attack": 210,
-	"defense": 193,
-	"stamina": 181,
-	"height": 1.4,
-	"weight": 110,
-	"quickMoves": [221, 234, 356],
-	"chargedMoves": [31, 57, 74, 392],
-	"types": [2, 11]
+  "formName": "Paldea Aqua",
+  "proto": "TAUROS_PALDEA_AQUA",
+  "formId": 3008,
+  "attack": 210,
+  "defense": 193,
+  "stamina": 181,
+  "height": 1.4,
+  "weight": 110,
+  "quickMoves": [
+    221,
+    234,
+    356
+  ],
+  "chargedMoves": [
+    31,
+    57,
+    74,
+    392
+  ],
+  "types": [
+    2,
+    11
+  ]
 }

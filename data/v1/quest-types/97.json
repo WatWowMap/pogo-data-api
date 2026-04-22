@@ -1,5 +1,5 @@
 {
-	"questId": 97,
-	"proto": "QUEST_USE_STAR_PIECE",
-	"formatted": "Use Star Piece"
+  "questId": 97,
+  "proto": "QUEST_USE_STAR_PIECE",
+  "formatted": "Use Star Piece"
 }

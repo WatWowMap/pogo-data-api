@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Glimmet",
-	"pokedexId": 969,
-	"defaultFormId": 3281,
-	"types": [4, 6],
-	"quickMoves": [227, 297],
-	"chargedMoves": [65, 86, 91],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3281],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.343
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.35
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.525
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.05
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.225
-		}
-	],
-	"attack": 187,
-	"defense": 104,
-	"stamina": 134,
-	"height": 0.7,
-	"weight": 8,
-	"family": 969,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 4,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 970,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Glimmet",
+  "pokedexId": 969,
+  "defaultFormId": 3281,
+  "types": [
+    4,
+    6
+  ],
+  "quickMoves": [
+    227,
+    297
+  ],
+  "chargedMoves": [
+    65,
+    86,
+    91
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3281
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.225
+    }
+  ],
+  "attack": 187,
+  "defense": 104,
+  "stamina": 134,
+  "height": 0.7,
+  "weight": 8,
+  "family": 969,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 4,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 970,
+      "candyCost": 50
+    }
+  ]
 }

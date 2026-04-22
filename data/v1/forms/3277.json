@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "VAROOM_NORMAL",
-	"formId": 3277,
-	"evolutions": [
-		{
-			"evoId": 966,
-			"formId": 3278,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "VAROOM_NORMAL",
+  "formId": 3277,
+  "evolutions": [
+    {
+      "evoId": 966,
+      "formId": 3278,
+      "candyCost": 50
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
-	"formName": "Normal",
-	"proto": "COALOSSAL_NORMAL",
-	"formId": 3176,
-	"gmaxMove": 442
+  "formName": "Normal",
+  "proto": "COALOSSAL_NORMAL",
+  "formId": 3176,
+  "gmaxMove": 442
 }

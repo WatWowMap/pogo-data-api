@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "KAKUNA_NORMAL",
-	"formId": 619,
-	"evolutions": [
-		{
-			"evoId": 15,
-			"formId": 622,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "KAKUNA_NORMAL",
+  "formId": 619,
+  "evolutions": [
+    {
+      "evoId": 15,
+      "formId": 622,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

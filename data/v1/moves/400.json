@@ -1,12 +1,12 @@
 {
-	"moveId": 400,
-	"moveName": "Darkest Lariat",
-	"proto": "DARKEST_LARIAT",
-	"fast": false,
-	"type": 17,
-	"pvpPower": 120,
-	"pvpEnergyDelta": -60,
-	"power": 80,
-	"durationMs": 2000,
-	"energyDelta": -50
+  "moveId": 400,
+  "moveName": "Darkest Lariat",
+  "proto": "DARKEST_LARIAT",
+  "fast": false,
+  "type": 17,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -60,
+  "power": 80,
+  "durationMs": 2000,
+  "energyDelta": -50
 }

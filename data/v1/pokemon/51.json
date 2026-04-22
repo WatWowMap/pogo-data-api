@@ -1,59 +1,72 @@
 {
-	"pokemonName": "Dugtrio",
-	"pokedexId": 51,
-	"defaultFormId": 61,
-	"types": [5],
-	"quickMoves": [203, 216, 233],
-	"chargedMoves": [31, 32, 96],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [61, 62],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.343
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.35
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.525
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.05
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.225
-		}
-	],
-	"attack": 167,
-	"defense": 134,
-	"stamina": 111,
-	"height": 0.7,
-	"weight": 33.3,
-	"family": 50,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Dugtrio",
+  "pokedexId": 51,
+  "defaultFormId": 61,
+  "types": [
+    5
+  ],
+  "quickMoves": [
+    203,
+    216,
+    233
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    96
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    61,
+    62
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.225
+    }
+  ],
+  "attack": 167,
+  "defense": 134,
+  "stamina": 111,
+  "height": 0.7,
+  "weight": 33.3,
+  "family": 50,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,59 +1,74 @@
 {
-	"pokemonName": "Golem",
-	"pokedexId": 76,
-	"defaultFormId": 71,
-	"types": [5, 6],
-	"quickMoves": [216, 227, 233],
-	"chargedMoves": [31, 32, 62, 259],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [71, 72],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.45
-		}
-	],
-	"attack": 211,
-	"defense": 198,
-	"stamina": 190,
-	"height": 1.4,
-	"weight": 300,
-	"family": 74,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Golem",
+  "pokedexId": 76,
+  "defaultFormId": 71,
+  "types": [
+    5,
+    6
+  ],
+  "quickMoves": [
+    216,
+    227,
+    233
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    62,
+    259
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    71,
+    72
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.45
+    }
+  ],
+  "attack": 211,
+  "defense": 198,
+  "stamina": 190,
+  "height": 1.4,
+  "weight": 300,
+  "family": 74,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

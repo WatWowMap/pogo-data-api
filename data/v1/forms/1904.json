@@ -1,16 +1,16 @@
 {
-	"formName": "Normal",
-	"proto": "EMBOAR_NORMAL",
-	"formId": 1904,
-	"purificationDust": 3000,
-	"purificationCandy": 3,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 287,
-			"defense": 194,
-			"stamina": 242,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "EMBOAR_NORMAL",
+  "formId": 1904,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 287,
+      "defense": 194,
+      "stamina": 242,
+      "unreleased": true
+    }
+  ]
 }

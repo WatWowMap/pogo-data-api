@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "DEINO_NORMAL",
-	"formId": 2291,
-	"evolutions": [
-		{
-			"evoId": 634,
-			"formId": 2294,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "DEINO_NORMAL",
+  "formId": 2291,
+  "evolutions": [
+    {
+      "evoId": 634,
+      "formId": 2294,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

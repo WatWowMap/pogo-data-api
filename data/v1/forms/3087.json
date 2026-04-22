@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "YUNGOOS_NORMAL",
-	"formId": 3087,
-	"evolutions": [
-		{
-			"evoId": 735,
-			"formId": 3088,
-			"candyCost": 50,
-			"onlyDaytime": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "YUNGOOS_NORMAL",
+  "formId": 3087,
+  "evolutions": [
+    {
+      "evoId": 735,
+      "formId": 3088,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ]
 }

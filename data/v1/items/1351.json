@@ -1,8 +1,8 @@
 {
-	"itemId": 1351,
-	"itemName": "Fusion Resource Duskmane Necrozma",
-	"proto": "FUSION_RESOURCE_DUSKMANE_NECROZMA",
-	"type": "Evolution Requirement",
-	"category": "Evolution Requirement",
-	"minTrainerLevel": 1
+  "itemId": 1351,
+  "itemName": "Fusion Resource Duskmane Necrozma",
+  "proto": "FUSION_RESOURCE_DUSKMANE_NECROZMA",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 1
 }

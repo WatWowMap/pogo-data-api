@@ -1,39 +1,50 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.176
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.8
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.72
-		}
-	],
-	"formName": "Shadow Rider",
-	"proto": "CALYREX_SHADOW_RIDER",
-	"formId": 2727,
-	"attack": 324,
-	"defense": 194,
-	"stamina": 205,
-	"height": 2.4,
-	"weight": 53.6,
-	"quickMoves": [235, 282],
-	"chargedMoves": [60, 70, 108, 273],
-	"types": [8, 14]
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.176
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.8
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.72
+    }
+  ],
+  "formName": "Shadow Rider",
+  "proto": "CALYREX_SHADOW_RIDER",
+  "formId": 2727,
+  "attack": 324,
+  "defense": 194,
+  "stamina": 205,
+  "height": 2.4,
+  "weight": 53.6,
+  "quickMoves": [
+    235,
+    282
+  ],
+  "chargedMoves": [
+    60,
+    70,
+    108,
+    273
+  ],
+  "types": [
+    8,
+    14
+  ]
 }

@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "GOLEM_NORMAL",
-	"formId": 71,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "GOLEM_NORMAL",
+  "formId": 71,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

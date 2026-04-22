@@ -1,8 +1,8 @@
 {
-	"itemId": 201,
-	"itemName": "Revive",
-	"proto": "ITEM_REVIVE",
-	"type": "Revive",
-	"category": "Medicine",
-	"minTrainerLevel": 5
+  "itemId": 201,
+  "itemName": "Revive",
+  "proto": "ITEM_REVIVE",
+  "type": "Revive",
+  "category": "Medicine",
+  "minTrainerLevel": 5
 }

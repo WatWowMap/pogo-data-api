@@ -1,55 +1,67 @@
 {
-	"pokemonName": "Pincurchin",
-	"pokedexId": 871,
-	"defaultFormId": 3198,
-	"types": [13],
-	"quickMoves": [205, 224, 230],
-	"chargedMoves": [35, 53, 79],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [3198],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.525
-		}
-	],
-	"attack": 176,
-	"defense": 161,
-	"stamina": 134,
-	"height": 0.3,
-	"weight": 1,
-	"family": 871,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Pincurchin",
+  "pokedexId": 871,
+  "defaultFormId": 3198,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    205,
+    224,
+    230
+  ],
+  "chargedMoves": [
+    35,
+    53,
+    79
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3198
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 176,
+  "defense": 161,
+  "stamina": 134,
+  "height": 0.3,
+  "weight": 1,
+  "family": 871,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

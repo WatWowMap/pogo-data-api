@@ -1,63 +1,72 @@
 {
-	"pokemonName": "Cascoon",
-	"pokedexId": 268,
-	"defaultFormId": 1385,
-	"types": [7],
-	"quickMoves": [201, 236],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1385],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3479
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.355
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5325
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.8875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.065
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.2425
-		}
-	],
-	"attack": 60,
-	"defense": 77,
-	"stamina": 137,
-	"height": 0.71,
-	"weight": 11.5,
-	"family": 265,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 269,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Cascoon",
+  "pokedexId": 268,
+  "defaultFormId": 1385,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    201,
+    236
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1385
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3479
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.355
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.065
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.2425
+    }
+  ],
+  "attack": 60,
+  "defense": 77,
+  "stamina": 137,
+  "height": 0.71,
+  "weight": 11.5,
+  "family": 265,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 269,
+      "candyCost": 50
+    }
+  ]
 }

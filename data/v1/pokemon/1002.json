@@ -1,53 +1,65 @@
 {
-	"pokemonName": "Chienpao",
-	"pokedexId": 1002,
-	"defaultFormId": 3310,
-	"types": [15, 17],
-	"quickMoves": [244, 278],
-	"chargedMoves": [16, 40, 254],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3310],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.931
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.95
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.85
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.945
-		}
-	],
-	"attack": 261,
-	"defense": 167,
-	"stamina": 190,
-	"height": 1.9,
-	"weight": 152.2,
-	"family": 1002,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Chienpao",
+  "pokedexId": 1002,
+  "defaultFormId": 3310,
+  "types": [
+    15,
+    17
+  ],
+  "quickMoves": [
+    244,
+    278
+  ],
+  "chargedMoves": [
+    16,
+    40,
+    254
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3310
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "attack": 261,
+  "defense": 167,
+  "stamina": 190,
+  "height": 1.9,
+  "weight": 152.2,
+  "family": 1002,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,12 +1,12 @@
 {
-	"moveId": 40,
-	"moveName": "Blizzard",
-	"proto": "BLIZZARD",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 140,
-	"pvpEnergyDelta": -75,
-	"power": 130,
-	"durationMs": 3000,
-	"energyDelta": -100
+  "moveId": 40,
+  "moveName": "Blizzard",
+  "proto": "BLIZZARD",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 140,
+  "pvpEnergyDelta": -75,
+  "power": 130,
+  "durationMs": 3000,
+  "energyDelta": -100
 }

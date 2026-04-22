@@ -1,54 +1,63 @@
 {
-	"pokemonName": "Ironbundle",
-	"pokedexId": 991,
-	"defaultFormId": 3301,
-	"types": [11, 15],
-	"quickMoves": [231],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3301],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.93
-		}
-	],
-	"attack": 266,
-	"defense": 211,
-	"stamina": 148,
-	"height": 0.6,
-	"weight": 11,
-	"family": 991,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Ironbundle",
+  "pokedexId": 991,
+  "defaultFormId": 3301,
+  "types": [
+    11,
+    15
+  ],
+  "quickMoves": [
+    231
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3301
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.93
+    }
+  ],
+  "attack": 266,
+  "defense": 211,
+  "stamina": 148,
+  "height": 0.6,
+  "weight": 11,
+  "family": 991,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

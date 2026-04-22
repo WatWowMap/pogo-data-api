@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Shieldon",
-	"pokedexId": 410,
-	"defaultFormId": 1700,
-	"types": [6, 9],
-	"quickMoves": [221, 266],
-	"chargedMoves": [62, 63, 268],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1700],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1
-		}
-	],
-	"attack": 76,
-	"defense": 195,
-	"stamina": 102,
-	"height": 0.5,
-	"weight": 57,
-	"family": 410,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 411,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Shieldon",
+  "pokedexId": 410,
+  "defaultFormId": 1700,
+  "types": [
+    6,
+    9
+  ],
+  "quickMoves": [
+    221,
+    266
+  ],
+  "chargedMoves": [
+    62,
+    63,
+    268
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1700
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1
+    }
+  ],
+  "attack": 76,
+  "defense": 195,
+  "stamina": 102,
+  "height": 0.5,
+  "weight": 57,
+  "family": 410,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 411,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "SERVINE_NORMAL",
-	"formId": 1892,
-	"evolutions": [
-		{
-			"evoId": 497,
-			"formId": 1895,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SERVINE_NORMAL",
+  "formId": 1892,
+  "evolutions": [
+    {
+      "evoId": 497,
+      "formId": 1895,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

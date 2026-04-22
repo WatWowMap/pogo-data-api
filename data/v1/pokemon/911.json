@@ -1,57 +1,74 @@
 {
-	"pokemonName": "Skeledirge",
-	"pokedexId": 911,
-	"defaultFormId": 3227,
-	"types": [8, 10],
-	"quickMoves": [202, 264, 346],
-	"chargedMoves": [24, 70, 84, 279, 468],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [298],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3227],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.784
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.8
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.48
-		}
-	],
-	"attack": 207,
-	"defense": 178,
-	"stamina": 232,
-	"height": 1.6,
-	"weight": 326.5,
-	"family": 909,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Skeledirge",
+  "pokedexId": 911,
+  "defaultFormId": 3227,
+  "types": [
+    8,
+    10
+  ],
+  "quickMoves": [
+    202,
+    264,
+    346
+  ],
+  "chargedMoves": [
+    24,
+    70,
+    84,
+    279,
+    468
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    298
+  ],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3227
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.48
+    }
+  ],
+  "attack": 207,
+  "defense": 178,
+  "stamina": 232,
+  "height": 1.6,
+  "weight": 326.5,
+  "family": 909,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

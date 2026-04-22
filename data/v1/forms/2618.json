@@ -1,12 +1,12 @@
 {
-	"formName": "White",
-	"proto": "FLABEBE_WHITE",
-	"formId": 2618,
-	"evolutions": [
-		{
-			"evoId": 670,
-			"formId": 2623,
-			"candyCost": 25
-		}
-	]
+  "formName": "White",
+  "proto": "FLABEBE_WHITE",
+  "formId": 2618,
+  "evolutions": [
+    {
+      "evoId": 670,
+      "formId": 2623,
+      "candyCost": 25
+    }
+  ]
 }

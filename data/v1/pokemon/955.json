@@ -1,60 +1,71 @@
 {
-	"pokemonName": "Flittle",
-	"pokedexId": 955,
-	"defaultFormId": 3268,
-	"types": [14],
-	"quickMoves": [211, 235],
-	"chargedMoves": [30, 60, 108],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3268],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.35
-		}
-	],
-	"attack": 105,
-	"defense": 60,
-	"stamina": 102,
-	"height": 0.2,
-	"weight": 1.5,
-	"family": 955,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 956,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Flittle",
+  "pokedexId": 955,
+  "defaultFormId": 3268,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    211,
+    235
+  ],
+  "chargedMoves": [
+    30,
+    60,
+    108
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3268
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 105,
+  "defense": 60,
+  "stamina": 102,
+  "height": 0.2,
+  "weight": 1.5,
+  "family": 955,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 956,
+      "candyCost": 50
+    }
+  ]
 }

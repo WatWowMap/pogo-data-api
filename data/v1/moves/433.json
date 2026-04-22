@@ -1,9 +1,9 @@
 {
-	"moveId": 433,
-	"moveName": "Gmax Foamburst",
-	"proto": "VN_BM_025",
-	"fast": false,
-	"type": 11,
-	"power": 450,
-	"durationMs": 2500
+  "moveId": 433,
+  "moveName": "Gmax Foamburst",
+  "proto": "VN_BM_025",
+  "fast": false,
+  "type": 11,
+  "power": 450,
+  "durationMs": 2500
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "STUFFUL_NORMAL",
-	"formId": 3108,
-	"evolutions": [
-		{
-			"evoId": 760,
-			"formId": 3020,
-			"candyCost": 400
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "STUFFUL_NORMAL",
+  "formId": 3108,
+  "evolutions": [
+    {
+      "evoId": 760,
+      "formId": 3020,
+      "candyCost": 400
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

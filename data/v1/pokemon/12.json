@@ -1,60 +1,74 @@
 {
-	"pokemonName": "Butterfree",
-	"pokedexId": 12,
-	"defaultFormId": 959,
-	"types": [3, 7],
-	"quickMoves": [235, 261],
-	"chargedMoves": [49, 99, 108],
-	"eliteQuickMoves": [201],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [959],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.539
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.55
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.65
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.925
-		}
-	],
-	"gmaxMove": 428,
-	"attack": 167,
-	"defense": 137,
-	"stamina": 155,
-	"height": 1.1,
-	"weight": 32,
-	"family": 10,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 4,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Butterfree",
+  "pokedexId": 12,
+  "defaultFormId": 959,
+  "types": [
+    3,
+    7
+  ],
+  "quickMoves": [
+    235,
+    261
+  ],
+  "chargedMoves": [
+    49,
+    99,
+    108
+  ],
+  "eliteQuickMoves": [
+    201
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    959
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "gmaxMove": 428,
+  "attack": 167,
+  "defense": 137,
+  "stamina": 155,
+  "height": 1.1,
+  "weight": 32,
+  "family": 10,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 4,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

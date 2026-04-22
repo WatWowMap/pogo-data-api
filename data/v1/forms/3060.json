@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "AMAURA_NORMAL",
-	"formId": 3060,
-	"evolutions": [
-		{
-			"evoId": 699,
-			"formId": 3061,
-			"candyCost": 50,
-			"onlyNighttime": true
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "AMAURA_NORMAL",
+  "formId": 3060,
+  "evolutions": [
+    {
+      "evoId": 699,
+      "formId": 3061,
+      "candyCost": 50,
+      "onlyNighttime": true
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

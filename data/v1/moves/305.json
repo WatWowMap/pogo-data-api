@@ -1,16 +1,16 @@
 {
-	"moveId": 305,
-	"moveName": "Crabhammer",
-	"proto": "CRABHAMMER",
-	"fast": false,
-	"type": 11,
-	"pvpPower": 85,
-	"pvpEnergyDelta": -50,
-	"pvpBuffs": {
-		"attackerAttackStatStageChange": 2,
-		"buffActivationChance": 0.125
-	},
-	"power": 85,
-	"durationMs": 2000,
-	"energyDelta": -50
+  "moveId": 305,
+  "moveName": "Crabhammer",
+  "proto": "CRABHAMMER",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 85,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 2,
+    "buffActivationChance": 0.125
+  },
+  "power": 85,
+  "durationMs": 2000,
+  "energyDelta": -50
 }

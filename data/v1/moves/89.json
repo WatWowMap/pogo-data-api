@@ -1,16 +1,16 @@
 {
-	"moveId": 89,
-	"moveName": "Cross Poison",
-	"proto": "CROSS_POISON",
-	"fast": false,
-	"type": 4,
-	"pvpPower": 50,
-	"pvpEnergyDelta": -35,
-	"pvpBuffs": {
-		"attackerAttackStatStageChange": 2,
-		"buffActivationChance": 0.125
-	},
-	"power": 40,
-	"durationMs": 1500,
-	"energyDelta": -33
+  "moveId": 89,
+  "moveName": "Cross Poison",
+  "proto": "CROSS_POISON",
+  "fast": false,
+  "type": 4,
+  "pvpPower": 50,
+  "pvpEnergyDelta": -35,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 2,
+    "buffActivationChance": 0.125
+  },
+  "power": 40,
+  "durationMs": 1500,
+  "energyDelta": -33
 }

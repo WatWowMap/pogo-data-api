@@ -1,52 +1,63 @@
 {
-	"pokemonName": "Manaphy",
-	"pokedexId": 490,
-	"defaultFormId": 1877,
-	"types": [11],
-	"quickMoves": [237, 283],
-	"chargedMoves": [53, 108, 284],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1877],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.465
-		}
-	],
-	"attack": 210,
-	"defense": 210,
-	"stamina": 225,
-	"height": 0.3,
-	"weight": 1.4,
-	"family": 490,
-	"legendary": false,
-	"mythic": true,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100
+  "pokemonName": "Manaphy",
+  "pokedexId": 490,
+  "defaultFormId": 1877,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    237,
+    283
+  ],
+  "chargedMoves": [
+    53,
+    108,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1877
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.465
+    }
+  ],
+  "attack": 210,
+  "defense": 210,
+  "stamina": 225,
+  "height": 0.3,
+  "weight": 1.4,
+  "family": 490,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100
 }

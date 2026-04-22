@@ -1,12 +1,12 @@
 {
-	"moveId": 248,
-	"moveName": "Aurora Beam",
-	"proto": "AURORA_BEAM",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -60,
-	"power": 80,
-	"durationMs": 3500,
-	"energyDelta": -50
+  "moveId": 248,
+  "moveName": "Aurora Beam",
+  "proto": "AURORA_BEAM",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -60,
+  "power": 80,
+  "durationMs": 3500,
+  "energyDelta": -50
 }

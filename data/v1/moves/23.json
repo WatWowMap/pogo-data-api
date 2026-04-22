@@ -1,6 +1,6 @@
 {
-	"moveId": 23,
-	"moveName": "Wing Attack",
-	"proto": "WING_ATTACK",
-	"fast": false
+  "moveId": 23,
+  "moveName": "Wing Attack",
+  "proto": "WING_ATTACK",
+  "fast": false
 }

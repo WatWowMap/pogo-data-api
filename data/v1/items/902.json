@@ -1,8 +1,8 @@
 {
-	"itemId": 902,
-	"itemName": "Incubator Basic",
-	"proto": "ITEM_INCUBATOR_BASIC",
-	"type": "Incubator",
-	"category": "Incubator",
-	"minTrainerLevel": 1
+  "itemId": 902,
+  "itemName": "Incubator Basic",
+  "proto": "ITEM_INCUBATOR_BASIC",
+  "type": "Incubator",
+  "category": "Incubator",
+  "minTrainerLevel": 1
 }

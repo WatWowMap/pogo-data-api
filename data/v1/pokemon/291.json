@@ -1,57 +1,69 @@
 {
-	"pokemonName": "Ninjask",
-	"pokedexId": 291,
-	"defaultFormId": 1436,
-	"types": [3, 7],
-	"quickMoves": [200, 228],
-	"chargedMoves": [45, 49, 70],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1436],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3871
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.395
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5925
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.9875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.185
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.3825
-		}
-	],
-	"attack": 199,
-	"defense": 112,
-	"stamina": 156,
-	"height": 0.79,
-	"weight": 12,
-	"family": 290,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 4,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Ninjask",
+  "pokedexId": 291,
+  "defaultFormId": 1436,
+  "types": [
+    3,
+    7
+  ],
+  "quickMoves": [
+    200,
+    228
+  ],
+  "chargedMoves": [
+    45,
+    49,
+    70
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1436
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 199,
+  "defense": 112,
+  "stamina": 156,
+  "height": 0.79,
+  "weight": 12,
+  "family": 290,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 4,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

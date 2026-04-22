@@ -1,64 +1,77 @@
 {
-	"pokemonName": "Geodude",
-	"pokedexId": 74,
-	"defaultFormId": 67,
-	"types": [5, 6],
-	"quickMoves": [221, 227],
-	"chargedMoves": [26, 63, 64],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [67, 68],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.7
-		}
-	],
-	"attack": 132,
-	"defense": 132,
-	"stamina": 120,
-	"height": 0.4,
-	"weight": 20,
-	"family": 74,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 75,
-			"formId": 69,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Geodude",
+  "pokedexId": 74,
+  "defaultFormId": 67,
+  "types": [
+    5,
+    6
+  ],
+  "quickMoves": [
+    221,
+    227
+  ],
+  "chargedMoves": [
+    26,
+    63,
+    64
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    67,
+    68
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7
+    }
+  ],
+  "attack": 132,
+  "defense": 132,
+  "stamina": 120,
+  "height": 0.4,
+  "weight": 20,
+  "family": 74,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 75,
+      "formId": 69,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

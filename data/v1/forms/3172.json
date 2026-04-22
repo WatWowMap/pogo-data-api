@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "YAMPER_NORMAL",
-	"formId": 3172,
-	"evolutions": [
-		{
-			"evoId": 836,
-			"formId": 3173,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "YAMPER_NORMAL",
+  "formId": 3172,
+  "evolutions": [
+    {
+      "evoId": 836,
+      "formId": 3173,
+      "candyCost": 50
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "EELEKTROSS_NORMAL",
-	"formId": 2204,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 291,
-			"defense": 175,
-			"stamina": 198,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "EELEKTROSS_NORMAL",
+  "formId": 2204,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 291,
+      "defense": 175,
+      "stamina": 198,
+      "unreleased": true
+    }
+  ]
 }

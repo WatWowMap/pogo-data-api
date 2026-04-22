@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "EELEKTRIK_NORMAL",
-	"formId": 2201,
-	"evolutions": [
-		{
-			"evoId": 604,
-			"formId": 2204,
-			"candyCost": 100,
-			"itemRequirement": 1107
-		}
-	]
+  "formName": "Normal",
+  "proto": "EELEKTRIK_NORMAL",
+  "formId": 2201,
+  "evolutions": [
+    {
+      "evoId": 604,
+      "formId": 2204,
+      "candyCost": 100,
+      "itemRequirement": 1107
+    }
+  ]
 }

@@ -1,20 +1,30 @@
 {
-	"formName": "Resolute",
-	"proto": "KELDEO_RESOLUTE",
-	"formId": 150,
-	"formChanges": [
-		{
-			"availableForms": [149],
-			"candyCost": 50,
-			"stardustCost": 10000,
-			"moveReassignment": {
-				"chargedMoves": [
-					{
-						"existingMoves": [489],
-						"replacementMoves": [57, 100, 107, 245, 330]
-					}
-				]
-			}
-		}
-	]
+  "formName": "Resolute",
+  "proto": "KELDEO_RESOLUTE",
+  "formId": 150,
+  "formChanges": [
+    {
+      "availableForms": [
+        149
+      ],
+      "candyCost": 50,
+      "stardustCost": 10000,
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [
+              489
+            ],
+            "replacementMoves": [
+              57,
+              100,
+              107,
+              245,
+              330
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "LARVESTA_NORMAL",
-	"formId": 2300,
-	"evolutions": [
-		{
-			"evoId": 637,
-			"formId": 2303,
-			"candyCost": 400
-		}
-	]
+  "formName": "Normal",
+  "proto": "LARVESTA_NORMAL",
+  "formId": 2300,
+  "evolutions": [
+    {
+      "evoId": 637,
+      "formId": 2303,
+      "candyCost": 400
+    }
+  ]
 }

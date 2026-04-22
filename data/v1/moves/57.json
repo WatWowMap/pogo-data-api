@@ -1,12 +1,12 @@
 {
-	"moveId": 57,
-	"moveName": "Aqua Jet",
-	"proto": "AQUA_JET",
-	"fast": false,
-	"type": 11,
-	"pvpPower": 70,
-	"pvpEnergyDelta": -40,
-	"power": 45,
-	"durationMs": 2500,
-	"energyDelta": -33
+  "moveId": 57,
+  "moveName": "Aqua Jet",
+  "proto": "AQUA_JET",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -40,
+  "power": 45,
+  "durationMs": 2500,
+  "energyDelta": -33
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "MIENFOO_NORMAL",
-	"formId": 2249,
-	"evolutions": [
-		{
-			"evoId": 620,
-			"formId": 2252,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "MIENFOO_NORMAL",
+  "formId": 2249,
+  "evolutions": [
+    {
+      "evoId": 620,
+      "formId": 2252,
+      "candyCost": 50
+    }
+  ]
 }

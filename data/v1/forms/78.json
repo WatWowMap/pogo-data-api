@@ -1,43 +1,55 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 5.341
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 5.45
-		},
-		{
-			"name": "mLowerBound",
-			"value": 8.175
-		},
-		{
-			"name": "mUpperBound",
-			"value": 13.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 16.35
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 21.8
-		}
-	],
-	"formName": "Alola",
-	"proto": "EXEGGUTOR_ALOLA",
-	"formId": 78,
-	"attack": 230,
-	"defense": 153,
-	"stamina": 216,
-	"height": 10.9,
-	"weight": 415.6,
-	"quickMoves": [253, 271],
-	"chargedMoves": [59, 82, 116],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [285],
-	"types": [12, 16],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 5.341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 5.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 8.175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 13.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 16.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 21.8
+    }
+  ],
+  "formName": "Alola",
+  "proto": "EXEGGUTOR_ALOLA",
+  "formId": 78,
+  "attack": 230,
+  "defense": 153,
+  "stamina": 216,
+  "height": 10.9,
+  "weight": 415.6,
+  "quickMoves": [
+    253,
+    271
+  ],
+  "chargedMoves": [
+    59,
+    82,
+    116
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    285
+  ],
+  "types": [
+    12,
+    16
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

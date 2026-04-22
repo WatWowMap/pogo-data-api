@@ -1,9 +1,9 @@
 {
-	"moveId": 436,
-	"moveName": "Gmax Replenish",
-	"proto": "VN_BM_028",
-	"fast": false,
-	"type": 1,
-	"power": 450,
-	"durationMs": 2500
+  "moveId": 436,
+  "moveName": "Gmax Replenish",
+  "proto": "VN_BM_028",
+  "fast": false,
+  "type": 1,
+  "power": 450,
+  "durationMs": 2500
 }

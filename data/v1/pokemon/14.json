@@ -1,67 +1,77 @@
 {
-	"pokemonName": "Kakuna",
-	"pokedexId": 14,
-	"defaultFormId": 619,
-	"types": [4, 7],
-	"quickMoves": [201, 236],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [619],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.05
-		}
-	],
-	"attack": 46,
-	"defense": 75,
-	"stamina": 128,
-	"height": 0.6,
-	"weight": 10,
-	"family": 13,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"buddyMegaEnergy": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 15,
-			"formId": 622,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Kakuna",
+  "pokedexId": 14,
+  "defaultFormId": 619,
+  "types": [
+    4,
+    7
+  ],
+  "quickMoves": [
+    201,
+    236
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    619
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 46,
+  "defense": 75,
+  "stamina": 128,
+  "height": 0.6,
+  "weight": 10,
+  "family": 13,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "buddyMegaEnergy": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 15,
+      "formId": 622,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

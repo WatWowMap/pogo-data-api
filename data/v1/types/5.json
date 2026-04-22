@@ -1,10 +1,30 @@
 {
-	"typeId": 5,
-	"typeName": "Ground",
-	"strengths": [4, 6, 9, 10, 13],
-	"weaknesses": [11, 12, 15],
-	"veryWeakAgainst": [3],
-	"immunes": [13],
-	"weakAgainst": [7, 12],
-	"resistances": [4, 6]
+  "typeId": 5,
+  "typeName": "Ground",
+  "strengths": [
+    4,
+    6,
+    9,
+    10,
+    13
+  ],
+  "weaknesses": [
+    11,
+    12,
+    15
+  ],
+  "veryWeakAgainst": [
+    3
+  ],
+  "immunes": [
+    13
+  ],
+  "weakAgainst": [
+    7,
+    12
+  ],
+  "resistances": [
+    4,
+    6
+  ]
 }

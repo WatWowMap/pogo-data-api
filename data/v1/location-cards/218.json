@@ -1,8 +1,8 @@
 {
-	"id": 218,
-	"proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_RUBY_001",
-	"formatted": "2026 Global Ruby 001",
-	"imageUrl": "sb_GoTour2026_ruby",
-	"cardType": "SPECIAL_BACKGROUND",
-	"vfxAddress": "bgfx_Ruby"
+  "id": 218,
+  "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_RUBY_001",
+  "formatted": "2026 Global Ruby 001",
+  "imageUrl": "sb_GoTour2026_ruby",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_Ruby"
 }

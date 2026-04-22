@@ -1,71 +1,84 @@
 {
-	"pokemonName": "Diglett",
-	"pokedexId": 50,
-	"defaultFormId": 59,
-	"types": [5],
-	"quickMoves": [216, 220, 233],
-	"chargedMoves": [26, 63, 96],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [59, 60],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.4
-		}
-	],
-	"attack": 109,
-	"defense": 78,
-	"stamina": 67,
-	"height": 0.2,
-	"weight": 0.8,
-	"family": 50,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 51,
-			"formId": 61,
-			"candyCost": 50
-		}
-	],
-	"costumeOverrideEvos": [
-		{
-			"costumeId": 57,
-			"costumeProto": "FALL_2022",
-			"costumeName": "Fall 2022"
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Diglett",
+  "pokedexId": 50,
+  "defaultFormId": 59,
+  "types": [
+    5
+  ],
+  "quickMoves": [
+    216,
+    220,
+    233
+  ],
+  "chargedMoves": [
+    26,
+    63,
+    96
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    59,
+    60
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.4
+    }
+  ],
+  "attack": 109,
+  "defense": 78,
+  "stamina": 67,
+  "height": 0.2,
+  "weight": 0.8,
+  "family": 50,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 51,
+      "formId": 61,
+      "candyCost": 50
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 57,
+      "costumeProto": "FALL_2022",
+      "costumeName": "Fall 2022"
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

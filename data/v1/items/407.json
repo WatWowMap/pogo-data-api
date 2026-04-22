@@ -1,8 +1,8 @@
 {
-	"itemId": 407,
-	"itemName": "Incense Sparkly",
-	"proto": "ITEM_INCENSE_SPARKLY",
-	"type": "Incense",
-	"category": "Incense",
-	"minTrainerLevel": 1
+  "itemId": 407,
+  "itemName": "Incense Sparkly",
+  "proto": "ITEM_INCENSE_SPARKLY",
+  "type": "Incense",
+  "category": "Incense",
+  "minTrainerLevel": 1
 }

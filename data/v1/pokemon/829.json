@@ -1,61 +1,71 @@
 {
-	"pokemonName": "Gossifleur",
-	"pokedexId": 829,
-	"defaultFormId": 3168,
-	"types": [12],
-	"quickMoves": [215, 271],
-	"chargedMoves": [272, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [3168],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.8
-		}
-	],
-	"attack": 70,
-	"defense": 104,
-	"stamina": 120,
-	"height": 0.4,
-	"weight": 2.2,
-	"family": 829,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 830,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Gossifleur",
+  "pokedexId": 829,
+  "defaultFormId": 3168,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    215,
+    271
+  ],
+  "chargedMoves": [
+    272,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3168
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8
+    }
+  ],
+  "attack": 70,
+  "defense": 104,
+  "stamina": 120,
+  "height": 0.4,
+  "weight": 2.2,
+  "family": 829,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 830,
+      "candyCost": 50
+    }
+  ]
 }

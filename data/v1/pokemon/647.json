@@ -1,67 +1,86 @@
 {
-	"pokemonName": "Keldeo",
-	"pokedexId": 647,
-	"defaultFormId": 149,
-	"types": [2, 11],
-	"quickMoves": [207, 224],
-	"chargedMoves": [57, 100, 107, 245, 330],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [149, 150],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.17
-		}
-	],
-	"attack": 260,
-	"defense": 192,
-	"stamina": 209,
-	"height": 1.4,
-	"weight": 48.5,
-	"family": 647,
-	"legendary": false,
-	"mythic": true,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"formChanges": [
-		{
-			"availableForms": [150],
-			"candyCost": 50,
-			"stardustCost": 10000,
-			"moveReassignment": {
-				"chargedMoves": [
-					{
-						"existingMoves": [],
-						"replacementMoves": [489]
-					}
-				]
-			}
-		}
-	]
+  "pokemonName": "Keldeo",
+  "pokedexId": 647,
+  "defaultFormId": 149,
+  "types": [
+    2,
+    11
+  ],
+  "quickMoves": [
+    207,
+    224
+  ],
+  "chargedMoves": [
+    57,
+    100,
+    107,
+    245,
+    330
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    149,
+    150
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.17
+    }
+  ],
+  "attack": 260,
+  "defense": 192,
+  "stamina": 209,
+  "height": 1.4,
+  "weight": 48.5,
+  "family": 647,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "formChanges": [
+    {
+      "availableForms": [
+        150
+      ],
+      "candyCost": 50,
+      "stardustCost": 10000,
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [],
+            "replacementMoves": [
+              489
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }

@@ -1,110 +1,134 @@
 {
-	"pokemonName": "Necrozma",
-	"pokedexId": 800,
-	"defaultFormId": 2717,
-	"types": [14],
-	"quickMoves": [213, 226, 228],
-	"chargedMoves": [16, 74, 275, 277],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [2717, 2718, 2719, 2720],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.176
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.8
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.72
-		}
-	],
-	"attack": 251,
-	"defense": 195,
-	"stamina": 219,
-	"height": 2.4,
-	"weight": 230,
-	"family": 800,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"formChanges": [
-		{
-			"availableForms": [2718],
-			"candyCost": 30,
-			"itemRequirement": 1351,
-			"itemCostCount": 1000,
-			"componentPokemonSettings": {
-				"pokedexId": 791,
-				"componentCandyCost": 30,
-				"formChangeType": "FUSE",
-				"locationCardSettings": [
-					{
-						"basePokemonLocationCard": 24,
-						"componentPokemonLocationCard": 15,
-						"fusionPokemonLocationCard": 25
-					}
-				],
-				"familyId": 789
-			},
-			"moveReassignment": {
-				"chargedMoves": [
-					{
-						"existingMoves": [],
-						"replacementMoves": [404]
-					}
-				]
-			}
-		},
-		{
-			"availableForms": [2719],
-			"candyCost": 30,
-			"itemRequirement": 1350,
-			"itemCostCount": 1000,
-			"componentPokemonSettings": {
-				"pokedexId": 792,
-				"componentCandyCost": 30,
-				"formChangeType": "FUSE",
-				"locationCardSettings": [
-					{
-						"basePokemonLocationCard": 24,
-						"componentPokemonLocationCard": 16,
-						"fusionPokemonLocationCard": 26
-					}
-				],
-				"familyId": 789
-			},
-			"moveReassignment": {
-				"chargedMoves": [
-					{
-						"existingMoves": [],
-						"replacementMoves": [405]
-					}
-				]
-			}
-		}
-	]
+  "pokemonName": "Necrozma",
+  "pokedexId": 800,
+  "defaultFormId": 2717,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    213,
+    226,
+    228
+  ],
+  "chargedMoves": [
+    16,
+    74,
+    275,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    2717,
+    2718,
+    2719,
+    2720
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.176
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.8
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.72
+    }
+  ],
+  "attack": 251,
+  "defense": 195,
+  "stamina": 219,
+  "height": 2.4,
+  "weight": 230,
+  "family": 800,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "formChanges": [
+    {
+      "availableForms": [
+        2718
+      ],
+      "candyCost": 30,
+      "itemRequirement": 1351,
+      "itemCostCount": 1000,
+      "componentPokemonSettings": {
+        "pokedexId": 791,
+        "componentCandyCost": 30,
+        "formChangeType": "FUSE",
+        "locationCardSettings": [
+          {
+            "basePokemonLocationCard": 24,
+            "componentPokemonLocationCard": 15,
+            "fusionPokemonLocationCard": 25
+          }
+        ],
+        "familyId": 789
+      },
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [],
+            "replacementMoves": [
+              404
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "availableForms": [
+        2719
+      ],
+      "candyCost": 30,
+      "itemRequirement": 1350,
+      "itemCostCount": 1000,
+      "componentPokemonSettings": {
+        "pokedexId": 792,
+        "componentCandyCost": 30,
+        "formChangeType": "FUSE",
+        "locationCardSettings": [
+          {
+            "basePokemonLocationCard": 24,
+            "componentPokemonLocationCard": 16,
+            "fusionPokemonLocationCard": 26
+          }
+        ],
+        "familyId": 789
+      },
+      "moveReassignment": {
+        "chargedMoves": [
+          {
+            "existingMoves": [],
+            "replacementMoves": [
+              405
+            ]
+          }
+        ]
+      }
+    }
+  ]
 }

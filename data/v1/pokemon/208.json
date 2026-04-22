@@ -1,72 +1,87 @@
 {
-	"pokemonName": "Steelix",
-	"pokedexId": 208,
-	"defaultFormId": 905,
-	"types": [5, 9],
-	"quickMoves": [253, 266, 326],
-	"chargedMoves": [31, 268, 279, 353, 379],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [905],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 4.5031
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 4.595
-		},
-		{
-			"name": "mLowerBound",
-			"value": 6.8925
-		},
-		{
-			"name": "mUpperBound",
-			"value": 11.4875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 13.785
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 16.0825
-		}
-	],
-	"attack": 148,
-	"defense": 272,
-	"stamina": 181,
-	"height": 9.19,
-	"weight": 400,
-	"family": 95,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 5,
-	"buddyMegaEnergy": 25,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 212,
-			"defense": 327,
-			"stamina": 181,
-			"height": 10.5,
-			"weight": 740,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Steelix",
+  "pokedexId": 208,
+  "defaultFormId": 905,
+  "types": [
+    5,
+    9
+  ],
+  "quickMoves": [
+    253,
+    266,
+    326
+  ],
+  "chargedMoves": [
+    31,
+    268,
+    279,
+    353,
+    379
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    905
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 4.5031
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 4.595
+    },
+    {
+      "name": "mLowerBound",
+      "value": 6.8925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 11.4875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 13.785
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 16.0825
+    }
+  ],
+  "attack": 148,
+  "defense": 272,
+  "stamina": 181,
+  "height": 9.19,
+  "weight": 400,
+  "family": 95,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 212,
+      "defense": 327,
+      "stamina": 181,
+      "height": 10.5,
+      "weight": 740,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

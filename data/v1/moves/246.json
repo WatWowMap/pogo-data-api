@@ -1,12 +1,12 @@
 {
-	"moveId": 246,
-	"moveName": "Dynamic Punch",
-	"proto": "DYNAMIC_PUNCH",
-	"fast": false,
-	"type": 2,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -45,
-	"power": 85,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 246,
+  "moveName": "Dynamic Punch",
+  "proto": "DYNAMIC_PUNCH",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -45,
+  "power": 85,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "PANCHAM_NORMAL",
-	"formId": 3039,
-	"evolutions": [
-		{
-			"evoId": 675,
-			"formId": 3040,
-			"candyCost": 50,
-			"questRequirement": "PANCHAM_EVOLUTION_QUEST"
-		}
-	]
+  "formName": "Normal",
+  "proto": "PANCHAM_NORMAL",
+  "formId": 3039,
+  "evolutions": [
+    {
+      "evoId": 675,
+      "formId": 3040,
+      "candyCost": 50,
+      "questRequirement": "PANCHAM_EVOLUTION_QUEST"
+    }
+  ]
 }

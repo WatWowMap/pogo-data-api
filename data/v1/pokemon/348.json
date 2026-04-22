@@ -1,59 +1,72 @@
 {
-	"pokemonName": "Armaldo",
-	"pokedexId": 348,
-	"defaultFormId": 1577,
-	"types": [6, 7],
-	"quickMoves": [200, 261],
-	"chargedMoves": [89, 105, 259, 383],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1577],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3
-		}
-	],
-	"attack": 222,
-	"defense": 174,
-	"stamina": 181,
-	"height": 1.5,
-	"weight": 68.2,
-	"family": 347,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Armaldo",
+  "pokedexId": 348,
+  "defaultFormId": 1577,
+  "types": [
+    6,
+    7
+  ],
+  "quickMoves": [
+    200,
+    261
+  ],
+  "chargedMoves": [
+    89,
+    105,
+    259,
+    383
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1577
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3
+    }
+  ],
+  "attack": 222,
+  "defense": 174,
+  "stamina": 181,
+  "height": 1.5,
+  "weight": 68.2,
+  "family": 347,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

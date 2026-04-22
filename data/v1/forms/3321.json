@@ -1,8 +1,8 @@
 {
-	"formName": "Gotour 2026 B 02",
-	"proto": "PIKACHU_GOTOUR_2026_B_02",
-	"formId": 3321,
-	"isCostume": true,
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": []
+  "formName": "Gotour 2026 B 02",
+  "proto": "PIKACHU_GOTOUR_2026_B_02",
+  "formId": 3321,
+  "isCostume": true,
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": []
 }

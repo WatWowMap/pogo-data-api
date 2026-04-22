@@ -1,57 +1,68 @@
 {
-	"pokemonName": "Huntail",
-	"pokedexId": 367,
-	"defaultFormId": 1610,
-	"types": [11],
-	"quickMoves": [202, 230],
-	"chargedMoves": [39, 58, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1610],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.4
-		}
-	],
-	"attack": 197,
-	"defense": 179,
-	"stamina": 146,
-	"height": 1.7,
-	"weight": 27,
-	"family": 366,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Huntail",
+  "pokedexId": 367,
+  "defaultFormId": 1610,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    202,
+    230
+  ],
+  "chargedMoves": [
+    39,
+    58,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1610
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.4
+    }
+  ],
+  "attack": 197,
+  "defense": 179,
+  "stamina": 146,
+  "height": 1.7,
+  "weight": 27,
+  "family": 366,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

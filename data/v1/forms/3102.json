@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "FOMANTIS_NORMAL",
-	"formId": 3102,
-	"evolutions": [
-		{
-			"evoId": 754,
-			"formId": 3103,
-			"candyCost": 50,
-			"onlyDaytime": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "FOMANTIS_NORMAL",
+  "formId": 3102,
+  "evolutions": [
+    {
+      "evoId": 754,
+      "formId": 3103,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ]
 }

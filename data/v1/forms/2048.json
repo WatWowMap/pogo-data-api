@@ -1,17 +1,17 @@
 {
-	"formName": "Normal",
-	"proto": "PETILIL_NORMAL",
-	"formId": 2048,
-	"evolutions": [
-		{
-			"evoId": 549,
-			"candyCost": 50,
-			"itemRequirement": 1101
-		},
-		{
-			"evoId": 549,
-			"formId": 2789,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "PETILIL_NORMAL",
+  "formId": 2048,
+  "evolutions": [
+    {
+      "evoId": 549,
+      "candyCost": 50,
+      "itemRequirement": 1101
+    },
+    {
+      "evoId": 549,
+      "formId": 2789,
+      "candyCost": 50
+    }
+  ]
 }

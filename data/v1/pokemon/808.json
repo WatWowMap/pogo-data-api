@@ -1,61 +1,70 @@
 {
-	"pokemonName": "Meltan",
-	"pokedexId": 808,
-	"defaultFormId": 2321,
-	"types": [9],
-	"quickMoves": [205],
-	"chargedMoves": [36, 79],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [2321],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.35
-		}
-	],
-	"attack": 118,
-	"defense": 99,
-	"stamina": 130,
-	"height": 0.2,
-	"weight": 8,
-	"family": 808,
-	"legendary": false,
-	"mythic": true,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 809,
-			"candyCost": 400
-		}
-	]
+  "pokemonName": "Meltan",
+  "pokedexId": 808,
+  "defaultFormId": 2321,
+  "types": [
+    9
+  ],
+  "quickMoves": [
+    205
+  ],
+  "chargedMoves": [
+    36,
+    79
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    2321
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 118,
+  "defense": 99,
+  "stamina": 130,
+  "height": 0.2,
+  "weight": 8,
+  "family": 808,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 809,
+      "candyCost": 400
+    }
+  ]
 }

@@ -1,67 +1,79 @@
 {
-	"pokemonName": "Mime Jr",
-	"pokedexId": 439,
-	"defaultFormId": 1775,
-	"types": [14, 18],
-	"quickMoves": [222, 235],
-	"chargedMoves": [30, 60, 108],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1775],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.05
-		}
-	],
-	"attack": 125,
-	"defense": 142,
-	"stamina": 85,
-	"height": 0.6,
-	"weight": 13,
-	"family": 122,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 122,
-			"candyCost": 50,
-			"questRequirement": "MR_MIME_EVOLUTION_QUEST"
-		},
-		{
-			"evoId": 122,
-			"formId": 2339,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Mime Jr",
+  "pokedexId": 439,
+  "defaultFormId": 1775,
+  "types": [
+    14,
+    18
+  ],
+  "quickMoves": [
+    222,
+    235
+  ],
+  "chargedMoves": [
+    30,
+    60,
+    108
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1775
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.05
+    }
+  ],
+  "attack": 125,
+  "defense": 142,
+  "stamina": 85,
+  "height": 0.6,
+  "weight": 13,
+  "family": 122,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 122,
+      "candyCost": 50,
+      "questRequirement": "MR_MIME_EVOLUTION_QUEST"
+    },
+    {
+      "evoId": 122,
+      "formId": 2339,
+      "candyCost": 50
+    }
+  ]
 }

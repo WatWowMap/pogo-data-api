@@ -1,12 +1,12 @@
 {
-	"formName": "Fifty Percent",
-	"proto": "ZYGARDE_FIFTY_PERCENT",
-	"formId": 2592,
-	"evolutions": [
-		{
-			"evoId": 718,
-			"formId": 2593,
-			"itemRequirement": 650
-		}
-	]
+  "formName": "Fifty Percent",
+  "proto": "ZYGARDE_FIFTY_PERCENT",
+  "formId": 2592,
+  "evolutions": [
+    {
+      "evoId": 718,
+      "formId": 2593,
+      "itemRequirement": 650
+    }
+  ]
 }

@@ -1,63 +1,74 @@
 {
-	"pokemonName": "Nosepass",
-	"pokedexId": 299,
-	"defaultFormId": 1460,
-	"types": [6],
-	"quickMoves": [206, 227],
-	"chargedMoves": [64, 79, 259],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1460],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.4851
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.495
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.7425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.2375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.485
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.98
-		}
-	],
-	"attack": 82,
-	"defense": 215,
-	"stamina": 102,
-	"height": 0.99,
-	"weight": 97,
-	"family": 299,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 476,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Nosepass",
+  "pokedexId": 299,
+  "defaultFormId": 1460,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    206,
+    227
+  ],
+  "chargedMoves": [
+    64,
+    79,
+    259
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1460
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.4851
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.495
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.7425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.2375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.485
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.98
+    }
+  ],
+  "attack": 82,
+  "defense": 215,
+  "stamina": 102,
+  "height": 0.99,
+  "weight": 97,
+  "family": 299,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 476,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

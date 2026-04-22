@@ -1,13 +1,13 @@
 {
-	"moveId": 387,
-	"moveName": "Geomancy",
-	"proto": "GEOMANCY_FAST",
-	"fast": true,
-	"type": 18,
-	"pvpPower": 8,
-	"pvpEnergyDelta": 13,
-	"pvpDurationTurns": 2,
-	"power": 20,
-	"durationMs": 1500,
-	"energyDelta": 14
+  "moveId": 387,
+  "moveName": "Geomancy",
+  "proto": "GEOMANCY_FAST",
+  "fast": true,
+  "type": 18,
+  "pvpPower": 8,
+  "pvpEnergyDelta": 13,
+  "pvpDurationTurns": 2,
+  "power": 20,
+  "durationMs": 1500,
+  "energyDelta": 14
 }

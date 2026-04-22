@@ -1,58 +1,58 @@
 {
-	"id": 23,
-	"type": "Grass",
-	"gender": 1,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_GRASS_GRUNT_MALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 331,
-			"formId": 610,
-			"position": "first"
-		},
-		{
-			"id": 650,
-			"formId": 0,
-			"position": "first"
-		},
-		{
-			"id": 708,
-			"formId": 0,
-			"position": "first"
-		},
-		{
-			"id": 345,
-			"formId": 1568,
-			"position": "second"
-		},
-		{
-			"id": 598,
-			"formId": 2186,
-			"position": "second"
-		},
-		{
-			"id": 651,
-			"formId": 0,
-			"position": "second"
-		},
-		{
-			"id": 346,
-			"formId": 1571,
-			"position": "third"
-		},
-		{
-			"id": 652,
-			"formId": 0,
-			"position": "third"
-		},
-		{
-			"id": 709,
-			"formId": 0,
-			"position": "third"
-		}
-	]
+  "id": 23,
+  "type": "Grass",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_GRASS_GRUNT_MALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 331,
+      "formId": 610,
+      "position": "first"
+    },
+    {
+      "id": 650,
+      "formId": 0,
+      "position": "first"
+    },
+    {
+      "id": 708,
+      "formId": 0,
+      "position": "first"
+    },
+    {
+      "id": 345,
+      "formId": 1568,
+      "position": "second"
+    },
+    {
+      "id": 598,
+      "formId": 2186,
+      "position": "second"
+    },
+    {
+      "id": 651,
+      "formId": 0,
+      "position": "second"
+    },
+    {
+      "id": 346,
+      "formId": 1571,
+      "position": "third"
+    },
+    {
+      "id": 652,
+      "formId": 0,
+      "position": "third"
+    },
+    {
+      "id": 709,
+      "formId": 0,
+      "position": "third"
+    }
+  ]
 }

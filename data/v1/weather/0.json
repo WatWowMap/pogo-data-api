@@ -1,6 +1,6 @@
 {
-	"weatherId": 0,
-	"weatherName": "None",
-	"proto": "NONE",
-	"types": []
+  "weatherId": 0,
+  "weatherName": "None",
+  "proto": "NONE",
+  "types": []
 }

@@ -1,58 +1,69 @@
 {
-	"pokemonName": "Inteleon",
-	"pokedexId": 818,
-	"defaultFormId": 3157,
-	"types": [11],
-	"quickMoves": [222, 230],
-	"chargedMoves": [70, 105, 284],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [3157],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.931
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.95
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.85
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.945
-		}
-	],
-	"gmaxMove": 457,
-	"attack": 262,
-	"defense": 142,
-	"stamina": 172,
-	"height": 1.9,
-	"weight": 45.2,
-	"family": 816,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Inteleon",
+  "pokedexId": 818,
+  "defaultFormId": 3157,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    222,
+    230
+  ],
+  "chargedMoves": [
+    70,
+    105,
+    284
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3157
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "gmaxMove": 457,
+  "attack": 262,
+  "defense": 142,
+  "stamina": 172,
+  "height": 1.9,
+  "weight": 45.2,
+  "family": 816,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

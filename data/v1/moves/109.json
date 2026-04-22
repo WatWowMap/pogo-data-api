@@ -1,12 +1,12 @@
 {
-	"moveId": 109,
-	"moveName": "Psystrike",
-	"proto": "PSYSTRIKE",
-	"fast": false,
-	"type": 14,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -45,
-	"power": 95,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 109,
+  "moveName": "Psystrike",
+  "proto": "PSYSTRIKE",
+  "fast": false,
+  "type": 14,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -45,
+  "power": 95,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

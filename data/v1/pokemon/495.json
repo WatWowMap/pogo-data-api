@@ -1,63 +1,74 @@
 {
-	"pokemonName": "Snivy",
-	"pokedexId": 495,
-	"defaultFormId": 1889,
-	"types": [12],
-	"quickMoves": [214, 221],
-	"chargedMoves": [13, 59, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [1889],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.294
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.9
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.93
-		}
-	],
-	"attack": 88,
-	"defense": 107,
-	"stamina": 128,
-	"height": 0.6,
-	"weight": 8.1,
-	"family": 495,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 496,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Snivy",
+  "pokedexId": 495,
+  "defaultFormId": 1889,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    214,
+    221
+  ],
+  "chargedMoves": [
+    13,
+    59,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    1889
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.294
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.9
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.93
+    }
+  ],
+  "attack": 88,
+  "defense": 107,
+  "stamina": 128,
+  "height": 0.6,
+  "weight": 8.1,
+  "family": 495,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 496,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -23,6 +23,7 @@
 		"format": "biome check --write --unsafe"
 	},
 	"dependencies": {
+		"@na-ji/pogo-protos": "^2.234.0",
 		"pogo-data-generator": "2.2.1"
 	},
 	"devDependencies": {

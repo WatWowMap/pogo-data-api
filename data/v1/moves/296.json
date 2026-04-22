@@ -1,12 +1,12 @@
 {
-	"moveId": 296,
-	"moveName": "Frenzy Plant",
-	"proto": "FRENZY_PLANT",
-	"fast": false,
-	"type": 12,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -45,
-	"power": 100,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 296,
+  "moveName": "Frenzy Plant",
+  "proto": "FRENZY_PLANT",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -45,
+  "power": 100,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

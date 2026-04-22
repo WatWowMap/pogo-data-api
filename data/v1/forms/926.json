@@ -1,21 +1,21 @@
 {
-	"formName": "Normal",
-	"proto": "SNORUNT_NORMAL",
-	"formId": 926,
-	"evolutions": [
-		{
-			"evoId": 362,
-			"formId": 929,
-			"candyCost": 100
-		},
-		{
-			"evoId": 478,
-			"formId": 1844,
-			"genderRequirement": 2,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SNORUNT_NORMAL",
+  "formId": 926,
+  "evolutions": [
+    {
+      "evoId": 362,
+      "formId": 929,
+      "candyCost": 100
+    },
+    {
+      "evoId": 478,
+      "formId": 1844,
+      "genderRequirement": 2,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

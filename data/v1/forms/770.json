@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "METAGROSS_NORMAL",
-	"formId": 770,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 300,
-			"defense": 289,
-			"stamina": 190,
-			"height": 2.5,
-			"weight": 942.9,
-			"firstEnergyCost": 300,
-			"subsequentEnergyCost": 60
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "METAGROSS_NORMAL",
+  "formId": 770,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 300,
+      "defense": 289,
+      "stamina": 190,
+      "height": 2.5,
+      "weight": 942.9,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

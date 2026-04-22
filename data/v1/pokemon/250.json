@@ -1,56 +1,74 @@
 {
-	"pokemonName": "Ho Oh",
-	"pokedexId": 250,
-	"defaultFormId": 1343,
-	"types": [3, 10],
-	"quickMoves": [239, 274, 281, 346],
-	"chargedMoves": [103, 116, 256],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [31, 358],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1343, 2730],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.8669
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.905
-		},
-		{
-			"name": "mLowerBound",
-			"value": 2.8575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 4.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 5.715
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 6.6675
-		}
-	],
-	"attack": 239,
-	"defense": 244,
-	"stamina": 214,
-	"height": 3.81,
-	"weight": 199,
-	"family": 250,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 7,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "pokemonName": "Ho Oh",
+  "pokedexId": 250,
+  "defaultFormId": 1343,
+  "types": [
+    3,
+    10
+  ],
+  "quickMoves": [
+    239,
+    274,
+    281,
+    346
+  ],
+  "chargedMoves": [
+    103,
+    116,
+    256
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    31,
+    358
+  ],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1343,
+    2730
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.8669
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.905
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.8575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 4.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 5.715
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 6.6675
+    }
+  ],
+  "attack": 239,
+  "defense": 244,
+  "stamina": 214,
+  "height": 3.81,
+  "weight": 199,
+  "family": 250,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

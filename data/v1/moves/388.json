@@ -1,12 +1,12 @@
 {
-	"moveId": 388,
-	"moveName": "Spacial Rend",
-	"proto": "SPACIAL_REND",
-	"fast": false,
-	"type": 16,
-	"pvpPower": 95,
-	"pvpEnergyDelta": -55,
-	"power": 160,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 388,
+  "moveName": "Spacial Rend",
+  "proto": "SPACIAL_REND",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 95,
+  "pvpEnergyDelta": -55,
+  "power": 160,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

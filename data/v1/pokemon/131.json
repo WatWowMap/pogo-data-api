@@ -1,57 +1,78 @@
 {
-	"pokemonName": "Lapras",
-	"pokedexId": 131,
-	"defaultFormId": 322,
-	"types": [11, 15],
-	"quickMoves": [218, 230, 401],
-	"chargedMoves": [40, 107, 284, 302, 463],
-	"eliteQuickMoves": [217],
-	"eliteChargedMoves": [39, 82],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [322, 2585],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.225
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.875
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 4.375
-		}
-	],
-	"attack": 165,
-	"defense": 174,
-	"stamina": 277,
-	"height": 2.5,
-	"weight": 220,
-	"family": 131,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Lapras",
+  "pokedexId": 131,
+  "defaultFormId": 322,
+  "types": [
+    11,
+    15
+  ],
+  "quickMoves": [
+    218,
+    230,
+    401
+  ],
+  "chargedMoves": [
+    40,
+    107,
+    284,
+    302,
+    463
+  ],
+  "eliteQuickMoves": [
+    217
+  ],
+  "eliteChargedMoves": [
+    39,
+    82
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    322,
+    2585
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.225
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.875
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.375
+    }
+  ],
+  "attack": 165,
+  "defense": 174,
+  "stamina": 277,
+  "height": 2.5,
+  "weight": 220,
+  "family": 131,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

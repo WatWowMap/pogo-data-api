@@ -1,8 +1,8 @@
 {
-	"id": 217,
-	"proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_SILVER_001",
-	"formatted": "2026 Global Silver 001",
-	"imageUrl": "sb_GoTour2026_silver",
-	"cardType": "SPECIAL_BACKGROUND",
-	"vfxAddress": "bgfx_Silver"
+  "id": 217,
+  "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_SILVER_001",
+  "formatted": "2026 Global Silver 001",
+  "imageUrl": "sb_GoTour2026_silver",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_Silver"
 }

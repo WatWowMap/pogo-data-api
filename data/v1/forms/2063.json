@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "DARUMAKA_NORMAL",
-	"formId": 2063,
-	"evolutions": [
-		{
-			"evoId": 555,
-			"formId": 138,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "DARUMAKA_NORMAL",
+  "formId": 2063,
+  "evolutions": [
+    {
+      "evoId": 555,
+      "formId": 138,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

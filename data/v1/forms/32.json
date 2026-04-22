@@ -1,8 +1,17 @@
 {
-	"formName": "Snowy",
-	"proto": "CASTFORM_SNOWY",
-	"formId": 32,
-	"quickMoves": [221, 244],
-	"chargedMoves": [39, 40, 293],
-	"types": [15]
+  "formName": "Snowy",
+  "proto": "CASTFORM_SNOWY",
+  "formId": 32,
+  "quickMoves": [
+    221,
+    244
+  ],
+  "chargedMoves": [
+    39,
+    40,
+    293
+  ],
+  "types": [
+    15
+  ]
 }

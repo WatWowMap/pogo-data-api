@@ -1,57 +1,73 @@
 {
-	"pokemonName": "Tsareena",
-	"pokedexId": 763,
-	"defaultFormId": 3111,
-	"types": [12],
-	"quickMoves": [215, 320, 357],
-	"chargedMoves": [85, 127, 272, 273, 391],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [408],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3111],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.588
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.8
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.86
-		}
-	],
-	"attack": 222,
-	"defense": 195,
-	"stamina": 176,
-	"height": 1.2,
-	"weight": 21.4,
-	"family": 761,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Tsareena",
+  "pokedexId": 763,
+  "defaultFormId": 3111,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    215,
+    320,
+    357
+  ],
+  "chargedMoves": [
+    85,
+    127,
+    272,
+    273,
+    391
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    408
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3111
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 222,
+  "defense": 195,
+  "stamina": 176,
+  "height": 1.2,
+  "weight": 21.4,
+  "family": 761,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

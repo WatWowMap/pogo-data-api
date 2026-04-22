@@ -1,9 +1,9 @@
 {
-	"moveId": 416,
-	"moveName": "Max Ooze",
-	"proto": "VN_BM_008",
-	"fast": false,
-	"type": 4,
-	"power": 350,
-	"durationMs": 2500
+  "moveId": 416,
+  "moveName": "Max Ooze",
+  "proto": "VN_BM_008",
+  "fast": false,
+  "type": 4,
+  "power": 350,
+  "durationMs": 2500
 }

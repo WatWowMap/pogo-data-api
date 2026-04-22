@@ -1,7 +1,7 @@
 {
-	"formName": "Altered",
-	"proto": "GIRATINA_ALTERED",
-	"formId": 90,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Altered",
+  "proto": "GIRATINA_ALTERED",
+  "formId": 90,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

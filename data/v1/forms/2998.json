@@ -1,11 +1,11 @@
 {
-	"formName": "Normal",
-	"proto": "GIMMIGHOUL_NORMAL",
-	"formId": 2998,
-	"evolutions": [
-		{
-			"evoId": 1000,
-			"itemRequirement": 1150
-		}
-	]
+  "formName": "Normal",
+  "proto": "GIMMIGHOUL_NORMAL",
+  "formId": 2998,
+  "evolutions": [
+    {
+      "evoId": 1000,
+      "itemRequirement": 1150
+    }
+  ]
 }

@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Larvesta",
-	"pokedexId": 636,
-	"defaultFormId": 2300,
-	"types": [7, 10],
-	"quickMoves": [201, 209],
-	"chargedMoves": [21, 49, 101],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2300],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.539
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.55
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.65
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.925
-		}
-	],
-	"attack": 156,
-	"defense": 107,
-	"stamina": 146,
-	"height": 1.1,
-	"weight": 28.8,
-	"family": 636,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 637,
-			"candyCost": 400
-		}
-	]
+  "pokemonName": "Larvesta",
+  "pokedexId": 636,
+  "defaultFormId": 2300,
+  "types": [
+    7,
+    10
+  ],
+  "quickMoves": [
+    201,
+    209
+  ],
+  "chargedMoves": [
+    21,
+    49,
+    101
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2300
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "attack": 156,
+  "defense": 107,
+  "stamina": 146,
+  "height": 1.1,
+  "weight": 28.8,
+  "family": 636,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 637,
+      "candyCost": 400
+    }
+  ]
 }

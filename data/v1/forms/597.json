@@ -1,7 +1,13 @@
 {
-	"formName": "Douse",
-	"proto": "GENESECT_DOUSE",
-	"formId": 597,
-	"chargedMoves": [72, 92, 100],
-	"eliteChargedMoves": [339]
+  "formName": "Douse",
+  "proto": "GENESECT_DOUSE",
+  "formId": 597,
+  "chargedMoves": [
+    72,
+    92,
+    100
+  ],
+  "eliteChargedMoves": [
+    339
+  ]
 }

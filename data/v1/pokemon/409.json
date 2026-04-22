@@ -1,59 +1,70 @@
 {
-	"pokemonName": "Rampardos",
-	"pokedexId": 409,
-	"defaultFormId": 1697,
-	"types": [6],
-	"quickMoves": [234, 297],
-	"chargedMoves": [24, 64, 277],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1697],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.784
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.8
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.2
-		}
-	],
-	"attack": 295,
-	"defense": 109,
-	"stamina": 219,
-	"height": 1.6,
-	"weight": 102.5,
-	"family": 408,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Rampardos",
+  "pokedexId": 409,
+  "defaultFormId": 1697,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    234,
+    297
+  ],
+  "chargedMoves": [
+    24,
+    64,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1697
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.2
+    }
+  ],
+  "attack": 295,
+  "defense": 109,
+  "stamina": 219,
+  "height": 1.6,
+  "weight": 102.5,
+  "family": 408,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

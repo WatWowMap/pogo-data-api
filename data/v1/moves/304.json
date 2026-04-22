@@ -1,16 +1,16 @@
 {
-	"moveId": 304,
-	"moveName": "Earth Power",
-	"proto": "EARTH_POWER",
-	"fast": false,
-	"type": 5,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -55,
-	"pvpBuffs": {
-		"targetDefenseStatStageChange": -1,
-		"buffActivationChance": 0.1
-	},
-	"power": 100,
-	"durationMs": 3500,
-	"energyDelta": -50
+  "moveId": 304,
+  "moveName": "Earth Power",
+  "proto": "EARTH_POWER",
+  "fast": false,
+  "type": 5,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -55,
+  "pvpBuffs": {
+    "targetDefenseStatStageChange": -1,
+    "buffActivationChance": 0.1
+  },
+  "power": 100,
+  "durationMs": 3500,
+  "energyDelta": -50
 }

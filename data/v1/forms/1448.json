@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "EXPLOUD_NORMAL",
-	"formId": 1448,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "EXPLOUD_NORMAL",
+  "formId": 1448,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

@@ -1,6 +1,8 @@
 {
-	"formName": "Fighting",
-	"proto": "ARCEUS_FIGHTING",
-	"formId": 101,
-	"types": [2]
+  "formName": "Fighting",
+  "proto": "ARCEUS_FIGHTING",
+  "formId": 101,
+  "types": [
+    2
+  ]
 }

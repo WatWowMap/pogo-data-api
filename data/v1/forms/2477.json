@@ -1,12 +1,12 @@
 {
-	"formName": "Phony",
-	"proto": "SINISTEA_PHONY",
-	"formId": 2477,
-	"evolutions": [
-		{
-			"evoId": 855,
-			"formId": 2480,
-			"candyCost": 50
-		}
-	]
+  "formName": "Phony",
+  "proto": "SINISTEA_PHONY",
+  "formId": 2477,
+  "evolutions": [
+    {
+      "evoId": 855,
+      "formId": 2480,
+      "candyCost": 50
+    }
+  ]
 }

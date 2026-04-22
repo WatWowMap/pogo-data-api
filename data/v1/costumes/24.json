@@ -1,6 +1,6 @@
 {
-	"id": 24,
-	"name": "Hoenn 2020 Noevolve",
-	"proto": "HOENN_2020_NOEVOLVE",
-	"noEvolve": true
+  "id": 24,
+  "name": "Hoenn 2020 Noevolve",
+  "proto": "HOENN_2020_NOEVOLVE",
+  "noEvolve": true
 }

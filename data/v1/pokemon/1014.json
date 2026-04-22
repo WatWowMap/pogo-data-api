@@ -1,53 +1,65 @@
 {
-	"pokemonName": "Okidogi",
-	"pokedexId": 1014,
-	"defaultFormId": 3327,
-	"types": [2, 4],
-	"quickMoves": [224, 462],
-	"chargedMoves": [90, 310, 471],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3327],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 220,
-	"defense": 191,
-	"stamina": 186,
-	"height": 1.8,
-	"weight": 92.2,
-	"family": 1014,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Okidogi",
+  "pokedexId": 1014,
+  "defaultFormId": 3327,
+  "types": [
+    2,
+    4
+  ],
+  "quickMoves": [
+    224,
+    462
+  ],
+  "chargedMoves": [
+    90,
+    310,
+    471
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3327
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 220,
+  "defense": 191,
+  "stamina": 186,
+  "height": 1.8,
+  "weight": 92.2,
+  "family": 1014,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,6 +1,6 @@
 {
-	"id": 23,
-	"name": "Johto 2020 Noevolve",
-	"proto": "JOHTO_2020_NOEVOLVE",
-	"noEvolve": true
+  "id": 23,
+  "name": "Johto 2020 Noevolve",
+  "proto": "JOHTO_2020_NOEVOLVE",
+  "noEvolve": true
 }

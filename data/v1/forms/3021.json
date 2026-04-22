@@ -1,8 +1,8 @@
 {
-	"formName": "Wildarea 2025",
-	"proto": "BEWEAR_WILDAREA_2025",
-	"formId": 3021,
-	"isCostume": true,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Wildarea 2025",
+  "proto": "BEWEAR_WILDAREA_2025",
+  "formId": 3021,
+  "isCostume": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

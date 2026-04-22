@@ -1,6 +1,6 @@
 {
-	"formName": "Normal",
-	"proto": "APPLETUN_NORMAL",
-	"formId": 3179,
-	"gmaxMove": 444
+  "formName": "Normal",
+  "proto": "APPLETUN_NORMAL",
+  "formId": 3179,
+  "gmaxMove": 444
 }

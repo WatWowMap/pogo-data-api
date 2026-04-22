@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Pawmi",
-	"pokedexId": 921,
-	"defaultFormId": 3236,
-	"types": [13],
-	"quickMoves": [205, 206, 249],
-	"chargedMoves": [35, 79, 251],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3236],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.465
-		}
-	],
-	"attack": 95,
-	"defense": 45,
-	"stamina": 128,
-	"height": 0.3,
-	"weight": 2.5,
-	"family": 921,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 922,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Pawmi",
+  "pokedexId": 921,
+  "defaultFormId": 3236,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    205,
+    206,
+    249
+  ],
+  "chargedMoves": [
+    35,
+    79,
+    251
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3236
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.465
+    }
+  ],
+  "attack": 95,
+  "defense": 45,
+  "stamina": 128,
+  "height": 0.3,
+  "weight": 2.5,
+  "family": 921,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 922,
+      "candyCost": 25
+    }
+  ]
 }

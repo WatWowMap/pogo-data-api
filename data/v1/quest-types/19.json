@@ -1,5 +1,5 @@
 {
-	"questId": 19,
-	"proto": "QUEST_PLAYER_LEVEL",
-	"formatted": "Player Level"
+  "questId": 19,
+  "proto": "QUEST_PLAYER_LEVEL",
+  "formatted": "Player Level"
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "GRUBBIN_NORMAL",
-	"formId": 3089,
-	"evolutions": [
-		{
-			"evoId": 737,
-			"formId": 3090,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "GRUBBIN_NORMAL",
+  "formId": 3089,
+  "evolutions": [
+    {
+      "evoId": 737,
+      "formId": 3090,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

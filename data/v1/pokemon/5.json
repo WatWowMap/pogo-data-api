@@ -1,74 +1,87 @@
 {
-	"pokemonName": "Charmeleon",
-	"pokedexId": 5,
-	"defaultFormId": 175,
-	"types": [10],
-	"quickMoves": [209, 240],
-	"chargedMoves": [24, 102, 115],
-	"eliteQuickMoves": [220],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [175],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.539
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.55
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.65
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.925
-		}
-	],
-	"attack": 158,
-	"defense": 126,
-	"stamina": 151,
-	"height": 1.1,
-	"weight": 19,
-	"family": 4,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 6,
-			"formId": 178,
-			"candyCost": 100
-		}
-	],
-	"costumeOverrideEvos": [
-		{
-			"costumeId": 11,
-			"costumeProto": "JAN_2020_NOEVOLVE",
-			"costumeName": "Jan 2020 Noevolve"
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Charmeleon",
+  "pokedexId": 5,
+  "defaultFormId": 175,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    209,
+    240
+  ],
+  "chargedMoves": [
+    24,
+    102,
+    115
+  ],
+  "eliteQuickMoves": [
+    220
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    175
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "attack": 158,
+  "defense": 126,
+  "stamina": 151,
+  "height": 1.1,
+  "weight": 19,
+  "family": 4,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 6,
+      "formId": 178,
+      "candyCost": 100
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 11,
+      "costumeProto": "JAN_2020_NOEVOLVE",
+      "costumeName": "Jan 2020 Noevolve"
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

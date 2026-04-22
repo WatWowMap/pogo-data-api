@@ -1,5 +1,5 @@
 {
-	"questId": 63,
-	"proto": "QUEST_SUBMIT_SLEEP_DATA",
-	"formatted": "Submit Sleep Data"
+  "questId": 63,
+  "proto": "QUEST_SUBMIT_SLEEP_DATA",
+  "formatted": "Submit Sleep Data"
 }

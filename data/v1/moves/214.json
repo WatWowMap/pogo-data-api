@@ -1,13 +1,13 @@
 {
-	"moveId": 214,
-	"moveName": "Vine Whip",
-	"proto": "VINE_WHIP_FAST",
-	"fast": true,
-	"type": 12,
-	"pvpPower": 5,
-	"pvpEnergyDelta": 8,
-	"pvpDurationTurns": 1,
-	"power": 6,
-	"durationMs": 500,
-	"energyDelta": 5
+  "moveId": 214,
+  "moveName": "Vine Whip",
+  "proto": "VINE_WHIP_FAST",
+  "fast": true,
+  "type": 12,
+  "pvpPower": 5,
+  "pvpEnergyDelta": 8,
+  "pvpDurationTurns": 1,
+  "power": 6,
+  "durationMs": 500,
+  "energyDelta": 5
 }

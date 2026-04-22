@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "FUECOCO_NORMAL",
-	"formId": 3225,
-	"evolutions": [
-		{
-			"evoId": 910,
-			"formId": 3226,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "FUECOCO_NORMAL",
+  "formId": 3225,
+  "evolutions": [
+    {
+      "evoId": 910,
+      "formId": 3226,
+      "candyCost": 25
+    }
+  ]
 }

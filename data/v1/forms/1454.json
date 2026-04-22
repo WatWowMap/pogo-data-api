@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "HARIYAMA_NORMAL",
-	"formId": 1454,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "HARIYAMA_NORMAL",
+  "formId": 1454,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

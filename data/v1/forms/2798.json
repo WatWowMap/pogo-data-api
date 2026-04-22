@@ -1,39 +1,51 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.975
-		}
-	],
-	"formName": "Hisuian",
-	"proto": "BRAVIARY_HISUIAN",
-	"formId": 2798,
-	"attack": 213,
-	"defense": 137,
-	"stamina": 242,
-	"height": 1.7,
-	"weight": 43.4,
-	"quickMoves": [234, 255],
-	"chargedMoves": [69, 86, 108, 256, 341],
-	"types": [3, 14]
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.975
+    }
+  ],
+  "formName": "Hisuian",
+  "proto": "BRAVIARY_HISUIAN",
+  "formId": 2798,
+  "attack": 213,
+  "defense": 137,
+  "stamina": 242,
+  "height": 1.7,
+  "weight": 43.4,
+  "quickMoves": [
+    234,
+    255
+  ],
+  "chargedMoves": [
+    69,
+    86,
+    108,
+    256,
+    341
+  ],
+  "types": [
+    3,
+    14
+  ]
 }

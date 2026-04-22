@@ -1,63 +1,74 @@
 {
-	"pokemonName": "Totodile",
-	"pokedexId": 158,
-	"defaultFormId": 1136,
-	"types": [11],
-	"quickMoves": [220, 230],
-	"chargedMoves": [57, 105, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1136],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.9455
-		}
-	],
-	"attack": 117,
-	"defense": 109,
-	"stamina": 137,
-	"height": 0.61,
-	"weight": 9.5,
-	"family": 158,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 159,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Totodile",
+  "pokedexId": 158,
+  "defaultFormId": 1136,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    220,
+    230
+  ],
+  "chargedMoves": [
+    57,
+    105,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1136
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.9455
+    }
+  ],
+  "attack": 117,
+  "defense": 109,
+  "stamina": 137,
+  "height": 0.61,
+  "weight": 9.5,
+  "family": 158,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 159,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,63 +1,77 @@
 {
-	"pokemonName": "Voltorb",
-	"pokedexId": 100,
-	"defaultFormId": 1047,
-	"types": [13],
-	"quickMoves": [206, 221],
-	"chargedMoves": [35, 79, 267],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [99],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [1047, 2728],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1
-		}
-	],
-	"attack": 109,
-	"defense": 111,
-	"stamina": 120,
-	"height": 0.5,
-	"weight": 10.4,
-	"family": 100,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 101,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Voltorb",
+  "pokedexId": 100,
+  "defaultFormId": 1047,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    206,
+    221
+  ],
+  "chargedMoves": [
+    35,
+    79,
+    267
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    99
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1047,
+    2728
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1
+    }
+  ],
+  "attack": 109,
+  "defense": 111,
+  "stamina": 120,
+  "height": 0.5,
+  "weight": 10.4,
+  "family": 100,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 101,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

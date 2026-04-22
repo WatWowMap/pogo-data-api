@@ -1,8 +1,8 @@
 {
-	"itemId": 1104,
-	"itemName": "Dragon Scale",
-	"proto": "ITEM_DRAGON_SCALE",
-	"type": "Evolution Requirement",
-	"category": "Evolution Requirement",
-	"minTrainerLevel": 10
+  "itemId": 1104,
+  "itemName": "Dragon Scale",
+  "proto": "ITEM_DRAGON_SCALE",
+  "type": "Evolution Requirement",
+  "category": "Evolution Requirement",
+  "minTrainerLevel": 10
 }

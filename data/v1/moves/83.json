@@ -1,12 +1,12 @@
 {
-	"moveId": 83,
-	"moveName": "Dragon Claw",
-	"proto": "DRAGON_CLAW",
-	"fast": false,
-	"type": 16,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -50,
-	"power": 45,
-	"durationMs": 1500,
-	"energyDelta": -33
+  "moveId": 83,
+  "moveName": "Dragon Claw",
+  "proto": "DRAGON_CLAW",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -50,
+  "power": 45,
+  "durationMs": 1500,
+  "energyDelta": -33
 }

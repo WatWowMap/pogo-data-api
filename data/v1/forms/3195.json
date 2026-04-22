@@ -1,6 +1,6 @@
 {
-	"formName": "Normal",
-	"proto": "GRIMMSNARL_NORMAL",
-	"formId": 3195,
-	"gmaxMove": 449
+  "formName": "Normal",
+  "proto": "GRIMMSNARL_NORMAL",
+  "formId": 3195,
+  "gmaxMove": 449
 }

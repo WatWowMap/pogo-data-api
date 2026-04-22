@@ -1,57 +1,68 @@
 {
-	"pokemonName": "Cursola",
-	"pokedexId": 864,
-	"defaultFormId": 2507,
-	"types": [8],
-	"quickMoves": [221, 263],
-	"chargedMoves": [65, 259, 265],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [2507],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.49
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.5
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.75
-		}
-	],
-	"attack": 253,
-	"defense": 182,
-	"stamina": 155,
-	"height": 1,
-	"weight": 0.4,
-	"family": 222,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Cursola",
+  "pokedexId": 864,
+  "defaultFormId": 2507,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    221,
+    263
+  ],
+  "chargedMoves": [
+    65,
+    259,
+    265
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    2507
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.49
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.75
+    }
+  ],
+  "attack": 253,
+  "defense": 182,
+  "stamina": 155,
+  "height": 1,
+  "weight": 0.4,
+  "family": 222,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

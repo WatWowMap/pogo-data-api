@@ -1,7 +1,7 @@
 {
-	"id": 211,
-	"proto": "LC_SPECIALBACKGROUND_OBSERVATORY_EXHIBITION_TOUR",
-	"formatted": "Observatory Exhibition Tour",
-	"imageUrl": "sb_ObservatoryExhibitionTour",
-	"cardType": "SPECIAL_BACKGROUND"
+  "id": 211,
+  "proto": "LC_SPECIALBACKGROUND_OBSERVATORY_EXHIBITION_TOUR",
+  "formatted": "Observatory Exhibition Tour",
+  "imageUrl": "sb_ObservatoryExhibitionTour",
+  "cardType": "SPECIAL_BACKGROUND"
 }

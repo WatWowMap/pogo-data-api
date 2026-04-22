@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CUTIEFLY_NORMAL",
-	"formId": 3094,
-	"evolutions": [
-		{
-			"evoId": 743,
-			"formId": 3095,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "CUTIEFLY_NORMAL",
+  "formId": 3094,
+  "evolutions": [
+    {
+      "evoId": 743,
+      "formId": 3095,
+      "candyCost": 50
+    }
+  ]
 }

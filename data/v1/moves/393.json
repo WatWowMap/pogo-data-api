@@ -1,16 +1,16 @@
 {
-	"moveId": 393,
-	"moveName": "Scorching Sands",
-	"proto": "SCORCHING_SANDS",
-	"fast": false,
-	"type": 5,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -50,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 0.1
-	},
-	"power": 90,
-	"durationMs": 3000,
-	"energyDelta": -50
+  "moveId": 393,
+  "moveName": "Scorching Sands",
+  "proto": "SCORCHING_SANDS",
+  "fast": false,
+  "type": 5,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 0.1
+  },
+  "power": 90,
+  "durationMs": 3000,
+  "energyDelta": -50
 }

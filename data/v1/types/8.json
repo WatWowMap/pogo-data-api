@@ -1,10 +1,26 @@
 {
-	"typeId": 8,
-	"typeName": "Ghost",
-	"strengths": [8, 14],
-	"weaknesses": [8, 17],
-	"veryWeakAgainst": [1],
-	"immunes": [1, 2],
-	"weakAgainst": [17],
-	"resistances": [4, 7]
+  "typeId": 8,
+  "typeName": "Ghost",
+  "strengths": [
+    8,
+    14
+  ],
+  "weaknesses": [
+    8,
+    17
+  ],
+  "veryWeakAgainst": [
+    1
+  ],
+  "immunes": [
+    1,
+    2
+  ],
+  "weakAgainst": [
+    17
+  ],
+  "resistances": [
+    4,
+    7
+  ]
 }

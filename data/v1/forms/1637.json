@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "KYOGRE_NORMAL",
-	"formId": 1637,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 4,
-			"attack": 353,
-			"defense": 268,
-			"stamina": 218,
-			"height": 9.8,
-			"weight": 430,
-			"firstEnergyCost": 400,
-			"subsequentEnergyCost": 80
-		}
-	],
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Normal",
+  "proto": "KYOGRE_NORMAL",
+  "formId": 1637,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 4,
+      "attack": 353,
+      "defense": 268,
+      "stamina": 218,
+      "height": 9.8,
+      "weight": 430,
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

@@ -1,5 +1,5 @@
 {
-	"questId": 42,
-	"proto": "WITH_GEOTARGETED_POI",
-	"formatted": "With Geotargeted POI"
+  "questId": 42,
+  "proto": "WITH_GEOTARGETED_POI",
+  "formatted": "With Geotargeted POI"
 }

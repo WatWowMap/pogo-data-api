@@ -1,9 +1,9 @@
 {
-	"moveId": 423,
-	"moveName": "Max Quake",
-	"proto": "VN_BM_015",
-	"fast": false,
-	"type": 5,
-	"power": 350,
-	"durationMs": 2500
+  "moveId": 423,
+  "moveName": "Max Quake",
+  "proto": "VN_BM_015",
+  "fast": false,
+  "type": 5,
+  "power": 350,
+  "durationMs": 2500
 }

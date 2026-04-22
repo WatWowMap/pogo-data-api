@@ -1,12 +1,12 @@
 {
-	"moveId": 36,
-	"moveName": "Flash Cannon",
-	"proto": "FLASH_CANNON",
-	"fast": false,
-	"type": 9,
-	"pvpPower": 110,
-	"pvpEnergyDelta": -70,
-	"power": 100,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 36,
+  "moveName": "Flash Cannon",
+  "proto": "FLASH_CANNON",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -70,
+  "power": 100,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

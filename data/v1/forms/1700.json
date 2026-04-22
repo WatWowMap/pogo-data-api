@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "SHIELDON_NORMAL",
-	"formId": 1700,
-	"evolutions": [
-		{
-			"evoId": 411,
-			"formId": 1703,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "SHIELDON_NORMAL",
+  "formId": 1700,
+  "evolutions": [
+    {
+      "evoId": 411,
+      "formId": 1703,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

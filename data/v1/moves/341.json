@@ -1,12 +1,12 @@
 {
-	"moveId": 341,
-	"moveName": "Fly",
-	"proto": "FLY",
-	"fast": false,
-	"type": 3,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -45,
-	"power": 90,
-	"durationMs": 2000,
-	"energyDelta": -50
+  "moveId": 341,
+  "moveName": "Fly",
+  "proto": "FLY",
+  "fast": false,
+  "type": 3,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -45,
+  "power": 90,
+  "durationMs": 2000,
+  "energyDelta": -50
 }

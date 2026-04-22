@@ -1,6 +1,9 @@
 {
-	"formName": "Pau",
-	"proto": "ORICORIO_PAU",
-	"formId": 2681,
-	"types": [3, 14]
+  "formName": "Pau",
+  "proto": "ORICORIO_PAU",
+  "formId": 2681,
+  "types": [
+    3,
+    14
+  ]
 }

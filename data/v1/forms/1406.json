@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "WINGULL_NORMAL",
-	"formId": 1406,
-	"evolutions": [
-		{
-			"evoId": 279,
-			"formId": 1409,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "WINGULL_NORMAL",
+  "formId": 1406,
+  "evolutions": [
+    {
+      "evoId": 279,
+      "formId": 1409,
+      "candyCost": 50
+    }
+  ]
 }

@@ -1,57 +1,70 @@
 {
-	"pokemonName": "Furret",
-	"pokedexId": 162,
-	"defaultFormId": 1148,
-	"types": [1],
-	"quickMoves": [203, 219],
-	"chargedMoves": [14, 26, 123, 125, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1148],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 148,
-	"defense": 125,
-	"stamina": 198,
-	"height": 1.8,
-	"weight": 32.5,
-	"family": 161,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Furret",
+  "pokedexId": 162,
+  "defaultFormId": 1148,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    203,
+    219
+  ],
+  "chargedMoves": [
+    14,
+    26,
+    123,
+    125,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1148
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 148,
+  "defense": 125,
+  "stamina": 198,
+  "height": 1.8,
+  "weight": 32.5,
+  "family": 161,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

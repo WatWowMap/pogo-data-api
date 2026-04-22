@@ -1,6 +1,6 @@
 {
-	"moveId": 52,
-	"moveName": "Slash",
-	"proto": "SLASH",
-	"fast": false
+  "moveId": 52,
+  "moveName": "Slash",
+  "proto": "SLASH",
+  "fast": false
 }

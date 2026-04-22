@@ -1,8 +1,8 @@
 {
-	"id": 85,
-	"proto": "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_005",
-	"formatted": "2025 Global Gofest Regi 005",
-	"imageUrl": "sb_GoFest2025",
-	"cardType": "SPECIAL_BACKGROUND",
-	"vfxAddress": "bgfx_goFest_2025_rock_005"
+  "id": 85,
+  "proto": "LC_SPECIALBACKGROUND_2025_GLOBAL_GOFEST_REGI_005",
+  "formatted": "2025 Global Gofest Regi 005",
+  "imageUrl": "sb_GoFest2025",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_goFest_2025_rock_005"
 }

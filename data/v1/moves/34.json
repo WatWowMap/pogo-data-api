@@ -1,12 +1,12 @@
 {
-	"moveId": 34,
-	"moveName": "Heart Stamp",
-	"proto": "HEART_STAMP",
-	"fast": false,
-	"type": 14,
-	"pvpPower": 40,
-	"pvpEnergyDelta": -40,
-	"power": 40,
-	"durationMs": 2000,
-	"energyDelta": -33
+  "moveId": 34,
+  "moveName": "Heart Stamp",
+  "proto": "HEART_STAMP",
+  "fast": false,
+  "type": 14,
+  "pvpPower": 40,
+  "pvpEnergyDelta": -40,
+  "power": 40,
+  "durationMs": 2000,
+  "energyDelta": -33
 }

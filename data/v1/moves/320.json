@@ -1,13 +1,13 @@
 {
-	"moveId": 320,
-	"moveName": "Charm",
-	"proto": "CHARM_FAST",
-	"fast": true,
-	"type": 18,
-	"pvpPower": 13,
-	"pvpEnergyDelta": 8,
-	"pvpDurationTurns": 2,
-	"power": 20,
-	"durationMs": 1500,
-	"energyDelta": 11
+  "moveId": 320,
+  "moveName": "Charm",
+  "proto": "CHARM_FAST",
+  "fast": true,
+  "type": 18,
+  "pvpPower": 13,
+  "pvpEnergyDelta": 8,
+  "pvpDurationTurns": 2,
+  "power": 20,
+  "durationMs": 1500,
+  "energyDelta": 11
 }

@@ -1,55 +1,69 @@
 {
-	"pokemonName": "Mantine",
-	"pokedexId": 226,
-	"defaultFormId": 1292,
-	"types": [3, 11],
-	"quickMoves": [210, 237, 271],
-	"chargedMoves": [39, 45, 53, 105],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1292],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.0339
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.055
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.5825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.6375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.165
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 4.22
-		}
-	],
-	"attack": 148,
-	"defense": 226,
-	"stamina": 163,
-	"height": 2.11,
-	"weight": 220,
-	"family": 226,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Mantine",
+  "pokedexId": 226,
+  "defaultFormId": 1292,
+  "types": [
+    3,
+    11
+  ],
+  "quickMoves": [
+    210,
+    237,
+    271
+  ],
+  "chargedMoves": [
+    39,
+    45,
+    53,
+    105
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1292
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.0339
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.055
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.5825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.165
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.22
+    }
+  ],
+  "attack": 148,
+  "defense": 226,
+  "stamina": 163,
+  "height": 2.11,
+  "weight": 220,
+  "family": 226,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

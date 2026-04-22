@@ -1,59 +1,74 @@
 {
-	"pokemonName": "Crawdaunt",
-	"pokedexId": 342,
-	"defaultFormId": 1559,
-	"types": [11, 17],
-	"quickMoves": [278, 283],
-	"chargedMoves": [20, 51, 53, 106, 305, 318],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1559],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.5341
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.545
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.8175
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.3625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.635
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.9075
-		}
-	],
-	"attack": 224,
-	"defense": 142,
-	"stamina": 160,
-	"height": 1.09,
-	"weight": 32.8,
-	"family": 341,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Crawdaunt",
+  "pokedexId": 342,
+  "defaultFormId": 1559,
+  "types": [
+    11,
+    17
+  ],
+  "quickMoves": [
+    278,
+    283
+  ],
+  "chargedMoves": [
+    20,
+    51,
+    53,
+    106,
+    305,
+    318
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1559
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.545
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.635
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.9075
+    }
+  ],
+  "attack": 224,
+  "defense": 142,
+  "stamina": 160,
+  "height": 1.09,
+  "weight": 32.8,
+  "family": 341,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

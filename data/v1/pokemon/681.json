@@ -1,56 +1,69 @@
 {
-	"pokemonName": "Aegislash",
-	"pokedexId": 681,
-	"defaultFormId": 2639,
-	"types": [8, 9],
-	"quickMoves": [226, 255],
-	"chargedMoves": [36, 70, 267],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [2639, 2640],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.833
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.275
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.975
-		}
-	],
-	"attack": 97,
-	"defense": 272,
-	"stamina": 155,
-	"height": 1.7,
-	"weight": 53,
-	"family": 679,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Aegislash",
+  "pokedexId": 681,
+  "defaultFormId": 2639,
+  "types": [
+    8,
+    9
+  ],
+  "quickMoves": [
+    226,
+    255
+  ],
+  "chargedMoves": [
+    36,
+    70,
+    267
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2639,
+    2640
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.833
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.275
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.975
+    }
+  ],
+  "attack": 97,
+  "defense": 272,
+  "stamina": 155,
+  "height": 1.7,
+  "weight": 53,
+  "family": 679,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

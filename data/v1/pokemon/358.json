@@ -1,66 +1,80 @@
 {
-	"pokemonName": "Chimecho",
-	"pokedexId": 358,
-	"defaultFormId": 1592,
-	"types": [14],
-	"quickMoves": [263, 274],
-	"chargedMoves": [60, 70, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1592],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.9455
-		}
-	],
-	"attack": 175,
-	"defense": 170,
-	"stamina": 181,
-	"height": 0.61,
-	"weight": 1,
-	"family": 358,
-	"bonusStardustCapture": 900,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 244,
-			"defense": 228,
-			"stamina": 181,
-			"types": [9, 14],
-			"unreleased": true
-		}
-	]
+  "pokemonName": "Chimecho",
+  "pokedexId": 358,
+  "defaultFormId": 1592,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    263,
+    274
+  ],
+  "chargedMoves": [
+    60,
+    70,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1592
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.9455
+    }
+  ],
+  "attack": 175,
+  "defense": 170,
+  "stamina": 181,
+  "height": 0.61,
+  "weight": 1,
+  "family": 358,
+  "bonusStardustCapture": 900,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 244,
+      "defense": 228,
+      "stamina": 181,
+      "types": [
+        9,
+        14
+      ],
+      "unreleased": true
+    }
+  ]
 }

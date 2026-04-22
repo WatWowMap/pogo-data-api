@@ -1,61 +1,76 @@
 {
-	"pokemonName": "Seel",
-	"pokedexId": 86,
-	"defaultFormId": 1032,
-	"types": [11],
-	"quickMoves": [212, 217],
-	"chargedMoves": [58, 111, 248],
-	"eliteQuickMoves": [230],
-	"eliteChargedMoves": [57],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [1032],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.539
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.55
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.65
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.925
-		}
-	],
-	"attack": 85,
-	"defense": 121,
-	"stamina": 163,
-	"height": 1.1,
-	"weight": 90,
-	"family": 86,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 87,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Seel",
+  "pokedexId": 86,
+  "defaultFormId": 1032,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    212,
+    217
+  ],
+  "chargedMoves": [
+    58,
+    111,
+    248
+  ],
+  "eliteQuickMoves": [
+    230
+  ],
+  "eliteChargedMoves": [
+    57
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    1032
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.925
+    }
+  ],
+  "attack": 85,
+  "defense": 121,
+  "stamina": 163,
+  "height": 1.1,
+  "weight": 90,
+  "family": 86,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 87,
+      "candyCost": 50
+    }
+  ]
 }

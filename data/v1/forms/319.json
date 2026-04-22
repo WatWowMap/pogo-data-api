@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "TYRANITAR_NORMAL",
-	"formId": 319,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 309,
-			"defense": 276,
-			"stamina": 225,
-			"height": 2.5,
-			"weight": 255,
-			"firstEnergyCost": 300,
-			"subsequentEnergyCost": 60
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "TYRANITAR_NORMAL",
+  "formId": 319,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 309,
+      "defense": 276,
+      "stamina": 225,
+      "height": 2.5,
+      "weight": 255,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

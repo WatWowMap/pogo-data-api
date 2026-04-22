@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "RHYDON_NORMAL",
-	"formId": 849,
-	"evolutions": [
-		{
-			"evoId": 464,
-			"formId": 852,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "RHYDON_NORMAL",
+  "formId": 849,
+  "evolutions": [
+    {
+      "evoId": 464,
+      "formId": 852,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

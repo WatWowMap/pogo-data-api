@@ -1,12 +1,12 @@
 {
-	"moveId": 16,
-	"moveName": "Dark Pulse",
-	"proto": "DARK_PULSE",
-	"fast": false,
-	"type": 17,
-	"pvpPower": 80,
-	"pvpEnergyDelta": -50,
-	"power": 80,
-	"durationMs": 3000,
-	"energyDelta": -50
+  "moveId": 16,
+  "moveName": "Dark Pulse",
+  "proto": "DARK_PULSE",
+  "fast": false,
+  "type": 17,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -50,
+  "power": 80,
+  "durationMs": 3000,
+  "energyDelta": -50
 }

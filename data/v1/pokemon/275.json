@@ -1,59 +1,75 @@
 {
-	"pokemonName": "Shiftry",
-	"pokedexId": 275,
-	"defaultFormId": 631,
-	"types": [12, 17],
-	"quickMoves": [215, 238, 278],
-	"chargedMoves": [117, 122, 280, 312],
-	"eliteQuickMoves": [271],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [631],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.637
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.65
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.975
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.95
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.275
-		}
-	],
-	"attack": 200,
-	"defense": 121,
-	"stamina": 207,
-	"height": 1.3,
-	"weight": 59.6,
-	"family": 273,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Shiftry",
+  "pokedexId": 275,
+  "defaultFormId": 631,
+  "types": [
+    12,
+    17
+  ],
+  "quickMoves": [
+    215,
+    238,
+    278
+  ],
+  "chargedMoves": [
+    117,
+    122,
+    280,
+    312
+  ],
+  "eliteQuickMoves": [
+    271
+  ],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    631
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.637
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.65
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.975
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.95
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.275
+    }
+  ],
+  "attack": 200,
+  "defense": 121,
+  "stamina": 207,
+  "height": 1.3,
+  "weight": 59.6,
+  "family": 273,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

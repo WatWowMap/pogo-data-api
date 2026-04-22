@@ -1,64 +1,76 @@
 {
-	"pokemonName": "Karrablast",
-	"pokedexId": 588,
-	"defaultFormId": 2156,
-	"types": [7],
-	"quickMoves": [200, 211],
-	"chargedMoves": [45, 46, 99, 100],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2156],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.875
-		}
-	],
-	"attack": 137,
-	"defense": 87,
-	"stamina": 137,
-	"height": 0.5,
-	"weight": 5.9,
-	"family": 588,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 589,
-			"candyCost": 200,
-			"tradeBonus": true
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Karrablast",
+  "pokedexId": 588,
+  "defaultFormId": 2156,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    200,
+    211
+  ],
+  "chargedMoves": [
+    45,
+    46,
+    99,
+    100
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2156
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 137,
+  "defense": 87,
+  "stamina": 137,
+  "height": 0.5,
+  "weight": 5.9,
+  "family": 588,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 589,
+      "candyCost": 200,
+      "tradeBonus": true
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

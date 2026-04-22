@@ -1,59 +1,70 @@
 {
-	"pokemonName": "Ambipom",
-	"pokedexId": 424,
-	"defaultFormId": 1742,
-	"types": [1],
-	"quickMoves": [220, 263],
-	"chargedMoves": [14, 45, 56],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1742],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.588
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.8
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.86
-		}
-	],
-	"attack": 205,
-	"defense": 143,
-	"stamina": 181,
-	"height": 1.2,
-	"weight": 20.3,
-	"family": 190,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Ambipom",
+  "pokedexId": 424,
+  "defaultFormId": 1742,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    220,
+    263
+  ],
+  "chargedMoves": [
+    14,
+    45,
+    56
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1742
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 205,
+  "defense": 143,
+  "stamina": 181,
+  "height": 1.2,
+  "weight": 20.3,
+  "family": 190,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

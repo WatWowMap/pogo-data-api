@@ -1,12 +1,12 @@
 {
-	"moveId": 84,
-	"moveName": "Disarming Voice",
-	"proto": "DISARMING_VOICE",
-	"fast": false,
-	"type": 18,
-	"pvpPower": 70,
-	"pvpEnergyDelta": -45,
-	"power": 70,
-	"durationMs": 4000,
-	"energyDelta": -33
+  "moveId": 84,
+  "moveName": "Disarming Voice",
+  "proto": "DISARMING_VOICE",
+  "fast": false,
+  "type": 18,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -45,
+  "power": 70,
+  "durationMs": 4000,
+  "energyDelta": -33
 }

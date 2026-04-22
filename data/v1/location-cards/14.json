@@ -1,7 +1,7 @@
 {
-	"id": 14,
-	"proto": "LC_2024_NYC_GOFEST_001",
-	"formatted": "2024 Nyc Gofest 001",
-	"imageUrl": "lc_GoFest2024_newyork",
-	"cardType": "LOCATION_CARD"
+  "id": 14,
+  "proto": "LC_2024_NYC_GOFEST_001",
+  "formatted": "2024 Nyc Gofest 001",
+  "imageUrl": "lc_GoFest2024_newyork",
+  "cardType": "LOCATION_CARD"
 }

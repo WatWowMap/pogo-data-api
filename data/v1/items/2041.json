@@ -1,7 +1,7 @@
 {
-	"itemId": 2041,
-	"itemName": "Event Pass Point Go Wild Area 01",
-	"proto": "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01",
-	"type": "Event Pass Point",
-	"category": "Event Pass Point"
+  "itemId": 2041,
+  "itemName": "Event Pass Point Go Wild Area 01",
+  "proto": "ITEM_EVENT_PASS_POINT_GO_WILD_AREA_01",
+  "type": "Event Pass Point",
+  "category": "Event Pass Point"
 }

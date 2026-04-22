@@ -1,5 +1,5 @@
 {
-	"questId": 106,
-	"proto": "QUEST_GET_CANDY",
-	"formatted": "Get Candy"
+  "questId": 106,
+  "proto": "QUEST_GET_CANDY",
+  "formatted": "Get Candy"
 }

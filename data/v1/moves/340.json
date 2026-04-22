@@ -1,12 +1,12 @@
 {
-	"moveId": 340,
-	"moveName": "Techno Blast Shock",
-	"proto": "TECHNO_BLAST_SHOCK",
-	"fast": false,
-	"type": 13,
-	"pvpPower": 120,
-	"pvpEnergyDelta": -55,
-	"power": 120,
-	"durationMs": 2000,
-	"energyDelta": -100
+  "moveId": 340,
+  "moveName": "Techno Blast Shock",
+  "proto": "TECHNO_BLAST_SHOCK",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -55,
+  "power": 120,
+  "durationMs": 2000,
+  "energyDelta": -100
 }

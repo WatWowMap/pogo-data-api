@@ -1,13 +1,13 @@
 {
-	"moveId": 263,
-	"moveName": "Astonish",
-	"proto": "ASTONISH_FAST",
-	"fast": true,
-	"type": 8,
-	"pvpPower": 12,
-	"pvpEnergyDelta": 10,
-	"pvpDurationTurns": 2,
-	"power": 7,
-	"durationMs": 1000,
-	"energyDelta": 13
+  "moveId": 263,
+  "moveName": "Astonish",
+  "proto": "ASTONISH_FAST",
+  "fast": true,
+  "type": 8,
+  "pvpPower": 12,
+  "pvpEnergyDelta": 10,
+  "pvpDurationTurns": 2,
+  "power": 7,
+  "durationMs": 1000,
+  "energyDelta": 13
 }

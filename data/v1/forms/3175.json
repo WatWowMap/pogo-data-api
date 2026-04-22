@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CARKOL_NORMAL",
-	"formId": 3175,
-	"evolutions": [
-		{
-			"evoId": 839,
-			"formId": 3176,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "CARKOL_NORMAL",
+  "formId": 3175,
+  "evolutions": [
+    {
+      "evoId": 839,
+      "formId": 3176,
+      "candyCost": 100
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "QUILLADIN_NORMAL",
-	"formId": 3023,
-	"evolutions": [
-		{
-			"evoId": 652,
-			"formId": 3024,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "QUILLADIN_NORMAL",
+  "formId": 3023,
+  "evolutions": [
+    {
+      "evoId": 652,
+      "formId": 3024,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

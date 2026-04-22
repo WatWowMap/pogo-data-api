@@ -1,61 +1,75 @@
 {
-	"pokemonName": "Mienfoo",
-	"pokedexId": 619,
-	"defaultFormId": 2249,
-	"types": [2],
-	"quickMoves": [207, 222],
-	"chargedMoves": [56, 123, 247, 314],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [408],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2249],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.441
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.35
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.575
-		}
-	],
-	"attack": 160,
-	"defense": 98,
-	"stamina": 128,
-	"height": 0.9,
-	"weight": 20,
-	"family": 619,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 620,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Mienfoo",
+  "pokedexId": 619,
+  "defaultFormId": 2249,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    207,
+    222
+  ],
+  "chargedMoves": [
+    56,
+    123,
+    247,
+    314
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    408
+  ],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2249
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.575
+    }
+  ],
+  "attack": 160,
+  "defense": 98,
+  "stamina": 128,
+  "height": 0.9,
+  "weight": 20,
+  "family": 619,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 620,
+      "candyCost": 50
+    }
+  ]
 }

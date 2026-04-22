@@ -1,6 +1,11 @@
 {
-	"formName": "Hangry",
-	"proto": "MORPEKO_HANGRY",
-	"formId": 2545,
-	"chargedMoves": [59, 277, 353, 407]
+  "formName": "Hangry",
+  "proto": "MORPEKO_HANGRY",
+  "formId": 2545,
+  "chargedMoves": [
+    59,
+    277,
+    353,
+    407
+  ]
 }

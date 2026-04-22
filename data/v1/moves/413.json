@@ -1,9 +1,9 @@
 {
-	"moveId": 413,
-	"moveName": "Max Knuckle",
-	"proto": "VN_BM_005",
-	"fast": false,
-	"type": 2,
-	"power": 350,
-	"durationMs": 2500
+  "moveId": 413,
+  "moveName": "Max Knuckle",
+  "proto": "VN_BM_005",
+  "fast": false,
+  "type": 2,
+  "power": 350,
+  "durationMs": 2500
 }

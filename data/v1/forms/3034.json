@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "FLETCHINDER_NORMAL",
-	"formId": 3034,
-	"evolutions": [
-		{
-			"evoId": 663,
-			"formId": 3035,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "FLETCHINDER_NORMAL",
+  "formId": 3034,
+  "evolutions": [
+    {
+      "evoId": 663,
+      "formId": 3035,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

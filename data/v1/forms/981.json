@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CLEFAIRY_NORMAL",
-	"formId": 981,
-	"evolutions": [
-		{
-			"evoId": 36,
-			"formId": 984,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "CLEFAIRY_NORMAL",
+  "formId": 981,
+  "evolutions": [
+    {
+      "evoId": 36,
+      "formId": 984,
+      "candyCost": 50
+    }
+  ]
 }

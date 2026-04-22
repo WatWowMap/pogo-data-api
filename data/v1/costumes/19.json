@@ -1,6 +1,6 @@
 {
-	"id": 19,
-	"name": "Not For Release Beta",
-	"proto": "NOT_FOR_RELEASE_BETA",
-	"noEvolve": false
+  "id": 19,
+  "name": "Not For Release Beta",
+  "proto": "NOT_FOR_RELEASE_BETA",
+  "noEvolve": false
 }

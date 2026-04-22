@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "LAIRON_NORMAL",
-	"formId": 1472,
-	"evolutions": [
-		{
-			"evoId": 306,
-			"formId": 1475,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "LAIRON_NORMAL",
+  "formId": 1472,
+  "evolutions": [
+    {
+      "evoId": 306,
+      "formId": 1475,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

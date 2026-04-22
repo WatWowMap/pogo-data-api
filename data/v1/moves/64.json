@@ -1,12 +1,12 @@
 {
-	"moveId": 64,
-	"moveName": "Rock Slide",
-	"proto": "ROCK_SLIDE",
-	"fast": false,
-	"type": 6,
-	"pvpPower": 75,
-	"pvpEnergyDelta": -45,
-	"power": 75,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 64,
+  "moveName": "Rock Slide",
+  "proto": "ROCK_SLIDE",
+  "fast": false,
+  "type": 6,
+  "pvpPower": 75,
+  "pvpEnergyDelta": -45,
+  "power": 75,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

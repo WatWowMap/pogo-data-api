@@ -1,12 +1,12 @@
 {
-	"moveId": 47,
-	"moveName": "Petal Blizzard",
-	"proto": "PETAL_BLIZZARD",
-	"fast": false,
-	"type": 12,
-	"pvpPower": 110,
-	"pvpEnergyDelta": -65,
-	"power": 110,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 47,
+  "moveName": "Petal Blizzard",
+  "proto": "PETAL_BLIZZARD",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -65,
+  "power": 110,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

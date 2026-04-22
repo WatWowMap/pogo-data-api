@@ -1,62 +1,75 @@
 {
-	"pokemonName": "Sliggoo",
-	"pokedexId": 705,
-	"defaultFormId": 2810,
-	"types": [16],
-	"quickMoves": [221, 230],
-	"chargedMoves": [82, 91, 105, 316],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [2790, 2810],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.392
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.2
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.4
-		}
-	],
-	"attack": 159,
-	"defense": 176,
-	"stamina": 169,
-	"height": 0.8,
-	"weight": 17.5,
-	"family": 704,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 706,
-			"candyCost": 100
-		}
-	]
+  "pokemonName": "Sliggoo",
+  "pokedexId": 705,
+  "defaultFormId": 2810,
+  "types": [
+    16
+  ],
+  "quickMoves": [
+    221,
+    230
+  ],
+  "chargedMoves": [
+    82,
+    91,
+    105,
+    316
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2790,
+    2810
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 159,
+  "defense": 176,
+  "stamina": 169,
+  "height": 0.8,
+  "weight": 17.5,
+  "family": 704,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 706,
+      "candyCost": 100
+    }
+  ]
 }

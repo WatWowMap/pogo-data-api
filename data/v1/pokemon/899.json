@@ -1,57 +1,71 @@
 {
-	"pokemonName": "Wyrdeer",
-	"pokedexId": 899,
-	"defaultFormId": 3218,
-	"types": [1, 14],
-	"quickMoves": [221, 234, 235],
-	"chargedMoves": [22, 108, 127, 251],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [3218],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 206,
-	"defense": 145,
-	"stamina": 230,
-	"height": 1.8,
-	"weight": 95.1,
-	"family": 234,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Wyrdeer",
+  "pokedexId": 899,
+  "defaultFormId": 3218,
+  "types": [
+    1,
+    14
+  ],
+  "quickMoves": [
+    221,
+    234,
+    235
+  ],
+  "chargedMoves": [
+    22,
+    108,
+    127,
+    251
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3218
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 206,
+  "defense": 145,
+  "stamina": 230,
+  "height": 1.8,
+  "weight": 95.1,
+  "family": 234,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

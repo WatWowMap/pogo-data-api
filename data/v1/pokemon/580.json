@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Ducklett",
-	"pokedexId": 580,
-	"defaultFormId": 2138,
-	"types": [3, 11],
-	"quickMoves": [210, 230],
-	"chargedMoves": [45, 53, 256],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2138],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.875
-		}
-	],
-	"attack": 84,
-	"defense": 96,
-	"stamina": 158,
-	"height": 0.5,
-	"weight": 5.5,
-	"family": 580,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 581,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Ducklett",
+  "pokedexId": 580,
+  "defaultFormId": 2138,
+  "types": [
+    3,
+    11
+  ],
+  "quickMoves": [
+    210,
+    230
+  ],
+  "chargedMoves": [
+    45,
+    53,
+    256
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2138
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 84,
+  "defense": 96,
+  "stamina": 158,
+  "height": 0.5,
+  "weight": 5.5,
+  "family": 580,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 581,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

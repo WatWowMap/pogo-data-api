@@ -1,64 +1,73 @@
 {
-	"pokemonName": "Feebas",
-	"pokedexId": 349,
-	"defaultFormId": 1580,
-	"types": [11],
-	"quickMoves": [221, 231],
-	"chargedMoves": [276],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1580],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.22
-		}
-	],
-	"attack": 29,
-	"defense": 85,
-	"stamina": 85,
-	"height": 0.61,
-	"weight": 7.4,
-	"family": 349,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 350,
-			"candyCost": 100,
-			"questRequirement": "MILOTIC_EVOLUTION_QUEST"
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Feebas",
+  "pokedexId": 349,
+  "defaultFormId": 1580,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    221,
+    231
+  ],
+  "chargedMoves": [
+    276
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1580
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.22
+    }
+  ],
+  "attack": 29,
+  "defense": 85,
+  "stamina": 85,
+  "height": 0.61,
+  "weight": 7.4,
+  "family": 349,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 350,
+      "candyCost": 100,
+      "questRequirement": "MILOTIC_EVOLUTION_QUEST"
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

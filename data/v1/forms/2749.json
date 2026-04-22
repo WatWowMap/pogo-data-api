@@ -1,12 +1,12 @@
 {
-	"formName": "Garden",
-	"proto": "SCATTERBUG_GARDEN",
-	"formId": 2749,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2769,
-			"candyCost": 25
-		}
-	]
+  "formName": "Garden",
+  "proto": "SCATTERBUG_GARDEN",
+  "formId": 2749,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2769,
+      "candyCost": 25
+    }
+  ]
 }

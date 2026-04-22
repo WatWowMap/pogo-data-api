@@ -1,5 +1,5 @@
 {
-	"questId": 20,
-	"proto": "QUEST_JOIN_RAID",
-	"formatted": "Join Raid"
+  "questId": 20,
+  "proto": "QUEST_JOIN_RAID",
+  "formatted": "Join Raid"
 }

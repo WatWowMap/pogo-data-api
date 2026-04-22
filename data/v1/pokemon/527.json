@@ -1,62 +1,74 @@
 {
-	"pokemonName": "Woobat",
-	"pokedexId": 527,
-	"defaultFormId": 1985,
-	"types": [3, 14],
-	"quickMoves": [235, 255],
-	"chargedMoves": [45, 60, 121],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [1985],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.7
-		}
-	],
-	"attack": 107,
-	"defense": 85,
-	"stamina": 163,
-	"height": 0.4,
-	"weight": 2.1,
-	"family": 527,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 528,
-			"candyCost": 50,
-			"questRequirement": "SWOOBAT_EVOLUTION_QUEST"
-		}
-	]
+  "pokemonName": "Woobat",
+  "pokedexId": 527,
+  "defaultFormId": 1985,
+  "types": [
+    3,
+    14
+  ],
+  "quickMoves": [
+    235,
+    255
+  ],
+  "chargedMoves": [
+    45,
+    60,
+    121
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    1985
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7
+    }
+  ],
+  "attack": 107,
+  "defense": 85,
+  "stamina": 163,
+  "height": 0.4,
+  "weight": 2.1,
+  "family": 527,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 528,
+      "candyCost": 50,
+      "questRequirement": "SWOOBAT_EVOLUTION_QUEST"
+    }
+  ]
 }

@@ -1,71 +1,87 @@
 {
-	"pokemonName": "Lopunny",
-	"pokedexId": 428,
-	"defaultFormId": 1754,
-	"types": [1],
-	"quickMoves": [207, 222, 356],
-	"chargedMoves": [14, 115, 247, 391],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1754],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.588
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.8
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.86
-		}
-	],
-	"attack": 156,
-	"defense": 194,
-	"stamina": 163,
-	"height": 1.2,
-	"weight": 33.3,
-	"family": 427,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 282,
-			"defense": 214,
-			"stamina": 163,
-			"height": 1.3,
-			"weight": 28.3,
-			"types": [1, 2],
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	]
+  "pokemonName": "Lopunny",
+  "pokedexId": 428,
+  "defaultFormId": 1754,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    207,
+    222,
+    356
+  ],
+  "chargedMoves": [
+    14,
+    115,
+    247,
+    391
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1754
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.86
+    }
+  ],
+  "attack": 156,
+  "defense": 194,
+  "stamina": 163,
+  "height": 1.2,
+  "weight": 33.3,
+  "family": 427,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 282,
+      "defense": 214,
+      "stamina": 163,
+      "height": 1.3,
+      "weight": 28.3,
+      "types": [
+        1,
+        2
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "SKUNTANK_NORMAL",
-	"formId": 794,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SKUNTANK_NORMAL",
+  "formId": 794,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

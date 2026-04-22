@@ -1,6 +1,6 @@
 {
-	"formName": "Normal",
-	"proto": "DURALUDON_NORMAL",
-	"formId": 3208,
-	"gmaxMove": 452
+  "formName": "Normal",
+  "proto": "DURALUDON_NORMAL",
+  "formId": 3208,
+  "gmaxMove": 452
 }

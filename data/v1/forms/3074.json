@@ -1,17 +1,17 @@
 {
-	"formName": "Normal",
-	"proto": "DIANCIE_NORMAL",
-	"formId": 3074,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 342,
-			"defense": 235,
-			"stamina": 137,
-			"height": 1.1,
-			"weight": 27.8,
-			"firstEnergyCost": 300,
-			"subsequentEnergyCost": 60
-		}
-	]
+  "formName": "Normal",
+  "proto": "DIANCIE_NORMAL",
+  "formId": 3074,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 342,
+      "defense": 235,
+      "stamina": 137,
+      "height": 1.1,
+      "weight": 27.8,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ]
 }

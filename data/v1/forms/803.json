@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "GLIGAR_NORMAL",
-	"formId": 803,
-	"evolutions": [
-		{
-			"evoId": 472,
-			"formId": 806,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "GLIGAR_NORMAL",
+  "formId": 803,
+  "evolutions": [
+    {
+      "evoId": 472,
+      "formId": 806,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

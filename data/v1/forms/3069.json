@@ -1,16 +1,16 @@
 {
-	"formName": "Normal",
-	"proto": "BERGMITE_NORMAL",
-	"formId": 3069,
-	"evolutions": [
-		{
-			"evoId": 713,
-			"candyCost": 50
-		},
-		{
-			"evoId": 713,
-			"formId": 2795,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "BERGMITE_NORMAL",
+  "formId": 3069,
+  "evolutions": [
+    {
+      "evoId": 713,
+      "candyCost": 50
+    },
+    {
+      "evoId": 713,
+      "formId": 2795,
+      "candyCost": 50
+    }
+  ]
 }

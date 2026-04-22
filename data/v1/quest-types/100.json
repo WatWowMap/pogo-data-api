@@ -1,5 +1,5 @@
 {
-	"questId": 100,
-	"proto": "QUEST_NOMINATE_POKESTOP",
-	"formatted": "Nominate Pokestop"
+  "questId": 100,
+  "proto": "QUEST_NOMINATE_POKESTOP",
+  "formatted": "Nominate Pokestop"
 }

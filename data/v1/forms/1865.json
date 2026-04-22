@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "REGIGIGAS_NORMAL",
-	"formId": 1865,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Normal",
+  "proto": "REGIGIGAS_NORMAL",
+  "formId": 1865,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

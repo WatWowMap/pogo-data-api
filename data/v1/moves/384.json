@@ -1,16 +1,16 @@
 {
-	"moveId": 384,
-	"moveName": "Dragon Ascent",
-	"proto": "DRAGON_ASCENT",
-	"fast": false,
-	"type": 3,
-	"pvpPower": 150,
-	"pvpEnergyDelta": -70,
-	"pvpBuffs": {
-		"attackerDefenseStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 140,
-	"durationMs": 3500,
-	"energyDelta": -50
+  "moveId": 384,
+  "moveName": "Dragon Ascent",
+  "proto": "DRAGON_ASCENT",
+  "fast": false,
+  "type": 3,
+  "pvpPower": 150,
+  "pvpEnergyDelta": -70,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 140,
+  "durationMs": 3500,
+  "energyDelta": -50
 }

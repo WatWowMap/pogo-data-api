@@ -1,22 +1,22 @@
 {
-	"id": 502,
-	"type": "NPC 2",
-	"gender": 0,
-	"grunt": "Event",
-	"proto": "CHARACTER_EVENT_NPC_2",
-	"active": false,
-	"firstReward": false,
-	"secondReward": false,
-	"thirdReward": false,
-	"encounters": [
-		{
-			"position": "first"
-		},
-		{
-			"position": "second"
-		},
-		{
-			"position": "third"
-		}
-	]
+  "id": 502,
+  "type": "NPC 2",
+  "gender": 0,
+  "grunt": "Event",
+  "proto": "CHARACTER_EVENT_NPC_2",
+  "active": false,
+  "firstReward": false,
+  "secondReward": false,
+  "thirdReward": false,
+  "encounters": [
+    {
+      "position": "first"
+    },
+    {
+      "position": "second"
+    },
+    {
+      "position": "third"
+    }
+  ]
 }

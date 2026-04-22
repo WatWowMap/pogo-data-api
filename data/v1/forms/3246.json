@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "NACLSTACK_NORMAL",
-	"formId": 3246,
-	"evolutions": [
-		{
-			"evoId": 934,
-			"formId": 3247,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "NACLSTACK_NORMAL",
+  "formId": 3246,
+  "evolutions": [
+    {
+      "evoId": 934,
+      "formId": 3247,
+      "candyCost": 100
+    }
+  ]
 }

@@ -1,55 +1,69 @@
 {
-	"pokemonName": "Bruxish",
-	"pokedexId": 779,
-	"defaultFormId": 3124,
-	"types": [11, 14],
-	"quickMoves": [202, 230, 235],
-	"chargedMoves": [58, 60, 279, 353],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3124],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.441
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.45
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.35
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.8
-		}
-	],
-	"attack": 208,
-	"defense": 145,
-	"stamina": 169,
-	"height": 0.9,
-	"weight": 19,
-	"family": 779,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Bruxish",
+  "pokedexId": 779,
+  "defaultFormId": 3124,
+  "types": [
+    11,
+    14
+  ],
+  "quickMoves": [
+    202,
+    230,
+    235
+  ],
+  "chargedMoves": [
+    58,
+    60,
+    279,
+    353
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3124
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.441
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.45
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.35
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.8
+    }
+  ],
+  "attack": 208,
+  "defense": 145,
+  "stamina": 169,
+  "height": 0.9,
+  "weight": 19,
+  "family": 779,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

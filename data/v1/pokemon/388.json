@@ -1,66 +1,77 @@
 {
-	"pokemonName": "Grotle",
-	"pokedexId": 388,
-	"defaultFormId": 691,
-	"types": [12],
-	"quickMoves": [202, 215],
-	"chargedMoves": [116, 131, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [691],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.539
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.55
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.65
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.705
-		}
-	],
-	"attack": 157,
-	"defense": 143,
-	"stamina": 181,
-	"height": 1.1,
-	"weight": 97,
-	"family": 387,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 389,
-			"formId": 694,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Grotle",
+  "pokedexId": 388,
+  "defaultFormId": 691,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    202,
+    215
+  ],
+  "chargedMoves": [
+    116,
+    131,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    691
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.539
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.55
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.65
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.705
+    }
+  ],
+  "attack": 157,
+  "defense": 143,
+  "stamina": 181,
+  "height": 1.1,
+  "weight": 97,
+  "family": 387,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 389,
+      "formId": 694,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

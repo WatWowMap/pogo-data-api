@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "HONEDGE_NORMAL",
-	"formId": 3042,
-	"evolutions": [
-		{
-			"evoId": 680,
-			"formId": 3043,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "HONEDGE_NORMAL",
+  "formId": 3042,
+  "evolutions": [
+    {
+      "evoId": 680,
+      "formId": 3043,
+      "candyCost": 25
+    }
+  ]
 }

@@ -1,16 +1,16 @@
 {
-	"formName": "Normal",
-	"proto": "DELPHOX_NORMAL",
-	"formId": 3027,
-	"purificationDust": 3000,
-	"purificationCandy": 3,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 331,
-			"defense": 235,
-			"stamina": 181,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "DELPHOX_NORMAL",
+  "formId": 3027,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 331,
+      "defense": 235,
+      "stamina": 181,
+      "unreleased": true
+    }
+  ]
 }

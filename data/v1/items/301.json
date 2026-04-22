@@ -1,8 +1,8 @@
 {
-	"itemId": 301,
-	"itemName": "Lucky Egg",
-	"proto": "ITEM_LUCKY_EGG",
-	"type": "Xp Boost",
-	"category": "Xp Boost",
-	"minTrainerLevel": 1
+  "itemId": 301,
+  "itemName": "Lucky Egg",
+  "proto": "ITEM_LUCKY_EGG",
+  "type": "Xp Boost",
+  "category": "Xp Boost",
+  "minTrainerLevel": 1
 }

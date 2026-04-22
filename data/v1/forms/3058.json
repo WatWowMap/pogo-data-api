@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "TYRUNT_NORMAL",
-	"formId": 3058,
-	"evolutions": [
-		{
-			"evoId": 697,
-			"formId": 3059,
-			"candyCost": 50,
-			"onlyDaytime": true
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "TYRUNT_NORMAL",
+  "formId": 3058,
+  "evolutions": [
+    {
+      "evoId": 697,
+      "formId": 3059,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

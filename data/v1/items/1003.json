@@ -1,8 +1,8 @@
 {
-	"itemId": 1003,
-	"itemName": "Postcard Storage Upgrade",
-	"proto": "ITEM_POSTCARD_STORAGE_UPGRADE",
-	"type": "Inventory Upgrade",
-	"category": "Inventory Upgrade",
-	"minTrainerLevel": 100
+  "itemId": 1003,
+  "itemName": "Postcard Storage Upgrade",
+  "proto": "ITEM_POSTCARD_STORAGE_UPGRADE",
+  "type": "Inventory Upgrade",
+  "category": "Inventory Upgrade",
+  "minTrainerLevel": 100
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CUFANT_NORMAL",
-	"formId": 3202,
-	"evolutions": [
-		{
-			"evoId": 879,
-			"formId": 3203,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "CUFANT_NORMAL",
+  "formId": 3202,
+  "evolutions": [
+    {
+      "evoId": 879,
+      "formId": 3203,
+      "candyCost": 50
+    }
+  ]
 }

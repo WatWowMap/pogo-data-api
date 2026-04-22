@@ -1,12 +1,12 @@
 {
-	"moveId": 359,
-	"moveName": "Icicle Spear",
-	"proto": "ICICLE_SPEAR",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 70,
-	"pvpEnergyDelta": -40,
-	"power": 55,
-	"durationMs": 2000,
-	"energyDelta": -33
+  "moveId": 359,
+  "moveName": "Icicle Spear",
+  "proto": "ICICLE_SPEAR",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -40,
+  "power": 55,
+  "durationMs": 2000,
+  "energyDelta": -33
 }

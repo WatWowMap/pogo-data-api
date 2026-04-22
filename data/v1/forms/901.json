@@ -1,10 +1,17 @@
 {
-	"formName": "Vs 2019",
-	"proto": "PIKACHU_VS_2019",
-	"formId": 901,
-	"isCostume": true,
-	"quickMoves": [205, 320],
-	"chargedMoves": [77, 88, 331],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": []
+  "formName": "Vs 2019",
+  "proto": "PIKACHU_VS_2019",
+  "formId": 901,
+  "isCostume": true,
+  "quickMoves": [
+    205,
+    320
+  ],
+  "chargedMoves": [
+    77,
+    88,
+    331
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": []
 }

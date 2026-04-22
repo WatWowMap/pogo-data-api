@@ -1,8 +1,8 @@
 {
-	"formName": "Stellar",
-	"proto": "TERAPAGOS_STELLAR",
-	"formId": 2882,
-	"attack": 259,
-	"defense": 224,
-	"stamina": 330
+  "formName": "Stellar",
+  "proto": "TERAPAGOS_STELLAR",
+  "formId": 2882,
+  "attack": 259,
+  "defense": 224,
+  "stamina": 330
 }

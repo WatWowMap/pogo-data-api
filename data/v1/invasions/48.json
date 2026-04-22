@@ -1,58 +1,58 @@
 {
-	"id": 48,
-	"type": "Ghost",
-	"gender": 1,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_GHOST_GRUNT_MALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 92,
-			"formId": 1038,
-			"position": "first"
-		},
-		{
-			"id": 355,
-			"formId": 914,
-			"position": "first"
-		},
-		{
-			"id": 562,
-			"formId": 2084,
-			"position": "first"
-		},
-		{
-			"id": 302,
-			"formId": 923,
-			"position": "second"
-		},
-		{
-			"id": 356,
-			"formId": 917,
-			"position": "second"
-		},
-		{
-			"id": 563,
-			"formId": 2087,
-			"position": "second"
-		},
-		{
-			"id": 94,
-			"formId": 1044,
-			"position": "third"
-		},
-		{
-			"id": 478,
-			"formId": 1844,
-			"position": "third"
-		},
-		{
-			"id": 563,
-			"formId": 2087,
-			"position": "third"
-		}
-	]
+  "id": 48,
+  "type": "Ghost",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_GHOST_GRUNT_MALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 92,
+      "formId": 1038,
+      "position": "first"
+    },
+    {
+      "id": 355,
+      "formId": 914,
+      "position": "first"
+    },
+    {
+      "id": 562,
+      "formId": 2084,
+      "position": "first"
+    },
+    {
+      "id": 302,
+      "formId": 923,
+      "position": "second"
+    },
+    {
+      "id": 356,
+      "formId": 917,
+      "position": "second"
+    },
+    {
+      "id": 563,
+      "formId": 2087,
+      "position": "second"
+    },
+    {
+      "id": 94,
+      "formId": 1044,
+      "position": "third"
+    },
+    {
+      "id": 478,
+      "formId": 1844,
+      "position": "third"
+    },
+    {
+      "id": 563,
+      "formId": 2087,
+      "position": "third"
+    }
+  ]
 }

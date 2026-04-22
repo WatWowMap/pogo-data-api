@@ -1,7 +1,7 @@
 {
-	"itemId": 2108,
-	"itemName": "Event Pass Point Live Ops 08",
-	"proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_08",
-	"type": "Event Pass Point",
-	"category": "Event Pass Point"
+  "itemId": 2108,
+  "itemName": "Event Pass Point Live Ops 08",
+  "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_08",
+  "type": "Event Pass Point",
+  "category": "Event Pass Point"
 }

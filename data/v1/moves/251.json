@@ -1,16 +1,16 @@
 {
-	"moveId": 251,
-	"moveName": "Wild Charge",
-	"proto": "WILD_CHARGE",
-	"fast": false,
-	"type": 13,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -45,
-	"pvpBuffs": {
-		"attackerDefenseStatStageChange": -2,
-		"buffActivationChance": 1
-	},
-	"power": 90,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 251,
+  "moveName": "Wild Charge",
+  "proto": "WILD_CHARGE",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -2,
+    "buffActivationChance": 1
+  },
+  "power": 90,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

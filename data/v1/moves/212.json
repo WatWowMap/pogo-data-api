@@ -1,12 +1,12 @@
 {
-	"moveId": 212,
-	"moveName": "Lick",
-	"proto": "LICK_FAST",
-	"fast": true,
-	"type": 8,
-	"pvpPower": 3,
-	"pvpEnergyDelta": 3,
-	"power": 5,
-	"durationMs": 500,
-	"energyDelta": 6
+  "moveId": 212,
+  "moveName": "Lick",
+  "proto": "LICK_FAST",
+  "fast": true,
+  "type": 8,
+  "pvpPower": 3,
+  "pvpEnergyDelta": 3,
+  "power": 5,
+  "durationMs": 500,
+  "energyDelta": 6
 }

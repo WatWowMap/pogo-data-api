@@ -1,56 +1,67 @@
 {
-	"pokemonName": "Garganacl",
-	"pokedexId": 934,
-	"defaultFormId": 3247,
-	"types": [6],
-	"quickMoves": [216, 297],
-	"chargedMoves": [62, 63, 259],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3247],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.127
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.725
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 4.6
-		}
-	],
-	"attack": 171,
-	"defense": 212,
-	"stamina": 225,
-	"height": 2.3,
-	"weight": 240,
-	"family": 932,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Garganacl",
+  "pokedexId": 934,
+  "defaultFormId": 3247,
+  "types": [
+    6
+  ],
+  "quickMoves": [
+    216,
+    297
+  ],
+  "chargedMoves": [
+    62,
+    63,
+    259
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3247
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.127
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.725
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 4.6
+    }
+  ],
+  "attack": 171,
+  "defense": 212,
+  "stamina": 225,
+  "height": 2.3,
+  "weight": 240,
+  "family": 932,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

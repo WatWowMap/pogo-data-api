@@ -1,16 +1,16 @@
 {
-	"moveId": 309,
-	"moveName": "Mirror Shot",
-	"proto": "MIRROR_SHOT",
-	"fast": false,
-	"type": 9,
-	"pvpPower": 35,
-	"pvpEnergyDelta": -35,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 0.3
-	},
-	"power": 50,
-	"durationMs": 2500,
-	"energyDelta": -33
+  "moveId": 309,
+  "moveName": "Mirror Shot",
+  "proto": "MIRROR_SHOT",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 35,
+  "pvpEnergyDelta": -35,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 0.3
+  },
+  "power": 50,
+  "durationMs": 2500,
+  "energyDelta": -33
 }

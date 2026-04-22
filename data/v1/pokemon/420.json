@@ -1,67 +1,78 @@
 {
-	"pokemonName": "Cherubi",
-	"pokedexId": 420,
-	"defaultFormId": 1730,
-	"types": [12],
-	"quickMoves": [221, 271],
-	"chargedMoves": [47, 59, 86],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1730],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.8
-		}
-	],
-	"attack": 108,
-	"defense": 92,
-	"stamina": 128,
-	"height": 0.4,
-	"weight": 3.3,
-	"family": 420,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 421,
-			"formId": 94,
-			"candyCost": 50
-		},
-		{
-			"evoId": 421,
-			"formId": 95,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Cherubi",
+  "pokedexId": 420,
+  "defaultFormId": 1730,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    221,
+    271
+  ],
+  "chargedMoves": [
+    47,
+    59,
+    86
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1730
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8
+    }
+  ],
+  "attack": 108,
+  "defense": 92,
+  "stamina": 128,
+  "height": 0.4,
+  "weight": 3.3,
+  "family": 420,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 421,
+      "formId": 94,
+      "candyCost": 50
+    },
+    {
+      "evoId": 421,
+      "formId": 95,
+      "candyCost": 50
+    }
+  ]
 }

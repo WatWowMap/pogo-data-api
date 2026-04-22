@@ -1,45 +1,55 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.343
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.35
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.525
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.05
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.4
-		}
-	],
-	"formName": "Alola",
-	"proto": "GRIMER_ALOLA",
-	"formId": 74,
-	"height": 0.7,
-	"weight": 42,
-	"quickMoves": [202, 224],
-	"chargedMoves": [90, 92, 279],
-	"types": [4, 17],
-	"evolutions": [
-		{
-			"evoId": 89,
-			"formId": 76,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "formName": "Alola",
+  "proto": "GRIMER_ALOLA",
+  "formId": 74,
+  "height": 0.7,
+  "weight": 42,
+  "quickMoves": [
+    202,
+    224
+  ],
+  "chargedMoves": [
+    90,
+    92,
+    279
+  ],
+  "types": [
+    4,
+    17
+  ],
+  "evolutions": [
+    {
+      "evoId": 89,
+      "formId": 76,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

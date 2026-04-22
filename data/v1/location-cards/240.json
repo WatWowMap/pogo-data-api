@@ -1,6 +1,6 @@
 {
-	"id": 240,
-	"proto": "LC_ID_CAR_FREE_DAY",
-	"formatted": "Id Car Free Day",
-	"imageUrl": "lc_ID_CarFreeDay"
+  "id": 240,
+  "proto": "LC_ID_CAR_FREE_DAY",
+  "formatted": "Id Car Free Day",
+  "imageUrl": "lc_ID_CarFreeDay"
 }

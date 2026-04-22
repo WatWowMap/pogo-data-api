@@ -1,6 +1,6 @@
 {
-	"moveId": 81,
-	"moveName": "Dragon Breath",
-	"proto": "DRAGON_BREATH",
-	"fast": false
+  "moveId": 81,
+  "moveName": "Dragon Breath",
+  "proto": "DRAGON_BREATH",
+  "fast": false
 }

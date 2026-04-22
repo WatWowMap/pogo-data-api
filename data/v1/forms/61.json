@@ -1,10 +1,10 @@
 {
-	"formName": "Normal",
-	"proto": "DUGTRIO_NORMAL",
-	"formId": 61,
-	"attack": 167,
-	"defense": 136,
-	"stamina": 111,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "DUGTRIO_NORMAL",
+  "formId": 61,
+  "attack": 167,
+  "defense": 136,
+  "stamina": 111,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

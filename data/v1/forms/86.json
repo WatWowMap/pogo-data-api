@@ -1,10 +1,17 @@
 {
-	"formName": "Heat",
-	"proto": "ROTOM_HEAT",
-	"formId": 86,
-	"attack": 204,
-	"defense": 219,
-	"stamina": 137,
-	"chargedMoves": [78, 79, 270],
-	"types": [10, 13]
+  "formName": "Heat",
+  "proto": "ROTOM_HEAT",
+  "formId": 86,
+  "attack": 204,
+  "defense": 219,
+  "stamina": 137,
+  "chargedMoves": [
+    78,
+    79,
+    270
+  ],
+  "types": [
+    10,
+    13
+  ]
 }

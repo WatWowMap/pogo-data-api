@@ -1,402 +1,402 @@
 [
-	{
-		"questId": 0,
-		"proto": "UNSET",
-		"formatted": "Unset"
-	},
-	{
-		"questId": 1,
-		"proto": "WITH_POKEMON_TYPE",
-		"formatted": "With Pokemon Type"
-	},
-	{
-		"questId": 2,
-		"proto": "WITH_POKEMON_CATEGORY",
-		"formatted": "With Pokemon Category"
-	},
-	{
-		"questId": 3,
-		"proto": "WITH_WEATHER_BOOST",
-		"formatted": "With Weather Boost"
-	},
-	{
-		"questId": 4,
-		"proto": "WITH_DAILY_CAPTURE_BONUS",
-		"formatted": "With Daily Capture Bonus"
-	},
-	{
-		"questId": 5,
-		"proto": "WITH_DAILY_SPIN_BONUS",
-		"formatted": "With Daily Spin Bonus"
-	},
-	{
-		"questId": 6,
-		"proto": "WITH_WIN_RAID_STATUS",
-		"formatted": "With Win Raid Status"
-	},
-	{
-		"questId": 7,
-		"proto": "WITH_RAID_LEVEL",
-		"formatted": "With Raid Level"
-	},
-	{
-		"questId": 8,
-		"proto": "WITH_THROW_TYPE",
-		"formatted": "With Throw Type"
-	},
-	{
-		"questId": 9,
-		"proto": "WITH_WIN_GYM_BATTLE_STATUS",
-		"formatted": "With Win Gym Battle Status"
-	},
-	{
-		"questId": 10,
-		"proto": "WITH_SUPER_EFFECTIVE_CHARGE",
-		"formatted": "With Super Effective Charge"
-	},
-	{
-		"questId": 11,
-		"proto": "WITH_ITEM",
-		"formatted": "With Item"
-	},
-	{
-		"questId": 12,
-		"proto": "WITH_UNIQUE_POKESTOP",
-		"formatted": "With Unique Pokestop"
-	},
-	{
-		"questId": 13,
-		"proto": "WITH_QUEST_CONTEXT",
-		"formatted": "With Quest Context"
-	},
-	{
-		"questId": 14,
-		"proto": "WITH_THROW_TYPE_IN_A_ROW",
-		"formatted": "With Throw Type In A Row"
-	},
-	{
-		"questId": 15,
-		"proto": "WITH_CURVE_BALL",
-		"formatted": "With Curve Ball"
-	},
-	{
-		"questId": 16,
-		"proto": "WITH_BADGE_TYPE",
-		"formatted": "With Badge Type"
-	},
-	{
-		"questId": 17,
-		"proto": "WITH_PLAYER_LEVEL",
-		"formatted": "With Player Level"
-	},
-	{
-		"questId": 18,
-		"proto": "WITH_WIN_BATTLE_STATUS",
-		"formatted": "With Win Battle Status"
-	},
-	{
-		"questId": 19,
-		"proto": "WITH_NEW_FRIEND",
-		"formatted": "With New Friend"
-	},
-	{
-		"questId": 20,
-		"proto": "WITH_DAYS_IN_A_ROW",
-		"formatted": "With Days In A Row"
-	},
-	{
-		"questId": 21,
-		"proto": "WITH_UNIQUE_POKEMON",
-		"formatted": "With Unique Pokemon"
-	},
-	{
-		"questId": 22,
-		"proto": "WITH_NPC_COMBAT",
-		"formatted": "With NPC Combat"
-	},
-	{
-		"questId": 23,
-		"proto": "WITH_PVP_COMBAT",
-		"formatted": "With PVP Combat"
-	},
-	{
-		"questId": 24,
-		"proto": "WITH_LOCATION",
-		"formatted": "With Location"
-	},
-	{
-		"questId": 25,
-		"proto": "WITH_DISTANCE",
-		"formatted": "With Distance"
-	},
-	{
-		"questId": 26,
-		"proto": "WITH_POKEMON_ALIGNMENT",
-		"formatted": "With Pokemon Alignment"
-	},
-	{
-		"questId": 27,
-		"proto": "WITH_INVASION_CHARACTER",
-		"formatted": "With Invasion Character"
-	},
-	{
-		"questId": 28,
-		"proto": "WITH_BUDDY",
-		"formatted": "With Buddy"
-	},
-	{
-		"questId": 29,
-		"proto": "WITH_BUDDY_INTERESTING_POI",
-		"formatted": "With Buddy Interesting POI"
-	},
-	{
-		"questId": 30,
-		"proto": "WITH_DAILY_BUDDY_AFFECTION",
-		"formatted": "With Daily Buddy Affection"
-	},
-	{
-		"questId": 31,
-		"proto": "WITH_POKEMON_LEVEL",
-		"formatted": "With Pokemon Level"
-	},
-	{
-		"questId": 32,
-		"proto": "WITH_SINGLE_DAY",
-		"formatted": "With Single Day"
-	},
-	{
-		"questId": 33,
-		"proto": "WITH_UNIQUE_POKEMON_TEAM",
-		"formatted": "With Unique Pokemon Team"
-	},
-	{
-		"questId": 34,
-		"proto": "WITH_MAX_CP",
-		"formatted": "With Max CP"
-	},
-	{
-		"questId": 35,
-		"proto": "WITH_LUCKY_POKEMON",
-		"formatted": "With Lucky Pokemon"
-	},
-	{
-		"questId": 36,
-		"proto": "WITH_LEGENDARY_POKEMON",
-		"formatted": "With Legendary Pokemon"
-	},
-	{
-		"questId": 37,
-		"proto": "WITH_TEMP_EVO_POKEMON",
-		"formatted": "With Temp Evo Pokemon"
-	},
-	{
-		"questId": 38,
-		"proto": "WITH_GBL_RANK",
-		"formatted": "With GBL Rank"
-	},
-	{
-		"questId": 39,
-		"proto": "WITH_CATCHES_IN_A_ROW",
-		"formatted": "With Catches In A Row"
-	},
-	{
-		"questId": 40,
-		"proto": "WITH_ENCOUNTER_TYPE",
-		"formatted": "With Encounter Type"
-	},
-	{
-		"questId": 41,
-		"proto": "WITH_COMBAT_TYPE",
-		"formatted": "With Combat Type"
-	},
-	{
-		"questId": 42,
-		"proto": "WITH_GEOTARGETED_POI",
-		"formatted": "With Geotargeted POI"
-	},
-	{
-		"questId": 43,
-		"proto": "WITH_ITEM_TYPE",
-		"formatted": "With Item Type"
-	},
-	{
-		"questId": 44,
-		"proto": "WITH_RAID_ELAPSED_TIME",
-		"formatted": "With Raid Elapsed Time"
-	},
-	{
-		"questId": 45,
-		"proto": "WITH_FRIEND_LEVEL",
-		"formatted": "With Friend Level"
-	},
-	{
-		"questId": 46,
-		"proto": "WITH_STICKER",
-		"formatted": "With Sticker"
-	},
-	{
-		"questId": 47,
-		"proto": "WITH_POKEMON_CP",
-		"formatted": "With Pokemon CP"
-	},
-	{
-		"questId": 48,
-		"proto": "WITH_RAID_LOCATION",
-		"formatted": "With Raid Location"
-	},
-	{
-		"questId": 49,
-		"proto": "WITH_FRIENDS_RAID",
-		"formatted": "With Friends Raid"
-	},
-	{
-		"questId": 50,
-		"proto": "WITH_POKEMON_COSTUME",
-		"formatted": "With Pokemon Costume"
-	},
-	{
-		"questId": 51,
-		"proto": "WITH_APPLIED_ITEM",
-		"formatted": "With Applied Item"
-	},
-	{
-		"questId": 52,
-		"proto": "WITH_POKEMON_SIZE",
-		"formatted": "With Pokemon Size"
-	},
-	{
-		"questId": 53,
-		"proto": "WITH_TOTAL_DAYS",
-		"formatted": "With Total Days"
-	},
-	{
-		"questId": 54,
-		"proto": "WITH_DEVICE_TYPE",
-		"formatted": "With Device Type"
-	},
-	{
-		"questId": 55,
-		"proto": "WITH_ROUTE_TRAVEL",
-		"formatted": "With Route Travel"
-	},
-	{
-		"questId": 56,
-		"proto": "WITH_UNIQUE_ROUTE_TRAVEL",
-		"formatted": "With Unique Route Travel"
-	},
-	{
-		"questId": 57,
-		"proto": "WITH_TAPPABLE_TYPE",
-		"formatted": "With Tappable Type"
-	},
-	{
-		"questId": 58,
-		"proto": "WITH_IN_PARTY",
-		"formatted": "With In Party"
-	},
-	{
-		"questId": 59,
-		"proto": "WITH_SHINY_POKEMON",
-		"formatted": "With Shiny Pokemon"
-	},
-	{
-		"questId": 60,
-		"proto": "WITH_ABILITY_PARTY_POWER_DAMAGE_DEALT",
-		"formatted": "With Ability Party Power Damage Dealt"
-	},
-	{
-		"questId": 61,
-		"proto": "WITH_AUTH_PROVIDER_TYPE",
-		"formatted": "With Auth Provider Type"
-	},
-	{
-		"questId": 62,
-		"proto": "WITH_OPPONENT_POKEMON_BATTLE_STATUS",
-		"formatted": "With Opponent Pokemon Battle Status"
-	},
-	{
-		"questId": 63,
-		"proto": "WITH_FORT_ID",
-		"formatted": "With Fort Id"
-	},
-	{
-		"questId": 64,
-		"proto": "WITH_POKEMON_MOVE",
-		"formatted": "With Pokemon Move"
-	},
-	{
-		"questId": 65,
-		"proto": "WITH_POKEMON_FORM",
-		"formatted": "With Pokemon Form"
-	},
-	{
-		"questId": 66,
-		"proto": "WITH_BREAD_POKEMON",
-		"formatted": "With Bread Pokemon"
-	},
-	{
-		"questId": 67,
-		"proto": "WITH_BREAD_DOUGH_POKEMON",
-		"formatted": "With Bread Dough Pokemon"
-	},
-	{
-		"questId": 68,
-		"proto": "WITH_WIN_BREAD_BATTLE",
-		"formatted": "With Win Bread Battle"
-	},
-	{
-		"questId": 69,
-		"proto": "WITH_BREAD_MOVE_TYPE",
-		"formatted": "With Bread Move Type"
-	},
-	{
-		"questId": 70,
-		"proto": "WITH_STRONG_POKEMON",
-		"formatted": "With Strong Pokemon"
-	},
-	{
-		"questId": 71,
-		"proto": "WITH_POI_SPONSOR_ID",
-		"formatted": "With POI Sponsor Id"
-	},
-	{
-		"questId": 73,
-		"proto": "WITH_WIN_BREAD_DOUGH_BATTLE",
-		"formatted": "With Win Bread Dough Battle"
-	},
-	{
-		"questId": 74,
-		"proto": "WITH_PAGE_TYPE",
-		"formatted": "With Page Type"
-	},
-	{
-		"questId": 75,
-		"proto": "WITH_MAX_POKEMON",
-		"formatted": "With Max Pokemon"
-	},
-	{
-		"questId": 76,
-		"proto": "WITH_TRAINEE_POKEMON_ATTRIBUTES",
-		"formatted": "With Trainee Pokemon Attributes"
-	},
-	{
-		"questId": 77,
-		"proto": "WITH_BATTLE_OPPONENT_POKEMON",
-		"formatted": "With Battle Opponent Pokemon"
-	},
-	{
-		"questId": 78,
-		"proto": "WITH_POKEMON_TYPE_MOVE",
-		"formatted": "With Pokemon Type Move"
-	},
-	{
-		"questId": 79,
-		"proto": "WITH_POKEMON_FAMILY",
-		"formatted": "With Pokemon Family"
-	},
-	{
-		"questId": 80,
-		"proto": "WITH_QUEST_ID",
-		"formatted": "With Quest Id"
-	}
+  {
+    "questId": 0,
+    "proto": "UNSET",
+    "formatted": "Unset"
+  },
+  {
+    "questId": 1,
+    "proto": "WITH_POKEMON_TYPE",
+    "formatted": "With Pokemon Type"
+  },
+  {
+    "questId": 2,
+    "proto": "WITH_POKEMON_CATEGORY",
+    "formatted": "With Pokemon Category"
+  },
+  {
+    "questId": 3,
+    "proto": "WITH_WEATHER_BOOST",
+    "formatted": "With Weather Boost"
+  },
+  {
+    "questId": 4,
+    "proto": "WITH_DAILY_CAPTURE_BONUS",
+    "formatted": "With Daily Capture Bonus"
+  },
+  {
+    "questId": 5,
+    "proto": "WITH_DAILY_SPIN_BONUS",
+    "formatted": "With Daily Spin Bonus"
+  },
+  {
+    "questId": 6,
+    "proto": "WITH_WIN_RAID_STATUS",
+    "formatted": "With Win Raid Status"
+  },
+  {
+    "questId": 7,
+    "proto": "WITH_RAID_LEVEL",
+    "formatted": "With Raid Level"
+  },
+  {
+    "questId": 8,
+    "proto": "WITH_THROW_TYPE",
+    "formatted": "With Throw Type"
+  },
+  {
+    "questId": 9,
+    "proto": "WITH_WIN_GYM_BATTLE_STATUS",
+    "formatted": "With Win Gym Battle Status"
+  },
+  {
+    "questId": 10,
+    "proto": "WITH_SUPER_EFFECTIVE_CHARGE",
+    "formatted": "With Super Effective Charge"
+  },
+  {
+    "questId": 11,
+    "proto": "WITH_ITEM",
+    "formatted": "With Item"
+  },
+  {
+    "questId": 12,
+    "proto": "WITH_UNIQUE_POKESTOP",
+    "formatted": "With Unique Pokestop"
+  },
+  {
+    "questId": 13,
+    "proto": "WITH_QUEST_CONTEXT",
+    "formatted": "With Quest Context"
+  },
+  {
+    "questId": 14,
+    "proto": "WITH_THROW_TYPE_IN_A_ROW",
+    "formatted": "With Throw Type In A Row"
+  },
+  {
+    "questId": 15,
+    "proto": "WITH_CURVE_BALL",
+    "formatted": "With Curve Ball"
+  },
+  {
+    "questId": 16,
+    "proto": "WITH_BADGE_TYPE",
+    "formatted": "With Badge Type"
+  },
+  {
+    "questId": 17,
+    "proto": "WITH_PLAYER_LEVEL",
+    "formatted": "With Player Level"
+  },
+  {
+    "questId": 18,
+    "proto": "WITH_WIN_BATTLE_STATUS",
+    "formatted": "With Win Battle Status"
+  },
+  {
+    "questId": 19,
+    "proto": "WITH_NEW_FRIEND",
+    "formatted": "With New Friend"
+  },
+  {
+    "questId": 20,
+    "proto": "WITH_DAYS_IN_A_ROW",
+    "formatted": "With Days In A Row"
+  },
+  {
+    "questId": 21,
+    "proto": "WITH_UNIQUE_POKEMON",
+    "formatted": "With Unique Pokemon"
+  },
+  {
+    "questId": 22,
+    "proto": "WITH_NPC_COMBAT",
+    "formatted": "With NPC Combat"
+  },
+  {
+    "questId": 23,
+    "proto": "WITH_PVP_COMBAT",
+    "formatted": "With PVP Combat"
+  },
+  {
+    "questId": 24,
+    "proto": "WITH_LOCATION",
+    "formatted": "With Location"
+  },
+  {
+    "questId": 25,
+    "proto": "WITH_DISTANCE",
+    "formatted": "With Distance"
+  },
+  {
+    "questId": 26,
+    "proto": "WITH_POKEMON_ALIGNMENT",
+    "formatted": "With Pokemon Alignment"
+  },
+  {
+    "questId": 27,
+    "proto": "WITH_INVASION_CHARACTER",
+    "formatted": "With Invasion Character"
+  },
+  {
+    "questId": 28,
+    "proto": "WITH_BUDDY",
+    "formatted": "With Buddy"
+  },
+  {
+    "questId": 29,
+    "proto": "WITH_BUDDY_INTERESTING_POI",
+    "formatted": "With Buddy Interesting POI"
+  },
+  {
+    "questId": 30,
+    "proto": "WITH_DAILY_BUDDY_AFFECTION",
+    "formatted": "With Daily Buddy Affection"
+  },
+  {
+    "questId": 31,
+    "proto": "WITH_POKEMON_LEVEL",
+    "formatted": "With Pokemon Level"
+  },
+  {
+    "questId": 32,
+    "proto": "WITH_SINGLE_DAY",
+    "formatted": "With Single Day"
+  },
+  {
+    "questId": 33,
+    "proto": "WITH_UNIQUE_POKEMON_TEAM",
+    "formatted": "With Unique Pokemon Team"
+  },
+  {
+    "questId": 34,
+    "proto": "WITH_MAX_CP",
+    "formatted": "With Max CP"
+  },
+  {
+    "questId": 35,
+    "proto": "WITH_LUCKY_POKEMON",
+    "formatted": "With Lucky Pokemon"
+  },
+  {
+    "questId": 36,
+    "proto": "WITH_LEGENDARY_POKEMON",
+    "formatted": "With Legendary Pokemon"
+  },
+  {
+    "questId": 37,
+    "proto": "WITH_TEMP_EVO_POKEMON",
+    "formatted": "With Temp Evo Pokemon"
+  },
+  {
+    "questId": 38,
+    "proto": "WITH_GBL_RANK",
+    "formatted": "With GBL Rank"
+  },
+  {
+    "questId": 39,
+    "proto": "WITH_CATCHES_IN_A_ROW",
+    "formatted": "With Catches In A Row"
+  },
+  {
+    "questId": 40,
+    "proto": "WITH_ENCOUNTER_TYPE",
+    "formatted": "With Encounter Type"
+  },
+  {
+    "questId": 41,
+    "proto": "WITH_COMBAT_TYPE",
+    "formatted": "With Combat Type"
+  },
+  {
+    "questId": 42,
+    "proto": "WITH_GEOTARGETED_POI",
+    "formatted": "With Geotargeted POI"
+  },
+  {
+    "questId": 43,
+    "proto": "WITH_ITEM_TYPE",
+    "formatted": "With Item Type"
+  },
+  {
+    "questId": 44,
+    "proto": "WITH_RAID_ELAPSED_TIME",
+    "formatted": "With Raid Elapsed Time"
+  },
+  {
+    "questId": 45,
+    "proto": "WITH_FRIEND_LEVEL",
+    "formatted": "With Friend Level"
+  },
+  {
+    "questId": 46,
+    "proto": "WITH_STICKER",
+    "formatted": "With Sticker"
+  },
+  {
+    "questId": 47,
+    "proto": "WITH_POKEMON_CP",
+    "formatted": "With Pokemon CP"
+  },
+  {
+    "questId": 48,
+    "proto": "WITH_RAID_LOCATION",
+    "formatted": "With Raid Location"
+  },
+  {
+    "questId": 49,
+    "proto": "WITH_FRIENDS_RAID",
+    "formatted": "With Friends Raid"
+  },
+  {
+    "questId": 50,
+    "proto": "WITH_POKEMON_COSTUME",
+    "formatted": "With Pokemon Costume"
+  },
+  {
+    "questId": 51,
+    "proto": "WITH_APPLIED_ITEM",
+    "formatted": "With Applied Item"
+  },
+  {
+    "questId": 52,
+    "proto": "WITH_POKEMON_SIZE",
+    "formatted": "With Pokemon Size"
+  },
+  {
+    "questId": 53,
+    "proto": "WITH_TOTAL_DAYS",
+    "formatted": "With Total Days"
+  },
+  {
+    "questId": 54,
+    "proto": "WITH_DEVICE_TYPE",
+    "formatted": "With Device Type"
+  },
+  {
+    "questId": 55,
+    "proto": "WITH_ROUTE_TRAVEL",
+    "formatted": "With Route Travel"
+  },
+  {
+    "questId": 56,
+    "proto": "WITH_UNIQUE_ROUTE_TRAVEL",
+    "formatted": "With Unique Route Travel"
+  },
+  {
+    "questId": 57,
+    "proto": "WITH_TAPPABLE_TYPE",
+    "formatted": "With Tappable Type"
+  },
+  {
+    "questId": 58,
+    "proto": "WITH_IN_PARTY",
+    "formatted": "With In Party"
+  },
+  {
+    "questId": 59,
+    "proto": "WITH_SHINY_POKEMON",
+    "formatted": "With Shiny Pokemon"
+  },
+  {
+    "questId": 60,
+    "proto": "WITH_ABILITY_PARTY_POWER_DAMAGE_DEALT",
+    "formatted": "With Ability Party Power Damage Dealt"
+  },
+  {
+    "questId": 61,
+    "proto": "WITH_AUTH_PROVIDER_TYPE",
+    "formatted": "With Auth Provider Type"
+  },
+  {
+    "questId": 62,
+    "proto": "WITH_OPPONENT_POKEMON_BATTLE_STATUS",
+    "formatted": "With Opponent Pokemon Battle Status"
+  },
+  {
+    "questId": 63,
+    "proto": "WITH_FORT_ID",
+    "formatted": "With Fort Id"
+  },
+  {
+    "questId": 64,
+    "proto": "WITH_POKEMON_MOVE",
+    "formatted": "With Pokemon Move"
+  },
+  {
+    "questId": 65,
+    "proto": "WITH_POKEMON_FORM",
+    "formatted": "With Pokemon Form"
+  },
+  {
+    "questId": 66,
+    "proto": "WITH_BREAD_POKEMON",
+    "formatted": "With Bread Pokemon"
+  },
+  {
+    "questId": 67,
+    "proto": "WITH_BREAD_DOUGH_POKEMON",
+    "formatted": "With Bread Dough Pokemon"
+  },
+  {
+    "questId": 68,
+    "proto": "WITH_WIN_BREAD_BATTLE",
+    "formatted": "With Win Bread Battle"
+  },
+  {
+    "questId": 69,
+    "proto": "WITH_BREAD_MOVE_TYPE",
+    "formatted": "With Bread Move Type"
+  },
+  {
+    "questId": 70,
+    "proto": "WITH_STRONG_POKEMON",
+    "formatted": "With Strong Pokemon"
+  },
+  {
+    "questId": 71,
+    "proto": "WITH_POI_SPONSOR_ID",
+    "formatted": "With POI Sponsor Id"
+  },
+  {
+    "questId": 73,
+    "proto": "WITH_WIN_BREAD_DOUGH_BATTLE",
+    "formatted": "With Win Bread Dough Battle"
+  },
+  {
+    "questId": 74,
+    "proto": "WITH_PAGE_TYPE",
+    "formatted": "With Page Type"
+  },
+  {
+    "questId": 75,
+    "proto": "WITH_MAX_POKEMON",
+    "formatted": "With Max Pokemon"
+  },
+  {
+    "questId": 76,
+    "proto": "WITH_TRAINEE_POKEMON_ATTRIBUTES",
+    "formatted": "With Trainee Pokemon Attributes"
+  },
+  {
+    "questId": 77,
+    "proto": "WITH_BATTLE_OPPONENT_POKEMON",
+    "formatted": "With Battle Opponent Pokemon"
+  },
+  {
+    "questId": 78,
+    "proto": "WITH_POKEMON_TYPE_MOVE",
+    "formatted": "With Pokemon Type Move"
+  },
+  {
+    "questId": 79,
+    "proto": "WITH_POKEMON_FAMILY",
+    "formatted": "With Pokemon Family"
+  },
+  {
+    "questId": 80,
+    "proto": "WITH_QUEST_ID",
+    "formatted": "With Quest Id"
+  }
 ]

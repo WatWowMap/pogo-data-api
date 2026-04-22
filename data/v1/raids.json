@@ -1,102 +1,102 @@
 [
-	{
-		"id": 0,
-		"formatted": "Raid Level Unset",
-		"proto": "RAID_LEVEL_UNSET"
-	},
-	{
-		"id": 1,
-		"formatted": "Raid Level 1",
-		"proto": "RAID_LEVEL_1"
-	},
-	{
-		"id": 2,
-		"formatted": "Raid Level 2",
-		"proto": "RAID_LEVEL_2"
-	},
-	{
-		"id": 3,
-		"formatted": "Raid Level 3",
-		"proto": "RAID_LEVEL_3"
-	},
-	{
-		"id": 4,
-		"formatted": "Raid Level 4",
-		"proto": "RAID_LEVEL_4"
-	},
-	{
-		"id": 5,
-		"formatted": "Raid Level 5",
-		"proto": "RAID_LEVEL_5"
-	},
-	{
-		"id": 6,
-		"formatted": "Raid Level Mega",
-		"proto": "RAID_LEVEL_MEGA"
-	},
-	{
-		"id": 7,
-		"formatted": "Raid Level Mega 5",
-		"proto": "RAID_LEVEL_MEGA_5"
-	},
-	{
-		"id": 8,
-		"formatted": "Raid Level Ultra Beast",
-		"proto": "RAID_LEVEL_ULTRA_BEAST"
-	},
-	{
-		"id": 9,
-		"formatted": "Raid Level Extended Egg",
-		"proto": "RAID_LEVEL_EXTENDED_EGG"
-	},
-	{
-		"id": 10,
-		"formatted": "Raid Level Primal",
-		"proto": "RAID_LEVEL_PRIMAL"
-	},
-	{
-		"id": 11,
-		"formatted": "Raid Level 1 Shadow",
-		"proto": "RAID_LEVEL_1_SHADOW"
-	},
-	{
-		"id": 12,
-		"formatted": "Raid Level 2 Shadow",
-		"proto": "RAID_LEVEL_2_SHADOW"
-	},
-	{
-		"id": 13,
-		"formatted": "Raid Level 3 Shadow",
-		"proto": "RAID_LEVEL_3_SHADOW"
-	},
-	{
-		"id": 14,
-		"formatted": "Raid Level 4 Shadow",
-		"proto": "RAID_LEVEL_4_SHADOW"
-	},
-	{
-		"id": 15,
-		"formatted": "Raid Level 5 Shadow",
-		"proto": "RAID_LEVEL_5_SHADOW"
-	},
-	{
-		"id": 16,
-		"formatted": "Raid Level 4 Mega Enhanced",
-		"proto": "RAID_LEVEL_4_MEGA_ENHANCED"
-	},
-	{
-		"id": 17,
-		"formatted": "Raid Level 5 Mega Enhanced",
-		"proto": "RAID_LEVEL_5_MEGA_ENHANCED"
-	},
-	{
-		"id": 18,
-		"formatted": "Raid Level Coordinated 1",
-		"proto": "RAID_LEVEL_COORDINATED_1"
-	},
-	{
-		"id": 19,
-		"formatted": "Raid Level Coordinated 2",
-		"proto": "RAID_LEVEL_COORDINATED_2"
-	}
+  {
+    "id": 0,
+    "formatted": "Raid Level Unset",
+    "proto": "RAID_LEVEL_UNSET"
+  },
+  {
+    "id": 1,
+    "formatted": "Raid Level 1",
+    "proto": "RAID_LEVEL_1"
+  },
+  {
+    "id": 2,
+    "formatted": "Raid Level 2",
+    "proto": "RAID_LEVEL_2"
+  },
+  {
+    "id": 3,
+    "formatted": "Raid Level 3",
+    "proto": "RAID_LEVEL_3"
+  },
+  {
+    "id": 4,
+    "formatted": "Raid Level 4",
+    "proto": "RAID_LEVEL_4"
+  },
+  {
+    "id": 5,
+    "formatted": "Raid Level 5",
+    "proto": "RAID_LEVEL_5"
+  },
+  {
+    "id": 6,
+    "formatted": "Raid Level Mega",
+    "proto": "RAID_LEVEL_MEGA"
+  },
+  {
+    "id": 7,
+    "formatted": "Raid Level Mega 5",
+    "proto": "RAID_LEVEL_MEGA_5"
+  },
+  {
+    "id": 8,
+    "formatted": "Raid Level Ultra Beast",
+    "proto": "RAID_LEVEL_ULTRA_BEAST"
+  },
+  {
+    "id": 9,
+    "formatted": "Raid Level Extended Egg",
+    "proto": "RAID_LEVEL_EXTENDED_EGG"
+  },
+  {
+    "id": 10,
+    "formatted": "Raid Level Primal",
+    "proto": "RAID_LEVEL_PRIMAL"
+  },
+  {
+    "id": 11,
+    "formatted": "Raid Level 1 Shadow",
+    "proto": "RAID_LEVEL_1_SHADOW"
+  },
+  {
+    "id": 12,
+    "formatted": "Raid Level 2 Shadow",
+    "proto": "RAID_LEVEL_2_SHADOW"
+  },
+  {
+    "id": 13,
+    "formatted": "Raid Level 3 Shadow",
+    "proto": "RAID_LEVEL_3_SHADOW"
+  },
+  {
+    "id": 14,
+    "formatted": "Raid Level 4 Shadow",
+    "proto": "RAID_LEVEL_4_SHADOW"
+  },
+  {
+    "id": 15,
+    "formatted": "Raid Level 5 Shadow",
+    "proto": "RAID_LEVEL_5_SHADOW"
+  },
+  {
+    "id": 16,
+    "formatted": "Raid Level 4 Mega Enhanced",
+    "proto": "RAID_LEVEL_4_MEGA_ENHANCED"
+  },
+  {
+    "id": 17,
+    "formatted": "Raid Level 5 Mega Enhanced",
+    "proto": "RAID_LEVEL_5_MEGA_ENHANCED"
+  },
+  {
+    "id": 18,
+    "formatted": "Raid Level Coordinated 1",
+    "proto": "RAID_LEVEL_COORDINATED_1"
+  },
+  {
+    "id": 19,
+    "formatted": "Raid Level Coordinated 2",
+    "proto": "RAID_LEVEL_COORDINATED_2"
+  }
 ]

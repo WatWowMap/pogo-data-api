@@ -1,12 +1,12 @@
 {
-	"moveId": 300,
-	"moveName": "Last Resort",
-	"proto": "LAST_RESORT",
-	"fast": false,
-	"type": 1,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -55,
-	"power": 90,
-	"durationMs": 3000,
-	"energyDelta": -50
+  "moveId": 300,
+  "moveName": "Last Resort",
+  "proto": "LAST_RESORT",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -55,
+  "power": 90,
+  "durationMs": 3000,
+  "energyDelta": -50
 }

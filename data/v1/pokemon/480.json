@@ -1,54 +1,65 @@
 {
-	"pokemonName": "Uxie",
-	"pokedexId": 480,
-	"defaultFormId": 1847,
-	"types": [14],
-	"quickMoves": [235, 274],
-	"chargedMoves": [78, 125, 275],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1847],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.525
-		}
-	],
-	"attack": 156,
-	"defense": 270,
-	"stamina": 181,
-	"height": 0.3,
-	"weight": 0.3,
-	"family": 480,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Uxie",
+  "pokedexId": 480,
+  "defaultFormId": 1847,
+  "types": [
+    14
+  ],
+  "quickMoves": [
+    235,
+    274
+  ],
+  "chargedMoves": [
+    78,
+    125,
+    275
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1847
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    }
+  ],
+  "attack": 156,
+  "defense": 270,
+  "stamina": 181,
+  "height": 0.3,
+  "weight": 0.3,
+  "family": 480,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

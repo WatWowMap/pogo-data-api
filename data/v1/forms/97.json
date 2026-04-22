@@ -1,12 +1,12 @@
 {
-	"formName": "East Sea",
-	"proto": "SHELLOS_EAST_SEA",
-	"formId": 97,
-	"evolutions": [
-		{
-			"evoId": 423,
-			"formId": 99,
-			"candyCost": 50
-		}
-	]
+  "formName": "East Sea",
+  "proto": "SHELLOS_EAST_SEA",
+  "formId": 97,
+  "evolutions": [
+    {
+      "evoId": 423,
+      "formId": 99,
+      "candyCost": 50
+    }
+  ]
 }

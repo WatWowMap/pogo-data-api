@@ -1,61 +1,72 @@
 {
-	"pokemonName": "Sentret",
-	"pokedexId": 161,
-	"defaultFormId": 1145,
-	"types": [1],
-	"quickMoves": [219, 220],
-	"chargedMoves": [26, 123, 272],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1145],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3871
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.395
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5925
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.9875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.185
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.3825
-		}
-	],
-	"attack": 79,
-	"defense": 73,
-	"stamina": 111,
-	"height": 0.79,
-	"weight": 6,
-	"family": 161,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 162,
-			"candyCost": 25
-		}
-	]
+  "pokemonName": "Sentret",
+  "pokedexId": 161,
+  "defaultFormId": 1145,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    219,
+    220
+  ],
+  "chargedMoves": [
+    26,
+    123,
+    272
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1145
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 79,
+  "defense": 73,
+  "stamina": 111,
+  "height": 0.79,
+  "weight": 6,
+  "family": 161,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 162,
+      "candyCost": 25
+    }
+  ]
 }

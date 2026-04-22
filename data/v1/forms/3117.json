@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "SANDYGAST_NORMAL",
-	"formId": 3117,
-	"evolutions": [
-		{
-			"evoId": 770,
-			"formId": 3118,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "SANDYGAST_NORMAL",
+  "formId": 3117,
+  "evolutions": [
+    {
+      "evoId": 770,
+      "formId": 3118,
+      "candyCost": 50
+    }
+  ]
 }

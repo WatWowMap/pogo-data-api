@@ -1,24 +1,24 @@
 {
-	"formName": "Normal",
-	"proto": "LUCARIO_NORMAL",
-	"formId": 1793,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 310,
-			"defense": 175,
-			"stamina": 172,
-			"height": 1.3,
-			"weight": 57.5,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		},
-		{
-			"tempEvoId": 5,
-			"attack": 359,
-			"defense": 161,
-			"stamina": 172,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "LUCARIO_NORMAL",
+  "formId": 1793,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 310,
+      "defense": 175,
+      "stamina": 172,
+      "height": 1.3,
+      "weight": 57.5,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    },
+    {
+      "tempEvoId": 5,
+      "attack": 359,
+      "defense": 161,
+      "stamina": 172,
+      "unreleased": true
+    }
+  ]
 }

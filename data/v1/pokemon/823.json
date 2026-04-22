@@ -1,58 +1,73 @@
 {
-	"pokemonName": "Corviknight",
-	"pokedexId": 823,
-	"defaultFormId": 3162,
-	"types": [3, 9],
-	"quickMoves": [239, 255, 403],
-	"chargedMoves": [257, 333],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [74, 121],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [3162],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.078
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.65
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.41
-		}
-	],
-	"gmaxMove": 439,
-	"attack": 163,
-	"defense": 192,
-	"stamina": 221,
-	"height": 2.2,
-	"weight": 75,
-	"family": 821,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Corviknight",
+  "pokedexId": 823,
+  "defaultFormId": 3162,
+  "types": [
+    3,
+    9
+  ],
+  "quickMoves": [
+    239,
+    255,
+    403
+  ],
+  "chargedMoves": [
+    257,
+    333
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    74,
+    121
+  ],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    3162
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.078
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.65
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.41
+    }
+  ],
+  "gmaxMove": 439,
+  "attack": 163,
+  "defense": 192,
+  "stamina": 221,
+  "height": 2.2,
+  "weight": 75,
+  "family": 821,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

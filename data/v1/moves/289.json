@@ -1,12 +1,12 @@
 {
-	"moveId": 289,
-	"moveName": "Origin Pulse",
-	"proto": "ORIGIN_PULSE",
-	"fast": false,
-	"type": 11,
-	"pvpPower": 130,
-	"pvpEnergyDelta": -60,
-	"power": 120,
-	"durationMs": 1500,
-	"energyDelta": -100
+  "moveId": 289,
+  "moveName": "Origin Pulse",
+  "proto": "ORIGIN_PULSE",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 130,
+  "pvpEnergyDelta": -60,
+  "power": 120,
+  "durationMs": 1500,
+  "energyDelta": -100
 }

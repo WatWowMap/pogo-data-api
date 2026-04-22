@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "GRUMPIG_NORMAL",
-	"formId": 1529,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "GRUMPIG_NORMAL",
+  "formId": 1529,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

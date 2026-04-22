@@ -1,16 +1,16 @@
 {
-	"moveId": 245,
-	"moveName": "Close Combat",
-	"proto": "CLOSE_COMBAT",
-	"fast": false,
-	"type": 2,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -45,
-	"pvpBuffs": {
-		"attackerDefenseStatStageChange": -2,
-		"buffActivationChance": 1
-	},
-	"power": 105,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 245,
+  "moveName": "Close Combat",
+  "proto": "CLOSE_COMBAT",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -2,
+    "buffActivationChance": 1
+  },
+  "power": 105,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

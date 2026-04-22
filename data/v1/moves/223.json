@@ -1,12 +1,12 @@
 {
-	"moveId": 223,
-	"moveName": "Cut",
-	"proto": "CUT_FAST",
-	"fast": true,
-	"type": 1,
-	"pvpPower": 3,
-	"pvpEnergyDelta": 2,
-	"power": 5,
-	"durationMs": 500,
-	"energyDelta": 5
+  "moveId": 223,
+  "moveName": "Cut",
+  "proto": "CUT_FAST",
+  "fast": true,
+  "type": 1,
+  "pvpPower": 3,
+  "pvpEnergyDelta": 2,
+  "power": 5,
+  "durationMs": 500,
+  "energyDelta": 5
 }

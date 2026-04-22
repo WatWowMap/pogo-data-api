@@ -1,57 +1,70 @@
 {
-	"pokemonName": "Mandibuzz",
-	"pokedexId": 630,
-	"defaultFormId": 2282,
-	"types": [3, 17],
-	"quickMoves": [255, 278],
-	"chargedMoves": [16, 45, 70, 280],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2282],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.588
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.8
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.4
-		}
-	],
-	"attack": 129,
-	"defense": 205,
-	"stamina": 242,
-	"height": 1.2,
-	"weight": 39.5,
-	"family": 629,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Mandibuzz",
+  "pokedexId": 630,
+  "defaultFormId": 2282,
+  "types": [
+    3,
+    17
+  ],
+  "quickMoves": [
+    255,
+    278
+  ],
+  "chargedMoves": [
+    16,
+    45,
+    70,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2282
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.588
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.8
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.4
+    }
+  ],
+  "attack": 129,
+  "defense": 205,
+  "stamina": 242,
+  "height": 1.2,
+  "weight": 39.5,
+  "family": 629,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,9 +1,9 @@
 {
-	"moveId": 461,
-	"moveName": "Max Heal",
-	"proto": "VN_BM_053",
-	"fast": false,
-	"type": 1,
-	"power": 0,
-	"durationMs": 2500
+  "moveId": 461,
+  "moveName": "Max Heal",
+  "proto": "VN_BM_053",
+  "fast": false,
+  "type": 1,
+  "power": 0,
+  "durationMs": 2500
 }

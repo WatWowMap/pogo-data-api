@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "WHISCASH_NORMAL",
-	"formId": 1553,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "WHISCASH_NORMAL",
+  "formId": 1553,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

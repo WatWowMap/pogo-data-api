@@ -1,12 +1,12 @@
 {
-	"formName": "High Plains",
-	"proto": "SCATTERBUG_HIGH_PLAINS",
-	"formId": 2750,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2770,
-			"candyCost": 25
-		}
-	]
+  "formName": "High Plains",
+  "proto": "SCATTERBUG_HIGH_PLAINS",
+  "formId": 2750,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2770,
+      "candyCost": 25
+    }
+  ]
 }

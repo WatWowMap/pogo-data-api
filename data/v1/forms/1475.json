@@ -1,20 +1,22 @@
 {
-	"formName": "Normal",
-	"proto": "AGGRON_NORMAL",
-	"formId": 1475,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 247,
-			"defense": 331,
-			"stamina": 172,
-			"height": 2.2,
-			"weight": 395,
-			"types": [9],
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "AGGRON_NORMAL",
+  "formId": 1475,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 247,
+      "defense": 331,
+      "stamina": 172,
+      "height": 2.2,
+      "weight": 395,
+      "types": [
+        9
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

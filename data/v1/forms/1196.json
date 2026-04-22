@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "MARILL_NORMAL",
-	"formId": 1196,
-	"evolutions": [
-		{
-			"evoId": 184,
-			"formId": 1199,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "MARILL_NORMAL",
+  "formId": 1196,
+  "evolutions": [
+    {
+      "evoId": 184,
+      "formId": 1199,
+      "candyCost": 25
+    }
+  ]
 }

@@ -1,55 +1,69 @@
 {
-	"pokemonName": "Kecleon",
-	"pokedexId": 352,
-	"defaultFormId": 1586,
-	"types": [1],
-	"quickMoves": [203, 212],
-	"chargedMoves": [24, 39, 45, 66, 78, 280],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1586],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.4851
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.495
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.7425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.2375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.485
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.5345
-		}
-	],
-	"attack": 161,
-	"defense": 189,
-	"stamina": 155,
-	"height": 0.99,
-	"weight": 22,
-	"family": 352,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Kecleon",
+  "pokedexId": 352,
+  "defaultFormId": 1586,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    203,
+    212
+  ],
+  "chargedMoves": [
+    24,
+    39,
+    45,
+    66,
+    78,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1586
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.4851
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.495
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.7425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.2375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.485
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.5345
+    }
+  ],
+  "attack": 161,
+  "defense": 189,
+  "stamina": 155,
+  "height": 0.99,
+  "weight": 22,
+  "family": 352,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

@@ -1,69 +1,93 @@
 {
-	"pokemonName": "Spewpa",
-	"pokedexId": 665,
-	"defaultFormId": 2765,
-	"types": [7],
-	"quickMoves": [261],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [
-		2765, 2766, 2767, 2768, 2769, 2770, 2771, 2772, 2773, 2774, 2775, 2776,
-		2777, 2778, 2779, 2780, 2781, 2782, 2783, 2784
-	],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.075
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.525
-		},
-		{
-			"name": "disablePokedexRecordDisplayForForms",
-			"value": true
-		}
-	],
-	"attack": 48,
-	"defense": 89,
-	"stamina": 128,
-	"height": 0.3,
-	"weight": 8.4,
-	"family": 664,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 666,
-			"candyCost": 100
-		}
-	]
+  "pokemonName": "Spewpa",
+  "pokedexId": 665,
+  "defaultFormId": 2765,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    261
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2765,
+    2766,
+    2767,
+    2768,
+    2769,
+    2770,
+    2771,
+    2772,
+    2773,
+    2774,
+    2775,
+    2776,
+    2777,
+    2778,
+    2779,
+    2780,
+    2781,
+    2782,
+    2783,
+    2784
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.075
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.525
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "attack": 48,
+  "defense": 89,
+  "stamina": 128,
+  "height": 0.3,
+  "weight": 8.4,
+  "family": 664,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "candyCost": 100
+    }
+  ]
 }

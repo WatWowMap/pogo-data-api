@@ -1,6 +1,6 @@
 {
-	"id": 44,
-	"name": "Costume 8 Noevolve",
-	"proto": "COSTUME_8_NOEVOLVE",
-	"noEvolve": true
+  "id": 44,
+  "name": "Costume 8 Noevolve",
+  "proto": "COSTUME_8_NOEVOLVE",
+  "noEvolve": true
 }

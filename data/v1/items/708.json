@@ -1,8 +1,8 @@
 {
-	"itemId": 708,
-	"itemName": "Golden Pinap Berry",
-	"proto": "ITEM_GOLDEN_PINAP_BERRY",
-	"type": "Food",
-	"category": "Food",
-	"minTrainerLevel": 20
+  "itemId": 708,
+  "itemName": "Golden Pinap Berry",
+  "proto": "ITEM_GOLDEN_PINAP_BERRY",
+  "type": "Food",
+  "category": "Food",
+  "minTrainerLevel": 20
 }

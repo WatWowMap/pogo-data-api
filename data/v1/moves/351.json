@@ -1,6 +1,6 @@
 {
-	"moveId": 351,
-	"moveName": "Relic Song",
-	"proto": "RELIC_SONG",
-	"fast": false
+  "moveId": 351,
+  "moveName": "Relic Song",
+  "proto": "RELIC_SONG",
+  "fast": false
 }

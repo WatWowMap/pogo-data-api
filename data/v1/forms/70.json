@@ -1,21 +1,31 @@
 {
-	"formName": "Alola",
-	"proto": "GRAVELER_ALOLA",
-	"formId": 70,
-	"height": 1,
-	"weight": 110,
-	"quickMoves": [227, 250],
-	"chargedMoves": [32, 79, 259],
-	"eliteChargedMoves": [],
-	"types": [6, 13],
-	"evolutions": [
-		{
-			"evoId": 76,
-			"formId": 72,
-			"candyCost": 100,
-			"tradeBonus": true
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Alola",
+  "proto": "GRAVELER_ALOLA",
+  "formId": 70,
+  "height": 1,
+  "weight": 110,
+  "quickMoves": [
+    227,
+    250
+  ],
+  "chargedMoves": [
+    32,
+    79,
+    259
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    6,
+    13
+  ],
+  "evolutions": [
+    {
+      "evoId": 76,
+      "formId": 72,
+      "candyCost": 100,
+      "tradeBonus": true
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

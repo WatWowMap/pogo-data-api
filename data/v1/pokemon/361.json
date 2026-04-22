@@ -1,70 +1,81 @@
 {
-	"pokemonName": "Snorunt",
-	"pokedexId": 361,
-	"defaultFormId": 926,
-	"types": [15],
-	"quickMoves": [244, 264],
-	"chargedMoves": [70, 111, 254],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [926],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3479
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.355
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5325
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.8875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.065
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.2425
-		}
-	],
-	"attack": 95,
-	"defense": 95,
-	"stamina": 137,
-	"height": 0.71,
-	"weight": 16.8,
-	"family": 361,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 362,
-			"candyCost": 100
-		},
-		{
-			"evoId": 478,
-			"genderRequirement": 2,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Snorunt",
+  "pokedexId": 361,
+  "defaultFormId": 926,
+  "types": [
+    15
+  ],
+  "quickMoves": [
+    244,
+    264
+  ],
+  "chargedMoves": [
+    70,
+    111,
+    254
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    926
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3479
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.355
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.065
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.2425
+    }
+  ],
+  "attack": 95,
+  "defense": 95,
+  "stamina": 137,
+  "height": 0.71,
+  "weight": 16.8,
+  "family": 361,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 362,
+      "candyCost": 100
+    },
+    {
+      "evoId": 478,
+      "genderRequirement": 2,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

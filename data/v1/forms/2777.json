@@ -1,12 +1,12 @@
 {
-	"formName": "Ocean",
-	"proto": "SPEWPA_OCEAN",
-	"formId": 2777,
-	"evolutions": [
-		{
-			"evoId": 666,
-			"formId": 2606,
-			"candyCost": 100
-		}
-	]
+  "formName": "Ocean",
+  "proto": "SPEWPA_OCEAN",
+  "formId": 2777,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2606,
+      "candyCost": 100
+    }
+  ]
 }

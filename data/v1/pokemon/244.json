@@ -1,56 +1,71 @@
 {
-	"pokemonName": "Entei",
-	"pokedexId": 244,
-	"defaultFormId": 1334,
-	"types": [10],
-	"quickMoves": [240, 269],
-	"chargedMoves": [24, 74, 101, 103, 270, 393],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1334, 2732],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.0339
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.055
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.5825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.6375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.165
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.6925
-		}
-	],
-	"attack": 235,
-	"defense": 171,
-	"stamina": 251,
-	"height": 2.11,
-	"weight": 198,
-	"family": 244,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "pokemonName": "Entei",
+  "pokedexId": 244,
+  "defaultFormId": 1334,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    240,
+    269
+  ],
+  "chargedMoves": [
+    24,
+    74,
+    101,
+    103,
+    270,
+    393
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1334,
+    2732
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.0339
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.055
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.5825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.165
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.6925
+    }
+  ],
+  "attack": 235,
+  "defense": 171,
+  "stamina": 251,
+  "height": 2.11,
+  "weight": 198,
+  "family": 244,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

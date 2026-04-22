@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "BLIPBUG_NORMAL",
-	"formId": 3163,
-	"evolutions": [
-		{
-			"evoId": 825,
-			"formId": 3164,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "BLIPBUG_NORMAL",
+  "formId": 3163,
+  "evolutions": [
+    {
+      "evoId": 825,
+      "formId": 3164,
+      "candyCost": 25
+    }
+  ]
 }

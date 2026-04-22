@@ -1,62 +1,73 @@
 {
-	"pokemonName": "Yungoos",
-	"pokedexId": 734,
-	"defaultFormId": 3087,
-	"types": [1],
-	"quickMoves": [202, 221],
-	"chargedMoves": [63, 129, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3087],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.196
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.2
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.6
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.7
-		}
-	],
-	"attack": 122,
-	"defense": 56,
-	"stamina": 134,
-	"height": 0.4,
-	"weight": 6,
-	"family": 734,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 735,
-			"candyCost": 50,
-			"onlyDaytime": true
-		}
-	]
+  "pokemonName": "Yungoos",
+  "pokedexId": 734,
+  "defaultFormId": 3087,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    202,
+    221
+  ],
+  "chargedMoves": [
+    63,
+    129,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3087
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.196
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.2
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.6
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.7
+    }
+  ],
+  "attack": 122,
+  "defense": 56,
+  "stamina": 134,
+  "height": 0.4,
+  "weight": 6,
+  "family": 734,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 735,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ]
 }

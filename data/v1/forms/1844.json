@@ -1,16 +1,16 @@
 {
-	"formName": "Normal",
-	"proto": "FROSLASS_NORMAL",
-	"formId": 1844,
-	"purificationDust": 3000,
-	"purificationCandy": 3,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 289,
-			"defense": 194,
-			"stamina": 172,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "FROSLASS_NORMAL",
+  "formId": 1844,
+  "purificationDust": 3000,
+  "purificationCandy": 3,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 289,
+      "defense": 194,
+      "stamina": 172,
+      "unreleased": true
+    }
+  ]
 }

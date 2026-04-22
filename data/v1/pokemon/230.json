@@ -1,59 +1,75 @@
 {
-	"pokemonName": "Kingdra",
-	"pokedexId": 230,
-	"defaultFormId": 1298,
-	"types": [11, 16],
-	"quickMoves": [204, 283],
-	"chargedMoves": [40, 107, 125, 277, 308],
-	"eliteQuickMoves": [230],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1298],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.15
-		}
-	],
-	"attack": 194,
-	"defense": 194,
-	"stamina": 181,
-	"height": 1.8,
-	"weight": 152,
-	"family": 116,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Kingdra",
+  "pokedexId": 230,
+  "defaultFormId": 1298,
+  "types": [
+    11,
+    16
+  ],
+  "quickMoves": [
+    204,
+    283
+  ],
+  "chargedMoves": [
+    40,
+    107,
+    125,
+    277,
+    308
+  ],
+  "eliteQuickMoves": [
+    230
+  ],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1298
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.15
+    }
+  ],
+  "attack": 194,
+  "defense": 194,
+  "stamina": 181,
+  "height": 1.8,
+  "weight": 152,
+  "family": 116,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

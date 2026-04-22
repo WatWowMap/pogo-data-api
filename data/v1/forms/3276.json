@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "FINIZEN_NORMAL",
-	"formId": 3276,
-	"evolutions": [
-		{
-			"evoId": 964,
-			"formId": 2989,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "FINIZEN_NORMAL",
+  "formId": 3276,
+  "evolutions": [
+    {
+      "evoId": 964,
+      "formId": 2989,
+      "candyCost": 50
+    }
+  ]
 }

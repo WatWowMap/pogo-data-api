@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "GABITE_NORMAL",
-	"formId": 864,
-	"evolutions": [
-		{
-			"evoId": 445,
-			"formId": 867,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "GABITE_NORMAL",
+  "formId": 864,
+  "evolutions": [
+    {
+      "evoId": 445,
+      "formId": 867,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

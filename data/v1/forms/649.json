@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "FLAAFFY_NORMAL",
-	"formId": 649,
-	"evolutions": [
-		{
-			"evoId": 181,
-			"formId": 652,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "FLAAFFY_NORMAL",
+  "formId": 649,
+  "evolutions": [
+    {
+      "evoId": 181,
+      "formId": 652,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

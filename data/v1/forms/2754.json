@@ -1,12 +1,12 @@
 {
-	"formName": "Meadow",
-	"proto": "SCATTERBUG_MEADOW",
-	"formId": 2754,
-	"evolutions": [
-		{
-			"evoId": 665,
-			"formId": 2774,
-			"candyCost": 25
-		}
-	]
+  "formName": "Meadow",
+  "proto": "SCATTERBUG_MEADOW",
+  "formId": 2754,
+  "evolutions": [
+    {
+      "evoId": 665,
+      "formId": 2774,
+      "candyCost": 25
+    }
+  ]
 }

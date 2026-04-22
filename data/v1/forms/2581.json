@@ -1,6 +1,6 @@
 {
-	"formName": "Normal",
-	"proto": "ETERNATUS_NORMAL",
-	"formId": 2581,
-	"gmaxMove": 483
+  "formName": "Normal",
+  "proto": "ETERNATUS_NORMAL",
+  "formId": 2581,
+  "gmaxMove": 483
 }

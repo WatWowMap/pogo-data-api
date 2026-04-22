@@ -1,62 +1,75 @@
 {
-	"pokemonName": "Fomantis",
-	"pokedexId": 753,
-	"defaultFormId": 3102,
-	"types": [12],
-	"quickMoves": [200, 215, 385],
-	"chargedMoves": [117, 272, 273, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3102],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.6
-		}
-	],
-	"attack": 100,
-	"defense": 64,
-	"stamina": 120,
-	"height": 0.3,
-	"weight": 1.5,
-	"family": 753,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 1,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 754,
-			"candyCost": 50,
-			"onlyDaytime": true
-		}
-	]
+  "pokemonName": "Fomantis",
+  "pokedexId": 753,
+  "defaultFormId": 3102,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    200,
+    215,
+    385
+  ],
+  "chargedMoves": [
+    117,
+    272,
+    273,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3102
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.6
+    }
+  ],
+  "attack": 100,
+  "defense": 64,
+  "stamina": 120,
+  "height": 0.3,
+  "weight": 1.5,
+  "family": 753,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 1,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 754,
+      "candyCost": 50,
+      "onlyDaytime": true
+    }
+  ]
 }

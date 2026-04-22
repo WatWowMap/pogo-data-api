@@ -1,64 +1,80 @@
 {
-	"pokemonName": "Bidoof",
-	"pokedexId": 399,
-	"defaultFormId": 1667,
-	"types": [1],
-	"quickMoves": [221, 282],
-	"chargedMoves": [129, 272, 279],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [39, 70, 79, 310],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1667],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.245
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.375
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.875
-		}
-	],
-	"attack": 80,
-	"defense": 73,
-	"stamina": 153,
-	"height": 0.5,
-	"weight": 20,
-	"family": 399,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 400,
-			"formId": 1670,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Bidoof",
+  "pokedexId": 399,
+  "defaultFormId": 1667,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    221,
+    282
+  ],
+  "chargedMoves": [
+    129,
+    272,
+    279
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    39,
+    70,
+    79,
+    310
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1667
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.245
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.375
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.875
+    }
+  ],
+  "attack": 80,
+  "defense": 73,
+  "stamina": 153,
+  "height": 0.5,
+  "weight": 20,
+  "family": 399,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 400,
+      "formId": 1670,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

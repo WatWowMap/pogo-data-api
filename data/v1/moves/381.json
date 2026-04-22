@@ -1,12 +1,12 @@
 {
-	"moveId": 381,
-	"moveName": "Double Iron Bash",
-	"proto": "DOUBLE_IRON_BASH",
-	"fast": false,
-	"type": 9,
-	"pvpPower": 55,
-	"pvpEnergyDelta": -35,
-	"power": 70,
-	"durationMs": 2000,
-	"energyDelta": -33
+  "moveId": 381,
+  "moveName": "Double Iron Bash",
+  "proto": "DOUBLE_IRON_BASH",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 55,
+  "pvpEnergyDelta": -35,
+  "power": 70,
+  "durationMs": 2000,
+  "energyDelta": -33
 }

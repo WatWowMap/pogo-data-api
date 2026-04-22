@@ -1,12 +1,17 @@
 {
-	"formName": "Heart",
-	"proto": "FURFROU_HEART",
-	"formId": 2630,
-	"formChanges": [
-		{
-			"availableForms": [2629, 2632, 2634, 2635],
-			"candyCost": 25,
-			"stardustCost": 10000
-		}
-	]
+  "formName": "Heart",
+  "proto": "FURFROU_HEART",
+  "formId": 2630,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2632,
+        2634,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
 }

@@ -1,65 +1,77 @@
 {
-	"evolutions": [
-		{
-			"evoId": 291,
-			"candyCost": 50
-		},
-		{
-			"evoId": 292,
-			"formId": 1439
-		}
-	],
-	"legendary": false,
-	"mythic": false,
-	"pokemonName": "Nincada",
-	"pokedexId": 290,
-	"defaultFormId": 1433,
-	"types": [5, 7],
-	"quickMoves": [201, 220],
-	"chargedMoves": [45, 49, 51],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1433],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2499
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.255
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.6375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.765
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.8925
-		}
-	],
-	"attack": 80,
-	"defense": 126,
-	"stamina": 104,
-	"height": 0.51,
-	"weight": 5.5,
-	"family": 290,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "evolutions": [
+    {
+      "evoId": 291,
+      "candyCost": 50
+    },
+    {
+      "evoId": 292,
+      "formId": 1439
+    }
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokemonName": "Nincada",
+  "pokedexId": 290,
+  "defaultFormId": 1433,
+  "types": [
+    5,
+    7
+  ],
+  "quickMoves": [
+    201,
+    220
+  ],
+  "chargedMoves": [
+    45,
+    49,
+    51
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1433
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2499
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.255
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.765
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8925
+    }
+  ],
+  "attack": 80,
+  "defense": 126,
+  "stamina": 104,
+  "height": 0.51,
+  "weight": 5.5,
+  "family": 290,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

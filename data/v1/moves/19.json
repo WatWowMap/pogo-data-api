@@ -1,6 +1,6 @@
 {
-	"moveId": 19,
-	"moveName": "Metal Claw",
-	"proto": "METAL_CLAW",
-	"fast": false
+  "moveId": 19,
+  "moveName": "Metal Claw",
+  "proto": "METAL_CLAW",
+  "fast": false
 }

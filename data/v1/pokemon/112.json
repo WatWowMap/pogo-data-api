@@ -1,67 +1,82 @@
 {
-	"pokemonName": "Rhydon",
-	"pokedexId": 112,
-	"defaultFormId": 849,
-	"types": [5, 6],
-	"quickMoves": [233, 241],
-	"chargedMoves": [31, 32, 284, 379],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [22],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [849],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.931
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.95
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.85
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.325
-		}
-	],
-	"attack": 222,
-	"defense": 171,
-	"stamina": 233,
-	"height": 1.9,
-	"weight": 120,
-	"family": 111,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 464,
-			"formId": 852,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Rhydon",
+  "pokedexId": 112,
+  "defaultFormId": 849,
+  "types": [
+    5,
+    6
+  ],
+  "quickMoves": [
+    233,
+    241
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    284,
+    379
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    22
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    849
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.325
+    }
+  ],
+  "attack": 222,
+  "defense": 171,
+  "stamina": 233,
+  "height": 1.9,
+  "weight": 120,
+  "family": 111,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 464,
+      "formId": 852,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

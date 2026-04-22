@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "BONSLY_NORMAL",
-	"formId": 1772,
-	"evolutions": [
-		{
-			"evoId": 185,
-			"formId": 1202,
-			"candyCost": 50,
-			"questRequirement": "SUDOWOODO_EVOLUTION_QUEST"
-		}
-	]
+  "formName": "Normal",
+  "proto": "BONSLY_NORMAL",
+  "formId": 1772,
+  "evolutions": [
+    {
+      "evoId": 185,
+      "formId": 1202,
+      "candyCost": 50,
+      "questRequirement": "SUDOWOODO_EVOLUTION_QUEST"
+    }
+  ]
 }

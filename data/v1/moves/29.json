@@ -1,6 +1,6 @@
 {
-	"moveId": 29,
-	"moveName": "Psycho Cut",
-	"proto": "PSYCHO_CUT",
-	"fast": false
+  "moveId": 29,
+  "moveName": "Psycho Cut",
+  "proto": "PSYCHO_CUT",
+  "fast": false
 }

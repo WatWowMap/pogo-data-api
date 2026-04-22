@@ -1,68 +1,80 @@
 {
-	"pokemonName": "Burmy",
-	"pokedexId": 412,
-	"defaultFormId": 118,
-	"types": [7],
-	"quickMoves": [201, 221],
-	"chargedMoves": [133],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [118, 119, 120, 1706],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.35
-		}
-	],
-	"attack": 53,
-	"defense": 83,
-	"stamina": 120,
-	"height": 0.2,
-	"weight": 3.4,
-	"family": 412,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 413,
-			"formId": 87,
-			"genderRequirement": 2,
-			"candyCost": 50
-		},
-		{
-			"evoId": 414,
-			"genderRequirement": 1,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Burmy",
+  "pokedexId": 412,
+  "defaultFormId": 118,
+  "types": [
+    7
+  ],
+  "quickMoves": [
+    201,
+    221
+  ],
+  "chargedMoves": [
+    133
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    118,
+    119,
+    120,
+    1706
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 53,
+  "defense": 83,
+  "stamina": 120,
+  "height": 0.2,
+  "weight": 3.4,
+  "family": 412,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 413,
+      "formId": 87,
+      "genderRequirement": 2,
+      "candyCost": 50
+    },
+    {
+      "evoId": 414,
+      "genderRequirement": 1,
+      "candyCost": 50
+    }
+  ]
 }

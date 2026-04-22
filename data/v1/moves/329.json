@@ -1,10 +1,10 @@
 {
-	"moveId": 329,
-	"moveName": "Fissure",
-	"proto": "FISSURE",
-	"fast": false,
-	"type": 5,
-	"power": 9001,
-	"durationMs": 3000,
-	"energyDelta": -25
+  "moveId": 329,
+  "moveName": "Fissure",
+  "proto": "FISSURE",
+  "fast": false,
+  "type": 5,
+  "power": 9001,
+  "durationMs": 3000,
+  "energyDelta": -25
 }

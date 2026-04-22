@@ -1,5 +1,5 @@
 {
-	"questId": 68,
-	"proto": "QUEST_NPC_SEND_GIFT",
-	"formatted": "NPC Send Gift"
+  "questId": 68,
+  "proto": "QUEST_NPC_SEND_GIFT",
+  "formatted": "NPC Send Gift"
 }

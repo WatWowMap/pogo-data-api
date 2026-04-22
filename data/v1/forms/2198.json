@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "TYNAMO_NORMAL",
-	"formId": 2198,
-	"evolutions": [
-		{
-			"evoId": 603,
-			"formId": 2201,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "TYNAMO_NORMAL",
+  "formId": 2198,
+  "evolutions": [
+    {
+      "evoId": 603,
+      "formId": 2201,
+      "candyCost": 25
+    }
+  ]
 }

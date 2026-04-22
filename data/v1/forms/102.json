@@ -1,6 +1,8 @@
 {
-	"formName": "Flying",
-	"proto": "ARCEUS_FLYING",
-	"formId": 102,
-	"types": [3]
+  "formName": "Flying",
+  "proto": "ARCEUS_FLYING",
+  "formId": 102,
+  "types": [
+    3
+  ]
 }

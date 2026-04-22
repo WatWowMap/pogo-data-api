@@ -1,7 +1,13 @@
 {
-	"formName": "Burn",
-	"proto": "GENESECT_BURN",
-	"formId": 595,
-	"chargedMoves": [24, 72, 100],
-	"eliteChargedMoves": [337]
+  "formName": "Burn",
+  "proto": "GENESECT_BURN",
+  "formId": 595,
+  "chargedMoves": [
+    24,
+    72,
+    100
+  ],
+  "eliteChargedMoves": [
+    337
+  ]
 }

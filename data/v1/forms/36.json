@@ -1,9 +1,13 @@
 {
-	"formName": "Speed",
-	"proto": "DEOXYS_SPEED",
-	"formId": 36,
-	"attack": 230,
-	"defense": 218,
-	"stamina": 137,
-	"chargedMoves": [79, 125, 288]
+  "formName": "Speed",
+  "proto": "DEOXYS_SPEED",
+  "formId": 36,
+  "attack": 230,
+  "defense": 218,
+  "stamina": 137,
+  "chargedMoves": [
+    79,
+    125,
+    288
+  ]
 }

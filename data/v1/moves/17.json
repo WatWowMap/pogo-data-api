@@ -1,6 +1,6 @@
 {
-	"moveId": 17,
-	"moveName": "Smog",
-	"proto": "SMOG",
-	"fast": false
+  "moveId": 17,
+  "moveName": "Smog",
+  "proto": "SMOG",
+  "fast": false
 }

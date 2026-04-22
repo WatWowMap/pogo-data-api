@@ -1,6 +1,6 @@
 {
-	"moveId": 349,
-	"moveName": "Fiery Dance",
-	"proto": "FIERY_DANCE",
-	"fast": false
+  "moveId": 349,
+  "moveName": "Fiery Dance",
+  "proto": "FIERY_DANCE",
+  "fast": false
 }

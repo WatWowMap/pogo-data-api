@@ -1,8 +1,8 @@
 {
-	"itemId": 1504,
-	"itemName": "Shadow Gem Fragment",
-	"proto": "ITEM_SHADOW_GEM_FRAGMENT",
-	"type": "Incident Ticket",
-	"category": "Incident Ticket",
-	"minTrainerLevel": 5
+  "itemId": 1504,
+  "itemName": "Shadow Gem Fragment",
+  "proto": "ITEM_SHADOW_GEM_FRAGMENT",
+  "type": "Incident Ticket",
+  "category": "Incident Ticket",
+  "minTrainerLevel": 5
 }

@@ -1,13 +1,13 @@
 {
-	"formName": "Normal",
-	"proto": "BISHARP_NORMAL",
-	"formId": 2267,
-	"evolutions": [
-		{
-			"evoId": 983,
-			"formId": 3293,
-			"candyCost": 100,
-			"questRequirement": "BISHARP_KINGAMBIT_EVOLUTION_QUEST"
-		}
-	]
+  "formName": "Normal",
+  "proto": "BISHARP_NORMAL",
+  "formId": 2267,
+  "evolutions": [
+    {
+      "evoId": 983,
+      "formId": 3293,
+      "candyCost": 100,
+      "questRequirement": "BISHARP_KINGAMBIT_EVOLUTION_QUEST"
+    }
+  ]
 }

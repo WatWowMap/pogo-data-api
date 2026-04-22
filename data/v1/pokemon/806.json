@@ -1,54 +1,68 @@
 {
-	"pokemonName": "Blacephalon",
-	"pokedexId": 806,
-	"defaultFormId": 3149,
-	"types": [8, 10],
-	"quickMoves": [263, 346],
-	"chargedMoves": [70, 270, 382],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [491],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3149],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 315,
-	"defense": 148,
-	"stamina": 142,
-	"height": 1.8,
-	"weight": 13,
-	"family": 806,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": true,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Blacephalon",
+  "pokedexId": 806,
+  "defaultFormId": 3149,
+  "types": [
+    8,
+    10
+  ],
+  "quickMoves": [
+    263,
+    346
+  ],
+  "chargedMoves": [
+    70,
+    270,
+    382
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    491
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3149
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 315,
+  "defense": 148,
+  "stamina": 142,
+  "height": 1.8,
+  "weight": 13,
+  "family": 806,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": true,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

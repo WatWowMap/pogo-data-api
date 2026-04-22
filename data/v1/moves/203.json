@@ -1,13 +1,13 @@
 {
-	"moveId": 203,
-	"moveName": "Sucker Punch",
-	"proto": "SUCKER_PUNCH_FAST",
-	"fast": true,
-	"type": 17,
-	"pvpPower": 8,
-	"pvpEnergyDelta": 7,
-	"pvpDurationTurns": 1,
-	"power": 5,
-	"durationMs": 500,
-	"energyDelta": 6
+  "moveId": 203,
+  "moveName": "Sucker Punch",
+  "proto": "SUCKER_PUNCH_FAST",
+  "fast": true,
+  "type": 17,
+  "pvpPower": 8,
+  "pvpEnergyDelta": 7,
+  "pvpDurationTurns": 1,
+  "power": 5,
+  "durationMs": 500,
+  "energyDelta": 6
 }

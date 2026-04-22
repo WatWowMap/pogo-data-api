@@ -1,20 +1,23 @@
 {
-	"formName": "Normal",
-	"proto": "SCEPTILE_NORMAL",
-	"formId": 1355,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 320,
-			"defense": 186,
-			"stamina": 172,
-			"height": 1.9,
-			"weight": 55.2,
-			"types": [12, 16],
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SCEPTILE_NORMAL",
+  "formId": 1355,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 320,
+      "defense": 186,
+      "stamina": 172,
+      "height": 1.9,
+      "weight": 55.2,
+      "types": [
+        12,
+        16
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "DREEPY_NORMAL",
-	"formId": 3209,
-	"evolutions": [
-		{
-			"evoId": 886,
-			"formId": 3210,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "DREEPY_NORMAL",
+  "formId": 3209,
+  "evolutions": [
+    {
+      "evoId": 886,
+      "formId": 3210,
+      "candyCost": 25
+    }
+  ]
 }

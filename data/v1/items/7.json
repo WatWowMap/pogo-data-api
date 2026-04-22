@@ -1,8 +1,8 @@
 {
-	"itemId": 7,
-	"itemName": "Wild Ball",
-	"proto": "ITEM_WILD_BALL",
-	"type": "Pokeball",
-	"category": "Pokeball",
-	"minTrainerLevel": 1
+  "itemId": 7,
+  "itemName": "Wild Ball",
+  "proto": "ITEM_WILD_BALL",
+  "type": "Pokeball",
+  "category": "Pokeball",
+  "minTrainerLevel": 1
 }

@@ -1,20 +1,20 @@
 {
-	"formName": "Normal",
-	"proto": "GLOOM_NORMAL",
-	"formId": 268,
-	"evolutions": [
-		{
-			"evoId": 45,
-			"formId": 271,
-			"candyCost": 100
-		},
-		{
-			"evoId": 182,
-			"formId": 274,
-			"candyCost": 100,
-			"itemRequirement": 1101
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "GLOOM_NORMAL",
+  "formId": 268,
+  "evolutions": [
+    {
+      "evoId": 45,
+      "formId": 271,
+      "candyCost": 100
+    },
+    {
+      "evoId": 182,
+      "formId": 274,
+      "candyCost": 100,
+      "itemRequirement": 1101
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

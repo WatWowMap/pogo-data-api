@@ -1,8 +1,8 @@
 {
-	"formName": "Normal",
-	"proto": "LAPRAS_NORMAL",
-	"formId": 322,
-	"gmaxMove": 434,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "LAPRAS_NORMAL",
+  "formId": 322,
+  "gmaxMove": 434,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

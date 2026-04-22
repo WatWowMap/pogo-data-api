@@ -1,13 +1,13 @@
 {
-	"moveId": 373,
-	"moveName": "Water Shuriken",
-	"proto": "WATER_SHURIKEN_FAST",
-	"fast": true,
-	"type": 11,
-	"pvpPower": 6,
-	"pvpEnergyDelta": 14,
-	"pvpDurationTurns": 2,
-	"power": 9,
-	"durationMs": 1000,
-	"energyDelta": 14
+  "moveId": 373,
+  "moveName": "Water Shuriken",
+  "proto": "WATER_SHURIKEN_FAST",
+  "fast": true,
+  "type": 11,
+  "pvpPower": 6,
+  "pvpEnergyDelta": 14,
+  "pvpDurationTurns": 2,
+  "power": 9,
+  "durationMs": 1000,
+  "energyDelta": 14
 }

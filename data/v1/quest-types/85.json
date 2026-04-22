@@ -1,5 +1,5 @@
 {
-	"questId": 85,
-	"proto": "QUEST_USE_BREAD_MOVE",
-	"formatted": "Use Bread Move"
+  "questId": 85,
+  "proto": "QUEST_USE_BREAD_MOVE",
+  "formatted": "Use Bread Move"
 }

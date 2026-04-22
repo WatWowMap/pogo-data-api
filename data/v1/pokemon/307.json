@@ -1,62 +1,74 @@
 {
-	"pokemonName": "Meditite",
-	"pokedexId": 307,
-	"defaultFormId": 1478,
-	"types": [2, 14],
-	"quickMoves": [235, 241],
-	"chargedMoves": [33, 56, 60],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1478],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2989
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.305
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.7625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.915
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.9455
-		}
-	],
-	"attack": 78,
-	"defense": 107,
-	"stamina": 102,
-	"height": 0.61,
-	"weight": 11.2,
-	"family": 307,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"buddyMegaEnergy": 15,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 308,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Meditite",
+  "pokedexId": 307,
+  "defaultFormId": 1478,
+  "types": [
+    2,
+    14
+  ],
+  "quickMoves": [
+    235,
+    241
+  ],
+  "chargedMoves": [
+    33,
+    56,
+    60
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1478
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2989
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.305
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.7625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.915
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.9455
+    }
+  ],
+  "attack": 78,
+  "defense": 107,
+  "stamina": 102,
+  "height": 0.61,
+  "weight": 11.2,
+  "family": 307,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "buddyMegaEnergy": 15,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 308,
+      "candyCost": 50
+    }
+  ]
 }

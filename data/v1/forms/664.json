@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "BELLSPROUT_NORMAL",
-	"formId": 664,
-	"evolutions": [
-		{
-			"evoId": 70,
-			"formId": 667,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "BELLSPROUT_NORMAL",
+  "formId": 664,
+  "evolutions": [
+    {
+      "evoId": 70,
+      "formId": 667,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

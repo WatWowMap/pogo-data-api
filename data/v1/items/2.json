@@ -1,8 +1,8 @@
 {
-	"itemId": 2,
-	"itemName": "Great Ball",
-	"proto": "ITEM_GREAT_BALL",
-	"type": "Pokeball",
-	"category": "Pokeball",
-	"minTrainerLevel": 12
+  "itemId": 2,
+  "itemName": "Great Ball",
+  "proto": "ITEM_GREAT_BALL",
+  "type": "Pokeball",
+  "category": "Pokeball",
+  "minTrainerLevel": 12
 }

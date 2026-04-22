@@ -1,63 +1,75 @@
 {
-	"pokemonName": "Chikorita",
-	"pokedexId": 152,
-	"defaultFormId": 1118,
-	"types": [12],
-	"quickMoves": [214, 221, 357],
-	"chargedMoves": [131, 272, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1118],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.4361
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.445
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.1125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.335
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.3795
-		}
-	],
-	"attack": 92,
-	"defense": 122,
-	"stamina": 128,
-	"height": 0.89,
-	"weight": 6.4,
-	"family": 152,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 153,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Chikorita",
+  "pokedexId": 152,
+  "defaultFormId": 1118,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    214,
+    221,
+    357
+  ],
+  "chargedMoves": [
+    131,
+    272,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1118
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.4361
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.445
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.1125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.335
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3795
+    }
+  ],
+  "attack": 92,
+  "defense": 122,
+  "stamina": 128,
+  "height": 0.89,
+  "weight": 6.4,
+  "family": 152,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 153,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

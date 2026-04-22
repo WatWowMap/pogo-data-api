@@ -1,48 +1,48 @@
 {
-	"id": 10,
-	"type": "Dark",
-	"gender": 2,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_DARK_GRUNT_FEMALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 19,
-			"formId": 46,
-			"position": "first"
-		},
-		{
-			"id": 261,
-			"formId": 1367,
-			"position": "first"
-		},
-		{
-			"id": 318,
-			"formId": 734,
-			"position": "first"
-		},
-		{
-			"id": 20,
-			"formId": 48,
-			"position": "second"
-		},
-		{
-			"id": 262,
-			"formId": 1370,
-			"position": "second"
-		},
-		{
-			"id": 510,
-			"formId": 1934,
-			"position": "third"
-		},
-		{
-			"id": 635,
-			"formId": 2297,
-			"position": "third"
-		}
-	]
+  "id": 10,
+  "type": "Dark",
+  "gender": 2,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_DARK_GRUNT_FEMALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 19,
+      "formId": 46,
+      "position": "first"
+    },
+    {
+      "id": 261,
+      "formId": 1367,
+      "position": "first"
+    },
+    {
+      "id": 318,
+      "formId": 734,
+      "position": "first"
+    },
+    {
+      "id": 20,
+      "formId": 48,
+      "position": "second"
+    },
+    {
+      "id": 262,
+      "formId": 1370,
+      "position": "second"
+    },
+    {
+      "id": 510,
+      "formId": 1934,
+      "position": "third"
+    },
+    {
+      "id": 635,
+      "formId": 2297,
+      "position": "third"
+    }
+  ]
 }

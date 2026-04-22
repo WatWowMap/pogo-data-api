@@ -1,12 +1,12 @@
 {
-	"moveId": 94,
-	"moveName": "Bone Club",
-	"proto": "BONE_CLUB",
-	"fast": false,
-	"type": 5,
-	"pvpPower": 55,
-	"pvpEnergyDelta": -35,
-	"power": 40,
-	"durationMs": 1500,
-	"energyDelta": -33
+  "moveId": 94,
+  "moveName": "Bone Club",
+  "proto": "BONE_CLUB",
+  "fast": false,
+  "type": 5,
+  "pvpPower": 55,
+  "pvpEnergyDelta": -35,
+  "power": 40,
+  "durationMs": 1500,
+  "energyDelta": -33
 }

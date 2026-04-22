@@ -1,59 +1,74 @@
 {
-	"pokemonName": "Obstagoon",
-	"pokedexId": 862,
-	"defaultFormId": 2501,
-	"types": [1, 17],
-	"quickMoves": [212, 243],
-	"chargedMoves": [14, 28, 51, 92],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [370],
-	"genId": 8,
-	"generation": "Galar",
-	"forms": [2501],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.784
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.8
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.48
-		}
-	],
-	"attack": 180,
-	"defense": 194,
-	"stamina": 212,
-	"height": 1.6,
-	"weight": 46,
-	"family": 263,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Obstagoon",
+  "pokedexId": 862,
+  "defaultFormId": 2501,
+  "types": [
+    1,
+    17
+  ],
+  "quickMoves": [
+    212,
+    243
+  ],
+  "chargedMoves": [
+    14,
+    28,
+    51,
+    92
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    370
+  ],
+  "genId": 8,
+  "generation": "Galar",
+  "forms": [
+    2501
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.48
+    }
+  ],
+  "attack": 180,
+  "defense": 194,
+  "stamina": 212,
+  "height": 1.6,
+  "weight": 46,
+  "family": 263,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

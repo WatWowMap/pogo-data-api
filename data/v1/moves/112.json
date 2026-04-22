@@ -1,6 +1,6 @@
 {
-	"moveId": 112,
-	"moveName": "Frost Breath",
-	"proto": "FROST_BREATH",
-	"fast": false
+  "moveId": 112,
+  "moveName": "Frost Breath",
+  "proto": "FROST_BREATH",
+  "fast": false
 }

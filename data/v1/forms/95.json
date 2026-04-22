@@ -1,6 +1,11 @@
 {
-	"formName": "Sunny",
-	"proto": "CHERRIM_SUNNY",
-	"formId": 95,
-	"chargedMoves": [14, 86, 116, 292]
+  "formName": "Sunny",
+  "proto": "CHERRIM_SUNNY",
+  "formId": 95,
+  "chargedMoves": [
+    14,
+    86,
+    116,
+    292
+  ]
 }

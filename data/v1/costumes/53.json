@@ -1,6 +1,6 @@
 {
-	"id": 53,
-	"name": "Tcg 2022 Noevolve",
-	"proto": "TCG_2022_NOEVOLVE",
-	"noEvolve": true
+  "id": 53,
+  "name": "Tcg 2022 Noevolve",
+  "proto": "TCG_2022_NOEVOLVE",
+  "noEvolve": true
 }

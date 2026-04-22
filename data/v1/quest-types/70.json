@@ -1,5 +1,5 @@
 {
-	"questId": 70,
-	"proto": "QUEST_PTC_OAUTH_LINK",
-	"formatted": "Ptc Oauth Link"
+  "questId": 70,
+  "proto": "QUEST_PTC_OAUTH_LINK",
+  "formatted": "Ptc Oauth Link"
 }

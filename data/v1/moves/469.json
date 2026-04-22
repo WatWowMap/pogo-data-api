@@ -1,12 +1,12 @@
 {
-	"moveId": 469,
-	"moveName": "Behemoth Blade",
-	"proto": "BEHEMOTH_BLADE",
-	"fast": false,
-	"type": 9,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -55,
-	"power": 200,
-	"durationMs": 3500,
-	"energyDelta": -100
+  "moveId": 469,
+  "moveName": "Behemoth Blade",
+  "proto": "BEHEMOTH_BLADE",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -55,
+  "power": 200,
+  "durationMs": 3500,
+  "energyDelta": -100
 }

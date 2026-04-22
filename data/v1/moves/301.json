@@ -1,12 +1,12 @@
 {
-	"moveId": 301,
-	"moveName": "Meteor Mash",
-	"proto": "METEOR_MASH",
-	"fast": false,
-	"type": 9,
-	"pvpPower": 100,
-	"pvpEnergyDelta": -45,
-	"power": 100,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 301,
+  "moveName": "Meteor Mash",
+  "proto": "METEOR_MASH",
+  "fast": false,
+  "type": 9,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -45,
+  "power": 100,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "GLIMMET_NORMAL",
-	"formId": 3281,
-	"evolutions": [
-		{
-			"evoId": 970,
-			"formId": 3282,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "GLIMMET_NORMAL",
+  "formId": 3281,
+  "evolutions": [
+    {
+      "evoId": 970,
+      "formId": 3282,
+      "candyCost": 50
+    }
+  ]
 }

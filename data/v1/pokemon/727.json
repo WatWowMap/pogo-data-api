@@ -1,57 +1,76 @@
 {
-	"pokemonName": "Incineroar",
-	"pokedexId": 727,
-	"defaultFormId": 3080,
-	"types": [10, 17],
-	"quickMoves": [240, 278, 356],
-	"chargedMoves": [16, 101, 103, 314, 317, 367, 400],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [298],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3080],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 214,
-	"defense": 175,
-	"stamina": 216,
-	"height": 1.8,
-	"weight": 83,
-	"family": 725,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Incineroar",
+  "pokedexId": 727,
+  "defaultFormId": 3080,
+  "types": [
+    10,
+    17
+  ],
+  "quickMoves": [
+    240,
+    278,
+    356
+  ],
+  "chargedMoves": [
+    16,
+    101,
+    103,
+    314,
+    317,
+    367,
+    400
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    298
+  ],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3080
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 214,
+  "defense": 175,
+  "stamina": 216,
+  "height": 1.8,
+  "weight": 83,
+  "family": 725,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

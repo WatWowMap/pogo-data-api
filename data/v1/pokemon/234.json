@@ -1,63 +1,74 @@
 {
-	"evolutions": [
-		{
-			"evoId": 899,
-			"formId": 3218
-		}
-	],
-	"legendary": false,
-	"mythic": false,
-	"pokemonName": "Stantler",
-	"pokedexId": 234,
-	"defaultFormId": 941,
-	"types": [1],
-	"quickMoves": [221, 234],
-	"chargedMoves": [22, 127, 251],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [941],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.45
-		}
-	],
-	"attack": 192,
-	"defense": 131,
-	"stamina": 177,
-	"height": 1.4,
-	"weight": 71.2,
-	"family": 234,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "evolutions": [
+    {
+      "evoId": 899,
+      "formId": 3218
+    }
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokemonName": "Stantler",
+  "pokedexId": 234,
+  "defaultFormId": 941,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    221,
+    234
+  ],
+  "chargedMoves": [
+    22,
+    127,
+    251
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    941
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.45
+    }
+  ],
+  "attack": 192,
+  "defense": 131,
+  "stamina": 177,
+  "height": 1.4,
+  "weight": 71.2,
+  "family": 234,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

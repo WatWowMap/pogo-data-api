@@ -1,61 +1,73 @@
 {
-	"pokemonName": "Spinarak",
-	"pokedexId": 167,
-	"defaultFormId": 1163,
-	"types": [4, 7],
-	"quickMoves": [201, 236],
-	"chargedMoves": [51, 89, 99],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1163],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2499
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.255
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.6375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.765
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.8925
-		}
-	],
-	"attack": 105,
-	"defense": 73,
-	"stamina": 120,
-	"height": 0.51,
-	"weight": 8.5,
-	"family": 167,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 168,
-			"candyCost": 50
-		}
-	]
+  "pokemonName": "Spinarak",
+  "pokedexId": 167,
+  "defaultFormId": 1163,
+  "types": [
+    4,
+    7
+  ],
+  "quickMoves": [
+    201,
+    236
+  ],
+  "chargedMoves": [
+    51,
+    89,
+    99
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1163
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2499
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.255
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.765
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8925
+    }
+  ],
+  "attack": 105,
+  "defense": 73,
+  "stamina": 120,
+  "height": 0.51,
+  "weight": 8.5,
+  "family": 167,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 168,
+      "candyCost": 50
+    }
+  ]
 }

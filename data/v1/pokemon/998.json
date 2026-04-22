@@ -1,66 +1,80 @@
 {
-	"pokemonName": "Baxcalibur",
-	"pokedexId": 998,
-	"defaultFormId": 3308,
-	"types": [15, 16],
-	"quickMoves": [204, 327],
-	"chargedMoves": [40, 83, 111, 254, 277],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3308],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.029
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.575
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.15
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.675
-		}
-	],
-	"attack": 254,
-	"defense": 168,
-	"stamina": 229,
-	"height": 2.1,
-	"weight": 210,
-	"family": 996,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 341,
-			"defense": 227,
-			"stamina": 251,
-			"unreleased": true
-		}
-	]
+  "pokemonName": "Baxcalibur",
+  "pokedexId": 998,
+  "defaultFormId": 3308,
+  "types": [
+    15,
+    16
+  ],
+  "quickMoves": [
+    204,
+    327
+  ],
+  "chargedMoves": [
+    40,
+    83,
+    111,
+    254,
+    277
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3308
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.029
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.575
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.15
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.675
+    }
+  ],
+  "attack": 254,
+  "defense": 168,
+  "stamina": 229,
+  "height": 2.1,
+  "weight": 210,
+  "family": 996,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 341,
+      "defense": 227,
+      "stamina": 251,
+      "unreleased": true
+    }
+  ]
 }

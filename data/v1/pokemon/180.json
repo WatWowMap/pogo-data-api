@@ -1,67 +1,79 @@
 {
-	"pokemonName": "Flaaffy",
-	"pokedexId": 180,
-	"defaultFormId": 649,
-	"types": [13],
-	"quickMoves": [221, 249],
-	"chargedMoves": [35, 65, 79, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [649],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3871
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.395
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5925
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.9875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.185
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.3825
-		}
-	],
-	"attack": 145,
-	"defense": 109,
-	"stamina": 172,
-	"height": 0.79,
-	"weight": 13.3,
-	"family": 179,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"buddyMegaEnergy": 25,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 181,
-			"formId": 652,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Flaaffy",
+  "pokedexId": 180,
+  "defaultFormId": 649,
+  "types": [
+    13
+  ],
+  "quickMoves": [
+    221,
+    249
+  ],
+  "chargedMoves": [
+    35,
+    65,
+    79,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    649
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 145,
+  "defense": 109,
+  "stamina": 172,
+  "height": 0.79,
+  "weight": 13.3,
+  "family": 179,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "buddyMegaEnergy": 25,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 181,
+      "formId": 652,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

@@ -1,52 +1,67 @@
 {
-	"pokemonName": "Shaymin",
-	"pokedexId": 492,
-	"defaultFormId": 93,
-	"types": [12],
-	"quickMoves": [234, 281, 357],
-	"chargedMoves": [116, 272, 273, 369],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [92, 93, 1883],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.31
-		}
-	],
-	"attack": 210,
-	"defense": 210,
-	"stamina": 225,
-	"height": 0.2,
-	"weight": 2.1,
-	"family": 492,
-	"legendary": false,
-	"mythic": true,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100
+  "pokemonName": "Shaymin",
+  "pokedexId": 492,
+  "defaultFormId": 93,
+  "types": [
+    12
+  ],
+  "quickMoves": [
+    234,
+    281,
+    357
+  ],
+  "chargedMoves": [
+    116,
+    272,
+    273,
+    369
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    92,
+    93,
+    1883
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.31
+    }
+  ],
+  "attack": 210,
+  "defense": 210,
+  "stamina": 225,
+  "height": 0.2,
+  "weight": 2.1,
+  "family": 492,
+  "legendary": false,
+  "mythic": true,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100
 }

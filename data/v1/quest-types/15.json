@@ -1,5 +1,5 @@
 {
-	"questId": 15,
-	"proto": "QUEST_EVOLVE_POKEMON",
-	"formatted": "Evolve Pokemon"
+  "questId": 15,
+  "proto": "QUEST_EVOLVE_POKEMON",
+  "formatted": "Evolve Pokemon"
 }

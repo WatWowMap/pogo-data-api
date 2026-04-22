@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "ABOMASNOW_NORMAL",
-	"formId": 935,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 240,
-			"defense": 191,
-			"stamina": 207,
-			"height": 2.7,
-			"weight": 185,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "ABOMASNOW_NORMAL",
+  "formId": 935,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 240,
+      "defense": 191,
+      "stamina": 207,
+      "height": 2.7,
+      "weight": 185,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,59 +1,73 @@
 {
-	"pokemonName": "Hariyama",
-	"pokedexId": 297,
-	"defaultFormId": 1454,
-	"types": [2],
-	"quickMoves": [229, 243, 462],
-	"chargedMoves": [245, 246, 268, 310, 471],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1454],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.1319
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.155
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.7325
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.8875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.465
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.5805
-		}
-	],
-	"attack": 209,
-	"defense": 114,
-	"stamina": 302,
-	"height": 2.31,
-	"weight": 253.8,
-	"family": 296,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Hariyama",
+  "pokedexId": 297,
+  "defaultFormId": 1454,
+  "types": [
+    2
+  ],
+  "quickMoves": [
+    229,
+    243,
+    462
+  ],
+  "chargedMoves": [
+    245,
+    246,
+    268,
+    310,
+    471
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1454
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.1319
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.155
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.7325
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.8875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.465
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.5805
+    }
+  ],
+  "attack": 209,
+  "defense": 114,
+  "stamina": 302,
+  "height": 2.31,
+  "weight": 253.8,
+  "family": 296,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

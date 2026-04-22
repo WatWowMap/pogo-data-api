@@ -1,67 +1,81 @@
 {
-	"pokemonName": "Piloswine",
-	"pokedexId": 221,
-	"defaultFormId": 1280,
-	"types": [5, 15],
-	"quickMoves": [217, 244],
-	"chargedMoves": [32, 95, 254, 359, 377],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1280],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.5341
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.545
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.8175
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.3625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.635
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.9075
-		}
-	],
-	"attack": 181,
-	"defense": 138,
-	"stamina": 225,
-	"height": 1.09,
-	"weight": 55.8,
-	"family": 220,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 473,
-			"formId": 1838,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Piloswine",
+  "pokedexId": 221,
+  "defaultFormId": 1280,
+  "types": [
+    5,
+    15
+  ],
+  "quickMoves": [
+    217,
+    244
+  ],
+  "chargedMoves": [
+    32,
+    95,
+    254,
+    359,
+    377
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1280
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.5341
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.545
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.8175
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.3625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.635
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.9075
+    }
+  ],
+  "attack": 181,
+  "defense": 138,
+  "stamina": 225,
+  "height": 1.09,
+  "weight": 55.8,
+  "family": 220,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 473,
+      "formId": 1838,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

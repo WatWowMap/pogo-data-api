@@ -1,55 +1,68 @@
 {
-	"pokemonName": "Mimikyu",
-	"pokedexId": 778,
-	"defaultFormId": 2716,
-	"types": [8, 18],
-	"quickMoves": [213, 264],
-	"chargedMoves": [66, 78, 88],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [2715, 2716],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.098
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.35
-		}
-	],
-	"attack": 177,
-	"defense": 199,
-	"stamina": 146,
-	"height": 0.2,
-	"weight": 0.7,
-	"family": 778,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Mimikyu",
+  "pokedexId": 778,
+  "defaultFormId": 2716,
+  "types": [
+    8,
+    18
+  ],
+  "quickMoves": [
+    213,
+    264
+  ],
+  "chargedMoves": [
+    66,
+    78,
+    88
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    2715,
+    2716
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.098
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.35
+    }
+  ],
+  "attack": 177,
+  "defense": 199,
+  "stamina": 146,
+  "height": 0.2,
+  "weight": 0.7,
+  "family": 778,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

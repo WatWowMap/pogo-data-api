@@ -1,58 +1,58 @@
 {
-	"id": 37,
-	"type": "Rock",
-	"gender": 1,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_ROCK_GRUNT_MALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 138,
-			"formId": 740,
-			"position": "first"
-		},
-		{
-			"id": 213,
-			"formId": 827,
-			"position": "first"
-		},
-		{
-			"id": 408,
-			"formId": 1694,
-			"position": "first"
-		},
-		{
-			"id": 75,
-			"formId": 69,
-			"position": "second"
-		},
-		{
-			"id": 408,
-			"formId": 1694,
-			"position": "second"
-		},
-		{
-			"id": 410,
-			"formId": 1700,
-			"position": "second"
-		},
-		{
-			"id": 76,
-			"formId": 71,
-			"position": "third"
-		},
-		{
-			"id": 697,
-			"formId": 0,
-			"position": "third"
-		},
-		{
-			"id": 699,
-			"formId": 0,
-			"position": "third"
-		}
-	]
+  "id": 37,
+  "type": "Rock",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_ROCK_GRUNT_MALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 138,
+      "formId": 740,
+      "position": "first"
+    },
+    {
+      "id": 213,
+      "formId": 827,
+      "position": "first"
+    },
+    {
+      "id": 408,
+      "formId": 1694,
+      "position": "first"
+    },
+    {
+      "id": 75,
+      "formId": 69,
+      "position": "second"
+    },
+    {
+      "id": 408,
+      "formId": 1694,
+      "position": "second"
+    },
+    {
+      "id": 410,
+      "formId": 1700,
+      "position": "second"
+    },
+    {
+      "id": 76,
+      "formId": 71,
+      "position": "third"
+    },
+    {
+      "id": 697,
+      "formId": 0,
+      "position": "third"
+    },
+    {
+      "id": 699,
+      "formId": 0,
+      "position": "third"
+    }
+  ]
 }

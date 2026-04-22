@@ -1,13 +1,13 @@
 {
-	"moveId": 260,
-	"moveName": "Infestation",
-	"proto": "INFESTATION_FAST",
-	"fast": true,
-	"type": 7,
-	"pvpPower": 6,
-	"pvpEnergyDelta": 12,
-	"pvpDurationTurns": 2,
-	"power": 9,
-	"durationMs": 1000,
-	"energyDelta": 13
+  "moveId": 260,
+  "moveName": "Infestation",
+  "proto": "INFESTATION_FAST",
+  "fast": true,
+  "type": 7,
+  "pvpPower": 6,
+  "pvpEnergyDelta": 12,
+  "pvpDurationTurns": 2,
+  "power": 9,
+  "durationMs": 1000,
+  "energyDelta": 13
 }

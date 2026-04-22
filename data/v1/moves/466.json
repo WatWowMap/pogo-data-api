@@ -1,16 +1,16 @@
 {
-	"moveId": 466,
-	"moveName": "Freeze Shock",
-	"proto": "FREEZE_SHOCK",
-	"fast": false,
-	"type": 15,
-	"pvpPower": 120,
-	"pvpEnergyDelta": -60,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 0.3
-	},
-	"power": 160,
-	"durationMs": 1500,
-	"energyDelta": -100
+  "moveId": 466,
+  "moveName": "Freeze Shock",
+  "proto": "FREEZE_SHOCK",
+  "fast": false,
+  "type": 15,
+  "pvpPower": 120,
+  "pvpEnergyDelta": -60,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 0.3
+  },
+  "power": 160,
+  "durationMs": 1500,
+  "energyDelta": -100
 }

@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "PYROAR_NORMAL",
-	"formId": 2587,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 273,
-			"defense": 198,
-			"stamina": 200,
-			"unreleased": true
-		}
-	]
+  "formName": "Normal",
+  "proto": "PYROAR_NORMAL",
+  "formId": 2587,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 273,
+      "defense": 198,
+      "stamina": 200,
+      "unreleased": true
+    }
+  ]
 }

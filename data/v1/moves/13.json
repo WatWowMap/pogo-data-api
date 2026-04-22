@@ -1,16 +1,16 @@
 {
-	"moveId": 13,
-	"moveName": "Wrap",
-	"proto": "WRAP",
-	"fast": false,
-	"type": 1,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -45,
-	"pvpBuffs": {
-		"targetDefenseStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 60,
-	"durationMs": 3000,
-	"energyDelta": -33
+  "moveId": 13,
+  "moveName": "Wrap",
+  "proto": "WRAP",
+  "fast": false,
+  "type": 1,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "targetDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 60,
+  "durationMs": 3000,
+  "energyDelta": -33
 }

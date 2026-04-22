@@ -1,38 +1,38 @@
 {
-	"id": 39,
-	"type": "Water",
-	"gender": 1,
-	"grunt": "Grunt",
-	"proto": "CHARACTER_WATER_GRUNT_MALE",
-	"active": true,
-	"firstReward": true,
-	"secondReward": true,
-	"thirdReward": true,
-	"encounters": [
-		{
-			"id": 129,
-			"formId": 253,
-			"position": "first"
-		},
-		{
-			"id": 349,
-			"formId": 1580,
-			"position": "first"
-		},
-		{
-			"id": 129,
-			"formId": 253,
-			"position": "second"
-		},
-		{
-			"id": 129,
-			"formId": 253,
-			"position": "third"
-		},
-		{
-			"id": 130,
-			"formId": 256,
-			"position": "third"
-		}
-	]
+  "id": 39,
+  "type": "Water",
+  "gender": 1,
+  "grunt": "Grunt",
+  "proto": "CHARACTER_WATER_GRUNT_MALE",
+  "active": true,
+  "firstReward": true,
+  "secondReward": true,
+  "thirdReward": true,
+  "encounters": [
+    {
+      "id": 129,
+      "formId": 253,
+      "position": "first"
+    },
+    {
+      "id": 349,
+      "formId": 1580,
+      "position": "first"
+    },
+    {
+      "id": 129,
+      "formId": 253,
+      "position": "second"
+    },
+    {
+      "id": 129,
+      "formId": 253,
+      "position": "third"
+    },
+    {
+      "id": 130,
+      "formId": 256,
+      "position": "third"
+    }
+  ]
 }

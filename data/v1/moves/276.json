@@ -1,12 +1,12 @@
 {
-	"moveId": 276,
-	"moveName": "Mirror Coat",
-	"proto": "MIRROR_COAT",
-	"fast": false,
-	"type": 14,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -55,
-	"power": 60,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 276,
+  "moveName": "Mirror Coat",
+  "proto": "MIRROR_COAT",
+  "fast": false,
+  "type": 14,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -55,
+  "power": 60,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

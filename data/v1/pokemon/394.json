@@ -1,65 +1,76 @@
 {
-	"pokemonName": "Prinplup",
-	"pokedexId": 394,
-	"defaultFormId": 1652,
-	"types": [11],
-	"quickMoves": [228, 237],
-	"chargedMoves": [53, 107, 111],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1652],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.392
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.2
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.4
-		}
-	],
-	"attack": 150,
-	"defense": 139,
-	"stamina": 162,
-	"height": 0.8,
-	"weight": 23,
-	"family": 393,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 395,
-			"candyCost": 100
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Prinplup",
+  "pokedexId": 394,
+  "defaultFormId": 1652,
+  "types": [
+    11
+  ],
+  "quickMoves": [
+    228,
+    237
+  ],
+  "chargedMoves": [
+    53,
+    107,
+    111
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1652
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "attack": 150,
+  "defense": 139,
+  "stamina": 162,
+  "height": 0.8,
+  "weight": 23,
+  "family": 393,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 395,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

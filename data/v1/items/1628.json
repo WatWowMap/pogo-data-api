@@ -1,7 +1,7 @@
 {
-	"itemId": 1628,
-	"itemName": "Event Ticket 04 To Gift",
-	"proto": "ITEM_EVENT_TICKET_04_TO_GIFT",
-	"type": "Global Event Ticket",
-	"category": "Global Event Ticket"
+  "itemId": 1628,
+  "itemName": "Event Ticket 04 To Gift",
+  "proto": "ITEM_EVENT_TICKET_04_TO_GIFT",
+  "type": "Global Event Ticket",
+  "category": "Global Event Ticket"
 }

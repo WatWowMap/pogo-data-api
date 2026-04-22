@@ -1,6 +1,6 @@
 {
-	"moveId": 6,
-	"moveName": "Tackle",
-	"proto": "TACKLE",
-	"fast": false
+  "moveId": 6,
+  "moveName": "Tackle",
+  "proto": "TACKLE",
+  "fast": false
 }

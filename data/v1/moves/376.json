@@ -1,12 +1,12 @@
 {
-	"moveId": 376,
-	"moveName": "Poltergeist",
-	"proto": "POLTERGEIST",
-	"fast": false,
-	"type": 8,
-	"pvpPower": 150,
-	"pvpEnergyDelta": -75,
-	"power": 140,
-	"durationMs": 3500,
-	"energyDelta": -100
+  "moveId": 376,
+  "moveName": "Poltergeist",
+  "proto": "POLTERGEIST",
+  "fast": false,
+  "type": 8,
+  "pvpPower": 150,
+  "pvpEnergyDelta": -75,
+  "power": 140,
+  "durationMs": 3500,
+  "energyDelta": -100
 }

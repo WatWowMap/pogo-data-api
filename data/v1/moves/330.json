@@ -1,12 +1,12 @@
 {
-	"moveId": 330,
-	"moveName": "Sacred Sword",
-	"proto": "SACRED_SWORD",
-	"fast": false,
-	"type": 2,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -35,
-	"power": 50,
-	"durationMs": 1000,
-	"energyDelta": -33
+  "moveId": 330,
+  "moveName": "Sacred Sword",
+  "proto": "SACRED_SWORD",
+  "fast": false,
+  "type": 2,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -35,
+  "power": 50,
+  "durationMs": 1000,
+  "energyDelta": -33
 }

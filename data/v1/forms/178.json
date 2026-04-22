@@ -1,29 +1,32 @@
 {
-	"formName": "Normal",
-	"proto": "CHARIZARD_NORMAL",
-	"formId": 178,
-	"gmaxMove": 427,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 2,
-			"attack": 273,
-			"defense": 213,
-			"stamina": 186,
-			"weight": 110.5,
-			"types": [10, 16],
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		},
-		{
-			"tempEvoId": 3,
-			"attack": 319,
-			"defense": 212,
-			"stamina": 186,
-			"weight": 100.5,
-			"firstEnergyCost": 200,
-			"subsequentEnergyCost": 40
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "CHARIZARD_NORMAL",
+  "formId": 178,
+  "gmaxMove": 427,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 2,
+      "attack": 273,
+      "defense": 213,
+      "stamina": 186,
+      "weight": 110.5,
+      "types": [
+        10,
+        16
+      ],
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    },
+    {
+      "tempEvoId": 3,
+      "attack": 319,
+      "defense": 212,
+      "stamina": 186,
+      "weight": 100.5,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

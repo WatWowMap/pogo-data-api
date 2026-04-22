@@ -1,8 +1,8 @@
 {
-	"itemId": 103,
-	"itemName": "Hyper Potion",
-	"proto": "ITEM_HYPER_POTION",
-	"type": "Potion",
-	"category": "Medicine",
-	"minTrainerLevel": 15
+  "itemId": 103,
+  "itemName": "Hyper Potion",
+  "proto": "ITEM_HYPER_POTION",
+  "type": "Potion",
+  "category": "Medicine",
+  "minTrainerLevel": 15
 }

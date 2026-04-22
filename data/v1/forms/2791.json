@@ -1,8 +1,8 @@
 {
-	"formName": "Hisuian",
-	"proto": "GOODRA_HISUIAN",
-	"formId": 2791,
-	"attack": 211,
-	"defense": 255,
-	"stamina": 190
+  "formName": "Hisuian",
+  "proto": "GOODRA_HISUIAN",
+  "formId": 2791,
+  "attack": 211,
+  "defense": 255,
+  "stamina": 190
 }

@@ -1,8 +1,8 @@
 {
-	"itemId": 1405,
-	"itemName": "Friend Gift Box",
-	"proto": "ITEM_FRIEND_GIFT_BOX",
-	"type": "Friend Gift Box",
-	"category": "Friend Gift Box",
-	"minTrainerLevel": 100
+  "itemId": 1405,
+  "itemName": "Friend Gift Box",
+  "proto": "ITEM_FRIEND_GIFT_BOX",
+  "type": "Friend Gift Box",
+  "category": "Friend Gift Box",
+  "minTrainerLevel": 100
 }

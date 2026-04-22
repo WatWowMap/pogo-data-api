@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "WIGLETT_NORMAL",
-	"formId": 3273,
-	"evolutions": [
-		{
-			"evoId": 961,
-			"formId": 3274,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "WIGLETT_NORMAL",
+  "formId": 3273,
+  "evolutions": [
+    {
+      "evoId": 961,
+      "formId": 3274,
+      "candyCost": 50
+    }
+  ]
 }

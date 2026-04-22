@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CLOBBOPUS_NORMAL",
-	"formId": 3188,
-	"evolutions": [
-		{
-			"evoId": 853,
-			"formId": 3189,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "CLOBBOPUS_NORMAL",
+  "formId": 3188,
+  "evolutions": [
+    {
+      "evoId": 853,
+      "formId": 3189,
+      "candyCost": 50
+    }
+  ]
 }

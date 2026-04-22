@@ -1,41 +1,51 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.686
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.7
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.05
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.75
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.1
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.17
-		}
-	],
-	"formName": "Therian",
-	"proto": "TORNADUS_THERIAN",
-	"formId": 141,
-	"attack": 238,
-	"defense": 189,
-	"stamina": 188,
-	"height": 1.4,
-	"weight": 63,
-	"quickMoves": [263, 345],
-	"chargedMoves": [42, 108, 122, 247],
-	"eliteChargedMoves": [395],
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.686
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.7
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.05
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.75
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.1
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.17
+    }
+  ],
+  "formName": "Therian",
+  "proto": "TORNADUS_THERIAN",
+  "formId": 141,
+  "attack": 238,
+  "defense": 189,
+  "stamina": 188,
+  "height": 1.4,
+  "weight": 63,
+  "quickMoves": [
+    263,
+    345
+  ],
+  "chargedMoves": [
+    42,
+    108,
+    122,
+    247
+  ],
+  "eliteChargedMoves": [
+    395
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

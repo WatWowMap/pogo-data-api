@@ -1,13 +1,13 @@
 {
-	"formName": "Red",
-	"proto": "FLOETTE_RED",
-	"formId": 2619,
-	"evolutions": [
-		{
-			"evoId": 671,
-			"formId": 2624,
-			"candyCost": 100,
-			"questRequirement": "FLORGES_EVOLUTION_QUEST"
-		}
-	]
+  "formName": "Red",
+  "proto": "FLOETTE_RED",
+  "formId": 2619,
+  "evolutions": [
+    {
+      "evoId": 671,
+      "formId": 2624,
+      "candyCost": 100,
+      "questRequirement": "FLORGES_EVOLUTION_QUEST"
+    }
+  ]
 }

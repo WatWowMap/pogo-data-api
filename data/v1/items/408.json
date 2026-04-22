@@ -1,8 +1,8 @@
 {
-	"itemId": 408,
-	"itemName": "Incense Day Bonus",
-	"proto": "ITEM_INCENSE_DAY_BONUS",
-	"type": "Incense",
-	"category": "Incense",
-	"minTrainerLevel": 1
+  "itemId": 408,
+  "itemName": "Incense Day Bonus",
+  "proto": "ITEM_INCENSE_DAY_BONUS",
+  "type": "Incense",
+  "category": "Incense",
+  "minTrainerLevel": 1
 }

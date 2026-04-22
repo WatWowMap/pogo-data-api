@@ -1,9 +1,9 @@
 {
-	"moveId": 410,
-	"moveName": "Max Flutterby",
-	"proto": "VN_BM_002",
-	"fast": false,
-	"type": 7,
-	"power": 350,
-	"durationMs": 2500
+  "moveId": 410,
+  "moveName": "Max Flutterby",
+  "proto": "VN_BM_002",
+  "fast": false,
+  "type": 7,
+  "power": 350,
+  "durationMs": 2500
 }

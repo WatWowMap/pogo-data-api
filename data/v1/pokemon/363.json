@@ -1,64 +1,76 @@
 {
-	"pokemonName": "Spheal",
-	"pokedexId": 363,
-	"defaultFormId": 1598,
-	"types": [11, 15],
-	"quickMoves": [230, 241],
-	"chargedMoves": [105, 131, 248],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1598],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3871
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.395
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.5925
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.9875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.185
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.3825
-		}
-	],
-	"attack": 95,
-	"defense": 90,
-	"stamina": 172,
-	"height": 0.79,
-	"weight": 39.5,
-	"family": 363,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 364,
-			"formId": 1601,
-			"candyCost": 25
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Spheal",
+  "pokedexId": 363,
+  "defaultFormId": 1598,
+  "types": [
+    11,
+    15
+  ],
+  "quickMoves": [
+    230,
+    241
+  ],
+  "chargedMoves": [
+    105,
+    131,
+    248
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1598
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3871
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.395
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.5925
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.9875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.185
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.3825
+    }
+  ],
+  "attack": 95,
+  "defense": 90,
+  "stamina": 172,
+  "height": 0.79,
+  "weight": 39.5,
+  "family": 363,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 364,
+      "formId": 1601,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

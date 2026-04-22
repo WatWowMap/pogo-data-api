@@ -1,15 +1,15 @@
 {
-	"formName": "Normal",
-	"proto": "LAMPENT_NORMAL",
-	"formId": 2216,
-	"evolutions": [
-		{
-			"evoId": 609,
-			"formId": 2219,
-			"candyCost": 100,
-			"itemRequirement": 1107
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "LAMPENT_NORMAL",
+  "formId": 2216,
+  "evolutions": [
+    {
+      "evoId": 609,
+      "formId": 2219,
+      "candyCost": 100,
+      "itemRequirement": 1107
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

@@ -1,12 +1,12 @@
 {
-	"formName": "River",
-	"proto": "SPEWPA_RIVER",
-	"formId": 2780,
-	"evolutions": [
-		{
-			"evoId": 666,
-			"formId": 2609,
-			"candyCost": 100
-		}
-	]
+  "formName": "River",
+  "proto": "SPEWPA_RIVER",
+  "formId": 2780,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2609,
+      "candyCost": 100
+    }
+  ]
 }

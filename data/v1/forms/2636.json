@@ -1,12 +1,17 @@
 {
-	"formName": "La Reine",
-	"proto": "FURFROU_LA_REINE",
-	"formId": 2636,
-	"formChanges": [
-		{
-			"availableForms": [2629, 2632, 2634, 2635],
-			"candyCost": 25,
-			"stardustCost": 10000
-		}
-	]
+  "formName": "La Reine",
+  "proto": "FURFROU_LA_REINE",
+  "formId": 2636,
+  "formChanges": [
+    {
+      "availableForms": [
+        2629,
+        2632,
+        2634,
+        2635
+      ],
+      "candyCost": 25,
+      "stardustCost": 10000
+    }
+  ]
 }

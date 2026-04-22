@@ -1,65 +1,83 @@
 {
-	"pokemonName": "Porygon",
-	"pokedexId": 137,
-	"defaultFormId": 677,
-	"types": [1],
-	"quickMoves": [249, 281],
-	"chargedMoves": [14, 116, 252],
-	"eliteQuickMoves": [221, 234],
-	"eliteChargedMoves": [30, 35, 99],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [677],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.392
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.2
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.6
-		}
-	],
-	"attack": 153,
-	"defense": 136,
-	"stamina": 163,
-	"height": 0.8,
-	"weight": 36.5,
-	"family": 137,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 233,
-			"formId": 680,
-			"candyCost": 25,
-			"itemRequirement": 1105
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Porygon",
+  "pokedexId": 137,
+  "defaultFormId": 677,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    249,
+    281
+  ],
+  "chargedMoves": [
+    14,
+    116,
+    252
+  ],
+  "eliteQuickMoves": [
+    221,
+    234
+  ],
+  "eliteChargedMoves": [
+    30,
+    35,
+    99
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    677
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.6
+    }
+  ],
+  "attack": 153,
+  "defense": 136,
+  "stamina": 163,
+  "height": 0.8,
+  "weight": 36.5,
+  "family": 137,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 233,
+      "formId": 680,
+      "candyCost": 25,
+      "itemRequirement": 1105
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

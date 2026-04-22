@@ -1,57 +1,73 @@
 {
-	"pokemonName": "Clodsire",
-	"pokedexId": 980,
-	"defaultFormId": 3291,
-	"types": [4, 5],
-	"quickMoves": [216, 236],
-	"chargedMoves": [31, 32, 90, 105, 303],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [22],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3291],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.882
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.9
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.35
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.7
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.79
-		}
-	],
-	"attack": 127,
-	"defense": 151,
-	"stamina": 277,
-	"height": 1.8,
-	"weight": 223,
-	"family": 194,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Clodsire",
+  "pokedexId": 980,
+  "defaultFormId": 3291,
+  "types": [
+    4,
+    5
+  ],
+  "quickMoves": [
+    216,
+    236
+  ],
+  "chargedMoves": [
+    31,
+    32,
+    90,
+    105,
+    303
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    22
+  ],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3291
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.882
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.9
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.35
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.7
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.79
+    }
+  ],
+  "attack": 127,
+  "defense": 151,
+  "stamina": 277,
+  "height": 1.8,
+  "weight": 223,
+  "family": 194,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

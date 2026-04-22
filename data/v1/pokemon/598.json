@@ -1,59 +1,73 @@
 {
-	"pokemonName": "Ferrothorn",
-	"pokedexId": 598,
-	"defaultFormId": 2186,
-	"types": [9, 12],
-	"quickMoves": [228, 271],
-	"chargedMoves": [36, 78, 118, 303, 309],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 5,
-	"generation": "Unova",
-	"forms": [2186],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.49
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.5
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.25
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.5
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2
-		}
-	],
-	"attack": 158,
-	"defense": 223,
-	"stamina": 179,
-	"height": 1,
-	"weight": 110,
-	"family": 597,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Ferrothorn",
+  "pokedexId": 598,
+  "defaultFormId": 2186,
+  "types": [
+    9,
+    12
+  ],
+  "quickMoves": [
+    228,
+    271
+  ],
+  "chargedMoves": [
+    36,
+    78,
+    118,
+    303,
+    309
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 5,
+  "generation": "Unova",
+  "forms": [
+    2186
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.49
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.5
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.25
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.5
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2
+    }
+  ],
+  "attack": 158,
+  "defense": 223,
+  "stamina": 179,
+  "height": 1,
+  "weight": 110,
+  "family": 597,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

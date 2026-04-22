@@ -1,56 +1,69 @@
 {
-	"pokemonName": "Regigigas",
-	"pokedexId": 486,
-	"defaultFormId": 1865,
-	"types": [1],
-	"quickMoves": [234, 281],
-	"chargedMoves": [78, 247, 321],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [485],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [1865],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.813
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.85
-		},
-		{
-			"name": "mLowerBound",
-			"value": 2.775
-		},
-		{
-			"name": "mUpperBound",
-			"value": 4.625
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 5.55
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 5.735
-		}
-	],
-	"attack": 287,
-	"defense": 210,
-	"stamina": 221,
-	"height": 3.7,
-	"weight": 420,
-	"family": 486,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "pokemonName": "Regigigas",
+  "pokedexId": 486,
+  "defaultFormId": 1865,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    234,
+    281
+  ],
+  "chargedMoves": [
+    78,
+    247,
+    321
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    485
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    1865
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.813
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.85
+    },
+    {
+      "name": "mLowerBound",
+      "value": 2.775
+    },
+    {
+      "name": "mUpperBound",
+      "value": 4.625
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 5.55
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5.735
+    }
+  ],
+  "attack": 287,
+  "defense": 210,
+  "stamina": 221,
+  "height": 3.7,
+  "weight": 420,
+  "family": 486,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

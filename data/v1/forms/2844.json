@@ -1,8 +1,8 @@
 {
-	"formName": "Gofest 2024 Mtiara",
-	"proto": "PIKACHU_GOFEST_2024_MTIARA",
-	"formId": 2844,
-	"isCostume": true,
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": []
+  "formName": "Gofest 2024 Mtiara",
+  "proto": "PIKACHU_GOFEST_2024_MTIARA",
+  "formId": 2844,
+  "isCostume": true,
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": []
 }

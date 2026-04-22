@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "KABUTO_NORMAL",
-	"formId": 1104,
-	"evolutions": [
-		{
-			"evoId": 141,
-			"formId": 1107,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "formName": "Normal",
+  "proto": "KABUTO_NORMAL",
+  "formId": 1104,
+  "evolutions": [
+    {
+      "evoId": 141,
+      "formId": 1107,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

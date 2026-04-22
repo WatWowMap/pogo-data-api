@@ -1,5 +1,5 @@
 {
-	"questId": 44,
-	"proto": "QUEST_GET_STARDUST",
-	"formatted": "Get Stardust"
+  "questId": 44,
+  "proto": "QUEST_GET_STARDUST",
+  "formatted": "Get Stardust"
 }

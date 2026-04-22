@@ -1,59 +1,74 @@
 {
-	"pokemonName": "Magmortar",
-	"pokedexId": 467,
-	"defaultFormId": 637,
-	"types": [10],
-	"quickMoves": [208, 269],
-	"chargedMoves": [103, 108, 115, 123, 393],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [79],
-	"genId": 4,
-	"generation": "Sinnoh",
-	"forms": [637],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.784
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.8
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.8
-		}
-	],
-	"attack": 247,
-	"defense": 172,
-	"stamina": 181,
-	"height": 1.6,
-	"weight": 68,
-	"family": 126,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 5000,
-	"purificationCandy": 5
+  "pokemonName": "Magmortar",
+  "pokedexId": 467,
+  "defaultFormId": 637,
+  "types": [
+    10
+  ],
+  "quickMoves": [
+    208,
+    269
+  ],
+  "chargedMoves": [
+    103,
+    108,
+    115,
+    123,
+    393
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [
+    79
+  ],
+  "genId": 4,
+  "generation": "Sinnoh",
+  "forms": [
+    637
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.8
+    }
+  ],
+  "attack": 247,
+  "defense": 172,
+  "stamina": 181,
+  "height": 1.6,
+  "weight": 68,
+  "family": 126,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

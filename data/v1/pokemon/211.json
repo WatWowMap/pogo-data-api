@@ -1,57 +1,73 @@
 {
-	"pokemonName": "Qwilfish",
-	"pokedexId": 211,
-	"defaultFormId": 1259,
-	"types": [4, 11],
-	"quickMoves": [230, 236],
-	"chargedMoves": [39, 58, 91, 106, 303, 311],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [1259, 2788],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2499
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.255
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3825
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.6375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.765
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.8925
-		}
-	],
-	"attack": 184,
-	"defense": 138,
-	"stamina": 163,
-	"height": 0.51,
-	"weight": 3.9,
-	"family": 211,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Qwilfish",
+  "pokedexId": 211,
+  "defaultFormId": 1259,
+  "types": [
+    4,
+    11
+  ],
+  "quickMoves": [
+    230,
+    236
+  ],
+  "chargedMoves": [
+    39,
+    58,
+    91,
+    106,
+    303,
+    311
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    1259,
+    2788
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2499
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.255
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3825
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.6375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.765
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.8925
+    }
+  ],
+  "attack": 184,
+  "defense": 138,
+  "stamina": 163,
+  "height": 0.51,
+  "weight": 3.9,
+  "family": 211,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,19 +1,19 @@
 {
-	"formName": "Normal",
-	"proto": "MALAMAR_NORMAL",
-	"formId": 3049,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 208,
-			"defense": 222,
-			"stamina": 200,
-			"height": 2.9,
-			"weight": 69.8,
-			"firstEnergyCost": 300,
-			"subsequentEnergyCost": 60
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "MALAMAR_NORMAL",
+  "formId": 3049,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 208,
+      "defense": 222,
+      "stamina": 200,
+      "height": 2.9,
+      "weight": 69.8,
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

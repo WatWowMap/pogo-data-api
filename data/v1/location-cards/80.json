@@ -1,7 +1,7 @@
 {
-	"id": 80,
-	"proto": "LC_2025_PARIS_GOFEST_001",
-	"formatted": "2025 Paris Gofest 001",
-	"imageUrl": "lc_GoFest2025_paris",
-	"cardType": "LOCATION_CARD"
+  "id": 80,
+  "proto": "LC_2025_PARIS_GOFEST_001",
+  "formatted": "2025 Paris Gofest 001",
+  "imageUrl": "lc_GoFest2025_paris",
+  "cardType": "LOCATION_CARD"
 }

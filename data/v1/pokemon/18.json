@@ -1,72 +1,91 @@
 {
-	"pokemonName": "Pidgeot",
-	"pokedexId": 18,
-	"defaultFormId": 968,
-	"types": [1, 3],
-	"quickMoves": [239, 255],
-	"chargedMoves": [42, 45, 122, 256, 348],
-	"eliteQuickMoves": [210, 345],
-	"eliteChargedMoves": [121],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [968],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.625
-		}
-	],
-	"attack": 166,
-	"defense": 154,
-	"stamina": 195,
-	"height": 1.5,
-	"weight": 39.5,
-	"family": 16,
-	"bonusCandyCapture": 7,
-	"bonusStardustCapture": 400,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 5,
-	"buddyDistance": 1,
-	"buddyMegaEnergy": 5,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 280,
-			"defense": 175,
-			"stamina": 195,
-			"height": 2.2,
-			"weight": 50.5,
-			"firstEnergyCost": 100,
-			"subsequentEnergyCost": 20
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Pidgeot",
+  "pokedexId": 18,
+  "defaultFormId": 968,
+  "types": [
+    1,
+    3
+  ],
+  "quickMoves": [
+    239,
+    255
+  ],
+  "chargedMoves": [
+    42,
+    45,
+    122,
+    256,
+    348
+  ],
+  "eliteQuickMoves": [
+    210,
+    345
+  ],
+  "eliteChargedMoves": [
+    121
+  ],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    968
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.625
+    }
+  ],
+  "attack": 166,
+  "defense": 154,
+  "stamina": 195,
+  "height": 1.5,
+  "weight": 39.5,
+  "family": 16,
+  "bonusCandyCapture": 7,
+  "bonusStardustCapture": 400,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 1,
+  "buddyMegaEnergy": 5,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 280,
+      "defense": 175,
+      "stamina": 195,
+      "height": 2.2,
+      "weight": 50.5,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

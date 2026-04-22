@@ -1,61 +1,72 @@
 {
-	"pokemonName": "Type Null",
-	"pokedexId": 772,
-	"defaultFormId": 3120,
-	"types": [1],
-	"quickMoves": [221, 282],
-	"chargedMoves": [45, 74, 344],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3120],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.931
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.95
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.425
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.85
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.945
-		}
-	],
-	"attack": 184,
-	"defense": 184,
-	"stamina": 216,
-	"height": 1.9,
-	"weight": 120.5,
-	"family": 772,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 773,
-			"formId": 2689,
-			"candyCost": 200
-		}
-	]
+  "pokemonName": "Type Null",
+  "pokedexId": 772,
+  "defaultFormId": 3120,
+  "types": [
+    1
+  ],
+  "quickMoves": [
+    221,
+    282
+  ],
+  "chargedMoves": [
+    45,
+    74,
+    344
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3120
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.931
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.95
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.425
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.85
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.945
+    }
+  ],
+  "attack": 184,
+  "defense": 184,
+  "stamina": 216,
+  "height": 1.9,
+  "weight": 120.5,
+  "family": 772,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 773,
+      "formId": 2689,
+      "candyCost": 200
+    }
+  ]
 }

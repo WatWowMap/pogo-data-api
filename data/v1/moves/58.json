@@ -1,12 +1,12 @@
 {
-	"moveId": 58,
-	"moveName": "Aqua Tail",
-	"proto": "AQUA_TAIL",
-	"fast": false,
-	"type": 11,
-	"pvpPower": 55,
-	"pvpEnergyDelta": -35,
-	"power": 50,
-	"durationMs": 2000,
-	"energyDelta": -33
+  "moveId": 58,
+  "moveName": "Aqua Tail",
+  "proto": "AQUA_TAIL",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 55,
+  "pvpEnergyDelta": -35,
+  "power": 50,
+  "durationMs": 2000,
+  "energyDelta": -33
 }

@@ -1,12 +1,12 @@
 {
-	"moveId": 272,
-	"moveName": "Grass Knot",
-	"proto": "GRASS_KNOT",
-	"fast": false,
-	"type": 12,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -50,
-	"power": 90,
-	"durationMs": 2500,
-	"energyDelta": -50
+  "moveId": 272,
+  "moveName": "Grass Knot",
+  "proto": "GRASS_KNOT",
+  "fast": false,
+  "type": 12,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -50,
+  "power": 90,
+  "durationMs": 2500,
+  "energyDelta": -50
 }

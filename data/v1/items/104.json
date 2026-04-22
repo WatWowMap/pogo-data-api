@@ -1,8 +1,8 @@
 {
-	"itemId": 104,
-	"itemName": "Max Potion",
-	"proto": "ITEM_MAX_POTION",
-	"type": "Potion",
-	"category": "Medicine",
-	"minTrainerLevel": 25
+  "itemId": 104,
+  "itemName": "Max Potion",
+  "proto": "ITEM_MAX_POTION",
+  "type": "Potion",
+  "category": "Medicine",
+  "minTrainerLevel": 25
 }

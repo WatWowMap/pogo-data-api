@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "CETODDLE_NORMAL",
-	"formId": 3286,
-	"evolutions": [
-		{
-			"evoId": 975,
-			"formId": 3287,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "CETODDLE_NORMAL",
+  "formId": 3286,
+  "evolutions": [
+    {
+      "evoId": 975,
+      "formId": 3287,
+      "candyCost": 50
+    }
+  ]
 }

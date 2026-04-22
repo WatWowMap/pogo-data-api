@@ -1,8 +1,8 @@
 {
-	"formName": "Noice",
-	"proto": "EISCUE_NOICE",
-	"formId": 2541,
-	"attack": 173,
-	"defense": 139,
-	"stamina": 181
+  "formName": "Noice",
+  "proto": "EISCUE_NOICE",
+  "formId": 2541,
+  "attack": 173,
+  "defense": 139,
+  "stamina": 181
 }

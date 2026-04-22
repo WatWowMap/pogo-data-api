@@ -1,55 +1,70 @@
 {
-	"pokemonName": "Oranguru",
-	"pokedexId": 765,
-	"defaultFormId": 3113,
-	"types": [1, 14],
-	"quickMoves": [234, 235, 287],
-	"chargedMoves": [108, 275, 280, 367, 392],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3113],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.735
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.75
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.125
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.25
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.325
-		}
-	],
-	"attack": 168,
-	"defense": 192,
-	"stamina": 207,
-	"height": 1.5,
-	"weight": 76,
-	"family": 765,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Oranguru",
+  "pokedexId": 765,
+  "defaultFormId": 3113,
+  "types": [
+    1,
+    14
+  ],
+  "quickMoves": [
+    234,
+    235,
+    287
+  ],
+  "chargedMoves": [
+    108,
+    275,
+    280,
+    367,
+    392
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3113
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.735
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.75
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.125
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.25
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.325
+    }
+  ],
+  "attack": 168,
+  "defense": 192,
+  "stamina": 207,
+  "height": 1.5,
+  "weight": 76,
+  "family": 765,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

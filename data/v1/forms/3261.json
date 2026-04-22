@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "TOEDSCOOL_NORMAL",
-	"formId": 3261,
-	"evolutions": [
-		{
-			"evoId": 949,
-			"formId": 3262,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "TOEDSCOOL_NORMAL",
+  "formId": 3261,
+  "evolutions": [
+    {
+      "evoId": 949,
+      "formId": 3262,
+      "candyCost": 50
+    }
+  ]
 }

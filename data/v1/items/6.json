@@ -1,8 +1,8 @@
 {
-	"itemId": 6,
-	"itemName": "Beast Ball",
-	"proto": "ITEM_BEAST_BALL",
-	"type": "Pokeball",
-	"category": "Pokeball",
-	"minTrainerLevel": 100
+  "itemId": 6,
+  "itemName": "Beast Ball",
+  "proto": "ITEM_BEAST_BALL",
+  "type": "Pokeball",
+  "category": "Pokeball",
+  "minTrainerLevel": 100
 }

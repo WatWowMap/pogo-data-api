@@ -1,6 +1,6 @@
 {
-	"moveId": 41,
-	"moveName": "Air Slash",
-	"proto": "AIR_SLASH",
-	"fast": false
+  "moveId": 41,
+  "moveName": "Air Slash",
+  "proto": "AIR_SLASH",
+  "fast": false
 }

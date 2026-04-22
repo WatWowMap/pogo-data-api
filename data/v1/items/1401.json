@@ -1,8 +1,8 @@
 {
-	"itemId": 1401,
-	"itemName": "Free Raid Ticket",
-	"proto": "ITEM_FREE_RAID_TICKET",
-	"type": "Raid Ticket",
-	"category": "Raid Ticket",
-	"minTrainerLevel": 100
+  "itemId": 1401,
+  "itemName": "Free Raid Ticket",
+  "proto": "ITEM_FREE_RAID_TICKET",
+  "type": "Raid Ticket",
+  "category": "Raid Ticket",
+  "minTrainerLevel": 100
 }

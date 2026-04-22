@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "DOTTLER_NORMAL",
-	"formId": 3164,
-	"evolutions": [
-		{
-			"evoId": 826,
-			"formId": 3165,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "DOTTLER_NORMAL",
+  "formId": 3164,
+  "evolutions": [
+    {
+      "evoId": 826,
+      "formId": 3165,
+      "candyCost": 100
+    }
+  ]
 }

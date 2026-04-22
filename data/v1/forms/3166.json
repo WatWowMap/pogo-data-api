@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "NICKIT_NORMAL",
-	"formId": 3166,
-	"evolutions": [
-		{
-			"evoId": 828,
-			"formId": 3167,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "NICKIT_NORMAL",
+  "formId": 3166,
+  "evolutions": [
+    {
+      "evoId": 828,
+      "formId": 3167,
+      "candyCost": 50
+    }
+  ]
 }

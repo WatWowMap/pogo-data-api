@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "LILLIPUP_NORMAL",
-	"formId": 1922,
-	"evolutions": [
-		{
-			"evoId": 507,
-			"formId": 1925,
-			"candyCost": 25
-		}
-	]
+  "formName": "Normal",
+  "proto": "LILLIPUP_NORMAL",
+  "formId": 1922,
+  "evolutions": [
+    {
+      "evoId": 507,
+      "formId": 1925,
+      "candyCost": 25
+    }
+  ]
 }

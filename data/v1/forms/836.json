@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "MOLTRES_NORMAL",
-	"formId": 836,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Normal",
+  "proto": "MOLTRES_NORMAL",
+  "formId": 836,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

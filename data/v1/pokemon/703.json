@@ -1,55 +1,67 @@
 {
-	"pokemonName": "Carbink",
-	"pokedexId": 703,
-	"defaultFormId": 3064,
-	"types": [6, 18],
-	"quickMoves": [221, 227],
-	"chargedMoves": [64, 65, 87],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [3064],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.147
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.15
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.225
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.375
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.45
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.6
-		}
-	],
-	"attack": 95,
-	"defense": 285,
-	"stamina": 137,
-	"height": 0.3,
-	"weight": 5.7,
-	"family": 703,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Carbink",
+  "pokedexId": 703,
+  "defaultFormId": 3064,
+  "types": [
+    6,
+    18
+  ],
+  "quickMoves": [
+    221,
+    227
+  ],
+  "chargedMoves": [
+    64,
+    65,
+    87
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    3064
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.147
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.15
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.225
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.375
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.45
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.6
+    }
+  ],
+  "attack": 95,
+  "defense": 285,
+  "stamina": 137,
+  "height": 0.3,
+  "weight": 5.7,
+  "family": 703,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

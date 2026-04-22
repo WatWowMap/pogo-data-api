@@ -1,20 +1,20 @@
 {
-	"formName": "Normal",
-	"proto": "TOGETIC_NORMAL",
-	"formId": 1187,
-	"evolutions": [
-		{
-			"evoId": 468,
-			"formId": 1826,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"costumeOverrideEvos": [
-		{
-			"costumeId": 12,
-			"costumeProto": "APRIL_2020_NOEVOLVE",
-			"costumeName": "April 2020 Noevolve"
-		}
-	]
+  "formName": "Normal",
+  "proto": "TOGETIC_NORMAL",
+  "formId": 1187,
+  "evolutions": [
+    {
+      "evoId": 468,
+      "formId": 1826,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "costumeOverrideEvos": [
+    {
+      "costumeId": 12,
+      "costumeProto": "APRIL_2020_NOEVOLVE",
+      "costumeName": "April 2020 Noevolve"
+    }
+  ]
 }

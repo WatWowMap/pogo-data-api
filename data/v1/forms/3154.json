@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "RABOOT_NORMAL",
-	"formId": 3154,
-	"evolutions": [
-		{
-			"evoId": 815,
-			"formId": 3016,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "RABOOT_NORMAL",
+  "formId": 3154,
+  "evolutions": [
+    {
+      "evoId": 815,
+      "formId": 3016,
+      "candyCost": 100
+    }
+  ]
 }

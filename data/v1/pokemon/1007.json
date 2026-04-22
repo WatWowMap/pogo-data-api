@@ -1,53 +1,66 @@
 {
-	"pokemonName": "Koraidon",
-	"pokedexId": 1007,
-	"defaultFormId": 2996,
-	"types": [2, 16],
-	"quickMoves": [241, 253],
-	"chargedMoves": [83, 245, 277, 321],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [2996],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.225
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.875
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.875
-		}
-	],
-	"attack": 263,
-	"defense": 223,
-	"stamina": 205,
-	"height": 2.5,
-	"weight": 303,
-	"family": 1007,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Koraidon",
+  "pokedexId": 1007,
+  "defaultFormId": 2996,
+  "types": [
+    2,
+    16
+  ],
+  "quickMoves": [
+    241,
+    253
+  ],
+  "chargedMoves": [
+    83,
+    245,
+    277,
+    321
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    2996
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.225
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.875
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.875
+    }
+  ],
+  "attack": 263,
+  "defense": 223,
+  "stamina": 205,
+  "height": 2.5,
+  "weight": 303,
+  "family": 1007,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true
 }

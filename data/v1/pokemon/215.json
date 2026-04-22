@@ -1,65 +1,79 @@
 {
-	"pokemonName": "Sneasel",
-	"pokedexId": 215,
-	"defaultFormId": 797,
-	"types": [15, 17],
-	"quickMoves": [217, 238],
-	"chargedMoves": [33, 254, 280, 391],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 2,
-	"generation": "Johto",
-	"forms": [797, 2794],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.4361
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.445
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6675
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1.1125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.335
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.5575
-		}
-	],
-	"attack": 189,
-	"defense": 146,
-	"stamina": 146,
-	"height": 0.89,
-	"weight": 28,
-	"family": 215,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 461,
-			"formId": 800,
-			"candyCost": 100,
-			"itemRequirement": 1106
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "pokemonName": "Sneasel",
+  "pokedexId": 215,
+  "defaultFormId": 797,
+  "types": [
+    15,
+    17
+  ],
+  "quickMoves": [
+    217,
+    238
+  ],
+  "chargedMoves": [
+    33,
+    254,
+    280,
+    391
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 2,
+  "generation": "Johto",
+  "forms": [
+    797,
+    2794
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.4361
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.445
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6675
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1.1125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.335
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.5575
+    }
+  ],
+  "attack": 189,
+  "defense": 146,
+  "stamina": 146,
+  "height": 0.89,
+  "weight": 28,
+  "family": 215,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 461,
+      "formId": 800,
+      "candyCost": 100,
+      "itemRequirement": 1106
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

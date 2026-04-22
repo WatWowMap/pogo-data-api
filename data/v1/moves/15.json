@@ -1,6 +1,6 @@
 {
-	"moveId": 15,
-	"moveName": "Lick",
-	"proto": "LICK",
-	"fast": false
+  "moveId": 15,
+  "moveName": "Lick",
+  "proto": "LICK",
+  "fast": false
 }

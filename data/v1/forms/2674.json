@@ -1,20 +1,20 @@
 {
-	"formName": "2021",
-	"proto": "SLOWBRO_2021",
-	"formId": 2674,
-	"isCostume": true,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 1,
-			"attack": 224,
-			"defense": 259,
-			"stamina": 216,
-			"height": 2,
-			"weight": 120,
-			"firstEnergyCost": 100,
-			"subsequentEnergyCost": 20
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "2021",
+  "proto": "SLOWBRO_2021",
+  "formId": 2674,
+  "isCostume": true,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 1,
+      "attack": 224,
+      "defense": 259,
+      "stamina": 216,
+      "height": 2,
+      "weight": 120,
+      "firstEnergyCost": 100,
+      "subsequentEnergyCost": 20
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

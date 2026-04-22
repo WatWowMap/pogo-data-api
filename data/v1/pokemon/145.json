@@ -1,56 +1,73 @@
 {
-	"pokemonName": "Zapdos",
-	"pokedexId": 145,
-	"defaultFormId": 773,
-	"types": [3, 13],
-	"quickMoves": [249],
-	"chargedMoves": [38, 42, 62, 78, 79, 252],
-	"eliteQuickMoves": [205],
-	"eliteChargedMoves": [],
-	"genId": 1,
-	"generation": "Kanto",
-	"forms": [773, 2800],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.784
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.8
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.2
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 2.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 2.8
-		}
-	],
-	"attack": 253,
-	"defense": 185,
-	"stamina": 207,
-	"height": 1.6,
-	"weight": 52.6,
-	"family": 145,
-	"legendary": true,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 7,
-	"buddyDistance": 20,
-	"thirdMoveStardust": 100000,
-	"thirdMoveCandy": 100,
-	"tradable": true,
-	"transferable": true,
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "pokemonName": "Zapdos",
+  "pokedexId": 145,
+  "defaultFormId": 773,
+  "types": [
+    3,
+    13
+  ],
+  "quickMoves": [
+    249
+  ],
+  "chargedMoves": [
+    38,
+    42,
+    62,
+    78,
+    79,
+    252
+  ],
+  "eliteQuickMoves": [
+    205
+  ],
+  "eliteChargedMoves": [],
+  "genId": 1,
+  "generation": "Kanto",
+  "forms": [
+    773,
+    2800
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.784
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.8
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.2
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 2.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 2.8
+    }
+  ],
+  "attack": 253,
+  "defense": 185,
+  "stamina": 207,
+  "height": 1.6,
+  "weight": 52.6,
+  "family": 145,
+  "legendary": true,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 7,
+  "buddyDistance": 20,
+  "thirdMoveStardust": 100000,
+  "thirdMoveCandy": 100,
+  "tradable": true,
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

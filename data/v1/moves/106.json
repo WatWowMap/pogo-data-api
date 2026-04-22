@@ -1,16 +1,16 @@
 {
-	"moveId": 106,
-	"moveName": "Scald",
-	"proto": "SCALD",
-	"fast": false,
-	"type": 11,
-	"pvpPower": 85,
-	"pvpEnergyDelta": -50,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 0.3
-	},
-	"power": 75,
-	"durationMs": 3500,
-	"energyDelta": -50
+  "moveId": 106,
+  "moveName": "Scald",
+  "proto": "SCALD",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 85,
+  "pvpEnergyDelta": -50,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 0.3
+  },
+  "power": 75,
+  "durationMs": 3500,
+  "energyDelta": -50
 }

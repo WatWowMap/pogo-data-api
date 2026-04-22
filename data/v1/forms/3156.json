@@ -1,12 +1,12 @@
 {
-	"formName": "Normal",
-	"proto": "DRIZZILE_NORMAL",
-	"formId": 3156,
-	"evolutions": [
-		{
-			"evoId": 818,
-			"formId": 3157,
-			"candyCost": 100
-		}
-	]
+  "formName": "Normal",
+  "proto": "DRIZZILE_NORMAL",
+  "formId": 3156,
+  "evolutions": [
+    {
+      "evoId": 818,
+      "formId": 3157,
+      "candyCost": 100
+    }
+  ]
 }

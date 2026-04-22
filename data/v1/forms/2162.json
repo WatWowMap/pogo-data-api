@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "FOONGUS_NORMAL",
-	"formId": 2162,
-	"evolutions": [
-		{
-			"evoId": 591,
-			"formId": 2165,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "FOONGUS_NORMAL",
+  "formId": 2162,
+  "evolutions": [
+    {
+      "evoId": 591,
+      "formId": 2165,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

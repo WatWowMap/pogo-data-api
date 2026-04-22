@@ -1,12 +1,12 @@
 {
-	"formName": "Meadow",
-	"proto": "SPEWPA_MEADOW",
-	"formId": 2774,
-	"evolutions": [
-		{
-			"evoId": 666,
-			"formId": 2603,
-			"candyCost": 100
-		}
-	]
+  "formName": "Meadow",
+  "proto": "SPEWPA_MEADOW",
+  "formId": 2774,
+  "evolutions": [
+    {
+      "evoId": 666,
+      "formId": 2603,
+      "candyCost": 100
+    }
+  ]
 }

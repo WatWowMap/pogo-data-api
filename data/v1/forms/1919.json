@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "WATCHOG_NORMAL",
-	"formId": 1919,
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "formName": "Normal",
+  "proto": "WATCHOG_NORMAL",
+  "formId": 1919,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

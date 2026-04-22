@@ -1,46 +1,55 @@
 {
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.392
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.6
-		},
-		{
-			"name": "mUpperBound",
-			"value": 1
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.2
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.4
-		}
-	],
-	"formName": "Galarian",
-	"proto": "PONYTA_GALARIAN",
-	"formId": 2336,
-	"height": 0.8,
-	"weight": 24,
-	"quickMoves": [207, 226],
-	"chargedMoves": [30, 88, 125],
-	"eliteChargedMoves": [],
-	"types": [14],
-	"evolutions": [
-		{
-			"evoId": 78,
-			"formId": 2337,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.392
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.6
+    },
+    {
+      "name": "mUpperBound",
+      "value": 1
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.2
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.4
+    }
+  ],
+  "formName": "Galarian",
+  "proto": "PONYTA_GALARIAN",
+  "formId": 2336,
+  "height": 0.8,
+  "weight": 24,
+  "quickMoves": [
+    207,
+    226
+  ],
+  "chargedMoves": [
+    30,
+    88,
+    125
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    14
+  ],
+  "evolutions": [
+    {
+      "evoId": 78,
+      "formId": 2337,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

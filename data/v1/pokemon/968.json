@@ -1,54 +1,65 @@
 {
-	"pokemonName": "Orthworm",
-	"pokedexId": 968,
-	"defaultFormId": 3280,
-	"types": [9],
-	"quickMoves": [233, 266],
-	"chargedMoves": [31, 63, 74],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3280],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 1.225
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1.25
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.875
-		},
-		{
-			"name": "mUpperBound",
-			"value": 3.125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3.75
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 5
-		}
-	],
-	"attack": 161,
-	"defense": 219,
-	"stamina": 172,
-	"height": 2.5,
-	"weight": 310,
-	"family": 968,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Orthworm",
+  "pokedexId": 968,
+  "defaultFormId": 3280,
+  "types": [
+    9
+  ],
+  "quickMoves": [
+    233,
+    266
+  ],
+  "chargedMoves": [
+    31,
+    63,
+    74
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3280
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 1.225
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1.25
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.875
+    },
+    {
+      "name": "mUpperBound",
+      "value": 3.125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3.75
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 5
+    }
+  ],
+  "attack": 161,
+  "defense": 219,
+  "stamina": 172,
+  "height": 2.5,
+  "weight": 310,
+  "family": 968,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

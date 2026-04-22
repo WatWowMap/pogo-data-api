@@ -1,512 +1,512 @@
 [
-	{
-		"questId": 0,
-		"proto": "QUEST_UNSET",
-		"formatted": "Unset"
-	},
-	{
-		"questId": 1,
-		"proto": "QUEST_FIRST_CATCH_OF_THE_DAY",
-		"formatted": "First Catch Of The Day"
-	},
-	{
-		"questId": 2,
-		"proto": "QUEST_FIRST_POKESTOP_OF_THE_DAY",
-		"formatted": "First Pokestop Of The Day"
-	},
-	{
-		"questId": 3,
-		"proto": "QUEST_MULTI_PART",
-		"formatted": "Multi Part"
-	},
-	{
-		"questId": 4,
-		"proto": "QUEST_CATCH_POKEMON",
-		"formatted": "Catch Pokemon"
-	},
-	{
-		"questId": 5,
-		"proto": "QUEST_SPIN_POKESTOP",
-		"formatted": "Spin Pokestop"
-	},
-	{
-		"questId": 6,
-		"proto": "QUEST_HATCH_EGG",
-		"formatted": "Hatch Egg"
-	},
-	{
-		"questId": 7,
-		"proto": "QUEST_COMPLETE_GYM_BATTLE",
-		"formatted": "Complete Gym Battle"
-	},
-	{
-		"questId": 8,
-		"proto": "QUEST_COMPLETE_RAID_BATTLE",
-		"formatted": "Complete Raid Battle"
-	},
-	{
-		"questId": 9,
-		"proto": "QUEST_COMPLETE_QUEST",
-		"formatted": "Complete Quest"
-	},
-	{
-		"questId": 10,
-		"proto": "QUEST_TRANSFER_POKEMON",
-		"formatted": "Transfer Pokemon"
-	},
-	{
-		"questId": 11,
-		"proto": "QUEST_FAVORITE_POKEMON",
-		"formatted": "Favorite Pokemon"
-	},
-	{
-		"questId": 12,
-		"proto": "QUEST_AUTOCOMPLETE",
-		"formatted": "Autocomplete"
-	},
-	{
-		"questId": 13,
-		"proto": "QUEST_USE_BERRY_IN_ENCOUNTER",
-		"formatted": "Use Berry In Encounter"
-	},
-	{
-		"questId": 14,
-		"proto": "QUEST_UPGRADE_POKEMON",
-		"formatted": "Upgrade Pokemon"
-	},
-	{
-		"questId": 15,
-		"proto": "QUEST_EVOLVE_POKEMON",
-		"formatted": "Evolve Pokemon"
-	},
-	{
-		"questId": 16,
-		"proto": "QUEST_LAND_THROW",
-		"formatted": "Land Throw"
-	},
-	{
-		"questId": 17,
-		"proto": "QUEST_GET_BUDDY_CANDY",
-		"formatted": "Get Buddy Candy"
-	},
-	{
-		"questId": 18,
-		"proto": "QUEST_BADGE_RANK",
-		"formatted": "Badge Rank"
-	},
-	{
-		"questId": 19,
-		"proto": "QUEST_PLAYER_LEVEL",
-		"formatted": "Player Level"
-	},
-	{
-		"questId": 20,
-		"proto": "QUEST_JOIN_RAID",
-		"formatted": "Join Raid"
-	},
-	{
-		"questId": 21,
-		"proto": "QUEST_COMPLETE_BATTLE",
-		"formatted": "Complete Battle"
-	},
-	{
-		"questId": 22,
-		"proto": "QUEST_ADD_FRIEND",
-		"formatted": "Add Friend"
-	},
-	{
-		"questId": 23,
-		"proto": "QUEST_TRADE_POKEMON",
-		"formatted": "Trade Pokemon"
-	},
-	{
-		"questId": 24,
-		"proto": "QUEST_SEND_GIFT",
-		"formatted": "Send Gift"
-	},
-	{
-		"questId": 25,
-		"proto": "QUEST_EVOLVE_INTO_POKEMON",
-		"formatted": "Evolve Into Pokemon"
-	},
-	{
-		"questId": 27,
-		"proto": "QUEST_COMPLETE_COMBAT",
-		"formatted": "Complete Combat"
-	},
-	{
-		"questId": 28,
-		"proto": "QUEST_TAKE_SNAPSHOT",
-		"formatted": "Take Snapshot"
-	},
-	{
-		"questId": 29,
-		"proto": "QUEST_BATTLE_TEAM_ROCKET",
-		"formatted": "Battle Team Rocket"
-	},
-	{
-		"questId": 30,
-		"proto": "QUEST_PURIFY_POKEMON",
-		"formatted": "Purify Pokemon"
-	},
-	{
-		"questId": 31,
-		"proto": "QUEST_FIND_TEAM_ROCKET",
-		"formatted": "Find Team Rocket"
-	},
-	{
-		"questId": 32,
-		"proto": "QUEST_FIRST_GRUNT_OF_THE_DAY",
-		"formatted": "First Grunt Of The Day"
-	},
-	{
-		"questId": 33,
-		"proto": "QUEST_BUDDY_FEED",
-		"formatted": "Buddy Feed"
-	},
-	{
-		"questId": 34,
-		"proto": "QUEST_BUDDY_EARN_AFFECTION_POINTS",
-		"formatted": "Buddy Earn Affection Points"
-	},
-	{
-		"questId": 35,
-		"proto": "QUEST_BUDDY_PET",
-		"formatted": "Buddy Pet"
-	},
-	{
-		"questId": 36,
-		"proto": "QUEST_BUDDY_LEVEL",
-		"formatted": "Buddy Level"
-	},
-	{
-		"questId": 37,
-		"proto": "QUEST_BUDDY_WALK",
-		"formatted": "Buddy Walk"
-	},
-	{
-		"questId": 38,
-		"proto": "QUEST_BUDDY_YATTA",
-		"formatted": "Buddy Yatta"
-	},
-	{
-		"questId": 39,
-		"proto": "QUEST_USE_INCENSE",
-		"formatted": "Use Incense"
-	},
-	{
-		"questId": 40,
-		"proto": "QUEST_BUDDY_FIND_SOUVENIR",
-		"formatted": "Buddy Find Souvenir"
-	},
-	{
-		"questId": 41,
-		"proto": "QUEST_COLLECT_AS_REWARDS",
-		"formatted": "Collect As Rewards"
-	},
-	{
-		"questId": 42,
-		"proto": "QUEST_WALK",
-		"formatted": "Walk"
-	},
-	{
-		"questId": 43,
-		"proto": "QUEST_MEGA_EVOLVE_POKEMON",
-		"formatted": "Mega Evolve Pokemon"
-	},
-	{
-		"questId": 44,
-		"proto": "QUEST_GET_STARDUST",
-		"formatted": "Get Stardust"
-	},
-	{
-		"questId": 45,
-		"proto": "QUEST_MINI_COLLECTION",
-		"formatted": "Mini Collection"
-	},
-	{
-		"questId": 46,
-		"proto": "QUEST_GEOTARGETED_AR_SCAN",
-		"formatted": "Geotargeted Ar Scan"
-	},
-	{
-		"questId": 50,
-		"proto": "QUEST_BUDDY_EVOLUTION_WALK",
-		"formatted": "Buddy Evolution Walk"
-	},
-	{
-		"questId": 51,
-		"proto": "QUEST_GBL_RANK",
-		"formatted": "GBL Rank"
-	},
-	{
-		"questId": 53,
-		"proto": "QUEST_CHARGE_ATTACK",
-		"formatted": "Charge Attack"
-	},
-	{
-		"questId": 54,
-		"proto": "QUEST_CHANGE_POKEMON_FORM",
-		"formatted": "Change Pokemon Form"
-	},
-	{
-		"questId": 55,
-		"proto": "QUEST_BATTLE_EVENT_NPC",
-		"formatted": "Battle Event NPC"
-	},
-	{
-		"questId": 56,
-		"proto": "QUEST_EARN_FORT_POWER_UP_POINTS",
-		"formatted": "Earn Fort Power Up Points"
-	},
-	{
-		"questId": 57,
-		"proto": "QUEST_TAKE_WILD_SNAPSHOT",
-		"formatted": "Take Wild Snapshot"
-	},
-	{
-		"questId": 58,
-		"proto": "QUEST_USE_POKEMON_ITEM",
-		"formatted": "Use Pokemon Item"
-	},
-	{
-		"questId": 59,
-		"proto": "QUEST_OPEN_GIFT",
-		"formatted": "Open Gift"
-	},
-	{
-		"questId": 60,
-		"proto": "QUEST_EARN_XP",
-		"formatted": "Earn Xp"
-	},
-	{
-		"questId": 61,
-		"proto": "QUEST_BATTLE_PLAYER_TEAM_LEADER",
-		"formatted": "Battle Player Team Leader"
-	},
-	{
-		"questId": 62,
-		"proto": "QUEST_FIRST_ROUTE_OF_THE_DAY",
-		"formatted": "First Route Of The Day"
-	},
-	{
-		"questId": 63,
-		"proto": "QUEST_SUBMIT_SLEEP_DATA",
-		"formatted": "Submit Sleep Data"
-	},
-	{
-		"questId": 64,
-		"proto": "QUEST_ROUTE_TRAVEL",
-		"formatted": "Route Travel"
-	},
-	{
-		"questId": 65,
-		"proto": "QUEST_ROUTE_COMPLETE",
-		"formatted": "Route Complete"
-	},
-	{
-		"questId": 66,
-		"proto": "QUEST_COLLECT_TAPPABLE",
-		"formatted": "Collect Tappable"
-	},
-	{
-		"questId": 67,
-		"proto": "QUEST_ACTIVATE_TRAINER_ABILITY",
-		"formatted": "Activate Trainer Ability"
-	},
-	{
-		"questId": 68,
-		"proto": "QUEST_NPC_SEND_GIFT",
-		"formatted": "NPC Send Gift"
-	},
-	{
-		"questId": 69,
-		"proto": "QUEST_NPC_OPEN_GIFT",
-		"formatted": "NPC Open Gift"
-	},
-	{
-		"questId": 70,
-		"proto": "QUEST_PTC_OAUTH_LINK",
-		"formatted": "Ptc Oauth Link"
-	},
-	{
-		"questId": 71,
-		"proto": "QUEST_FIGHT_POKEMON",
-		"formatted": "Fight Pokemon"
-	},
-	{
-		"questId": 72,
-		"proto": "QUEST_USE_NON_COMBAT_MOVE",
-		"formatted": "Use Non Combat Move"
-	},
-	{
-		"questId": 73,
-		"proto": "QUEST_FUSE_POKEMON",
-		"formatted": "Fuse Pokemon"
-	},
-	{
-		"questId": 74,
-		"proto": "QUEST_UNFUSE_POKEMON",
-		"formatted": "Unfuse Pokemon"
-	},
-	{
-		"questId": 75,
-		"proto": "QUEST_WALK_METERS",
-		"formatted": "Walk Meters"
-	},
-	{
-		"questId": 76,
-		"proto": "QUEST_CHANGE_INTO_POKEMON_FORM",
-		"formatted": "Change Into Pokemon Form"
-	},
-	{
-		"questId": 77,
-		"proto": "QUEST_FUSE_INTO_POKEMON",
-		"formatted": "Fuse Into Pokemon"
-	},
-	{
-		"questId": 78,
-		"proto": "QUEST_UNFUSE_INTO_POKEMON",
-		"formatted": "Unfuse Into Pokemon"
-	},
-	{
-		"questId": 82,
-		"proto": "QUEST_COLLECT_MP",
-		"formatted": "Collect Mp"
-	},
-	{
-		"questId": 83,
-		"proto": "QUEST_LOOT_STATION",
-		"formatted": "Loot Station"
-	},
-	{
-		"questId": 84,
-		"proto": "QUEST_COMPLETE_BREAD_BATTLE",
-		"formatted": "Complete Bread Battle"
-	},
-	{
-		"questId": 85,
-		"proto": "QUEST_USE_BREAD_MOVE",
-		"formatted": "Use Bread Move"
-	},
-	{
-		"questId": 86,
-		"proto": "QUEST_UNLOCK_BREAD_MOVE",
-		"formatted": "Unlock Bread Move"
-	},
-	{
-		"questId": 87,
-		"proto": "QUEST_ENHANCE_BREAD_MOVE",
-		"formatted": "Enhance Bread Move"
-	},
-	{
-		"questId": 88,
-		"proto": "QUEST_COLLECT_STAMP",
-		"formatted": "Collect Stamp"
-	},
-	{
-		"questId": 89,
-		"proto": "QUEST_COMPLETE_BREAD_DOUGH_BATTLE",
-		"formatted": "Complete Bread Dough Battle"
-	},
-	{
-		"questId": 90,
-		"proto": "QUEST_VISIT_PAGE",
-		"formatted": "Visit Page"
-	},
-	{
-		"questId": 91,
-		"proto": "QUEST_USE_INCUBATOR",
-		"formatted": "Use Incubator"
-	},
-	{
-		"questId": 92,
-		"proto": "QUEST_CHOOSE_BUDDY",
-		"formatted": "Choose Buddy"
-	},
-	{
-		"questId": 93,
-		"proto": "QUEST_USE_LURE_MODULE",
-		"formatted": "Use Lure Module"
-	},
-	{
-		"questId": 94,
-		"proto": "QUEST_USE_LUCKY_EGG",
-		"formatted": "Use Lucky Egg"
-	},
-	{
-		"questId": 95,
-		"proto": "QUEST_PIN_POSTCARD",
-		"formatted": "Pin Postcard"
-	},
-	{
-		"questId": 96,
-		"proto": "QUEST_FEED_GYM_POKEMON",
-		"formatted": "Feed Gym Pokemon"
-	},
-	{
-		"questId": 97,
-		"proto": "QUEST_USE_STAR_PIECE",
-		"formatted": "Use Star Piece"
-	},
-	{
-		"questId": 98,
-		"proto": "QUEST_POKEMON_REACH_CP",
-		"formatted": "Pokemon Reach CP"
-	},
-	{
-		"questId": 99,
-		"proto": "QUEST_SPEND_STARDUST",
-		"formatted": "Spend Stardust"
-	},
-	{
-		"questId": 100,
-		"proto": "QUEST_NOMINATE_POKESTOP",
-		"formatted": "Nominate Pokestop"
-	},
-	{
-		"questId": 101,
-		"proto": "QUEST_EDIT_POKESTOP",
-		"formatted": "Edit Pokestop"
-	},
-	{
-		"questId": 102,
-		"proto": "QUEST_FIRST_DAY_NIGHT_CATCH_OF_THE_DAY",
-		"formatted": "First Day Night Catch Of The Day"
-	},
-	{
-		"questId": 103,
-		"proto": "QUEST_FIRST_DAY_CATCH_OF_THE_DAY",
-		"formatted": "First Day Catch Of The Day"
-	},
-	{
-		"questId": 104,
-		"proto": "QUEST_FIRST_NIGHT_CATCH_OF_THE_DAY",
-		"formatted": "First Night Catch Of The Day"
-	},
-	{
-		"questId": 105,
-		"proto": "QUEST_SPEND_TEMP_EVO_RESOURCE",
-		"formatted": "Spend Temp Evo Resource"
-	},
-	{
-		"questId": 106,
-		"proto": "QUEST_GET_CANDY",
-		"formatted": "Get Candy"
-	},
-	{
-		"questId": 107,
-		"proto": "QUEST_GET_XL_CANDY",
-		"formatted": "Get XL Candy"
-	},
-	{
-		"questId": 108,
-		"proto": "QUEST_GET_CANDY_OR_XL_CANDY",
-		"formatted": "Get Candy Or XL Candy"
-	},
-	{
-		"questId": 109,
-		"proto": "QUEST_AR_PHOTO_SOCIAL",
-		"formatted": "Ar Photo Social"
-	}
+  {
+    "questId": 0,
+    "proto": "QUEST_UNSET",
+    "formatted": "Unset"
+  },
+  {
+    "questId": 1,
+    "proto": "QUEST_FIRST_CATCH_OF_THE_DAY",
+    "formatted": "First Catch Of The Day"
+  },
+  {
+    "questId": 2,
+    "proto": "QUEST_FIRST_POKESTOP_OF_THE_DAY",
+    "formatted": "First Pokestop Of The Day"
+  },
+  {
+    "questId": 3,
+    "proto": "QUEST_MULTI_PART",
+    "formatted": "Multi Part"
+  },
+  {
+    "questId": 4,
+    "proto": "QUEST_CATCH_POKEMON",
+    "formatted": "Catch Pokemon"
+  },
+  {
+    "questId": 5,
+    "proto": "QUEST_SPIN_POKESTOP",
+    "formatted": "Spin Pokestop"
+  },
+  {
+    "questId": 6,
+    "proto": "QUEST_HATCH_EGG",
+    "formatted": "Hatch Egg"
+  },
+  {
+    "questId": 7,
+    "proto": "QUEST_COMPLETE_GYM_BATTLE",
+    "formatted": "Complete Gym Battle"
+  },
+  {
+    "questId": 8,
+    "proto": "QUEST_COMPLETE_RAID_BATTLE",
+    "formatted": "Complete Raid Battle"
+  },
+  {
+    "questId": 9,
+    "proto": "QUEST_COMPLETE_QUEST",
+    "formatted": "Complete Quest"
+  },
+  {
+    "questId": 10,
+    "proto": "QUEST_TRANSFER_POKEMON",
+    "formatted": "Transfer Pokemon"
+  },
+  {
+    "questId": 11,
+    "proto": "QUEST_FAVORITE_POKEMON",
+    "formatted": "Favorite Pokemon"
+  },
+  {
+    "questId": 12,
+    "proto": "QUEST_AUTOCOMPLETE",
+    "formatted": "Autocomplete"
+  },
+  {
+    "questId": 13,
+    "proto": "QUEST_USE_BERRY_IN_ENCOUNTER",
+    "formatted": "Use Berry In Encounter"
+  },
+  {
+    "questId": 14,
+    "proto": "QUEST_UPGRADE_POKEMON",
+    "formatted": "Upgrade Pokemon"
+  },
+  {
+    "questId": 15,
+    "proto": "QUEST_EVOLVE_POKEMON",
+    "formatted": "Evolve Pokemon"
+  },
+  {
+    "questId": 16,
+    "proto": "QUEST_LAND_THROW",
+    "formatted": "Land Throw"
+  },
+  {
+    "questId": 17,
+    "proto": "QUEST_GET_BUDDY_CANDY",
+    "formatted": "Get Buddy Candy"
+  },
+  {
+    "questId": 18,
+    "proto": "QUEST_BADGE_RANK",
+    "formatted": "Badge Rank"
+  },
+  {
+    "questId": 19,
+    "proto": "QUEST_PLAYER_LEVEL",
+    "formatted": "Player Level"
+  },
+  {
+    "questId": 20,
+    "proto": "QUEST_JOIN_RAID",
+    "formatted": "Join Raid"
+  },
+  {
+    "questId": 21,
+    "proto": "QUEST_COMPLETE_BATTLE",
+    "formatted": "Complete Battle"
+  },
+  {
+    "questId": 22,
+    "proto": "QUEST_ADD_FRIEND",
+    "formatted": "Add Friend"
+  },
+  {
+    "questId": 23,
+    "proto": "QUEST_TRADE_POKEMON",
+    "formatted": "Trade Pokemon"
+  },
+  {
+    "questId": 24,
+    "proto": "QUEST_SEND_GIFT",
+    "formatted": "Send Gift"
+  },
+  {
+    "questId": 25,
+    "proto": "QUEST_EVOLVE_INTO_POKEMON",
+    "formatted": "Evolve Into Pokemon"
+  },
+  {
+    "questId": 27,
+    "proto": "QUEST_COMPLETE_COMBAT",
+    "formatted": "Complete Combat"
+  },
+  {
+    "questId": 28,
+    "proto": "QUEST_TAKE_SNAPSHOT",
+    "formatted": "Take Snapshot"
+  },
+  {
+    "questId": 29,
+    "proto": "QUEST_BATTLE_TEAM_ROCKET",
+    "formatted": "Battle Team Rocket"
+  },
+  {
+    "questId": 30,
+    "proto": "QUEST_PURIFY_POKEMON",
+    "formatted": "Purify Pokemon"
+  },
+  {
+    "questId": 31,
+    "proto": "QUEST_FIND_TEAM_ROCKET",
+    "formatted": "Find Team Rocket"
+  },
+  {
+    "questId": 32,
+    "proto": "QUEST_FIRST_GRUNT_OF_THE_DAY",
+    "formatted": "First Grunt Of The Day"
+  },
+  {
+    "questId": 33,
+    "proto": "QUEST_BUDDY_FEED",
+    "formatted": "Buddy Feed"
+  },
+  {
+    "questId": 34,
+    "proto": "QUEST_BUDDY_EARN_AFFECTION_POINTS",
+    "formatted": "Buddy Earn Affection Points"
+  },
+  {
+    "questId": 35,
+    "proto": "QUEST_BUDDY_PET",
+    "formatted": "Buddy Pet"
+  },
+  {
+    "questId": 36,
+    "proto": "QUEST_BUDDY_LEVEL",
+    "formatted": "Buddy Level"
+  },
+  {
+    "questId": 37,
+    "proto": "QUEST_BUDDY_WALK",
+    "formatted": "Buddy Walk"
+  },
+  {
+    "questId": 38,
+    "proto": "QUEST_BUDDY_YATTA",
+    "formatted": "Buddy Yatta"
+  },
+  {
+    "questId": 39,
+    "proto": "QUEST_USE_INCENSE",
+    "formatted": "Use Incense"
+  },
+  {
+    "questId": 40,
+    "proto": "QUEST_BUDDY_FIND_SOUVENIR",
+    "formatted": "Buddy Find Souvenir"
+  },
+  {
+    "questId": 41,
+    "proto": "QUEST_COLLECT_AS_REWARDS",
+    "formatted": "Collect As Rewards"
+  },
+  {
+    "questId": 42,
+    "proto": "QUEST_WALK",
+    "formatted": "Walk"
+  },
+  {
+    "questId": 43,
+    "proto": "QUEST_MEGA_EVOLVE_POKEMON",
+    "formatted": "Mega Evolve Pokemon"
+  },
+  {
+    "questId": 44,
+    "proto": "QUEST_GET_STARDUST",
+    "formatted": "Get Stardust"
+  },
+  {
+    "questId": 45,
+    "proto": "QUEST_MINI_COLLECTION",
+    "formatted": "Mini Collection"
+  },
+  {
+    "questId": 46,
+    "proto": "QUEST_GEOTARGETED_AR_SCAN",
+    "formatted": "Geotargeted Ar Scan"
+  },
+  {
+    "questId": 50,
+    "proto": "QUEST_BUDDY_EVOLUTION_WALK",
+    "formatted": "Buddy Evolution Walk"
+  },
+  {
+    "questId": 51,
+    "proto": "QUEST_GBL_RANK",
+    "formatted": "GBL Rank"
+  },
+  {
+    "questId": 53,
+    "proto": "QUEST_CHARGE_ATTACK",
+    "formatted": "Charge Attack"
+  },
+  {
+    "questId": 54,
+    "proto": "QUEST_CHANGE_POKEMON_FORM",
+    "formatted": "Change Pokemon Form"
+  },
+  {
+    "questId": 55,
+    "proto": "QUEST_BATTLE_EVENT_NPC",
+    "formatted": "Battle Event NPC"
+  },
+  {
+    "questId": 56,
+    "proto": "QUEST_EARN_FORT_POWER_UP_POINTS",
+    "formatted": "Earn Fort Power Up Points"
+  },
+  {
+    "questId": 57,
+    "proto": "QUEST_TAKE_WILD_SNAPSHOT",
+    "formatted": "Take Wild Snapshot"
+  },
+  {
+    "questId": 58,
+    "proto": "QUEST_USE_POKEMON_ITEM",
+    "formatted": "Use Pokemon Item"
+  },
+  {
+    "questId": 59,
+    "proto": "QUEST_OPEN_GIFT",
+    "formatted": "Open Gift"
+  },
+  {
+    "questId": 60,
+    "proto": "QUEST_EARN_XP",
+    "formatted": "Earn Xp"
+  },
+  {
+    "questId": 61,
+    "proto": "QUEST_BATTLE_PLAYER_TEAM_LEADER",
+    "formatted": "Battle Player Team Leader"
+  },
+  {
+    "questId": 62,
+    "proto": "QUEST_FIRST_ROUTE_OF_THE_DAY",
+    "formatted": "First Route Of The Day"
+  },
+  {
+    "questId": 63,
+    "proto": "QUEST_SUBMIT_SLEEP_DATA",
+    "formatted": "Submit Sleep Data"
+  },
+  {
+    "questId": 64,
+    "proto": "QUEST_ROUTE_TRAVEL",
+    "formatted": "Route Travel"
+  },
+  {
+    "questId": 65,
+    "proto": "QUEST_ROUTE_COMPLETE",
+    "formatted": "Route Complete"
+  },
+  {
+    "questId": 66,
+    "proto": "QUEST_COLLECT_TAPPABLE",
+    "formatted": "Collect Tappable"
+  },
+  {
+    "questId": 67,
+    "proto": "QUEST_ACTIVATE_TRAINER_ABILITY",
+    "formatted": "Activate Trainer Ability"
+  },
+  {
+    "questId": 68,
+    "proto": "QUEST_NPC_SEND_GIFT",
+    "formatted": "NPC Send Gift"
+  },
+  {
+    "questId": 69,
+    "proto": "QUEST_NPC_OPEN_GIFT",
+    "formatted": "NPC Open Gift"
+  },
+  {
+    "questId": 70,
+    "proto": "QUEST_PTC_OAUTH_LINK",
+    "formatted": "Ptc Oauth Link"
+  },
+  {
+    "questId": 71,
+    "proto": "QUEST_FIGHT_POKEMON",
+    "formatted": "Fight Pokemon"
+  },
+  {
+    "questId": 72,
+    "proto": "QUEST_USE_NON_COMBAT_MOVE",
+    "formatted": "Use Non Combat Move"
+  },
+  {
+    "questId": 73,
+    "proto": "QUEST_FUSE_POKEMON",
+    "formatted": "Fuse Pokemon"
+  },
+  {
+    "questId": 74,
+    "proto": "QUEST_UNFUSE_POKEMON",
+    "formatted": "Unfuse Pokemon"
+  },
+  {
+    "questId": 75,
+    "proto": "QUEST_WALK_METERS",
+    "formatted": "Walk Meters"
+  },
+  {
+    "questId": 76,
+    "proto": "QUEST_CHANGE_INTO_POKEMON_FORM",
+    "formatted": "Change Into Pokemon Form"
+  },
+  {
+    "questId": 77,
+    "proto": "QUEST_FUSE_INTO_POKEMON",
+    "formatted": "Fuse Into Pokemon"
+  },
+  {
+    "questId": 78,
+    "proto": "QUEST_UNFUSE_INTO_POKEMON",
+    "formatted": "Unfuse Into Pokemon"
+  },
+  {
+    "questId": 82,
+    "proto": "QUEST_COLLECT_MP",
+    "formatted": "Collect Mp"
+  },
+  {
+    "questId": 83,
+    "proto": "QUEST_LOOT_STATION",
+    "formatted": "Loot Station"
+  },
+  {
+    "questId": 84,
+    "proto": "QUEST_COMPLETE_BREAD_BATTLE",
+    "formatted": "Complete Bread Battle"
+  },
+  {
+    "questId": 85,
+    "proto": "QUEST_USE_BREAD_MOVE",
+    "formatted": "Use Bread Move"
+  },
+  {
+    "questId": 86,
+    "proto": "QUEST_UNLOCK_BREAD_MOVE",
+    "formatted": "Unlock Bread Move"
+  },
+  {
+    "questId": 87,
+    "proto": "QUEST_ENHANCE_BREAD_MOVE",
+    "formatted": "Enhance Bread Move"
+  },
+  {
+    "questId": 88,
+    "proto": "QUEST_COLLECT_STAMP",
+    "formatted": "Collect Stamp"
+  },
+  {
+    "questId": 89,
+    "proto": "QUEST_COMPLETE_BREAD_DOUGH_BATTLE",
+    "formatted": "Complete Bread Dough Battle"
+  },
+  {
+    "questId": 90,
+    "proto": "QUEST_VISIT_PAGE",
+    "formatted": "Visit Page"
+  },
+  {
+    "questId": 91,
+    "proto": "QUEST_USE_INCUBATOR",
+    "formatted": "Use Incubator"
+  },
+  {
+    "questId": 92,
+    "proto": "QUEST_CHOOSE_BUDDY",
+    "formatted": "Choose Buddy"
+  },
+  {
+    "questId": 93,
+    "proto": "QUEST_USE_LURE_MODULE",
+    "formatted": "Use Lure Module"
+  },
+  {
+    "questId": 94,
+    "proto": "QUEST_USE_LUCKY_EGG",
+    "formatted": "Use Lucky Egg"
+  },
+  {
+    "questId": 95,
+    "proto": "QUEST_PIN_POSTCARD",
+    "formatted": "Pin Postcard"
+  },
+  {
+    "questId": 96,
+    "proto": "QUEST_FEED_GYM_POKEMON",
+    "formatted": "Feed Gym Pokemon"
+  },
+  {
+    "questId": 97,
+    "proto": "QUEST_USE_STAR_PIECE",
+    "formatted": "Use Star Piece"
+  },
+  {
+    "questId": 98,
+    "proto": "QUEST_POKEMON_REACH_CP",
+    "formatted": "Pokemon Reach CP"
+  },
+  {
+    "questId": 99,
+    "proto": "QUEST_SPEND_STARDUST",
+    "formatted": "Spend Stardust"
+  },
+  {
+    "questId": 100,
+    "proto": "QUEST_NOMINATE_POKESTOP",
+    "formatted": "Nominate Pokestop"
+  },
+  {
+    "questId": 101,
+    "proto": "QUEST_EDIT_POKESTOP",
+    "formatted": "Edit Pokestop"
+  },
+  {
+    "questId": 102,
+    "proto": "QUEST_FIRST_DAY_NIGHT_CATCH_OF_THE_DAY",
+    "formatted": "First Day Night Catch Of The Day"
+  },
+  {
+    "questId": 103,
+    "proto": "QUEST_FIRST_DAY_CATCH_OF_THE_DAY",
+    "formatted": "First Day Catch Of The Day"
+  },
+  {
+    "questId": 104,
+    "proto": "QUEST_FIRST_NIGHT_CATCH_OF_THE_DAY",
+    "formatted": "First Night Catch Of The Day"
+  },
+  {
+    "questId": 105,
+    "proto": "QUEST_SPEND_TEMP_EVO_RESOURCE",
+    "formatted": "Spend Temp Evo Resource"
+  },
+  {
+    "questId": 106,
+    "proto": "QUEST_GET_CANDY",
+    "formatted": "Get Candy"
+  },
+  {
+    "questId": 107,
+    "proto": "QUEST_GET_XL_CANDY",
+    "formatted": "Get XL Candy"
+  },
+  {
+    "questId": 108,
+    "proto": "QUEST_GET_CANDY_OR_XL_CANDY",
+    "formatted": "Get Candy Or XL Candy"
+  },
+  {
+    "questId": 109,
+    "proto": "QUEST_AR_PHOTO_SOCIAL",
+    "formatted": "Ar Photo Social"
+  }
 ]

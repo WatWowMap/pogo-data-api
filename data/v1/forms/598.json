@@ -1,17 +1,17 @@
 {
-	"formName": "Normal",
-	"proto": "PIKACHU_NORMAL",
-	"formId": 598,
-	"gmaxMove": 429,
-	"evolutions": [
-		{
-			"evoId": 26,
-			"candyCost": 50
-		},
-		{
-			"evoId": 26,
-			"formId": 50,
-			"candyCost": 50
-		}
-	]
+  "formName": "Normal",
+  "proto": "PIKACHU_NORMAL",
+  "formId": 598,
+  "gmaxMove": 429,
+  "evolutions": [
+    {
+      "evoId": 26,
+      "candyCost": 50
+    },
+    {
+      "evoId": 26,
+      "formId": 50,
+      "candyCost": 50
+    }
+  ]
 }

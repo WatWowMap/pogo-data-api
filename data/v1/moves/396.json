@@ -1,16 +1,16 @@
 {
-	"moveId": 396,
-	"moveName": "Sandsear Storm",
-	"proto": "SANDSEAR_STORM",
-	"fast": false,
-	"type": 5,
-	"pvpPower": 60,
-	"pvpEnergyDelta": -45,
-	"pvpBuffs": {
-		"targetAttackStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 150,
-	"durationMs": 2500,
-	"energyDelta": -100
+  "moveId": 396,
+  "moveName": "Sandsear Storm",
+  "proto": "SANDSEAR_STORM",
+  "fast": false,
+  "type": 5,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -45,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 150,
+  "durationMs": 2500,
+  "energyDelta": -100
 }

@@ -1,83 +1,98 @@
 {
-	"pokemonName": "Pumpkaboo",
-	"pokedexId": 710,
-	"defaultFormId": 2641,
-	"types": [8, 12],
-	"quickMoves": [215, 263],
-	"chargedMoves": [66, 272, 280],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 6,
-	"generation": "Kalos",
-	"forms": [2641, 2642, 2643, 2644],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.3
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.4
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.4
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.4
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.4
-		},
-		{
-			"name": "xxsScaleMultiplier",
-			"value": 0.67
-		},
-		{
-			"name": "xsScaleMultiplier",
-			"value": 0.8
-		},
-		{
-			"name": "xlScaleMultiplier",
-			"value": 1.2
-		},
-		{
-			"name": "xxlScaleMultiplier",
-			"value": 1.5
-		},
-		{
-			"name": "disablePokedexRecordDisplayForForms",
-			"value": true
-		}
-	],
-	"attack": 122,
-	"defense": 124,
-	"stamina": 127,
-	"height": 0.3,
-	"weight": 3.5,
-	"family": 710,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 5,
-	"thirdMoveStardust": 75000,
-	"thirdMoveCandy": 75,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 711,
-			"formId": 2645,
-			"candyCost": 200,
-			"tradeBonus": true
-		}
-	]
+  "pokemonName": "Pumpkaboo",
+  "pokedexId": 710,
+  "defaultFormId": 2641,
+  "types": [
+    8,
+    12
+  ],
+  "quickMoves": [
+    215,
+    263
+  ],
+  "chargedMoves": [
+    66,
+    272,
+    280
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 6,
+  "generation": "Kalos",
+  "forms": [
+    2641,
+    2642,
+    2643,
+    2644
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.3
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.4
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.4
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.4
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.4
+    },
+    {
+      "name": "xxsScaleMultiplier",
+      "value": 0.67
+    },
+    {
+      "name": "xsScaleMultiplier",
+      "value": 0.8
+    },
+    {
+      "name": "xlScaleMultiplier",
+      "value": 1.2
+    },
+    {
+      "name": "xxlScaleMultiplier",
+      "value": 1.5
+    },
+    {
+      "name": "disablePokedexRecordDisplayForForms",
+      "value": true
+    }
+  ],
+  "attack": 122,
+  "defense": 124,
+  "stamina": 127,
+  "height": 0.3,
+  "weight": 3.5,
+  "family": 710,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 5,
+  "thirdMoveStardust": 75000,
+  "thirdMoveCandy": 75,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 711,
+      "formId": 2645,
+      "candyCost": 200,
+      "tradeBonus": true
+    }
+  ]
 }

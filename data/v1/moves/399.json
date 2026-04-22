@@ -1,16 +1,16 @@
 {
-	"moveId": 399,
-	"moveName": "Volt Tackle",
-	"proto": "VOLT_TACKLE",
-	"fast": false,
-	"type": 13,
-	"pvpPower": 90,
-	"pvpEnergyDelta": -40,
-	"pvpBuffs": {
-		"attackerDefenseStatStageChange": -1,
-		"buffActivationChance": 1
-	},
-	"power": 90,
-	"durationMs": 3500,
-	"energyDelta": -33
+  "moveId": 399,
+  "moveName": "Volt Tackle",
+  "proto": "VOLT_TACKLE",
+  "fast": false,
+  "type": 13,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 90,
+  "durationMs": 3500,
+  "energyDelta": -33
 }

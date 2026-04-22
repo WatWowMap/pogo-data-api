@@ -1,7 +1,7 @@
 {
-	"formName": "Normal",
-	"proto": "ARAQUANID_NORMAL",
-	"formId": 3101,
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "ARAQUANID_NORMAL",
+  "formId": 3101,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -1,68 +1,82 @@
 {
-	"pokemonName": "Dartrix",
-	"pokedexId": 723,
-	"defaultFormId": 3077,
-	"types": [3, 12],
-	"quickMoves": [211, 215, 357, 385],
-	"chargedMoves": [59, 256, 273],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 7,
-	"generation": "Alola",
-	"forms": [3077],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.343
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.35
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.525
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.875
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 1.05
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 1.085
-		}
-	],
-	"attack": 142,
-	"defense": 139,
-	"stamina": 186,
-	"height": 0.7,
-	"weight": 16,
-	"family": 722,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 5,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 724,
-			"candyCost": 100
-		},
-		{
-			"evoId": 724,
-			"formId": 2785,
-			"candyCost": 100
-		}
-	]
+  "pokemonName": "Dartrix",
+  "pokedexId": 723,
+  "defaultFormId": 3077,
+  "types": [
+    3,
+    12
+  ],
+  "quickMoves": [
+    211,
+    215,
+    357,
+    385
+  ],
+  "chargedMoves": [
+    59,
+    256,
+    273
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 7,
+  "generation": "Alola",
+  "forms": [
+    3077
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.343
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.35
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.525
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.875
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 1.05
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 1.085
+    }
+  ],
+  "attack": 142,
+  "defense": 139,
+  "stamina": 186,
+  "height": 0.7,
+  "weight": 16,
+  "family": 722,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 5,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 724,
+      "candyCost": 100
+    },
+    {
+      "evoId": 724,
+      "formId": 2785,
+      "candyCost": 100
+    }
+  ]
 }

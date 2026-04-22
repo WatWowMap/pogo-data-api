@@ -1,7 +1,7 @@
 {
-	"itemId": 1601,
-	"itemName": "Event Ticket Pink",
-	"proto": "ITEM_EVENT_TICKET_PINK",
-	"type": "Global Event Ticket",
-	"category": "Global Event Ticket"
+  "itemId": 1601,
+  "itemName": "Event Ticket Pink",
+  "proto": "ITEM_EVENT_TICKET_PINK",
+  "type": "Global Event Ticket",
+  "category": "Global Event Ticket"
 }

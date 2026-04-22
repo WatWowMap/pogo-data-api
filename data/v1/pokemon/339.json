@@ -1,63 +1,76 @@
 {
-	"pokemonName": "Barboach",
-	"pokedexId": 339,
-	"defaultFormId": 1550,
-	"types": [5, 11],
-	"quickMoves": [216, 230],
-	"chargedMoves": [39, 58, 96, 106],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 3,
-	"generation": "Hoenn",
-	"forms": [1550],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.2009
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 0.205
-		},
-		{
-			"name": "mLowerBound",
-			"value": 0.3075
-		},
-		{
-			"name": "mUpperBound",
-			"value": 0.5125
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 0.615
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 0.82
-		}
-	],
-	"attack": 93,
-	"defense": 82,
-	"stamina": 137,
-	"height": 0.41,
-	"weight": 1.9,
-	"family": 339,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 2,
-	"buddyDistance": 1,
-	"thirdMoveStardust": 10000,
-	"thirdMoveCandy": 25,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true,
-	"evolutions": [
-		{
-			"evoId": 340,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 1000,
-	"purificationCandy": 1
+  "pokemonName": "Barboach",
+  "pokedexId": 339,
+  "defaultFormId": 1550,
+  "types": [
+    5,
+    11
+  ],
+  "quickMoves": [
+    216,
+    230
+  ],
+  "chargedMoves": [
+    39,
+    58,
+    96,
+    106
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 3,
+  "generation": "Hoenn",
+  "forms": [
+    1550
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.2009
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 0.205
+    },
+    {
+      "name": "mLowerBound",
+      "value": 0.3075
+    },
+    {
+      "name": "mUpperBound",
+      "value": 0.5125
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 0.615
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 0.82
+    }
+  ],
+  "attack": 93,
+  "defense": 82,
+  "stamina": 137,
+  "height": 0.41,
+  "weight": 1.9,
+  "family": 339,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 2,
+  "buddyDistance": 1,
+  "thirdMoveStardust": 10000,
+  "thirdMoveCandy": 25,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true,
+  "evolutions": [
+    {
+      "evoId": 340,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

@@ -1,20 +1,23 @@
 {
-	"formName": "Normal",
-	"proto": "GROUDON_NORMAL",
-	"formId": 1640,
-	"tempEvolutions": [
-		{
-			"tempEvoId": 4,
-			"attack": 353,
-			"defense": 268,
-			"stamina": 218,
-			"height": 5,
-			"weight": 999.7,
-			"types": [5, 10],
-			"firstEnergyCost": 400,
-			"subsequentEnergyCost": 80
-		}
-	],
-	"purificationDust": 20000,
-	"purificationCandy": 20
+  "formName": "Normal",
+  "proto": "GROUDON_NORMAL",
+  "formId": 1640,
+  "tempEvolutions": [
+    {
+      "tempEvoId": 4,
+      "attack": 353,
+      "defense": 268,
+      "stamina": 218,
+      "height": 5,
+      "weight": 999.7,
+      "types": [
+        5,
+        10
+      ],
+      "firstEnergyCost": 400,
+      "subsequentEnergyCost": 80
+    }
+  ],
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

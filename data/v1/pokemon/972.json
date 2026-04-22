@@ -1,57 +1,69 @@
 {
-	"pokemonName": "Houndstone",
-	"pokedexId": 972,
-	"defaultFormId": 3284,
-	"types": [8],
-	"quickMoves": [202, 212],
-	"chargedMoves": [26, 70, 88, 353],
-	"eliteQuickMoves": [],
-	"eliteChargedMoves": [],
-	"genId": 9,
-	"generation": "Paldea",
-	"forms": [3284],
-	"sizeSettings": [
-		{
-			"name": "xxsLowerBound",
-			"value": 0.98
-		},
-		{
-			"name": "xsLowerBound",
-			"value": 1
-		},
-		{
-			"name": "mLowerBound",
-			"value": 1.5
-		},
-		{
-			"name": "mUpperBound",
-			"value": 2.5
-		},
-		{
-			"name": "xlUpperBound",
-			"value": 3
-		},
-		{
-			"name": "xxlUpperBound",
-			"value": 3.1
-		}
-	],
-	"attack": 186,
-	"defense": 195,
-	"stamina": 176,
-	"height": 2,
-	"weight": 15,
-	"family": 971,
-	"bonusCandyCapture": 2,
-	"bonusStardustCapture": 200,
-	"legendary": false,
-	"mythic": false,
-	"ultraBeast": false,
-	"buddyGroupNumber": 3,
-	"buddyDistance": 3,
-	"thirdMoveStardust": 50000,
-	"thirdMoveCandy": 50,
-	"gymDefenderEligible": true,
-	"tradable": true,
-	"transferable": true
+  "pokemonName": "Houndstone",
+  "pokedexId": 972,
+  "defaultFormId": 3284,
+  "types": [
+    8
+  ],
+  "quickMoves": [
+    202,
+    212
+  ],
+  "chargedMoves": [
+    26,
+    70,
+    88,
+    353
+  ],
+  "eliteQuickMoves": [],
+  "eliteChargedMoves": [],
+  "genId": 9,
+  "generation": "Paldea",
+  "forms": [
+    3284
+  ],
+  "sizeSettings": [
+    {
+      "name": "xxsLowerBound",
+      "value": 0.98
+    },
+    {
+      "name": "xsLowerBound",
+      "value": 1
+    },
+    {
+      "name": "mLowerBound",
+      "value": 1.5
+    },
+    {
+      "name": "mUpperBound",
+      "value": 2.5
+    },
+    {
+      "name": "xlUpperBound",
+      "value": 3
+    },
+    {
+      "name": "xxlUpperBound",
+      "value": 3.1
+    }
+  ],
+  "attack": 186,
+  "defense": 195,
+  "stamina": 176,
+  "height": 2,
+  "weight": 15,
+  "family": 971,
+  "bonusCandyCapture": 2,
+  "bonusStardustCapture": 200,
+  "legendary": false,
+  "mythic": false,
+  "ultraBeast": false,
+  "buddyGroupNumber": 3,
+  "buddyDistance": 3,
+  "thirdMoveStardust": 50000,
+  "thirdMoveCandy": 50,
+  "gymDefenderEligible": true,
+  "tradable": true,
+  "transferable": true
 }

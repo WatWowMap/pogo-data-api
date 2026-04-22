@@ -1,7 +1,7 @@
 {
-	"itemId": 1611,
-	"itemName": "Ticket City Safari 01",
-	"proto": "ITEM_TICKET_CITY_SAFARI_01",
-	"type": "Global Event Ticket",
-	"category": "Global Event Ticket"
+  "itemId": 1611,
+  "itemName": "Ticket City Safari 01",
+  "proto": "ITEM_TICKET_CITY_SAFARI_01",
+  "type": "Global Event Ticket",
+  "category": "Global Event Ticket"
 }

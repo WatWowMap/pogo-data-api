@@ -1,9 +1,9 @@
 {
-	"moveId": 434,
-	"moveName": "Gmax Resonance",
-	"proto": "VN_BM_026",
-	"fast": false,
-	"type": 15,
-	"power": 450,
-	"durationMs": 2500
+  "moveId": 434,
+  "moveName": "Gmax Resonance",
+  "proto": "VN_BM_026",
+  "fast": false,
+  "type": 15,
+  "power": 450,
+  "durationMs": 2500
 }

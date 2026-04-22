@@ -1,18 +1,18 @@
 {
-	"formName": "Trash",
-	"proto": "BURMY_TRASH",
-	"formId": 120,
-	"evolutions": [
-		{
-			"evoId": 413,
-			"formId": 89,
-			"genderRequirement": 2,
-			"candyCost": 50
-		},
-		{
-			"evoId": 414,
-			"genderRequirement": 1,
-			"candyCost": 50
-		}
-	]
+  "formName": "Trash",
+  "proto": "BURMY_TRASH",
+  "formId": 120,
+  "evolutions": [
+    {
+      "evoId": 413,
+      "formId": 89,
+      "genderRequirement": 2,
+      "candyCost": 50
+    },
+    {
+      "evoId": 414,
+      "genderRequirement": 1,
+      "candyCost": 50
+    }
+  ]
 }

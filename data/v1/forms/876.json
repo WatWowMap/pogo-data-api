@@ -1,14 +1,14 @@
 {
-	"formName": "Normal",
-	"proto": "SHELLDER_NORMAL",
-	"formId": 876,
-	"evolutions": [
-		{
-			"evoId": 91,
-			"formId": 879,
-			"candyCost": 50
-		}
-	],
-	"purificationDust": 3000,
-	"purificationCandy": 3
+  "formName": "Normal",
+  "proto": "SHELLDER_NORMAL",
+  "formId": 876,
+  "evolutions": [
+    {
+      "evoId": 91,
+      "formId": 879,
+      "candyCost": 50
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }
