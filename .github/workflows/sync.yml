@@ -22,8 +22,8 @@ jobs:
       - name: Generate Stuff
         run: |
           bun install
-          bun upgrade pogo-data-generator
-          bun upgrade @na-ji/pogo-protos
+          bun update pogo-data-generator
+          bun update @na-ji/pogo-protos
           bun run start
           bun run sdk:generate-metadata
       - name: Check for changes
