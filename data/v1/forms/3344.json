@@ -1,5 +1,6 @@
 {
   "formName": "Gofest 2026 Cap Red",
   "proto": "PIKACHU_GOFEST_2026_CAP_RED",
-  "formId": 3344
+  "formId": 3344,
+  "isCostume": true
 }

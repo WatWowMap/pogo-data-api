@@ -1096,6 +1096,13 @@
     "imageUrl": "lc_carnivalFlamigo_cologne_2026"
   },
   {
+    "id": 248,
+    "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_GOFEST_001",
+    "formatted": "2026 Global Gofest 001",
+    "imageUrl": "sb_GoTour2026_mega",
+    "cardType": "SPECIAL_BACKGROUND"
+  },
+  {
     "id": 252,
     "proto": "LC_2026_NPB_001",
     "formatted": "2026 Npb 001",

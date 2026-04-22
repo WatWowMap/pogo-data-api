@@ -1,5 +1,8 @@
 {
   "formName": "Gofest 2026",
   "proto": "CATERPIE_GOFEST_2026",
-  "formId": 3346
+  "formId": 3346,
+  "isCostume": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

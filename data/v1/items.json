@@ -797,13 +797,6 @@
     "category": "Global Event Ticket"
   },
   {
-    "itemId": 1605,
-    "itemName": "Event Ticket Gray To Gift",
-    "proto": "ITEM_EVENT_TICKET_GRAY_TO_GIFT",
-    "type": "Global Event Ticket",
-    "category": "Global Event Ticket"
-  },
-  {
     "itemId": 1606,
     "itemName": "Battle Pass Ticket",
     "proto": "ITEM_BATTLE_PASS_TICKET",
@@ -1073,6 +1066,13 @@
     "itemId": 2152,
     "itemName": "Event Pass Point Monthly 02",
     "proto": "ITEM_EVENT_PASS_POINT_MONTHLY_02",
+    "type": "Event Pass Point",
+    "category": "Event Pass Point"
+  },
+  {
+    "itemId": 2153,
+    "itemName": "Event Pass Point Monthly 03",
+    "proto": "ITEM_EVENT_PASS_POINT_MONTHLY_03",
     "type": "Event Pass Point",
     "category": "Event Pass Point"
   }

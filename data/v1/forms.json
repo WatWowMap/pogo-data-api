@@ -17543,21 +17543,27 @@
   {
     "formName": "Gofest 2026 Cap Blue",
     "proto": "PIKACHU_GOFEST_2026_CAP_BLUE",
-    "formId": 3343
+    "formId": 3343,
+    "isCostume": true
   },
   {
     "formName": "Gofest 2026 Cap Red",
     "proto": "PIKACHU_GOFEST_2026_CAP_RED",
-    "formId": 3344
+    "formId": 3344,
+    "isCostume": true
   },
   {
     "formName": "Gofest 2026 Cap Yellow",
     "proto": "PIKACHU_GOFEST_2026_CAP_YELLOW",
-    "formId": 3345
+    "formId": 3345,
+    "isCostume": true
   },
   {
     "formName": "Gofest 2026",
     "proto": "CATERPIE_GOFEST_2026",
-    "formId": 3346
+    "formId": 3346,
+    "isCostume": true,
+    "purificationDust": 1000,
+    "purificationCandy": 1
   }
 ]
