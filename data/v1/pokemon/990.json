@@ -1,17 +1,22 @@
 {
   "pokemonName": "Irontreads",
-  "pokedexId": 990,
-  "defaultFormId": 3300,
-  "types": [
-    5,
-    9
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 227,
+  "defense": 216,
+  "stamina": 207,
+  "types": [
+    5,
+    9
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 990,
+  "defaultFormId": 3300,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 1.8
     }
   ],
-  "attack": 227,
-  "defense": 216,
-  "stamina": 207,
   "height": 0.9,
   "weight": 240,
   "family": 990,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

@@ -1,16 +1,21 @@
 {
   "pokemonName": "Cosmog",
-  "pokedexId": 789,
-  "defaultFormId": 3134,
-  "types": [
-    14
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 54,
+  "defense": 57,
+  "stamina": 125,
+  "types": [
+    14
+  ],
+  "legendary": true,
+  "mythic": false,
+  "pokedexId": 789,
+  "defaultFormId": 3134,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 7,
@@ -44,14 +49,9 @@
       "value": 0.31
     }
   ],
-  "attack": 54,
-  "defense": 57,
-  "stamina": 125,
   "height": 0.2,
   "weight": 0.1,
   "family": 789,
-  "legendary": true,
-  "mythic": false,
   "ultraBeast": false,
   "buddyGroupNumber": 2,
   "buddyDistance": 20,

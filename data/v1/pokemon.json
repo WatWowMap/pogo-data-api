@@ -10118,17 +10118,22 @@
   },
   {
     "pokemonName": "Magikarp",
-    "pokedexId": 129,
-    "defaultFormId": 253,
-    "types": [
-      11
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 29,
+    "defense": 85,
+    "stamina": 85,
+    "types": [
+      11
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 129,
+    "defaultFormId": 253,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 1,
@@ -10162,14 +10167,9 @@
         "value": 1.8
       }
     ],
-    "attack": 29,
-    "defense": 85,
-    "stamina": 85,
     "height": 0.9,
     "weight": 10,
     "family": 129,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyGroupNumber": 3,
     "buddyDistance": 1,
@@ -15840,6 +15840,8 @@
         "formId": 3292
       }
     ],
+    "legendary": false,
+    "mythic": false,
     "pokemonName": "Girafarig",
     "pokedexId": 203,
     "defaultFormId": 1241,
@@ -15898,8 +15900,6 @@
     "height": 1.5,
     "weight": 41.5,
     "family": 203,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyGroupNumber": 3,
     "buddyDistance": 3,
@@ -59753,17 +59753,22 @@
   },
   {
     "pokemonName": "Cosmog",
-    "pokedexId": 789,
-    "defaultFormId": 3134,
-    "types": [
-      14
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 54,
+    "defense": 57,
+    "stamina": 125,
+    "types": [
+      14
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 789,
+    "defaultFormId": 3134,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 7,
@@ -59797,14 +59802,9 @@
         "value": 0.31
       }
     ],
-    "attack": 54,
-    "defense": 57,
-    "stamina": 125,
     "height": 0.2,
     "weight": 0.1,
     "family": 789,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyGroupNumber": 2,
     "buddyDistance": 20,
@@ -59821,17 +59821,22 @@
   },
   {
     "pokemonName": "Cosmoem",
-    "pokedexId": 790,
-    "defaultFormId": 3135,
-    "types": [
-      14
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 54,
+    "defense": 242,
+    "stamina": 125,
+    "types": [
+      14
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 790,
+    "defaultFormId": 3135,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 7,
@@ -59865,14 +59870,9 @@
         "value": 0.155
       }
     ],
-    "attack": 54,
-    "defense": 242,
-    "stamina": 125,
     "height": 0.1,
     "weight": 999.9,
     "family": 789,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyGroupNumber": 2,
     "buddyDistance": 20,
@@ -60635,18 +60635,23 @@
   },
   {
     "pokemonName": "Magearna",
-    "pokedexId": 801,
-    "defaultFormId": 2721,
-    "types": [
-      9,
-      18
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 246,
+    "defense": 225,
+    "stamina": 190,
+    "types": [
+      9,
+      18
+    ],
+    "legendary": false,
+    "mythic": true,
+    "pokedexId": 801,
+    "defaultFormId": 2721,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 7,
@@ -60681,14 +60686,9 @@
         "value": 1.55
       }
     ],
-    "attack": 246,
-    "defense": 225,
-    "stamina": 190,
     "height": 1,
     "weight": 80.5,
     "family": 801,
-    "legendary": false,
-    "mythic": true,
     "ultraBeast": false,
     "buddyGroupNumber": 2,
     "buddyDistance": 20,
@@ -68001,10 +68001,12 @@
       39,
       40,
       57,
+      58,
       70,
       105,
       107,
       111,
+      125,
       132,
       265,
       277,
@@ -68023,7 +68025,6 @@
       8,
       11
     ],
-    "unreleased": true,
     "legendary": false,
     "mythic": false,
     "pokedexId": 902,
@@ -73865,18 +73866,23 @@
   },
   {
     "pokemonName": "Greattusk",
-    "pokedexId": 984,
-    "defaultFormId": 3294,
-    "types": [
-      2,
-      5
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 249,
+    "defense": 209,
+    "stamina": 251,
+    "types": [
+      2,
+      5
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 984,
+    "defaultFormId": 3294,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -73910,14 +73916,9 @@
         "value": 4.4
       }
     ],
-    "attack": 249,
-    "defense": 209,
-    "stamina": 251,
     "height": 2.2,
     "weight": 320,
     "family": 984,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -73928,18 +73929,23 @@
   },
   {
     "pokemonName": "Screamtail",
-    "pokedexId": 985,
-    "defaultFormId": 3295,
-    "types": [
-      14,
-      18
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 139,
+    "defense": 234,
+    "stamina": 251,
+    "types": [
+      14,
+      18
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 985,
+    "defaultFormId": 3295,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -73973,14 +73979,9 @@
         "value": 1.86
       }
     ],
-    "attack": 139,
-    "defense": 234,
-    "stamina": 251,
     "height": 1.2,
     "weight": 8,
     "family": 985,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -73991,18 +73992,23 @@
   },
   {
     "pokemonName": "Brutebonnet",
-    "pokedexId": 986,
-    "defaultFormId": 3296,
-    "types": [
-      12,
-      17
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 232,
+    "defense": 190,
+    "stamina": 244,
+    "types": [
+      12,
+      17
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 986,
+    "defaultFormId": 3296,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74036,14 +74042,9 @@
         "value": 1.86
       }
     ],
-    "attack": 232,
-    "defense": 190,
-    "stamina": 244,
     "height": 1.2,
     "weight": 21,
     "family": 986,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74054,18 +74055,23 @@
   },
   {
     "pokemonName": "Fluttermane",
-    "pokedexId": 987,
-    "defaultFormId": 3297,
-    "types": [
-      8,
-      18
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 280,
+    "defense": 235,
+    "stamina": 146,
+    "types": [
+      8,
+      18
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 987,
+    "defaultFormId": 3297,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74099,14 +74105,9 @@
         "value": 2.17
       }
     ],
-    "attack": 280,
-    "defense": 235,
-    "stamina": 146,
     "height": 1.4,
     "weight": 4,
     "family": 987,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74117,18 +74118,23 @@
   },
   {
     "pokemonName": "Slitherwing",
-    "pokedexId": 988,
-    "defaultFormId": 3298,
-    "types": [
-      2,
-      7
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 261,
+    "defense": 193,
+    "stamina": 198,
+    "types": [
+      2,
+      7
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 988,
+    "defaultFormId": 3298,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74162,14 +74168,9 @@
         "value": 4.96
       }
     ],
-    "attack": 261,
-    "defense": 193,
-    "stamina": 198,
     "height": 3.2,
     "weight": 92,
     "family": 988,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74180,18 +74181,23 @@
   },
   {
     "pokemonName": "Sandyshocks",
-    "pokedexId": 989,
-    "defaultFormId": 3299,
-    "types": [
-      5,
-      13
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 244,
+    "defense": 195,
+    "stamina": 198,
+    "types": [
+      5,
+      13
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 989,
+    "defaultFormId": 3299,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74225,14 +74231,9 @@
         "value": 3.565
       }
     ],
-    "attack": 244,
-    "defense": 195,
-    "stamina": 198,
     "height": 2.3,
     "weight": 60,
     "family": 989,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74243,18 +74244,23 @@
   },
   {
     "pokemonName": "Irontreads",
-    "pokedexId": 990,
-    "defaultFormId": 3300,
-    "types": [
-      5,
-      9
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 227,
+    "defense": 216,
+    "stamina": 207,
+    "types": [
+      5,
+      9
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 990,
+    "defaultFormId": 3300,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74288,14 +74294,9 @@
         "value": 1.8
       }
     ],
-    "attack": 227,
-    "defense": 216,
-    "stamina": 207,
     "height": 0.9,
     "weight": 240,
     "family": 990,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74306,18 +74307,23 @@
   },
   {
     "pokemonName": "Ironbundle",
-    "pokedexId": 991,
-    "defaultFormId": 3301,
-    "types": [
-      11,
-      15
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 266,
+    "defense": 211,
+    "stamina": 148,
+    "types": [
+      11,
+      15
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 991,
+    "defaultFormId": 3301,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74351,14 +74357,9 @@
         "value": 0.93
       }
     ],
-    "attack": 266,
-    "defense": 211,
-    "stamina": 148,
     "height": 0.6,
     "weight": 11,
     "family": 991,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74369,18 +74370,23 @@
   },
   {
     "pokemonName": "Ironhands",
-    "pokedexId": 992,
-    "defaultFormId": 3302,
-    "types": [
-      2,
-      13
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 245,
+    "defense": 177,
+    "stamina": 319,
+    "types": [
+      2,
+      13
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 992,
+    "defaultFormId": 3302,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74414,14 +74420,9 @@
         "value": 2.79
       }
     ],
-    "attack": 245,
-    "defense": 177,
-    "stamina": 319,
     "height": 1.8,
     "weight": 380.7,
     "family": 992,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74432,18 +74433,23 @@
   },
   {
     "pokemonName": "Ironjugulis",
-    "pokedexId": 993,
-    "defaultFormId": 3303,
-    "types": [
-      3,
-      17
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 249,
+    "defense": 179,
+    "stamina": 214,
+    "types": [
+      3,
+      17
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 993,
+    "defaultFormId": 3303,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74477,14 +74483,9 @@
         "value": 2.6
       }
     ],
-    "attack": 249,
-    "defense": 179,
-    "stamina": 214,
     "height": 1.3,
     "weight": 111,
     "family": 993,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74495,18 +74496,23 @@
   },
   {
     "pokemonName": "Ironmoth",
-    "pokedexId": 994,
-    "defaultFormId": 3304,
-    "types": [
-      4,
-      10
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 281,
+    "defense": 196,
+    "stamina": 190,
+    "types": [
+      4,
+      10
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 994,
+    "defaultFormId": 3304,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74540,14 +74546,9 @@
         "value": 2.4
       }
     ],
-    "attack": 281,
-    "defense": 196,
-    "stamina": 190,
     "height": 1.2,
     "weight": 36,
     "family": 994,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -74558,18 +74559,23 @@
   },
   {
     "pokemonName": "Ironthorns",
-    "pokedexId": 995,
-    "defaultFormId": 3305,
-    "types": [
-      6,
-      13
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 250,
+    "defense": 200,
+    "stamina": 225,
+    "types": [
+      6,
+      13
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 995,
+    "defaultFormId": 3305,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -74603,14 +74609,9 @@
         "value": 3.2
       }
     ],
-    "attack": 250,
-    "defense": 200,
-    "stamina": 225,
     "height": 1.6,
     "weight": 303,
     "family": 995,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -75251,18 +75252,23 @@
   },
   {
     "pokemonName": "Roaringmoon",
-    "pokedexId": 1005,
-    "defaultFormId": 3313,
-    "types": [
-      16,
-      17
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 280,
+    "defense": 196,
+    "stamina": 233,
+    "types": [
+      16,
+      17
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 1005,
+    "defaultFormId": 3313,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -75296,14 +75302,9 @@
         "value": 3.1
       }
     ],
-    "attack": 280,
-    "defense": 196,
-    "stamina": 233,
     "height": 2,
     "weight": 380,
     "family": 1005,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -75314,18 +75315,23 @@
   },
   {
     "pokemonName": "Ironvaliant",
-    "pokedexId": 1006,
-    "defaultFormId": 3314,
-    "types": [
-      2,
-      18
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 279,
+    "defense": 171,
+    "stamina": 179,
+    "types": [
+      2,
+      18
+    ],
+    "legendary": false,
+    "mythic": false,
+    "pokedexId": 1006,
+    "defaultFormId": 3314,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -75359,14 +75365,9 @@
         "value": 2.17
       }
     ],
-    "attack": 279,
-    "defense": 171,
-    "stamina": 179,
     "height": 1.4,
     "weight": 35,
     "family": 1006,
-    "legendary": false,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -75509,18 +75510,23 @@
   },
   {
     "pokemonName": "Walkingwake",
-    "pokedexId": 1009,
-    "defaultFormId": 3324,
-    "types": [
-      11,
-      16
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 233,
+    "defense": 171,
+    "stamina": 203,
+    "types": [
+      11,
+      16
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1009,
+    "defaultFormId": 3324,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -75554,14 +75560,9 @@
         "value": 5.425
       }
     ],
-    "attack": 233,
-    "defense": 171,
-    "stamina": 203,
     "height": 3.5,
     "weight": 280,
     "family": 1009,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -75571,18 +75572,23 @@
   },
   {
     "pokemonName": "Ironleaves",
-    "pokedexId": 1010,
-    "defaultFormId": 3325,
-    "types": [
-      12,
-      14
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 236,
+    "defense": 194,
+    "stamina": 189,
+    "types": [
+      12,
+      14
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1010,
+    "defaultFormId": 3325,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -75616,14 +75622,9 @@
         "value": 2.325
       }
     ],
-    "attack": 236,
-    "defense": 194,
-    "stamina": 189,
     "height": 1.5,
     "weight": 125,
     "family": 1010,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -76258,18 +76259,23 @@
   },
   {
     "pokemonName": "Gougingfire",
-    "pokedexId": 1020,
-    "defaultFormId": 3332,
-    "types": [
-      10,
-      16
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 205,
+    "defense": 208,
+    "stamina": 213,
+    "types": [
+      10,
+      16
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1020,
+    "defaultFormId": 3332,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -76303,14 +76309,9 @@
         "value": 5.425
       }
     ],
-    "attack": 205,
-    "defense": 208,
-    "stamina": 213,
     "height": 3.5,
     "weight": 590,
     "family": 1020,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -76320,18 +76321,23 @@
   },
   {
     "pokemonName": "Ragingbolt",
-    "pokedexId": 1021,
-    "defaultFormId": 3333,
-    "types": [
-      13,
-      16
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 235,
+    "defense": 165,
+    "stamina": 245,
+    "types": [
+      13,
+      16
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1021,
+    "defaultFormId": 3333,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -76365,14 +76371,9 @@
         "value": 8.06
       }
     ],
-    "attack": 235,
-    "defense": 165,
-    "stamina": 245,
     "height": 5.2,
     "weight": 480,
     "family": 1021,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -76382,18 +76383,23 @@
   },
   {
     "pokemonName": "Ironboulder",
-    "pokedexId": 1022,
-    "defaultFormId": 3334,
-    "types": [
-      6,
-      14
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 227,
+    "defense": 195,
+    "stamina": 189,
+    "types": [
+      6,
+      14
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1022,
+    "defaultFormId": 3334,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -76427,14 +76433,9 @@
         "value": 2.325
       }
     ],
-    "attack": 227,
-    "defense": 195,
-    "stamina": 189,
     "height": 1.5,
     "weight": 162.5,
     "family": 1022,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,
@@ -76444,18 +76445,23 @@
   },
   {
     "pokemonName": "Ironcrown",
-    "pokedexId": 1023,
-    "defaultFormId": 3335,
-    "types": [
-      9,
-      14
-    ],
     "quickMoves": [
       231
     ],
     "chargedMoves": [
       133
     ],
+    "attack": 221,
+    "defense": 200,
+    "stamina": 189,
+    "types": [
+      9,
+      14
+    ],
+    "legendary": true,
+    "mythic": false,
+    "pokedexId": 1023,
+    "defaultFormId": 3335,
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 9,
@@ -76489,14 +76495,9 @@
         "value": 2.48
       }
     ],
-    "attack": 221,
-    "defense": 200,
-    "stamina": 189,
     "height": 1.6,
     "weight": 156,
     "family": 1023,
-    "legendary": true,
-    "mythic": false,
     "ultraBeast": false,
     "buddyDistance": 20,
     "thirdMoveStardust": 100000,

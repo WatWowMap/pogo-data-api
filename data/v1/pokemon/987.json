@@ -1,17 +1,22 @@
 {
   "pokemonName": "Fluttermane",
-  "pokedexId": 987,
-  "defaultFormId": 3297,
-  "types": [
-    8,
-    18
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 280,
+  "defense": 235,
+  "stamina": 146,
+  "types": [
+    8,
+    18
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 987,
+  "defaultFormId": 3297,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 2.17
     }
   ],
-  "attack": 280,
-  "defense": 235,
-  "stamina": 146,
   "height": 1.4,
   "weight": 4,
   "family": 987,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

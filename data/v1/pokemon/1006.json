@@ -1,17 +1,22 @@
 {
   "pokemonName": "Ironvaliant",
-  "pokedexId": 1006,
-  "defaultFormId": 3314,
-  "types": [
-    2,
-    18
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 279,
+  "defense": 171,
+  "stamina": 179,
+  "types": [
+    2,
+    18
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 1006,
+  "defaultFormId": 3314,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 2.17
     }
   ],
-  "attack": 279,
-  "defense": 171,
-  "stamina": 179,
   "height": 1.4,
   "weight": 35,
   "family": 1006,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

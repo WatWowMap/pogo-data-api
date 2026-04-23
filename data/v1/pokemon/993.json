@@ -1,17 +1,22 @@
 {
   "pokemonName": "Ironjugulis",
-  "pokedexId": 993,
-  "defaultFormId": 3303,
-  "types": [
-    3,
-    17
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 249,
+  "defense": 179,
+  "stamina": 214,
+  "types": [
+    3,
+    17
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 993,
+  "defaultFormId": 3303,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 2.6
     }
   ],
-  "attack": 249,
-  "defense": 179,
-  "stamina": 214,
   "height": 1.3,
   "weight": 111,
   "family": 993,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

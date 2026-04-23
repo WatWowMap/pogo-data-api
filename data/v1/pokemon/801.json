@@ -1,17 +1,22 @@
 {
   "pokemonName": "Magearna",
-  "pokedexId": 801,
-  "defaultFormId": 2721,
-  "types": [
-    9,
-    18
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 246,
+  "defense": 225,
+  "stamina": 190,
+  "types": [
+    9,
+    18
+  ],
+  "legendary": false,
+  "mythic": true,
+  "pokedexId": 801,
+  "defaultFormId": 2721,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 7,
@@ -46,14 +51,9 @@
       "value": 1.55
     }
   ],
-  "attack": 246,
-  "defense": 225,
-  "stamina": 190,
   "height": 1,
   "weight": 80.5,
   "family": 801,
-  "legendary": false,
-  "mythic": true,
   "ultraBeast": false,
   "buddyGroupNumber": 2,
   "buddyDistance": 20,

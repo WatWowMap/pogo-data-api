@@ -1,16 +1,21 @@
 {
   "pokemonName": "Magikarp",
-  "pokedexId": 129,
-  "defaultFormId": 253,
-  "types": [
-    11
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 29,
+  "defense": 85,
+  "stamina": 85,
+  "types": [
+    11
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 129,
+  "defaultFormId": 253,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 1,
@@ -44,14 +49,9 @@
       "value": 1.8
     }
   ],
-  "attack": 29,
-  "defense": 85,
-  "stamina": 85,
   "height": 0.9,
   "weight": 10,
   "family": 129,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyGroupNumber": 3,
   "buddyDistance": 1,

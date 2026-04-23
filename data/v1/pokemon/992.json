@@ -1,17 +1,22 @@
 {
   "pokemonName": "Ironhands",
-  "pokedexId": 992,
-  "defaultFormId": 3302,
-  "types": [
-    2,
-    13
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 245,
+  "defense": 177,
+  "stamina": 319,
+  "types": [
+    2,
+    13
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 992,
+  "defaultFormId": 3302,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 2.79
     }
   ],
-  "attack": 245,
-  "defense": 177,
-  "stamina": 319,
   "height": 1.8,
   "weight": 380.7,
   "family": 992,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

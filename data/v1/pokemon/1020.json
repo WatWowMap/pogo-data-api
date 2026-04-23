@@ -1,17 +1,22 @@
 {
   "pokemonName": "Gougingfire",
-  "pokedexId": 1020,
-  "defaultFormId": 3332,
-  "types": [
-    10,
-    16
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 205,
+  "defense": 208,
+  "stamina": 213,
+  "types": [
+    10,
+    16
+  ],
+  "legendary": true,
+  "mythic": false,
+  "pokedexId": 1020,
+  "defaultFormId": 3332,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 5.425
     }
   ],
-  "attack": 205,
-  "defense": 208,
-  "stamina": 213,
   "height": 3.5,
   "weight": 590,
   "family": 1020,
-  "legendary": true,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

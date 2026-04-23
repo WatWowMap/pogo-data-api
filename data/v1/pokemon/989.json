@@ -1,17 +1,22 @@
 {
   "pokemonName": "Sandyshocks",
-  "pokedexId": 989,
-  "defaultFormId": 3299,
-  "types": [
-    5,
-    13
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 244,
+  "defense": 195,
+  "stamina": 198,
+  "types": [
+    5,
+    13
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 989,
+  "defaultFormId": 3299,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 3.565
     }
   ],
-  "attack": 244,
-  "defense": 195,
-  "stamina": 198,
   "height": 2.3,
   "weight": 60,
   "family": 989,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

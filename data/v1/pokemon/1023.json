@@ -1,17 +1,22 @@
 {
   "pokemonName": "Ironcrown",
-  "pokedexId": 1023,
-  "defaultFormId": 3335,
-  "types": [
-    9,
-    14
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 221,
+  "defense": 200,
+  "stamina": 189,
+  "types": [
+    9,
+    14
+  ],
+  "legendary": true,
+  "mythic": false,
+  "pokedexId": 1023,
+  "defaultFormId": 3335,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 2.48
     }
   ],
-  "attack": 221,
-  "defense": 200,
-  "stamina": 189,
   "height": 1.6,
   "weight": 156,
   "family": 1023,
-  "legendary": true,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

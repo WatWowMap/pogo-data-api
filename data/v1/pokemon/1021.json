@@ -1,17 +1,22 @@
 {
   "pokemonName": "Ragingbolt",
-  "pokedexId": 1021,
-  "defaultFormId": 3333,
-  "types": [
-    13,
-    16
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 235,
+  "defense": 165,
+  "stamina": 245,
+  "types": [
+    13,
+    16
+  ],
+  "legendary": true,
+  "mythic": false,
+  "pokedexId": 1021,
+  "defaultFormId": 3333,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 8.06
     }
   ],
-  "attack": 235,
-  "defense": 165,
-  "stamina": 245,
   "height": 5.2,
   "weight": 480,
   "family": 1021,
-  "legendary": true,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,

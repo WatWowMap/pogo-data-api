@@ -1,17 +1,22 @@
 {
   "pokemonName": "Greattusk",
-  "pokedexId": 984,
-  "defaultFormId": 3294,
-  "types": [
-    2,
-    5
-  ],
   "quickMoves": [
     231
   ],
   "chargedMoves": [
     133
   ],
+  "attack": 249,
+  "defense": 209,
+  "stamina": 251,
+  "types": [
+    2,
+    5
+  ],
+  "legendary": false,
+  "mythic": false,
+  "pokedexId": 984,
+  "defaultFormId": 3294,
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 9,
@@ -45,14 +50,9 @@
       "value": 4.4
     }
   ],
-  "attack": 249,
-  "defense": 209,
-  "stamina": 251,
   "height": 2.2,
   "weight": 320,
   "family": 984,
-  "legendary": false,
-  "mythic": false,
   "ultraBeast": false,
   "buddyDistance": 20,
   "thirdMoveStardust": 100000,
