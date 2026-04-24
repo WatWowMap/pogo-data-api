@@ -5,7 +5,7 @@
     "": {
       "name": "pogo-data-api",
       "dependencies": {
-        "@na-ji/pogo-protos": "^2.234.0",
+        "@na-ji/pogo-protos": "^2.235.0",
         "pogo-data-generator": "2.2.1",
       },
       "devDependencies": {
@@ -143,7 +143,7 @@
 
     "@manypkg/get-packages": ["@manypkg/get-packages@1.1.3", "", { "dependencies": { "@babel/runtime": "^7.5.5", "@changesets/types": "^4.0.1", "@manypkg/find-root": "^1.1.0", "fs-extra": "^8.1.0", "globby": "^11.0.0", "read-yaml-file": "^1.1.0" } }, "sha512-fo+QhuU3qE/2TQMQmbVMqaQ6EWbMhi4ABWP+O4AM1NqPBuy0OrApV5LO6BrrgnhtAHS2NH6RrVk9OL181tTi8A=="],
 
-    "@na-ji/pogo-protos": ["@na-ji/pogo-protos@2.234.0", "", { "dependencies": { "protobufjs": "^6.11.4" } }, "sha512-WdOChuIjaSoIEnjJ53iPR/6ROru6oItl9Bcvz/nOfve9Ifw2jZskeCG/72lgwIZSbMe0Ek6l0mpq0PKsEpw7Tw=="],
+    "@na-ji/pogo-protos": ["@na-ji/pogo-protos@2.235.0", "", { "dependencies": { "protobufjs": "^6.11.4" } }, "sha512-Kfd2CvGJ5lx+eWyhGETzeccq3fV1R0KSUCjXxg55m3DWH0H3q+HyvodeSjFmfFVTbCWqBp0BlD9QnpIFZZHqHg=="],
 
     "@nodelib/fs.scandir": ["@nodelib/fs.scandir@2.1.5", "", { "dependencies": { "@nodelib/fs.stat": "2.0.5", "run-parallel": "^1.1.9" } }, "sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g=="],
 
@@ -496,6 +496,8 @@
     "@manypkg/get-packages/fs-extra": ["fs-extra@8.1.0", "", { "dependencies": { "graceful-fs": "^4.2.0", "jsonfile": "^4.0.0", "universalify": "^0.1.0" } }, "sha512-yhlQgA6mnOJUKOsRUFsgJdQCvkKhcz8tlZG5HBQfReYZy46OwLcY+Zia0mtdHsOo9y/hP+CxMN0TU9QxoOtG4g=="],
 
     "micromatch/picomatch": ["picomatch@2.3.2", "", {}, "sha512-V7+vQEJ06Z+c5tSye8S+nHUfI51xoXIXjHQ99cQtKUkQqqO1kO/KCJUfZXuB47h/YBlDhah2H3hdUGXn8ie0oA=="],
+
+    "pogo-data-generator/@na-ji/pogo-protos": ["@na-ji/pogo-protos@2.234.0", "", { "dependencies": { "protobufjs": "^6.11.4" } }, "sha512-WdOChuIjaSoIEnjJ53iPR/6ROru6oItl9Bcvz/nOfve9Ifw2jZskeCG/72lgwIZSbMe0Ek6l0mpq0PKsEpw7Tw=="],
 
     "read-yaml-file/js-yaml": ["js-yaml@3.14.2", "", { "dependencies": { "argparse": "^1.0.7", "esprima": "^4.0.0" }, "bin": { "js-yaml": "bin/js-yaml.js" } }, "sha512-PMSmkqxr106Xa156c2M265Z+FTrPl+oxd/rgOQy2tijQeK5TxQ43psO1ZCwhVOSdnn+RzkzlRz/eY4BgJBYVpg=="],
 
