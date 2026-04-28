@@ -1179,5 +1179,23 @@
     "proto": "LC_2026_NPB_013",
     "formatted": "2026 Npb 013",
     "imageUrl": "lc_2026_ppk_001"
+  },
+  {
+    "id": 271,
+    "proto": "LC_TOKMUN_STAMP_01",
+    "formatted": "Tokmun Stamp 01",
+    "imageUrl": "lc_2026_ppk_001"
+  },
+  {
+    "id": 272,
+    "proto": "LC_TOKMUN_STAMP_02",
+    "formatted": "Tokmun Stamp 02",
+    "imageUrl": "lc_2026_ppk_001"
+  },
+  {
+    "id": 273,
+    "proto": "LC_TOKMUN_STAMP_03",
+    "formatted": "Tokmun Stamp 03",
+    "imageUrl": "lc_2026_ppk_001"
   }
 ]

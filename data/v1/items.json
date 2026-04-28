@@ -797,6 +797,13 @@
     "category": "Global Event Ticket"
   },
   {
+    "itemId": 1605,
+    "itemName": "Event Ticket Gray To Gift",
+    "proto": "ITEM_EVENT_TICKET_GRAY_TO_GIFT",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
+  },
+  {
     "itemId": 1606,
     "itemName": "Battle Pass Ticket",
     "proto": "ITEM_BATTLE_PASS_TICKET",
