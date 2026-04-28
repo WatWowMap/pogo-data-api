@@ -6,8 +6,8 @@
   "proto": "CHARACTER_EXECUTIVE_ARLO",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 303,

@@ -6,8 +6,8 @@
   "proto": "CHARACTER_EXECUTIVE_SIERRA",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 187,

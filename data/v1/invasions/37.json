@@ -6,8 +6,8 @@
   "proto": "CHARACTER_ROCK_GRUNT_MALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 138,
@@ -46,12 +46,12 @@
     },
     {
       "id": 697,
-      "formId": 0,
+      "formId": 3059,
       "position": "third"
     },
     {
       "id": 699,
-      "formId": 0,
+      "formId": 3061,
       "position": "third"
     }
   ]

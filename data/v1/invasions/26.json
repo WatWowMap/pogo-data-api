@@ -6,8 +6,8 @@
   "proto": "CHARACTER_ICE_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 215,
@@ -51,7 +51,7 @@
     },
     {
       "id": 699,
-      "formId": 0,
+      "formId": 3061,
       "position": "third"
     }
   ]

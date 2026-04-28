@@ -5,8 +5,8 @@
   "grunt": "Giovanni",
   "proto": "CHARACTER_GIOVANNI",
   "active": true,
-  "firstReward": true,
-  "secondReward": true,
+  "firstReward": false,
+  "secondReward": false,
   "thirdReward": true,
   "encounters": [
     {

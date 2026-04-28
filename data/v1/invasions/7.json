@@ -7,7 +7,7 @@
   "active": true,
   "firstReward": true,
   "secondReward": true,
-  "thirdReward": true,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 48,
@@ -51,7 +51,7 @@
     },
     {
       "id": 738,
-      "formId": 0,
+      "formId": 3091,
       "position": "third"
     }
   ]

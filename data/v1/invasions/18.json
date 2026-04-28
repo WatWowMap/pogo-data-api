@@ -6,8 +6,8 @@
   "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 37,
@@ -21,7 +21,7 @@
     },
     {
       "id": 653,
-      "formId": 0,
+      "formId": 3025,
       "position": "first"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "id": 654,
-      "formId": 0,
+      "formId": 3026,
       "position": "second"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "id": 655,
-      "formId": 0,
+      "formId": 3027,
       "position": "third"
     }
   ]

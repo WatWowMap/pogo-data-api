@@ -6,8 +6,8 @@
   "proto": "CHARACTER_FLYING_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
-  "thirdReward": true,
+  "secondReward": false,
+  "thirdReward": false,
   "encounters": [
     {
       "id": 16,
@@ -51,7 +51,7 @@
     },
     {
       "id": 733,
-      "formId": 0,
+      "formId": 3086,
       "position": "third"
     }
   ]
