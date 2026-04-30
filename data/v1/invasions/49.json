@@ -6,7 +6,7 @@
   "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {
@@ -20,8 +20,8 @@
       "position": "first"
     },
     {
-      "id": 695,
-      "formId": 3057,
+      "id": 694,
+      "formId": 3056,
       "position": "first"
     },
     {

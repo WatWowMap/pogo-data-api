@@ -635,7 +635,7 @@
     "proto": "CHARACTER_FIRE_GRUNT_FEMALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -817,7 +817,7 @@
     "proto": "CHARACTER_GRASS_GRUNT_MALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -1435,7 +1435,7 @@
     "proto": "CHARACTER_WATER_GRUNT_FEMALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -1824,7 +1824,7 @@
     "proto": "CHARACTER_ELECTRIC_GRUNT_FEMALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -1838,8 +1838,8 @@
         "position": "first"
       },
       {
-        "id": 695,
-        "formId": 3057,
+        "id": 694,
+        "formId": 3056,
         "position": "first"
       },
       {

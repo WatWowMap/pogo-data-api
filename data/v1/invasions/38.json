@@ -6,7 +6,7 @@
   "proto": "CHARACTER_WATER_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {
