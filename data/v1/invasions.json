@@ -831,8 +831,8 @@
         "position": "first"
       },
       {
-        "id": 708,
-        "formId": 3067,
+        "id": 755,
+        "formId": 3104,
         "position": "first"
       },
       {
@@ -1146,13 +1146,13 @@
         "position": "first"
       },
       {
-        "id": 216,
-        "formId": 1265,
+        "id": 333,
+        "formId": 1532,
         "position": "first"
       },
       {
-        "id": 333,
-        "formId": 1532,
+        "id": 759,
+        "formId": 3108,
         "position": "first"
       },
       {
@@ -1439,11 +1439,6 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 72,
-        "formId": 1005,
-        "position": "first"
-      },
-      {
         "id": 98,
         "formId": 870,
         "position": "first"
@@ -1451,6 +1446,11 @@
       {
         "id": 656,
         "formId": 3028,
+        "position": "first"
+      },
+      {
+        "id": 751,
+        "formId": 3100,
         "position": "first"
       },
       {
@@ -1556,38 +1556,18 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 129,
-        "formId": 253,
+        "id": 143,
+        "formId": 199,
         "position": "first"
       },
       {
-        "id": 227,
-        "formId": 1295,
-        "position": "second"
-      },
-      {
-        "id": 346,
-        "formId": 1571,
-        "position": "second"
-      },
-      {
-        "id": 979,
-        "formId": 3290,
+        "id": 282,
+        "formId": 298,
         "position": "second"
       },
       {
         "id": 248,
         "formId": 319,
-        "position": "third"
-      },
-      {
-        "id": 323,
-        "formId": 1520,
-        "position": "third"
-      },
-      {
-        "id": 475,
-        "formId": 301,
         "position": "third"
       }
     ]
@@ -1604,14 +1584,9 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 303,
-        "formId": 833,
+        "id": 204,
+        "formId": 1244,
         "position": "first"
-      },
-      {
-        "id": 80,
-        "formId": 1020,
-        "position": "second"
       },
       {
         "id": 208,
@@ -1619,19 +1594,9 @@
         "position": "second"
       },
       {
-        "id": 623,
-        "formId": 2261,
+        "id": 526,
+        "formId": 1982,
         "position": "second"
-      },
-      {
-        "id": 6,
-        "formId": 178,
-        "position": "third"
-      },
-      {
-        "id": 65,
-        "formId": 310,
-        "position": "third"
       },
       {
         "id": 212,
@@ -1652,19 +1617,9 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 187,
-        "formId": 1205,
+        "id": 355,
+        "formId": 914,
         "position": "first"
-      },
-      {
-        "id": 9,
-        "formId": 187,
-        "position": "second"
-      },
-      {
-        "id": 330,
-        "formId": 752,
-        "position": "second"
       },
       {
         "id": 598,
@@ -1679,11 +1634,6 @@
       {
         "id": 229,
         "formId": 232,
-        "position": "third"
-      },
-      {
-        "id": 350,
-        "formId": 1583,
         "position": "third"
       }
     ]
@@ -1705,8 +1655,8 @@
         "position": "first"
       },
       {
-        "id": 68,
-        "formId": 815,
+        "id": 34,
+        "formId": 788,
         "position": "second"
       },
       {
@@ -1720,8 +1670,8 @@
         "position": "second"
       },
       {
-        "id": 642,
-        "formId": 142,
+        "id": 645,
+        "formId": 144,
         "position": "third"
       }
     ]
@@ -1878,11 +1828,6 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 81,
-        "formId": 655,
-        "position": "first"
-      },
-      {
         "id": 100,
         "formId": 1047,
         "position": "first"
@@ -1890,6 +1835,11 @@
       {
         "id": 403,
         "formId": 1679,
+        "position": "first"
+      },
+      {
+        "id": 695,
+        "formId": 3057,
         "position": "first"
       },
       {
