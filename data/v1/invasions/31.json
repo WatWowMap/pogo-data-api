@@ -6,7 +6,7 @@
   "proto": "CHARACTER_NORMAL_GRUNT_MALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {
@@ -25,13 +25,13 @@
       "position": "first"
     },
     {
-      "id": 19,
-      "formId": 45,
+      "id": 216,
+      "formId": 1265,
       "position": "second"
     },
     {
-      "id": 216,
-      "formId": 1265,
+      "id": 294,
+      "formId": 1445,
       "position": "second"
     },
     {
