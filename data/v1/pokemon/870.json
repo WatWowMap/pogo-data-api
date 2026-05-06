@@ -70,7 +70,10 @@
       "attack": 267,
       "defense": 229,
       "stamina": 163,
-      "unreleased": true
+      "height": 1.6,
+      "weight": 99,
+      "firstEnergyCost": 200,
+      "subsequentEnergyCost": 40
     }
   ]
 }

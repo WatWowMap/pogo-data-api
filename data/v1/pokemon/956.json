@@ -59,6 +59,7 @@
   "legendary": false,
   "mythic": false,
   "ultraBeast": false,
+  "buddyGroupNumber": 2,
   "buddyDistance": 3,
   "thirdMoveStardust": 50000,
   "thirdMoveCandy": 50,
