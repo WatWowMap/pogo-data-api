@@ -2,6 +2,7 @@
   "id": 248,
   "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_GOFEST_001",
   "formatted": "2026 Global Gofest 001",
-  "imageUrl": "sb_GoTour2026_mega",
-  "cardType": "SPECIAL_BACKGROUND"
+  "imageUrl": "sb_GoFest2026_global",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_goFest_2026_global"
 }
