@@ -72,8 +72,8 @@
       "stamina": 163,
       "height": 1.6,
       "weight": 99,
-      "firstEnergyCost": 200,
-      "subsequentEnergyCost": 40
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
     }
   ]
 }
