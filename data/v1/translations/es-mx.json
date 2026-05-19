@@ -6593,6 +6593,7 @@
     "quest_reward_20": "Temp Evo Branch Resource"
   },
   "questTitles": {
+    "quest_title_additional_candy_evolve_singular": "Un Caramelo adicional por evolucionar Pokémon",
     "quest_title_additional_candy_max_battle_singular": "Un Caramelo adicional por completar combates Max",
     "quest_title_additional_candy_raid_singular": "Un Caramelo adicional en las incursiones",
     "quest_title_additional_xl_max_raid_singular": "Un Caramelo XL adicional por completar combates Max",
@@ -7412,6 +7413,7 @@
     "quest_title_quest_charge_attack_party_plural": "Usa {{amount_0}} ataques cargados cuando estés en un equipo",
     "quest_title_quest_charge_attack_party_singular": "Usa un ataque cargado cuando estés en un equipo",
     "quest_title_quest_charged_attack_plural": "Usó {{amount_0}} ataques cargados",
+    "quest_title_quest_charged_attack_singular": "Use a Charged Attack",
     "quest_title_quest_charjabug_evolve_b": "Evoluciona {{amount_0}} Charjabug",
     "quest_title_quest_chart_catch_b": "Atrapa {{amount_0}} Charmander",
     "quest_title_quest_chart_catch_s1": "Atrapa {{amount_0}} Charmeleon",

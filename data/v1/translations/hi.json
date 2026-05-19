@@ -6593,6 +6593,7 @@
     "quest_reward_20": "Temp Evo Branch Resource"
   },
   "questTitles": {
+    "quest_title_additional_candy_evolve_singular": "One additional Candy for evolving Pokémon",
     "quest_title_additional_candy_max_battle_singular": "मैस बैटल पूरा करने पर एक अतरत कडी XL",
     "quest_title_additional_candy_raid_singular": "रड से एक अतरत कडी",
     "quest_title_additional_xl_max_raid_singular": "मैस बैटल पूर करने पर एक अतरत कडी XL",
@@ -7412,6 +7413,7 @@
     "quest_title_quest_charge_attack_party_plural": "टम में शामल हो कर {{amount_0}} चाज्ड अटैक का उपयोग करं",
     "quest_title_quest_charge_attack_party_singular": "टम में शामल हो कर चाज्ड अटैक का उपयोग करं",
     "quest_title_quest_charged_attack_plural": "{{amount_0}} चाज्ड अटैक इतेमाल करं",
+    "quest_title_quest_charged_attack_singular": "Use a Charged Attack",
     "quest_title_quest_charjabug_evolve_b": "{{amount_0}} चाजाबग वकसत करं",
     "quest_title_quest_chart_catch_b": "{{amount_0}} चारमैंडर पकड़ें",
     "quest_title_quest_chart_catch_s1": "{{amount_0}} चामलयन पकड़ें",
