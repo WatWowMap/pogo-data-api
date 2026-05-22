@@ -1,5 +1,5 @@
 {
-  "challenge_buddy_affection_plural": "ไดรับ {{amount}} หัวใจรวมกันกับคูหูของคุณ",
+  "challenge_buddy_affection_plural": "ได้รับหัวใจร่วมกันกับคู่หูของคุณ {{amount}} ดวง",
   "challenge_buddy_treat_plural": "ปอนของวางใหคูหูของคุณ {{amount}} ครั้ง",
   "quest_buddy_walk_km_plural": "เดินกับคูหูของคุณ {{amount}} กม.",
   "quest_catch_type_dark_plural": "จับโปเกมอนประเภทความมืด {{amount}} ตัว",
