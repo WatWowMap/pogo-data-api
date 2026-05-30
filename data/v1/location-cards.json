@@ -1235,5 +1235,12 @@
     "proto": "LC_TOKMUN_STAMP_03",
     "formatted": "Tokmun Stamp 03",
     "imageUrl": "lc_TokMun_minato"
+  },
+  {
+    "id": 281,
+    "proto": "LC_SPECIALBACKGROUND_LEGO_2026_01",
+    "formatted": "Lego 2026 01",
+    "imageUrl": "sb_lego_2026",
+    "cardType": "SPECIAL_BACKGROUND"
   }
 ]
