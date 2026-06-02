@@ -5,7 +5,7 @@
   "fast": false,
   "type": 9,
   "pvpPower": 110,
-  "pvpEnergyDelta": -70,
+  "pvpEnergyDelta": -65,
   "power": 100,
   "durationMs": 2500,
   "energyDelta": -100

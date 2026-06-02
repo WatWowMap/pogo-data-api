@@ -4,7 +4,7 @@
   "proto": "CHARM_FAST",
   "fast": true,
   "type": 18,
-  "pvpPower": 13,
+  "pvpPower": 12,
   "pvpEnergyDelta": 8,
   "pvpDurationTurns": 2,
   "power": 20,

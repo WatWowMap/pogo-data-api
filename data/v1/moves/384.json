@@ -4,8 +4,8 @@
   "proto": "DRAGON_ASCENT",
   "fast": false,
   "type": 3,
-  "pvpPower": 150,
-  "pvpEnergyDelta": -70,
+  "pvpPower": 110,
+  "pvpEnergyDelta": -45,
   "pvpBuffs": {
     "attackerDefenseStatStageChange": -1,
     "buffActivationChance": 1

@@ -5,7 +5,7 @@
   "fast": false,
   "type": 5,
   "pvpPower": 90,
-  "pvpEnergyDelta": -55,
+  "pvpEnergyDelta": -50,
   "pvpBuffs": {
     "targetDefenseStatStageChange": -1,
     "buffActivationChance": 0.1

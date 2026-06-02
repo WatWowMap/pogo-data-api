@@ -83,7 +83,7 @@
     "proto": "WRAP",
     "fast": false,
     "type": 1,
-    "pvpPower": 60,
+    "pvpPower": 70,
     "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
@@ -261,7 +261,7 @@
     "proto": "EARTHQUAKE",
     "fast": false,
     "type": 5,
-    "pvpPower": 110,
+    "pvpPower": 120,
     "pvpEnergyDelta": -65,
     "power": 140,
     "durationMs": 3500,
@@ -322,7 +322,7 @@
     "fast": false,
     "type": 9,
     "pvpPower": 110,
-    "pvpEnergyDelta": -70,
+    "pvpEnergyDelta": -65,
     "power": 100,
     "durationMs": 2500,
     "energyDelta": -100
@@ -417,8 +417,8 @@
     "proto": "DRILL_RUN",
     "fast": false,
     "type": 5,
-    "pvpPower": 80,
-    "pvpEnergyDelta": -45,
+    "pvpPower": 70,
+    "pvpEnergyDelta": -40,
     "power": 85,
     "durationMs": 3000,
     "energyDelta": -50
@@ -1305,7 +1305,7 @@
     "fast": false,
     "type": 3,
     "pvpPower": 110,
-    "pvpEnergyDelta": -65,
+    "pvpEnergyDelta": -60,
     "power": 105,
     "durationMs": 2500,
     "energyDelta": -100
@@ -2281,7 +2281,7 @@
     "proto": "SILVER_WIND",
     "fast": false,
     "type": 7,
-    "pvpPower": 60,
+    "pvpPower": 75,
     "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "attackerAttackStatStageChange": 1,
@@ -2427,8 +2427,8 @@
     "proto": "ENERGY_BALL",
     "fast": false,
     "type": 12,
-    "pvpPower": 90,
-    "pvpEnergyDelta": -55,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
       "buffActivationChance": 0.1
@@ -2830,7 +2830,7 @@
     "fast": false,
     "type": 5,
     "pvpPower": 90,
-    "pvpEnergyDelta": -55,
+    "pvpEnergyDelta": -50,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
       "buffActivationChance": 0.1
@@ -3066,7 +3066,7 @@
     "proto": "CHARM_FAST",
     "fast": true,
     "type": 18,
-    "pvpPower": 13,
+    "pvpPower": 12,
     "pvpEnergyDelta": 8,
     "pvpDurationTurns": 2,
     "power": 20,
@@ -3383,7 +3383,7 @@
     "fast": true,
     "type": 3,
     "pvpPower": 16,
-    "pvpEnergyDelta": 12,
+    "pvpEnergyDelta": 14,
     "pvpDurationTurns": 3,
     "power": 25,
     "durationMs": 2000,
@@ -3892,8 +3892,8 @@
     "proto": "DRAGON_ASCENT",
     "fast": false,
     "type": 3,
-    "pvpPower": 150,
-    "pvpEnergyDelta": -70,
+    "pvpPower": 110,
+    "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "attackerDefenseStatStageChange": -1,
       "buffActivationChance": 1

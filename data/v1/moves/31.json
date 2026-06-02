@@ -4,7 +4,7 @@
   "proto": "EARTHQUAKE",
   "fast": false,
   "type": 5,
-  "pvpPower": 110,
+  "pvpPower": 120,
   "pvpEnergyDelta": -65,
   "power": 140,
   "durationMs": 3500,

@@ -4,8 +4,8 @@
   "proto": "ENERGY_BALL",
   "fast": false,
   "type": 12,
-  "pvpPower": 90,
-  "pvpEnergyDelta": -55,
+  "pvpPower": 80,
+  "pvpEnergyDelta": -45,
   "pvpBuffs": {
     "targetDefenseStatStageChange": -1,
     "buffActivationChance": 0.1

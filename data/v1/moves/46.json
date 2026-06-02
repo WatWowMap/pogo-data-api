@@ -4,8 +4,8 @@
   "proto": "DRILL_RUN",
   "fast": false,
   "type": 5,
-  "pvpPower": 80,
-  "pvpEnergyDelta": -45,
+  "pvpPower": 70,
+  "pvpEnergyDelta": -40,
   "power": 85,
   "durationMs": 3000,
   "energyDelta": -50

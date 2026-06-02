@@ -4,7 +4,7 @@
   "proto": "WRAP",
   "fast": false,
   "type": 1,
-  "pvpPower": 60,
+  "pvpPower": 70,
   "pvpEnergyDelta": -45,
   "pvpBuffs": {
     "targetDefenseStatStageChange": -1,
