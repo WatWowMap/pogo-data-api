@@ -5041,12 +5041,16 @@
         "formId": 1035,
         "candyCost": 50
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
     "proto": "DEWGONG_NORMAL",
-    "formId": 1035
+    "formId": 1035,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
@@ -5528,6 +5532,8 @@
         "candyCost": 50
       }
     ],
+    "purificationDust": 1000,
+    "purificationCandy": 1,
     "costumeOverrideEvos": [
       {
         "costumeId": 54,
@@ -5539,7 +5545,9 @@
   {
     "formName": "Normal",
     "proto": "NOCTOWL_NORMAL",
-    "formId": 1154
+    "formId": 1154,
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Normal",
@@ -6035,6 +6043,7 @@
         "attack": 273,
         "defense": 228,
         "stamina": 163,
+        "weight": 40.4,
         "firstEnergyCost": 300,
         "subsequentEnergyCost": 60
       }
@@ -9229,7 +9238,9 @@
         "formId": 2225,
         "candyCost": 25
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
@@ -9241,12 +9252,16 @@
         "formId": 2228,
         "candyCost": 100
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
     "proto": "HAXORUS_NORMAL",
-    "formId": 2228
+    "formId": 2228,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
@@ -9500,7 +9515,9 @@
   {
     "formName": "Normal",
     "proto": "RESHIRAM_NORMAL",
-    "formId": 2315
+    "formId": 2315,
+    "purificationDust": 20000,
+    "purificationCandy": 20
   },
   {
     "formName": "Normal",
@@ -15273,12 +15290,16 @@
         "formId": 3071,
         "candyCost": 400
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
     "proto": "NOIVERN_NORMAL",
-    "formId": 3071
+    "formId": 3071,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
@@ -16079,7 +16100,9 @@
         "formId": 3161,
         "candyCost": 25
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Normal",
@@ -16091,13 +16114,17 @@
         "formId": 3162,
         "candyCost": 100
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Normal",
     "proto": "CORVIKNIGHT_NORMAL",
     "formId": 3162,
-    "gmaxMove": 439
+    "gmaxMove": 439,
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Normal",

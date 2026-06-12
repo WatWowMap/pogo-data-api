@@ -9,6 +9,8 @@
       "candyCost": 50
     }
   ],
+  "purificationDust": 1000,
+  "purificationCandy": 1,
   "costumeOverrideEvos": [
     {
       "costumeId": 54,

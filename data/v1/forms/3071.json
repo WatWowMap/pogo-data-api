@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "NOIVERN_NORMAL",
-  "formId": 3071
+  "formId": 3071,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

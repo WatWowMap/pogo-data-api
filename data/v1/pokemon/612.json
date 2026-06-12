@@ -67,5 +67,7 @@
   "thirdMoveCandy": 75,
   "gymDefenderEligible": true,
   "tradable": true,
-  "transferable": true
+  "transferable": true,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

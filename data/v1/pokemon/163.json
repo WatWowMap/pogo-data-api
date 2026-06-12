@@ -76,5 +76,7 @@
       "costumeProto": "JAN_2022_NOEVOLVE",
       "costumeName": "Jan 2022 Noevolve"
     }
-  ]
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "NOCTOWL_NORMAL",
-  "formId": 1154
+  "formId": 1154,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

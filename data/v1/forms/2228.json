@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "HAXORUS_NORMAL",
-  "formId": 2228
+  "formId": 2228,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

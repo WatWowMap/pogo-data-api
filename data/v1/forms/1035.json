@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "DEWGONG_NORMAL",
-  "formId": 1035
+  "formId": 1035,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -8,6 +8,7 @@
       "attack": 273,
       "defense": 228,
       "stamina": 163,
+      "weight": 40.4,
       "firstEnergyCost": 300,
       "subsequentEnergyCost": 60
     }

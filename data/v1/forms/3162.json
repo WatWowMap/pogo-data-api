@@ -2,5 +2,7 @@
   "formName": "Normal",
   "proto": "CORVIKNIGHT_NORMAL",
   "formId": 3162,
-  "gmaxMove": 439
+  "gmaxMove": 439,
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

@@ -8,5 +8,7 @@
       "formId": 3071,
       "candyCost": 400
     }
-  ]
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

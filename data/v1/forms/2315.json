@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "RESHIRAM_NORMAL",
-  "formId": 2315
+  "formId": 2315,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

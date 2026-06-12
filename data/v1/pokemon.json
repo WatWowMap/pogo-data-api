@@ -6877,7 +6877,9 @@
         "evoId": 87,
         "candyCost": 50
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Dewgong",
@@ -6953,7 +6955,9 @@
     "thirdMoveCandy": 50,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Grimer",
@@ -12918,7 +12922,9 @@
         "costumeProto": "JAN_2022_NOEVOLVE",
         "costumeName": "Jan 2022 Noevolve"
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Noctowl",
@@ -12988,7 +12994,9 @@
     "thirdMoveCandy": 25,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Ledyba",
@@ -17739,7 +17747,7 @@
     "ultraBeast": false,
     "buddyGroupNumber": 5,
     "buddyDistance": 5,
-    "buddyMegaEnergy": 15,
+    "buddyMegaEnergy": 25,
     "thirdMoveStardust": 75000,
     "thirdMoveCandy": 75,
     "gymDefenderEligible": true,
@@ -17751,6 +17759,7 @@
         "attack": 273,
         "defense": 228,
         "stamina": 163,
+        "weight": 40.4,
         "firstEnergyCost": 300,
         "subsequentEnergyCost": 60
       }
@@ -46531,7 +46540,9 @@
         "evoId": 611,
         "candyCost": 25
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Fraxure",
@@ -46605,7 +46616,9 @@
         "evoId": 612,
         "candyCost": 100
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Haxorus",
@@ -46676,7 +46689,9 @@
     "thirdMoveCandy": 75,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Cubchoo",
@@ -48905,7 +48920,9 @@
     "thirdMoveStardust": 100000,
     "thirdMoveCandy": 100,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 20000,
+    "purificationCandy": 20
   },
   {
     "pokemonName": "Zekrom",
@@ -54396,7 +54413,9 @@
         "evoId": 715,
         "candyCost": 400
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Noivern",
@@ -54468,7 +54487,9 @@
     "thirdMoveCandy": 75,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Xerneas",
@@ -62170,7 +62191,9 @@
         "evoId": 822,
         "candyCost": 25
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Corvisquire",
@@ -62244,7 +62267,9 @@
         "evoId": 823,
         "candyCost": 100
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Corviknight",
@@ -62317,7 +62342,9 @@
     "thirdMoveCandy": 25,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Blipbug",

@@ -72,5 +72,7 @@
       "evoId": 87,
       "candyCost": 50
     }
-  ]
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

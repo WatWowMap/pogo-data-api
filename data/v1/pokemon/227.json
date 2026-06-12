@@ -59,7 +59,7 @@
   "ultraBeast": false,
   "buddyGroupNumber": 5,
   "buddyDistance": 5,
-  "buddyMegaEnergy": 15,
+  "buddyMegaEnergy": 25,
   "thirdMoveStardust": 75000,
   "thirdMoveCandy": 75,
   "gymDefenderEligible": true,
@@ -71,6 +71,7 @@
       "attack": 273,
       "defense": 228,
       "stamina": 163,
+      "weight": 40.4,
       "firstEnergyCost": 300,
       "subsequentEnergyCost": 60
     }
