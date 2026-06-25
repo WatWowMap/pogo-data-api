@@ -10,13 +10,13 @@
   "thirdReward": false,
   "encounters": [
     {
-      "id": 41,
-      "formId": 157,
+      "id": null,
+      "formId": 0,
       "position": "first"
     },
     {
-      "id": 43,
-      "formId": 265,
+      "id": 41,
+      "formId": 157,
       "position": "first"
     },
     {
@@ -25,8 +25,13 @@
       "position": "first"
     },
     {
-      "id": 30,
-      "formId": 779,
+      "id": null,
+      "formId": 0,
+      "position": "second"
+    },
+    {
+      "id": null,
+      "formId": 0,
       "position": "second"
     },
     {
@@ -35,18 +40,13 @@
       "position": "second"
     },
     {
-      "id": 110,
-      "formId": 944,
-      "position": "second"
-    },
-    {
-      "id": 110,
-      "formId": 706,
+      "id": null,
+      "formId": 0,
       "position": "third"
     },
     {
-      "id": 454,
-      "formId": 1805,
+      "id": null,
+      "formId": 0,
       "position": "third"
     },
     {

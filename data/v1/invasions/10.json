@@ -25,23 +25,33 @@
       "position": "first"
     },
     {
-      "id": 20,
-      "formId": 48,
+      "id": null,
+      "formId": 0,
       "position": "second"
     },
     {
-      "id": 262,
-      "formId": 1370,
+      "id": null,
+      "formId": 0,
       "position": "second"
     },
     {
-      "id": 510,
-      "formId": 1934,
+      "id": 359,
+      "formId": 830,
+      "position": "second"
+    },
+    {
+      "id": null,
+      "formId": 0,
       "position": "third"
     },
     {
-      "id": 635,
-      "formId": 2297,
+      "id": null,
+      "formId": 0,
+      "position": "third"
+    },
+    {
+      "id": null,
+      "formId": 0,
       "position": "third"
     }
   ]

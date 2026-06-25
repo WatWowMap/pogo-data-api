@@ -15,14 +15,19 @@
       "position": "first"
     },
     {
-      "id": 371,
-      "formId": 755,
-      "position": "first"
-    },
-    {
       "id": 633,
       "formId": 2291,
       "position": "first"
+    },
+    {
+      "id": 714,
+      "formId": 3070,
+      "position": "first"
+    },
+    {
+      "id": null,
+      "formId": 0,
+      "position": "second"
     },
     {
       "id": 103,
@@ -35,23 +40,18 @@
       "position": "second"
     },
     {
-      "id": 444,
-      "formId": 864,
-      "position": "second"
+      "id": null,
+      "formId": 0,
+      "position": "third"
+    },
+    {
+      "id": null,
+      "formId": 0,
+      "position": "third"
     },
     {
       "id": 149,
       "formId": 196,
-      "position": "third"
-    },
-    {
-      "id": 373,
-      "formId": 761,
-      "position": "third"
-    },
-    {
-      "id": 445,
-      "formId": 867,
       "position": "third"
     }
   ]
