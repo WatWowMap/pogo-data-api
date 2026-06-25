@@ -6,12 +6,12 @@
   "proto": "CHARACTER_WATER_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
+  "secondReward": false,
   "thirdReward": false,
   "encounters": [
     {
-      "id": null,
-      "formId": 0,
+      "id": 72,
+      "formId": 1005,
       "position": "first"
     },
     {
@@ -30,8 +30,8 @@
       "position": "second"
     },
     {
-      "id": null,
-      "formId": 0,
+      "id": 260,
+      "formId": 211,
       "position": "second"
     },
     {
@@ -45,8 +45,8 @@
       "position": "third"
     },
     {
-      "id": null,
-      "formId": 0,
+      "id": 365,
+      "formId": 1604,
       "position": "third"
     },
     {

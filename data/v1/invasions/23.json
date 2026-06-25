@@ -6,14 +6,9 @@
   "proto": "CHARACTER_GRASS_GRUNT_MALE",
   "active": true,
   "firstReward": true,
-  "secondReward": true,
+  "secondReward": false,
   "thirdReward": false,
   "encounters": [
-    {
-      "id": null,
-      "formId": 0,
-      "position": "first"
-    },
     {
       "id": 114,
       "formId": 1059,
@@ -25,13 +20,18 @@
       "position": "first"
     },
     {
+      "id": 708,
+      "formId": 3067,
+      "position": "first"
+    },
+    {
       "id": null,
       "formId": 0,
       "position": "second"
     },
     {
-      "id": 708,
-      "formId": 3067,
+      "id": 254,
+      "formId": 1355,
       "position": "second"
     },
     {
@@ -40,8 +40,8 @@
       "position": "second"
     },
     {
-      "id": 254,
-      "formId": 1355,
+      "id": null,
+      "formId": 0,
       "position": "third"
     },
     {

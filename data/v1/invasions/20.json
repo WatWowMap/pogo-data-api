@@ -25,11 +25,6 @@
       "position": "first"
     },
     {
-      "id": null,
-      "formId": 0,
-      "position": "second"
-    },
-    {
       "id": 41,
       "formId": 157,
       "position": "second"
@@ -37,6 +32,11 @@
     {
       "id": 123,
       "formId": 247,
+      "position": "second"
+    },
+    {
+      "id": 207,
+      "formId": 803,
       "position": "second"
     },
     {

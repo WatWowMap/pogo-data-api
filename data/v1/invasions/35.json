@@ -6,7 +6,7 @@
   "proto": "CHARACTER_PSYCHIC_GRUNT_MALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {
@@ -30,13 +30,13 @@
       "position": "second"
     },
     {
-      "id": null,
-      "formId": 0,
+      "id": 202,
+      "formId": 602,
       "position": "second"
     },
     {
-      "id": 202,
-      "formId": 602,
+      "id": 578,
+      "formId": 2132,
       "position": "second"
     },
     {
