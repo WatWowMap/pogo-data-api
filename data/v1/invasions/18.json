@@ -10,11 +10,6 @@
   "thirdReward": false,
   "encounters": [
     {
-      "id": null,
-      "formId": 0,
-      "position": "first"
-    },
-    {
       "id": 77,
       "formId": 1011,
       "position": "first"
@@ -22,6 +17,11 @@
     {
       "id": 255,
       "formId": 1358,
+      "position": "first"
+    },
+    {
+      "id": 607,
+      "formId": 2213,
       "position": "first"
     },
     {
