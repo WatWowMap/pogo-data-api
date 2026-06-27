@@ -6,7 +6,7 @@
   "proto": "CHARACTER_ROCK_GRUNT_MALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {

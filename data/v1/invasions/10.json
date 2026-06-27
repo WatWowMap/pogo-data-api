@@ -6,7 +6,7 @@
   "proto": "CHARACTER_DARK_GRUNT_FEMALE",
   "active": true,
   "firstReward": true,
-  "secondReward": false,
+  "secondReward": true,
   "thirdReward": false,
   "encounters": [
     {
@@ -25,8 +25,8 @@
       "position": "first"
     },
     {
-      "id": 20,
-      "formId": 48,
+      "id": 215,
+      "formId": 797,
       "position": "second"
     },
     {
@@ -38,11 +38,6 @@
       "id": 359,
       "formId": 830,
       "position": "second"
-    },
-    {
-      "id": null,
-      "formId": 0,
-      "position": "third"
     },
     {
       "id": 510,

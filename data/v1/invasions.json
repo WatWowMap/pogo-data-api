@@ -232,13 +232,13 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": null,
-        "formId": 0,
+        "id": 13,
+        "formId": 616,
         "position": "first"
       },
       {
-        "id": 13,
-        "formId": 616,
+        "id": 48,
+        "formId": 259,
         "position": "first"
       },
       {
@@ -330,7 +330,7 @@
     "proto": "CHARACTER_DARK_GRUNT_FEMALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -349,8 +349,8 @@
         "position": "first"
       },
       {
-        "id": 20,
-        "formId": 48,
+        "id": 215,
+        "formId": 797,
         "position": "second"
       },
       {
@@ -362,11 +362,6 @@
         "id": 359,
         "formId": 830,
         "position": "second"
-      },
-      {
-        "id": null,
-        "formId": 0,
-        "position": "third"
       },
       {
         "id": 510,
@@ -669,11 +664,6 @@
         "position": "first"
       },
       {
-        "id": null,
-        "formId": 0,
-        "position": "second"
-      },
-      {
         "id": 126,
         "formId": 634,
         "position": "second"
@@ -681,6 +671,11 @@
       {
         "id": 257,
         "formId": 1364,
+        "position": "second"
+      },
+      {
+        "id": 323,
+        "formId": 1520,
         "position": "second"
       },
       {
@@ -851,13 +846,13 @@
         "position": "first"
       },
       {
-        "id": null,
-        "formId": 0,
+        "id": 254,
+        "formId": 1355,
         "position": "second"
       },
       {
-        "id": 254,
-        "formId": 1355,
+        "id": 345,
+        "formId": 1568,
         "position": "second"
       },
       {
@@ -1392,7 +1387,7 @@
     "proto": "CHARACTER_ROCK_GRUNT_MALE",
     "active": true,
     "firstReward": true,
-    "secondReward": false,
+    "secondReward": true,
     "thirdReward": false,
     "encounters": [
       {
@@ -1469,11 +1464,6 @@
         "position": "first"
       },
       {
-        "id": null,
-        "formId": 0,
-        "position": "second"
-      },
-      {
         "id": 260,
         "formId": 211,
         "position": "second"
@@ -1481,6 +1471,11 @@
       {
         "id": 319,
         "formId": 737,
+        "position": "second"
+      },
+      {
+        "id": 751,
+        "formId": 3100,
         "position": "second"
       },
       {
@@ -1514,6 +1509,11 @@
       {
         "id": 129,
         "formId": 253,
+        "position": "first"
+      },
+      {
+        "id": 349,
+        "formId": 1580,
         "position": "first"
       },
       {
