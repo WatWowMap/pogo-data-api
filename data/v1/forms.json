@@ -380,14 +380,20 @@
         "attack": 277,
         "defense": 203,
         "stamina": 155,
-        "unreleased": true
+        "height": 1.2,
+        "weight": 38,
+        "firstEnergyCost": 300,
+        "subsequentEnergyCost": 60
       },
       {
         "tempEvoId": 3,
         "attack": 339,
         "defense": 157,
         "stamina": 155,
-        "unreleased": true
+        "height": 1,
+        "weight": 26,
+        "firstEnergyCost": 300,
+        "subsequentEnergyCost": 60
       }
     ]
   },
