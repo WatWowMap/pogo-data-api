@@ -1112,6 +1112,13 @@
     "category": "Global Event Ticket"
   },
   {
+    "itemId": 2208,
+    "itemName": "Event Ticket S23 2026 04",
+    "proto": "ITEM_EVENT_TICKET_S23_2026_04",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
+  },
+  {
     "itemId": 2213,
     "itemName": "Event Ticket S23 2026 09",
     "proto": "ITEM_EVENT_TICKET_S23_2026_09",

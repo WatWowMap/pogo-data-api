@@ -15,7 +15,9 @@
     284
   ],
   "eliteQuickMoves": [],
-  "eliteChargedMoves": [],
+  "eliteChargedMoves": [
+    299
+  ],
   "genId": 8,
   "generation": "Galar",
   "forms": [

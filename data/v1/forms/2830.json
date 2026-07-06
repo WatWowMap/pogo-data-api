@@ -33,6 +33,9 @@
   "stamina": 189,
   "height": 6.3,
   "weight": 660,
+  "eliteChargedMoves": [
+    388
+  ],
   "purificationDust": 20000,
   "purificationCandy": 20
 }
