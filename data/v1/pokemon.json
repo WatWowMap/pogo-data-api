@@ -51568,6 +51568,7 @@
     "formChanges": [
       {
         "availableForms": [
+          2632,
           2634,
           2635
         ],
@@ -63874,9 +63875,10 @@
       230
     ],
     "chargedMoves": [
-      38,
       107,
-      341
+      284,
+      341,
+      593
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
