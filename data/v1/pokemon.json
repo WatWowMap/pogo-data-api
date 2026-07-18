@@ -11832,7 +11832,9 @@
       108,
       247
     ],
-    "eliteQuickMoves": [],
+    "eliteQuickMoves": [
+      243
+    ],
     "eliteChargedMoves": [
       14,
       70,
