@@ -17656,68 +17656,6 @@
     "purificationCandy": 1
   },
   {
-    "sizeSettings": [
-      {
-        "name": "xxsLowerBound",
-        "value": 0.392
-      },
-      {
-        "name": "xsLowerBound",
-        "value": 0.4
-      },
-      {
-        "name": "mLowerBound",
-        "value": 0.6
-      },
-      {
-        "name": "mUpperBound",
-        "value": 1
-      },
-      {
-        "name": "xlUpperBound",
-        "value": 1.2
-      },
-      {
-        "name": "xxlUpperBound",
-        "value": 1.4
-      }
-    ],
-    "formName": "",
-    "proto": "",
-    "formId": 3349
-  },
-  {
-    "sizeSettings": [
-      {
-        "name": "xxsLowerBound",
-        "value": 0.392
-      },
-      {
-        "name": "xsLowerBound",
-        "value": 0.4
-      },
-      {
-        "name": "mLowerBound",
-        "value": 0.6
-      },
-      {
-        "name": "mUpperBound",
-        "value": 1
-      },
-      {
-        "name": "xlUpperBound",
-        "value": 1.2
-      },
-      {
-        "name": "xxlUpperBound",
-        "value": 1.4
-      }
-    ],
-    "formName": "",
-    "proto": "",
-    "formId": 3350
-  },
-  {
     "formName": "Coin A2 2026",
     "proto": "GIMMIGHOUL_COIN_A2_2026",
     "isCostume": true
