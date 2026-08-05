@@ -1235,5 +1235,13 @@
     "proto": "LC_TOKMUN_STAMP_03",
     "formatted": "Tokmun Stamp 03",
     "imageUrl": "lc_TokMun_minato"
+  },
+  {
+    "id": 407,
+    "proto": "LC_SPECIALBACKGROUND_2026_10TH_ANNIVERSARY_001",
+    "formatted": "2026 10th Anniversary 001",
+    "imageUrl": "sb_GoTour2025_black",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_10thAnniGlobe"
   }
 ]
