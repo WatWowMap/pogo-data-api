@@ -11,37 +11,30 @@
   "encounters": [
     {
       "id": 698,
-      "formId": 3060,
       "position": "first"
     },
     {
       "id": 9,
-      "formId": 187,
       "position": "second"
     },
     {
       "id": 330,
-      "formId": 752,
       "position": "second"
     },
     {
       "id": 598,
-      "formId": 2186,
       "position": "second"
     },
     {
       "id": 208,
-      "formId": 905,
       "position": "third"
     },
     {
       "id": 229,
-      "formId": 232,
       "position": "third"
     },
     {
       "id": 350,
-      "formId": 1583,
       "position": "third"
     }
   ]

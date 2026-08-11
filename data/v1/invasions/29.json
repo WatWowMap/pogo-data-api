@@ -16,27 +16,22 @@
     },
     {
       "id": 304,
-      "formId": 1469,
       "position": "first"
     },
     {
       "id": 374,
-      "formId": 764,
       "position": "first"
     },
     {
       "id": 227,
-      "formId": 1295,
       "position": "second"
     },
     {
       "id": 305,
-      "formId": 1472,
       "position": "second"
     },
     {
       "id": 375,
-      "formId": 767,
       "position": "second"
     },
     {
@@ -46,12 +41,10 @@
     },
     {
       "id": 306,
-      "formId": 1475,
       "position": "third"
     },
     {
       "id": 476,
-      "formId": 1841,
       "position": "third"
     }
   ]
