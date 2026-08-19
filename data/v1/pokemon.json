@@ -49675,7 +49675,7 @@
         "defense": 282,
         "stamina": 204,
         "firstEnergyCost": 300,
-        "subsequentEnergyCost": 80
+        "subsequentEnergyCost": 60
       }
     ],
     "purificationDust": 3000,
@@ -49913,7 +49913,7 @@
         "defense": 235,
         "stamina": 181,
         "firstEnergyCost": 300,
-        "subsequentEnergyCost": 80
+        "subsequentEnergyCost": 60
       }
     ],
     "purificationDust": 3000,
@@ -50149,7 +50149,7 @@
         "defense": 180,
         "stamina": 176,
         "firstEnergyCost": 300,
-        "subsequentEnergyCost": 80
+        "subsequentEnergyCost": 60
       }
     ],
     "purificationDust": 3000,
