@@ -1,0 +1,16 @@
+{
+  "moveId": 592,
+  "moveName": "Snipe Shot",
+  "proto": "SNIPE_SHOT",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 65,
+  "pvpEnergyDelta": -35,
+  "pvpBuffs": {
+    "attackerAttackStatStageChange": 2,
+    "buffActivationChance": 0.125
+  },
+  "power": 100,
+  "durationMs": 3500,
+  "energyDelta": -33
+}

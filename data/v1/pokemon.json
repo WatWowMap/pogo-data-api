@@ -290,7 +290,8 @@
     "generation": "Kanto",
     "forms": [
       172,
-      896
+      896,
+      3354
     ],
     "sizeSettings": [
       {
@@ -379,7 +380,8 @@
     "genId": 1,
     "generation": "Kanto",
     "forms": [
-      175
+      175,
+      3355
     ],
     "sizeSettings": [
       {
@@ -478,7 +480,8 @@
     "generation": "Kanto",
     "forms": [
       178,
-      951
+      951,
+      3356
     ],
     "sizeSettings": [
       {
@@ -2069,7 +2072,20 @@
       3342,
       3343,
       3344,
-      3345
+      3345,
+      3348,
+      3352,
+      3353,
+      3357,
+      3358,
+      3359,
+      3360,
+      3361,
+      3375,
+      3376,
+      3377,
+      3378,
+      3379
     ],
     "sizeSettings": [
       {
@@ -58817,7 +58833,8 @@
       2741,
       2742,
       2743,
-      2744
+      2744,
+      3380
     ],
     "sizeSettings": [
       {
@@ -61161,7 +61178,8 @@
     "chargedMoves": [
       35,
       77,
-      251
+      251,
+      497
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -61951,7 +61969,8 @@
     "chargedMoves": [
       70,
       105,
-      284
+      284,
+      592
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [
@@ -63891,14 +63910,17 @@
     "chargedMoves": [
       107,
       284,
-      341
+      341,
+      593
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
     "genId": 8,
     "generation": "Galar",
     "forms": [
-      3182
+      3182,
+      3349,
+      3350
     ],
     "sizeSettings": [
       {
@@ -74909,7 +74931,9 @@
       277
     ],
     "eliteQuickMoves": [],
-    "eliteChargedMoves": [],
+    "eliteChargedMoves": [
+      590
+    ],
     "genId": 9,
     "generation": "Paldea",
     "forms": [
@@ -74988,7 +75012,8 @@
     "generation": "Paldea",
     "forms": [
       2998,
-      3018
+      3018,
+      3351
     ],
     "sizeSettings": [
       {

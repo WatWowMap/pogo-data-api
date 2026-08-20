@@ -17661,8 +17661,107 @@
     "purificationCandy": 1
   },
   {
+    "formName": "Anniversary 2026",
+    "proto": "PIKACHU_ANNIVERSARY_2026",
+    "formId": 3348,
+    "isCostume": true
+  },
+  {
+    "formName": "Gulping",
+    "proto": "CRAMORANT_GULPING",
+    "formId": 3349
+  },
+  {
+    "formName": "Gorging",
+    "proto": "CRAMORANT_GORGING",
+    "formId": 3350
+  },
+  {
     "formName": "Coin A2 2026",
     "proto": "GIMMIGHOUL_COIN_A2_2026",
+    "formId": 3351,
     "isCostume": true
+  },
+  {
+    "formName": "Pxp 2026",
+    "proto": "PIKACHU_PXP_2026",
+    "formId": 3352,
+    "isCostume": true
+  },
+  {
+    "formName": "Wcs 2026",
+    "proto": "PIKACHU_WCS_2026",
+    "formId": 3353,
+    "isCostume": true
+  },
+  {
+    "formName": "Goggles 2026",
+    "proto": "CHARMANDER_GOGGLES_2026",
+    "formId": 3354
+  },
+  {
+    "formName": "Goggles 2026",
+    "proto": "CHARMELEON_GOGGLES_2026",
+    "formId": 3355
+  },
+  {
+    "formName": "Goggles 2026",
+    "proto": "CHARIZARD_GOGGLES_2026",
+    "formId": 3356
+  },
+  {
+    "formName": "Glass Helmet 2026",
+    "proto": "PIKACHU_GLASS_HELMET_2026",
+    "formId": 3357
+  },
+  {
+    "formName": "Anniversary 2026 Malaysia 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_MALAYSIA_01",
+    "formId": 3358
+  },
+  {
+    "formName": "Anniversary 2026 Singapore 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_SINGAPORE_01",
+    "formId": 3359
+  },
+  {
+    "formName": "Anniversary 2026 Taiwan 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_TAIWAN_01",
+    "formId": 3360
+  },
+  {
+    "formName": "K 2026 A 01",
+    "proto": "PIKACHU_K_2026_A_01",
+    "formId": 3361
+  },
+  {
+    "formName": "Anniversary 2026 Philippine 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_PHILIPPINE_01",
+    "formId": 3375
+  },
+  {
+    "formName": "Anniversary 2026 Thailand 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_THAILAND_01",
+    "formId": 3376
+  },
+  {
+    "formName": "K 2026 B 01",
+    "proto": "PIKACHU_K_2026_B_01",
+    "formId": 3377
+  },
+  {
+    "formName": "Anniversary 2026 Indonesia 01",
+    "proto": "PIKACHU_ANNIVERSARY_2026_INDONESIA_01",
+    "formId": 3378
+  },
+  {
+    "formName": "Halloween 2026",
+    "proto": "PIKACHU_HALLOWEEN_2026",
+    "formId": 3379
+  },
+  {
+    "formName": "Meteor",
+    "proto": "MINIOR_METEOR",
+    "formId": 3380
   }
 ]

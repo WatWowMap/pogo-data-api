@@ -1,0 +1,12 @@
+{
+  "moveId": 593,
+  "moveName": "Dive",
+  "proto": "DIVE",
+  "fast": false,
+  "type": 11,
+  "pvpPower": 50,
+  "pvpEnergyDelta": -40,
+  "power": 70,
+  "durationMs": 3300,
+  "energyDelta": -33
+}

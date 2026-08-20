@@ -1070,6 +1070,20 @@
     "category": "Event Pass Point"
   },
   {
+    "itemId": 2109,
+    "itemName": "Event Pass Point Live Ops 09",
+    "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_09",
+    "type": "Event Pass Point",
+    "category": "Event Pass Point"
+  },
+  {
+    "itemId": 2110,
+    "itemName": "Event Pass Point Live Ops 10",
+    "proto": "ITEM_EVENT_PASS_POINT_LIVE_OPS_10",
+    "type": "Event Pass Point",
+    "category": "Event Pass Point"
+  },
+  {
     "itemId": 2151,
     "itemName": "Event Pass Point Monthly 01",
     "proto": "ITEM_EVENT_PASS_POINT_MONTHLY_01",

@@ -1,0 +1,8 @@
+{
+  "id": 331,
+  "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_MEGA_002",
+  "formatted": "2026 Global Mega 002",
+  "imageUrl": "sb_GoTour2026_mega",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_MegaPlus"
+}

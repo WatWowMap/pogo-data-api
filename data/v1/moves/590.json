@@ -1,0 +1,16 @@
+{
+  "moveId": 590,
+  "moveName": "Glaive Rush",
+  "proto": "GLAIVE_RUSH",
+  "fast": false,
+  "type": 16,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -40,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": -1,
+    "buffActivationChance": 1
+  },
+  "power": 105,
+  "durationMs": 2000,
+  "energyDelta": -50
+}

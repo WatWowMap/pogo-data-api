@@ -1237,6 +1237,354 @@
     "imageUrl": "lc_TokMun_minato"
   },
   {
+    "id": 274,
+    "proto": "LC_CR_2026_001",
+    "formatted": "Cr 2026 001",
+    "imageUrl": "lc_CR_2026_001",
+    "cardType": "LOCATION_CARD"
+  },
+  {
+    "id": 275,
+    "proto": "LC_SPECIALBACKGROUND_10ANI2026",
+    "formatted": "10ani2026",
+    "imageUrl": "sb_GoFest2024_wormhole_moon",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_UltraWormhole"
+  },
+  {
+    "id": 276,
+    "proto": "LC_SPECIALBACKGROUND_2026_WCS",
+    "formatted": "2026 Wcs",
+    "imageUrl": "sb_WorldSpecial_Blue",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_WorldSpecial"
+  },
+  {
+    "id": 277,
+    "proto": "LC_SPECIALBACKGROUND_2026_ARRAIA",
+    "formatted": "2026 Arraia",
+    "imageUrl": "sb_arraia_2026",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_arraia_2026"
+  },
+  {
+    "id": 278,
+    "proto": "LC_2026_MLB_TBRAYS",
+    "formatted": "2026 Mlb Tbrays",
+    "imageUrl": "lc_MLB_tampaBayRays2"
+  },
+  {
+    "id": 280,
+    "proto": "LC_2026_BR_001",
+    "formatted": "2026 Br 001",
+    "imageUrl": "lc_2026_br_001"
+  },
+  {
+    "id": 281,
+    "proto": "LC_SPECIALBACKGROUND_LEGO_2026_01",
+    "formatted": "Lego 2026 01",
+    "imageUrl": "sb_lego_2026",
+    "cardType": "SPECIAL_BACKGROUND"
+  },
+  {
+    "id": 282,
+    "proto": "LC_NT_1",
+    "formatted": "Nt 1",
+    "imageUrl": "lc_nationalTrust_angleseyAbbey"
+  },
+  {
+    "id": 283,
+    "proto": "LC_NT_2",
+    "formatted": "Nt 2",
+    "imageUrl": "lc_nationalTrust_attinghamPark"
+  },
+  {
+    "id": 284,
+    "proto": "LC_NT_3",
+    "formatted": "Nt 3",
+    "imageUrl": "lc_nationalTrust_beltonHouse"
+  },
+  {
+    "id": 285,
+    "proto": "LC_NT_4",
+    "formatted": "Nt 4",
+    "imageUrl": "lc_nationalTrust_calkeAbbey"
+  },
+  {
+    "id": 286,
+    "proto": "LC_NT_5",
+    "formatted": "Nt 5",
+    "imageUrl": "lc_nationalTrust_chirk"
+  },
+  {
+    "id": 287,
+    "proto": "LC_NT_6",
+    "formatted": "Nt 6",
+    "imageUrl": "lc_nationalTrust_cliveden"
+  },
+  {
+    "id": 288,
+    "proto": "LC_NT_7",
+    "formatted": "Nt 7",
+    "imageUrl": "lc_nationalTrust_clumberPark"
+  },
+  {
+    "id": 289,
+    "proto": "LC_NT_8",
+    "formatted": "Nt 8",
+    "imageUrl": "lc_nationalTrust_dunhamMassey"
+  },
+  {
+    "id": 290,
+    "proto": "LC_NT_9",
+    "formatted": "Nt 9",
+    "imageUrl": "lc_nationalTrust_fountainsAbbeyEstate"
+  },
+  {
+    "id": 291,
+    "proto": "LC_NT_10",
+    "formatted": "Nt 10",
+    "imageUrl": "lc_nationalTrust_gibslide"
+  },
+  {
+    "id": 292,
+    "proto": "LC_NT_11",
+    "formatted": "Nt 11",
+    "imageUrl": "lc_nationalTrust_hanbury"
+  },
+  {
+    "id": 293,
+    "proto": "LC_NT_12",
+    "formatted": "Nt 12",
+    "imageUrl": "lc_nationalTrust_hardwick"
+  },
+  {
+    "id": 294,
+    "proto": "LC_NT_13",
+    "formatted": "Nt 13",
+    "imageUrl": "lc_nationalTrust_killerton"
+  },
+  {
+    "id": 295,
+    "proto": "LC_NT_14",
+    "formatted": "Nt 14",
+    "imageUrl": "lc_nationalTrust_kingstonLacy"
+  },
+  {
+    "id": 296,
+    "proto": "LC_NT_15",
+    "formatted": "Nt 15",
+    "imageUrl": "lc_nationalTrust_lacock"
+  },
+  {
+    "id": 297,
+    "proto": "LC_NT_16",
+    "formatted": "Nt 16",
+    "imageUrl": "lc_nationalTrust_lymePark"
+  },
+  {
+    "id": 298,
+    "proto": "LC_NT_17",
+    "formatted": "Nt 17",
+    "imageUrl": "lc_nationalTrust_mottisfont"
+  },
+  {
+    "id": 299,
+    "proto": "LC_NT_18",
+    "formatted": "Nt 18",
+    "imageUrl": "lc_nationalTrust_mountStewart"
+  },
+  {
+    "id": 300,
+    "proto": "LC_NT_19",
+    "formatted": "Nt 19",
+    "imageUrl": "lc_nationalTrust_nymans"
+  },
+  {
+    "id": 301,
+    "proto": "LC_NT_20",
+    "formatted": "Nt 20",
+    "imageUrl": "lc_nationalTrust_polesden"
+  },
+  {
+    "id": 302,
+    "proto": "LC_NT_21",
+    "formatted": "Nt 21",
+    "imageUrl": "lc_nationalTrust_scotneyCastle"
+  },
+  {
+    "id": 303,
+    "proto": "LC_NT_22",
+    "formatted": "Nt 22",
+    "imageUrl": "lc_nationalTrust_stourhead"
+  },
+  {
+    "id": 304,
+    "proto": "LC_NT_23",
+    "formatted": "Nt 23",
+    "imageUrl": "lc_nationalTrust_stoweGardenPark"
+  },
+  {
+    "id": 305,
+    "proto": "LC_NT_24",
+    "formatted": "Nt 24",
+    "imageUrl": "lc_nationalTrust_tredegarHouse"
+  },
+  {
+    "id": 306,
+    "proto": "LC_NT_25",
+    "formatted": "Nt 25",
+    "imageUrl": "lc_nationalTrust_trelissick"
+  },
+  {
+    "id": 307,
+    "proto": "LC_NT_26",
+    "formatted": "Nt 26",
+    "imageUrl": "lc_nationalTrust_tyntesfield"
+  },
+  {
+    "id": 308,
+    "proto": "LC_NT_27",
+    "formatted": "Nt 27",
+    "imageUrl": "lc_nationalTrust_whimpole"
+  },
+  {
+    "id": 309,
+    "proto": "LC_2026_JP_RED",
+    "formatted": "2026 Jp Red",
+    "imageUrl": "lc_2026_jp_red"
+  },
+  {
+    "id": 312,
+    "proto": "LC_JAPAN_STAMP_RALLY_1",
+    "formatted": "Japan Stamp Rally 1",
+    "imageUrl": "lc_pokecenter_sapporo"
+  },
+  {
+    "id": 313,
+    "proto": "LC_JAPAN_STAMP_RALLY_2",
+    "formatted": "Japan Stamp Rally 2",
+    "imageUrl": "lc_pokecenter_tohoku"
+  },
+  {
+    "id": 314,
+    "proto": "LC_JAPAN_STAMP_RALLY_3",
+    "formatted": "Japan Stamp Rally 3",
+    "imageUrl": "lc_pokecenter_tokyoDX"
+  },
+  {
+    "id": 315,
+    "proto": "LC_JAPAN_STAMP_RALLY_4",
+    "formatted": "Japan Stamp Rally 4",
+    "imageUrl": "lc_pokecenter_megaTokyo"
+  },
+  {
+    "id": 316,
+    "proto": "LC_JAPAN_STAMP_RALLY_5",
+    "formatted": "Japan Stamp Rally 5",
+    "imageUrl": "lc_pokecenter_shibuya"
+  },
+  {
+    "id": 317,
+    "proto": "LC_JAPAN_STAMP_RALLY_6",
+    "formatted": "Japan Stamp Rally 6",
+    "imageUrl": "lc_pokecenter_skytreeTown"
+  },
+  {
+    "id": 318,
+    "proto": "LC_JAPAN_STAMP_RALLY_7",
+    "formatted": "Japan Stamp Rally 7",
+    "imageUrl": "lc_pokecenter_tokyoBay"
+  },
+  {
+    "id": 319,
+    "proto": "LC_JAPAN_STAMP_RALLY_8",
+    "formatted": "Japan Stamp Rally 8",
+    "imageUrl": "lc_pokecenter_yokohama"
+  },
+  {
+    "id": 320,
+    "proto": "LC_JAPAN_STAMP_RALLY_9",
+    "formatted": "Japan Stamp Rally 9",
+    "imageUrl": "lc_pokecenter_nagoya"
+  },
+  {
+    "id": 321,
+    "proto": "LC_JAPAN_STAMP_RALLY_10",
+    "formatted": "Japan Stamp Rally 10",
+    "imageUrl": "lc_pokecenter_kanazawa"
+  },
+  {
+    "id": 322,
+    "proto": "LC_JAPAN_STAMP_RALLY_11",
+    "formatted": "Japan Stamp Rally 11",
+    "imageUrl": "lc_pokecenter_kyoto"
+  },
+  {
+    "id": 323,
+    "proto": "LC_JAPAN_STAMP_RALLY_12",
+    "formatted": "Japan Stamp Rally 12",
+    "imageUrl": "lc_pokecenter_osakaDX"
+  },
+  {
+    "id": 324,
+    "proto": "LC_JAPAN_STAMP_RALLY_13",
+    "formatted": "Japan Stamp Rally 13",
+    "imageUrl": "lc_pokecenter_osaka"
+  },
+  {
+    "id": 325,
+    "proto": "LC_JAPAN_STAMP_RALLY_14",
+    "formatted": "Japan Stamp Rally 14",
+    "imageUrl": "lc_pokecenter_hiroshima"
+  },
+  {
+    "id": 326,
+    "proto": "LC_JAPAN_STAMP_RALLY_15",
+    "formatted": "Japan Stamp Rally 15",
+    "imageUrl": "lc_pokecenter_kagawa"
+  },
+  {
+    "id": 327,
+    "proto": "LC_JAPAN_STAMP_RALLY_16",
+    "formatted": "Japan Stamp Rally 16",
+    "imageUrl": "lc_pokecenter_fukuoka"
+  },
+  {
+    "id": 328,
+    "proto": "LC_JAPAN_STAMP_RALLY_17",
+    "formatted": "Japan Stamp Rally 17",
+    "imageUrl": "lc_pokecenter_okinawa"
+  },
+  {
+    "id": 329,
+    "proto": "LC_JAPAN_STAMP_RALLY_18",
+    "formatted": "Japan Stamp Rally 18",
+    "imageUrl": "lc_pokecenter_GOLab"
+  },
+  {
+    "id": 331,
+    "proto": "LC_SPECIALBACKGROUND_2026_GLOBAL_MEGA_002",
+    "formatted": "2026 Global Mega 002",
+    "imageUrl": "sb_GoTour2026_mega",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_MegaPlus"
+  },
+  {
+    "id": 332,
+    "proto": "LC_2026_SANFRANCISCO_WCS_001",
+    "formatted": "2026 Sanfrancisco Wcs 001",
+    "imageUrl": "lc_Wcs2026_sanFrancisco"
+  },
+  {
+    "id": 333,
+    "proto": "LC_SPECIALBACKGROUND_GG2026",
+    "formatted": "Gg2026",
+    "imageUrl": "sb_9thAnniversary",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_10thAnni"
+  },
+  {
     "id": 407,
     "proto": "LC_SPECIALBACKGROUND_2026_10TH_ANNIVERSARY_001",
     "formatted": "2026 10th Anniversary 001",

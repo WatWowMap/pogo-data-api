@@ -1,0 +1,12 @@
+{
+  "moveId": 595,
+  "moveName": "Gulp Missile Gorging",
+  "proto": "GULP_MISSILE_GORGING",
+  "fast": false,
+  "type": 1,
+  "pvpBuffs": {
+    "targetAttackStatStageChange": -2,
+    "buffActivationChance": 1
+  },
+  "durationMs": 2500
+}

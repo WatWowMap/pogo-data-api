@@ -13,14 +13,17 @@
   "chargedMoves": [
     107,
     284,
-    341
+    341,
+    593
   ],
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],
   "genId": 8,
   "generation": "Galar",
   "forms": [
-    3182
+    3182,
+    3349,
+    3350
   ],
   "sizeSettings": [
     {
