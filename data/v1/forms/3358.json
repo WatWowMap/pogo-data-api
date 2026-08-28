@@ -1,5 +1,6 @@
 {
   "formName": "Anniversary 2026 Malaysia 01",
   "proto": "PIKACHU_ANNIVERSARY_2026_MALAYSIA_01",
-  "formId": 3358
+  "formId": 3358,
+  "isCostume": true
 }
