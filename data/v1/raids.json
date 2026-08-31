@@ -98,5 +98,55 @@
     "id": 19,
     "formatted": "Raid Level Coordinated 2",
     "proto": "RAID_LEVEL_COORDINATED_2"
+  },
+  {
+    "id": 20,
+    "formatted": "Raid Level 1 Worldwide",
+    "proto": "RAID_LEVEL_1_WORLDWIDE"
+  },
+  {
+    "id": 21,
+    "formatted": "Raid Level 2 Worldwide",
+    "proto": "RAID_LEVEL_2_WORLDWIDE"
+  },
+  {
+    "id": 22,
+    "formatted": "Raid Level 3 Worldwide",
+    "proto": "RAID_LEVEL_3_WORLDWIDE"
+  },
+  {
+    "id": 23,
+    "formatted": "Raid Level 4 Worldwide",
+    "proto": "RAID_LEVEL_4_WORLDWIDE"
+  },
+  {
+    "id": 24,
+    "formatted": "Raid Level 5 Worldwide",
+    "proto": "RAID_LEVEL_5_WORLDWIDE"
+  },
+  {
+    "id": 25,
+    "formatted": "Raid Level 1 Worldwide Ultra Beast",
+    "proto": "RAID_LEVEL_1_WORLDWIDE_ULTRA_BEAST"
+  },
+  {
+    "id": 26,
+    "formatted": "Raid Level 2 Worldwide Ultra Beast",
+    "proto": "RAID_LEVEL_2_WORLDWIDE_ULTRA_BEAST"
+  },
+  {
+    "id": 27,
+    "formatted": "Raid Level 3 Worldwide Ultra Beast",
+    "proto": "RAID_LEVEL_3_WORLDWIDE_ULTRA_BEAST"
+  },
+  {
+    "id": 28,
+    "formatted": "Raid Level 4 Worldwide Ultra Beast",
+    "proto": "RAID_LEVEL_4_WORLDWIDE_ULTRA_BEAST"
+  },
+  {
+    "id": 29,
+    "formatted": "Raid Level 5 Worldwide Ultra Beast",
+    "proto": "RAID_LEVEL_5_WORLDWIDE_ULTRA_BEAST"
   }
 ]

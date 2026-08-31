@@ -17738,6 +17738,41 @@
     "formId": 3361
   },
   {
+    "formName": "Halloween 2026 01",
+    "proto": "ZUBAT_HALLOWEEN_2026_01",
+    "formId": 3362
+  },
+  {
+    "formName": "Halloween 2026 01",
+    "proto": "GOLBAT_HALLOWEEN_2026_01",
+    "formId": 3363
+  },
+  {
+    "formName": "Halloween 2026 01",
+    "proto": "CROBAT_HALLOWEEN_2026_01",
+    "formId": 3364
+  },
+  {
+    "formName": "P Halloween 2026 01",
+    "proto": "SINISTEA_P_HALLOWEEN_2026_01",
+    "formId": 3365
+  },
+  {
+    "formName": "A Halloween 2026 01",
+    "proto": "SINISTEA_A_HALLOWEEN_2026_01",
+    "formId": 3366
+  },
+  {
+    "formName": "P Halloween 2026 01",
+    "proto": "POLTEAGEIST_P_HALLOWEEN_2026_01",
+    "formId": 3367
+  },
+  {
+    "formName": "A Halloween 2026 01",
+    "proto": "POLTEAGEIST_A_HALLOWEEN_2026_01",
+    "formId": 3368
+  },
+  {
     "formName": "Anniversary 2026 Philippine 01",
     "proto": "PIKACHU_ANNIVERSARY_2026_PHILIPPINE_01",
     "formId": 3375,
