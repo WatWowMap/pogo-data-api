@@ -2,19 +2,22 @@
   "formName": "Normal",
   "proto": "STARAPTOR_NORMAL",
   "formId": 1664,
-  "purificationDust": 1000,
-  "purificationCandy": 1,
   "tempEvolutions": [
     {
       "tempEvoId": 1,
       "attack": 278,
       "defense": 207,
       "stamina": 198,
+      "height": 1.9,
+      "weight": 50,
       "types": [
         2,
         3
       ],
-      "unreleased": true
+      "firstEnergyCost": 300,
+      "subsequentEnergyCost": 60
     }
-  ]
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

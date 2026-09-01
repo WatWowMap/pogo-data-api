@@ -63,6 +63,7 @@
   "ultraBeast": false,
   "buddyGroupNumber": 4,
   "buddyDistance": 1,
+  "buddyMegaEnergy": 25,
   "thirdMoveStardust": 10000,
   "thirdMoveCandy": 25,
   "gymDefenderEligible": true,

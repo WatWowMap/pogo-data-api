@@ -1222,5 +1222,19 @@
     "proto": "ITEM_EVENT_TICKET_S23_2026_12_TO_GIFT",
     "type": "Global Event Ticket",
     "category": "Global Event Ticket"
+  },
+  {
+    "itemId": 2253,
+    "itemName": "Event Ticket S24 Sep 12 Community",
+    "proto": "ITEM_EVENT_TICKET_S24_SEP_12_COMMUNITY",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
+  },
+  {
+    "itemId": 2254,
+    "itemName": "Event Ticket S24 Sep 12 Community To Gift",
+    "proto": "ITEM_EVENT_TICKET_S24_SEP_12_COMMUNITY_TO_GIFT",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
   }
 ]

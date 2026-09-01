@@ -30799,6 +30799,7 @@
     "ultraBeast": false,
     "buddyGroupNumber": 2,
     "buddyDistance": 1,
+    "buddyMegaEnergy": 25,
     "thirdMoveStardust": 10000,
     "thirdMoveCandy": 25,
     "gymDefenderEligible": true,
@@ -30879,6 +30880,7 @@
     "ultraBeast": false,
     "buddyGroupNumber": 4,
     "buddyDistance": 1,
+    "buddyMegaEnergy": 25,
     "thirdMoveStardust": 10000,
     "thirdMoveCandy": 25,
     "gymDefenderEligible": true,
@@ -30961,26 +30963,30 @@
     "ultraBeast": false,
     "buddyGroupNumber": 4,
     "buddyDistance": 1,
+    "buddyMegaEnergy": 25,
     "thirdMoveStardust": 10000,
     "thirdMoveCandy": 25,
     "gymDefenderEligible": true,
     "tradable": true,
     "transferable": true,
-    "purificationDust": 1000,
-    "purificationCandy": 1,
     "tempEvolutions": [
       {
         "tempEvoId": 1,
         "attack": 278,
         "defense": 207,
         "stamina": 198,
+        "height": 1.9,
+        "weight": 50,
         "types": [
           2,
           3
         ],
-        "unreleased": true
+        "firstEnergyCost": 300,
+        "subsequentEnergyCost": 60
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Bidoof",
@@ -71045,7 +71051,7 @@
     "chargedMoves": [
       26,
       279,
-      333
+      353
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -71089,6 +71095,7 @@
     "legendary": false,
     "mythic": false,
     "ultraBeast": false,
+    "buddyGroupNumber": 2,
     "buddyDistance": 3,
     "thirdMoveStardust": 50000,
     "thirdMoveCandy": 50,
@@ -71116,7 +71123,7 @@
     "chargedMoves": [
       26,
       279,
-      333
+      353
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -71162,6 +71169,7 @@
     "legendary": false,
     "mythic": false,
     "ultraBeast": false,
+    "buddyGroupNumber": 3,
     "buddyDistance": 3,
     "thirdMoveStardust": 50000,
     "thirdMoveCandy": 50,
