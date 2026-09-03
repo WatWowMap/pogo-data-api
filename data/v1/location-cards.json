@@ -1585,6 +1585,36 @@
     "vfxAddress": "bgfx_10thAnni"
   },
   {
+    "id": 334,
+    "proto": "LC_TPC30_MY",
+    "formatted": "Tpc30 My",
+    "imageUrl": "lc_tpc30_my"
+  },
+  {
+    "id": 335,
+    "proto": "LC_TPC30_TW",
+    "formatted": "Tpc30 Tw",
+    "imageUrl": "lc_tpc30_tw"
+  },
+  {
+    "id": 336,
+    "proto": "LC_TPC30_SG",
+    "formatted": "Tpc30 Sg",
+    "imageUrl": "lc_tpc30_sg"
+  },
+  {
+    "id": 337,
+    "proto": "LC_TPC30_PH",
+    "formatted": "Tpc30 Ph",
+    "imageUrl": "lc_tpc30_ph"
+  },
+  {
+    "id": 350,
+    "proto": "LC_SPECIALBACKGROUND_MIDAUTUMN_2026",
+    "formatted": "Midautumn 2026",
+    "imageUrl": "lc_specialbackground_midautumn_2026"
+  },
+  {
     "id": 407,
     "proto": "LC_SPECIALBACKGROUND_2026_10TH_ANNIVERSARY_001",
     "formatted": "2026 10th Anniversary 001",
