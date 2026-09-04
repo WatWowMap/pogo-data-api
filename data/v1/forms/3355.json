@@ -1,5 +1,14 @@
 {
   "formName": "Goggles 2026",
   "proto": "CHARMELEON_GOGGLES_2026",
-  "formId": 3355
+  "formId": 3355,
+  "evolutions": [
+    {
+      "evoId": 6,
+      "formId": 3356,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

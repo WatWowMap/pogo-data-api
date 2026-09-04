@@ -1609,6 +1609,14 @@
     "imageUrl": "lc_tpc30_ph"
   },
   {
+    "id": 349,
+    "proto": "LC_SPECIALBACKGROUND_S24_SEP_2026",
+    "formatted": "S24 Sep 2026",
+    "imageUrl": "sb_s24_sep_2026",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_Horizons_2026"
+  },
+  {
     "id": 350,
     "proto": "LC_SPECIALBACKGROUND_MIDAUTUMN_2026",
     "formatted": "Midautumn 2026",
