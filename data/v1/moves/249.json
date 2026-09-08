@@ -4,7 +4,7 @@
   "proto": "CHARGE_BEAM_FAST",
   "fast": true,
   "type": 13,
-  "pvpPower": 5,
+  "pvpPower": 6,
   "pvpEnergyDelta": 11,
   "pvpDurationTurns": 2,
   "power": 7,

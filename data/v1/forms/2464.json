@@ -2,5 +2,12 @@
   "formName": "Amped",
   "proto": "TOXTRICITY_AMPED",
   "formId": 2464,
-  "gmaxMove": 446
+  "gmaxMove": 446,
+  "chargedMoves": [
+    35,
+    125,
+    251,
+    303,
+    319
+  ]
 }

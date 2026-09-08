@@ -4,8 +4,12 @@
   "proto": "DRAINING_KISS",
   "fast": false,
   "type": 18,
-  "pvpPower": 60,
+  "pvpPower": 80,
   "pvpEnergyDelta": -55,
+  "pvpBuffs": {
+    "attackerDefenseStatStageChange": 1,
+    "buffActivationChance": 1
+  },
   "power": 60,
   "durationMs": 2500,
   "energyDelta": -50

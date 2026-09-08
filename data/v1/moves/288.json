@@ -4,13 +4,13 @@
   "proto": "PSYCHO_BOOST",
   "fast": false,
   "type": 14,
-  "pvpPower": 70,
+  "pvpPower": 85,
   "pvpEnergyDelta": -35,
   "pvpBuffs": {
     "attackerAttackStatStageChange": -2,
     "buffActivationChance": 1
   },
-  "power": 70,
+  "power": 130,
   "durationMs": 4000,
-  "energyDelta": -50
+  "energyDelta": -33
 }

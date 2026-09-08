@@ -7,12 +7,14 @@
   ],
   "quickMoves": [
     221,
+    260,
     261
   ],
   "chargedMoves": [
     49,
     79,
-    99
+    99,
+    306
   ],
   "eliteQuickMoves": [],
   "eliteChargedMoves": [],

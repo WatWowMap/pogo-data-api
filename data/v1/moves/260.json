@@ -4,7 +4,7 @@
   "proto": "INFESTATION_FAST",
   "fast": true,
   "type": 7,
-  "pvpPower": 6,
+  "pvpPower": 10,
   "pvpEnergyDelta": 12,
   "pvpDurationTurns": 2,
   "power": 9,

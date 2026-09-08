@@ -4,8 +4,8 @@
   "proto": "BUBBLE_BEAM",
   "fast": false,
   "type": 11,
-  "pvpPower": 25,
-  "pvpEnergyDelta": -40,
+  "pvpPower": 50,
+  "pvpEnergyDelta": -50,
   "pvpBuffs": {
     "targetAttackStatStageChange": -1,
     "buffActivationChance": 1

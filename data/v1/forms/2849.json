@@ -3,6 +3,10 @@
   "proto": "SNORLAX_WILDAREA_2024",
   "formId": 2849,
   "isCostume": true,
+  "quickMoves": [
+    212,
+    234
+  ],
   "purificationDust": 5000,
   "purificationCandy": 5
 }

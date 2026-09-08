@@ -4,7 +4,7 @@
   "proto": "IRON_HEAD",
   "fast": false,
   "type": 9,
-  "pvpPower": 70,
+  "pvpPower": 85,
   "pvpEnergyDelta": -50,
   "power": 60,
   "durationMs": 2000,

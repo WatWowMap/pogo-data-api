@@ -4,11 +4,11 @@
   "proto": "AIR_CUTTER",
   "fast": false,
   "type": 3,
-  "pvpPower": 45,
-  "pvpEnergyDelta": -35,
+  "pvpPower": 60,
+  "pvpEnergyDelta": -40,
   "pvpBuffs": {
     "attackerAttackStatStageChange": 1,
-    "buffActivationChance": 0.3
+    "buffActivationChance": 0.125
   },
   "power": 55,
   "durationMs": 2500,

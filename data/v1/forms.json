@@ -241,6 +241,7 @@
     "defense": 330,
     "stamina": 137,
     "quickMoves": [
+      207,
       234,
       243
     ],
@@ -444,7 +445,8 @@
       251,
       272,
       284,
-      392
+      392,
+      399
     ],
     "eliteChargedMoves": [],
     "types": [
@@ -1113,9 +1115,11 @@
     ],
     "chargedMoves": [
       16,
+      33,
       91,
       92,
-      303
+      303,
+      367
     ],
     "eliteQuickMoves": [],
     "types": [
@@ -10085,13 +10089,27 @@
     "formName": "Low Key",
     "proto": "TOXTRICITY_LOW_KEY",
     "formId": 2463,
-    "gmaxMove": 446
+    "gmaxMove": 446,
+    "chargedMoves": [
+      35,
+      125,
+      251,
+      303,
+      319
+    ]
   },
   {
     "formName": "Amped",
     "proto": "TOXTRICITY_AMPED",
     "formId": 2464,
-    "gmaxMove": 446
+    "gmaxMove": 446,
+    "chargedMoves": [
+      35,
+      125,
+      251,
+      303,
+      319
+    ]
   },
   {
     "formName": "Phony",
@@ -12381,6 +12399,12 @@
     "formName": "S",
     "proto": "LUGIA_S",
     "formId": 2729,
+    "chargedMoves": [
+      107,
+      257,
+      275,
+      341
+    ],
     "purificationDust": 5000,
     "purificationCandy": 5
   },
@@ -13397,10 +13421,15 @@
     "attack": 261,
     "defense": 128,
     "stamina": 146,
+    "quickMoves": [
+      213,
+      278
+    ],
     "chargedMoves": [
       24,
       70,
       90,
+      125,
       280
     ],
     "types": [
@@ -14123,6 +14152,10 @@
     "proto": "SNORLAX_WILDAREA_2024",
     "formId": 2849,
     "isCostume": true,
+    "quickMoves": [
+      212,
+      234
+    ],
     "purificationDust": 5000,
     "purificationCandy": 5
   },
@@ -14491,6 +14524,13 @@
     "proto": "AERODACTYL_SUMMER_2023",
     "formId": 3001,
     "isCostume": true,
+    "chargedMoves": [
+      14,
+      62,
+      64,
+      74,
+      304
+    ],
     "tempEvolutions": [
       {
         "tempEvoId": 1,

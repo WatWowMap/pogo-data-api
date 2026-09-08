@@ -4,8 +4,8 @@
   "proto": "BRINE",
   "fast": false,
   "type": 11,
-  "pvpPower": 60,
-  "pvpEnergyDelta": -50,
+  "pvpPower": 100,
+  "pvpEnergyDelta": -60,
   "power": 65,
   "durationMs": 2500,
   "energyDelta": -50

@@ -37,9 +37,11 @@
   ],
   "chargedMoves": [
     16,
+    33,
     91,
     92,
-    303
+    303,
+    367
   ],
   "eliteQuickMoves": [],
   "types": [

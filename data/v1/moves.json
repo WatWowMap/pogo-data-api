@@ -118,7 +118,7 @@
     "fast": false,
     "type": 17,
     "pvpPower": 80,
-    "pvpEnergyDelta": -50,
+    "pvpEnergyDelta": -45,
     "power": 80,
     "durationMs": 3000,
     "energyDelta": -50
@@ -469,7 +469,7 @@
     "proto": "POISON_FANG",
     "fast": false,
     "type": 4,
-    "pvpPower": 45,
+    "pvpPower": 50,
     "pvpEnergyDelta": -40,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
@@ -507,8 +507,8 @@
     "proto": "BUBBLE_BEAM",
     "fast": false,
     "type": 11,
-    "pvpPower": 25,
-    "pvpEnergyDelta": -40,
+    "pvpPower": 50,
+    "pvpEnergyDelta": -50,
     "pvpBuffs": {
       "targetAttackStatStageChange": -1,
       "buffActivationChance": 1
@@ -711,7 +711,7 @@
     "proto": "SHADOW_BALL",
     "fast": false,
     "type": 8,
-    "pvpPower": 100,
+    "pvpPower": 90,
     "pvpEnergyDelta": -50,
     "power": 100,
     "durationMs": 3000,
@@ -730,7 +730,7 @@
     "fast": false,
     "type": 9,
     "pvpPower": 70,
-    "pvpEnergyDelta": -45,
+    "pvpEnergyDelta": -40,
     "power": 75,
     "durationMs": 3000,
     "energyDelta": -33
@@ -747,7 +747,7 @@
     "proto": "IRON_HEAD",
     "fast": false,
     "type": 9,
-    "pvpPower": 70,
+    "pvpPower": 85,
     "pvpEnergyDelta": -50,
     "power": 60,
     "durationMs": 2000,
@@ -871,8 +871,12 @@
     "proto": "DRAINING_KISS",
     "fast": false,
     "type": 18,
-    "pvpPower": 60,
+    "pvpPower": 80,
     "pvpEnergyDelta": -55,
+    "pvpBuffs": {
+      "attackerDefenseStatStageChange": 1,
+      "buffActivationChance": 1
+    },
     "power": 60,
     "durationMs": 2500,
     "energyDelta": -50
@@ -895,8 +899,8 @@
     "proto": "MOONBLAST",
     "fast": false,
     "type": 18,
-    "pvpPower": 110,
-    "pvpEnergyDelta": -60,
+    "pvpPower": 90,
+    "pvpEnergyDelta": -50,
     "pvpBuffs": {
       "targetAttackStatStageChange": -1,
       "buffActivationChance": 0.1
@@ -993,11 +997,11 @@
     "proto": "BULLDOZE",
     "fast": false,
     "type": 5,
-    "pvpPower": 45,
-    "pvpEnergyDelta": -45,
+    "pvpPower": 80,
+    "pvpEnergyDelta": -55,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
-      "buffActivationChance": 0.5
+      "buffActivationChance": 1
     },
     "power": 80,
     "durationMs": 3500,
@@ -1102,8 +1106,8 @@
     "proto": "BRINE",
     "fast": false,
     "type": 11,
-    "pvpPower": 60,
-    "pvpEnergyDelta": -50,
+    "pvpPower": 100,
+    "pvpEnergyDelta": -60,
     "power": 65,
     "durationMs": 2500,
     "energyDelta": -50
@@ -1288,11 +1292,11 @@
     "proto": "AIR_CUTTER",
     "fast": false,
     "type": 3,
-    "pvpPower": 45,
-    "pvpEnergyDelta": -35,
+    "pvpPower": 60,
+    "pvpEnergyDelta": -40,
     "pvpBuffs": {
       "attackerAttackStatStageChange": 1,
-      "buffActivationChance": 0.3
+      "buffActivationChance": 0.125
     },
     "power": 55,
     "durationMs": 2500,
@@ -1398,8 +1402,8 @@
     "proto": "BODY_SLAM",
     "fast": false,
     "type": 1,
-    "pvpPower": 55,
-    "pvpEnergyDelta": -35,
+    "pvpPower": 65,
+    "pvpEnergyDelta": -40,
     "power": 50,
     "durationMs": 2000,
     "energyDelta": -33
@@ -1505,8 +1509,8 @@
     "proto": "BITE_FAST",
     "fast": true,
     "type": 17,
-    "pvpPower": 4,
-    "pvpEnergyDelta": 2,
+    "pvpPower": 2,
+    "pvpEnergyDelta": 4,
     "power": 6,
     "durationMs": 500,
     "energyDelta": 4
@@ -1568,7 +1572,7 @@
     "proto": "LOW_KICK_FAST",
     "fast": true,
     "type": 2,
-    "pvpPower": 5,
+    "pvpPower": 6,
     "pvpEnergyDelta": 8,
     "pvpDurationTurns": 1,
     "power": 5,
@@ -1736,8 +1740,8 @@
     "proto": "SCRATCH_FAST",
     "fast": true,
     "type": 1,
-    "pvpPower": 4,
-    "pvpEnergyDelta": 2,
+    "pvpPower": 3,
+    "pvpEnergyDelta": 4,
     "power": 6,
     "durationMs": 500,
     "energyDelta": 4
@@ -2103,7 +2107,7 @@
     "proto": "CHARGE_BEAM_FAST",
     "fast": true,
     "type": 13,
-    "pvpPower": 5,
+    "pvpPower": 6,
     "pvpEnergyDelta": 11,
     "pvpDurationTurns": 2,
     "power": 7,
@@ -2227,8 +2231,8 @@
     "proto": "SAND_TOMB",
     "fast": false,
     "type": 5,
-    "pvpPower": 40,
-    "pvpEnergyDelta": -40,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "targetDefenseStatStageChange": -1,
       "buffActivationChance": 1
@@ -2255,7 +2259,7 @@
     "proto": "INFESTATION_FAST",
     "fast": true,
     "type": 7,
-    "pvpPower": 6,
+    "pvpPower": 10,
     "pvpEnergyDelta": 12,
     "pvpDurationTurns": 2,
     "power": 9,
@@ -2468,8 +2472,8 @@
     "proto": "MIRROR_COAT",
     "fast": false,
     "type": 14,
-    "pvpPower": 60,
-    "pvpEnergyDelta": -55,
+    "pvpPower": 75,
+    "pvpEnergyDelta": -45,
     "power": 60,
     "durationMs": 2500,
     "energyDelta": -50
@@ -2546,8 +2550,8 @@
     "proto": "TAKE_DOWN_FAST",
     "fast": true,
     "type": 1,
-    "pvpPower": 5,
-    "pvpEnergyDelta": 8,
+    "pvpPower": 14,
+    "pvpEnergyDelta": 9,
     "pvpDurationTurns": 2,
     "power": 7,
     "durationMs": 1000,
@@ -2623,15 +2627,15 @@
     "proto": "PSYCHO_BOOST",
     "fast": false,
     "type": 14,
-    "pvpPower": 70,
+    "pvpPower": 85,
     "pvpEnergyDelta": -35,
     "pvpBuffs": {
       "attackerAttackStatStageChange": -2,
       "buffActivationChance": 1
     },
-    "power": 70,
+    "power": 130,
     "durationMs": 4000,
-    "energyDelta": -50
+    "energyDelta": -33
   },
   {
     "moveId": 289,
@@ -2861,7 +2865,7 @@
     "proto": "LUNGE",
     "fast": false,
     "type": 7,
-    "pvpPower": 60,
+    "pvpPower": 70,
     "pvpEnergyDelta": -45,
     "pvpBuffs": {
       "targetAttackStatStageChange": -1,
@@ -3023,7 +3027,7 @@
     "fast": false,
     "type": 10,
     "pvpPower": 60,
-    "pvpEnergyDelta": -40,
+    "pvpEnergyDelta": -35,
     "power": 40,
     "durationMs": 1000,
     "energyDelta": -33
@@ -3716,7 +3720,7 @@
     "fast": false,
     "type": 8,
     "pvpPower": 120,
-    "pvpEnergyDelta": -90,
+    "pvpEnergyDelta": -65,
     "power": 140,
     "durationMs": 2000,
     "energyDelta": -100
@@ -3793,7 +3797,7 @@
     "fast": false,
     "type": 5,
     "pvpPower": 100,
-    "pvpEnergyDelta": -60,
+    "pvpEnergyDelta": -55,
     "power": 105,
     "durationMs": 1500,
     "energyDelta": -100
@@ -3848,7 +3852,7 @@
     "proto": "DOUBLE_IRON_BASH",
     "fast": false,
     "type": 9,
-    "pvpPower": 55,
+    "pvpPower": 70,
     "pvpEnergyDelta": -35,
     "power": 70,
     "durationMs": 2000,
@@ -4753,8 +4757,8 @@
     "proto": "RAGE_FIST",
     "fast": false,
     "type": 8,
-    "pvpPower": 50,
-    "pvpEnergyDelta": -35,
+    "pvpPower": 55,
+    "pvpEnergyDelta": -40,
     "pvpBuffs": {
       "attackerAttackStatStageChange": 1,
       "buffActivationChance": 1

@@ -4,7 +4,7 @@
   "proto": "SHADOW_BALL",
   "fast": false,
   "type": 8,
-  "pvpPower": 100,
+  "pvpPower": 90,
   "pvpEnergyDelta": -50,
   "power": 100,
   "durationMs": 3000,

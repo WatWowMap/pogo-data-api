@@ -4,8 +4,8 @@
   "proto": "MOONBLAST",
   "fast": false,
   "type": 18,
-  "pvpPower": 110,
-  "pvpEnergyDelta": -60,
+  "pvpPower": 90,
+  "pvpEnergyDelta": -50,
   "pvpBuffs": {
     "targetAttackStatStageChange": -1,
     "buffActivationChance": 0.1

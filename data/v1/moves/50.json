@@ -4,7 +4,7 @@
   "proto": "POISON_FANG",
   "fast": false,
   "type": 4,
-  "pvpPower": 45,
+  "pvpPower": 50,
   "pvpEnergyDelta": -40,
   "pvpBuffs": {
     "targetDefenseStatStageChange": -1,

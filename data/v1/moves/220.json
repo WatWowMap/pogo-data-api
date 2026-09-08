@@ -4,8 +4,8 @@
   "proto": "SCRATCH_FAST",
   "fast": true,
   "type": 1,
-  "pvpPower": 4,
-  "pvpEnergyDelta": 2,
+  "pvpPower": 3,
+  "pvpEnergyDelta": 4,
   "power": 6,
   "durationMs": 500,
   "energyDelta": 4

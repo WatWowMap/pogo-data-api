@@ -1918,10 +1918,12 @@
       253
     ],
     "chargedMoves": [
+      13,
       16,
       91,
       92,
-      303
+      303,
+      367
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -2160,7 +2162,8 @@
       251,
       284,
       302,
-      392
+      392,
+      399
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [
@@ -2792,6 +2795,7 @@
       22,
       31,
       91,
+      254,
       258,
       304
     ],
@@ -5664,6 +5668,7 @@
       12
     ],
     "quickMoves": [
+      203,
       215,
       225
     ],
@@ -11227,7 +11232,8 @@
       62,
       64,
       74,
-      304
+      304,
+      367
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -11304,7 +11310,8 @@
     ],
     "quickMoves": [
       212,
-      234
+      234,
+      401
     ],
     "chargedMoves": [
       14,
@@ -13277,6 +13284,7 @@
       22,
       66,
       89,
+      280,
       306,
       392
     ],
@@ -13342,7 +13350,8 @@
     ],
     "quickMoves": [
       202,
-      255
+      255,
+      345
     ],
     "chargedMoves": [
       50,
@@ -17741,6 +17750,7 @@
     ],
     "chargedMoves": [
       36,
+      46,
       256,
       257
     ],
@@ -17895,13 +17905,15 @@
     ],
     "quickMoves": [
       240,
-      278
+      278,
+      346
     ],
     "chargedMoves": [
       24,
       103,
       279,
-      280
+      280,
+      392
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -19017,7 +19029,8 @@
       79,
       127,
       131,
-      267
+      267,
+      377
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -19614,6 +19627,7 @@
       107,
       257,
       275,
+      304,
       341
     ],
     "eliteQuickMoves": [],
@@ -23922,6 +23936,7 @@
       32,
       63,
       78,
+      123,
       268,
       372
     ],
@@ -24455,12 +24470,14 @@
     ],
     "quickMoves": [
       221,
+      260,
       261
     ],
     "chargedMoves": [
       49,
       79,
-      99
+      99,
+      306
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -24521,10 +24538,12 @@
     ],
     "quickMoves": [
       221,
+      260,
       261
     ],
     "chargedMoves": [
       49,
+      70,
       86,
       262
     ],
@@ -33209,7 +33228,8 @@
     "chargedMoves": [
       16,
       70,
-      86
+      86,
+      382
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -36653,7 +36673,8 @@
     "chargedMoves": [
       108,
       117,
-      245
+      245,
+      330
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [
@@ -37782,13 +37803,15 @@
       17
     ],
     "quickMoves": [
+      203,
       238,
       278
     ],
     "chargedMoves": [
       16,
       70,
-      247
+      247,
+      280
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [
@@ -40725,7 +40748,8 @@
     ],
     "quickMoves": [
       222,
-      234
+      234,
+      249
     ],
     "chargedMoves": [
       14,
@@ -43091,7 +43115,8 @@
     "chargedMoves": [
       16,
       70,
-      108
+      108,
+      273
     ],
     "eliteQuickMoves": [],
     "eliteChargedMoves": [],
@@ -43667,6 +43692,7 @@
       17
     ],
     "quickMoves": [
+      203,
       213,
       278
     ],
@@ -46442,6 +46468,7 @@
       10
     ],
     "quickMoves": [
+      263,
       264,
       269,
       346
@@ -61193,6 +61220,7 @@
     "chargedMoves": [
       35,
       77,
+      246,
       251,
       497
     ],
@@ -65082,6 +65110,7 @@
     ],
     "chargedMoves": [
       16,
+      85,
       88,
       280,
       319
@@ -68069,6 +68098,7 @@
       5
     ],
     "quickMoves": [
+      220,
       221,
       241,
       297
@@ -71265,12 +71295,14 @@
       4
     ],
     "quickMoves": [
+      220,
       224,
       233
     ],
     "chargedMoves": [
       50,
       90,
+      280,
       303
     ],
     "eliteQuickMoves": [],
@@ -72477,6 +72509,7 @@
     ],
     "chargedMoves": [
       45,
+      46,
       63,
       333,
       341
@@ -73252,6 +73285,7 @@
     ],
     "quickMoves": [
       210,
+      211,
       356
     ],
     "chargedMoves": [
@@ -73963,6 +73997,7 @@
       17
     ],
     "quickMoves": [
+      207,
       228,
       278,
       402

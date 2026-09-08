@@ -4,8 +4,8 @@
   "proto": "BODY_SLAM",
   "fast": false,
   "type": 1,
-  "pvpPower": 55,
-  "pvpEnergyDelta": -35,
+  "pvpPower": 65,
+  "pvpEnergyDelta": -40,
   "power": 50,
   "durationMs": 2000,
   "energyDelta": -33
