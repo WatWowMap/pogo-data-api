@@ -7114,6 +7114,8 @@
     "quest_title_join_max_battle_singular": "Участвуй в Битве Макс",
     "quest_title_journal_caught_dropped_item_plural": "Когда Покемон {{amount_0}} был пойман, он уронил предметы!",
     "quest_title_journal_caught_dropped_item_singular": "Когда Покемон {{amount_0}} был пойман, он уронил предмет!",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural": "Покрути не прокрученные Покестопы с Пикачу в ханбоке ×{{amount_0}}",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular": "Покрути 1 не прокрученный Покестоп с Пикачу в ханбоке",
     "quest_title_levelup_max_move_plural": "Повысь уровень приёмов макс ×{{amount_0}}",
     "quest_title_levelup_max_move_singular": "Повысь уровень приёма макс",
     "quest_title_lobby_mega_count_plural": "Мегаэволюционировавших Покемонов в Лобби: {{amount_0}}",

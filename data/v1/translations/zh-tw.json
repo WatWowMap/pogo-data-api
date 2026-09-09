@@ -7114,6 +7114,8 @@
     "quest_title_join_max_battle_singular": "參加1次極巨對戰",
     "quest_title_journal_caught_dropped_item_plural": "捉到{{amount_0}}時獲得了能量！",
     "quest_title_journal_caught_dropped_item_singular": "捉到{{amount_0}}時獲得了能量！",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural": "旋轉{{amount_0}}個尚未旋轉過且顯示穿著韓服的皮卡丘的寶可補給站轉盤",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular": "旋轉尚未旋轉過且顯示穿著韓服的皮卡丘的寶可補給站轉盤",
     "quest_title_levelup_max_move_plural": "升級{{amount_0}}次極巨招式",
     "quest_title_levelup_max_move_singular": "升級1個極巨招式",
     "quest_title_lobby_mega_count_plural": "超級進化寶可夢的數量：{{amount_0}}",

@@ -7114,6 +7114,8 @@
     "quest_title_join_max_battle_singular": "Participa en un Combate Max",
     "quest_title_journal_caught_dropped_item_plural": "¡{{amount_0}} ha dejado caer objetos al capturarlo!",
     "quest_title_journal_caught_dropped_item_singular": "¡{{amount_0}} ha dejado caer un objeto al capturarlo!",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural": "Da vueltas a {{amount_0}} fotodiscos en Poképaradas con Pikachu con hanbok a los que aún no hayas dado vueltas",
+    "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular": "Da vueltas a un fotodisco en una Poképarada con Pikachu con hanbok al que aún no hayas dado vueltas",
     "quest_title_levelup_max_move_plural": "Sube de nivel un movimiento Max {{amount_0}} veces",
     "quest_title_levelup_max_move_singular": "Sube de nivel un movimiento Max",
     "quest_title_lobby_mega_count_plural": "{{amount_0}} Pokémon megaevolucionados en la sala",

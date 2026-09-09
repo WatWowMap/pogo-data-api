@@ -276,6 +276,8 @@
   "quest_title_join_max_battle_singular": "मैक्स बैटल में भाग लें",
   "quest_title_journal_caught_dropped_item_plural": "{{amount_0}} dropped items when caught!",
   "quest_title_journal_caught_dropped_item_singular": "{{amount_0}} dropped an item when caught!",
+  "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural": "Spin {{amount_0}} PokéStops featuring Pikachu wearing a hanbok that you haven’t spun yet",
+  "quest_title_kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular": "Spin a PokéStop featuring Pikachu wearing a hanbok that you haven’t spun yet",
   "quest_title_levelup_max_move_plural": "मैक्स मूव को {{amount_0}} बार लेवल अप करें",
   "quest_title_levelup_max_move_singular": "मैक्स मूव को लेवल आप करें",
   "quest_title_lobby_mega_count_plural": "लॉबी में {{amount_0}} मेगा एवॉल्व पोकेमॉन",
