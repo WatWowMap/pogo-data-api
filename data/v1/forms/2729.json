@@ -2,12 +2,6 @@
   "formName": "S",
   "proto": "LUGIA_S",
   "formId": 2729,
-  "chargedMoves": [
-    107,
-    257,
-    275,
-    341
-  ],
   "purificationDust": 5000,
   "purificationCandy": 5
 }

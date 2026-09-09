@@ -5,10 +5,6 @@
   "attack": 261,
   "defense": 128,
   "stamina": 146,
-  "quickMoves": [
-    213,
-    278
-  ],
   "chargedMoves": [
     24,
     70,

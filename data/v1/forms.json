@@ -12399,12 +12399,6 @@
     "formName": "S",
     "proto": "LUGIA_S",
     "formId": 2729,
-    "chargedMoves": [
-      107,
-      257,
-      275,
-      341
-    ],
     "purificationDust": 5000,
     "purificationCandy": 5
   },
@@ -13421,10 +13415,6 @@
     "attack": 261,
     "defense": 128,
     "stamina": 146,
-    "quickMoves": [
-      213,
-      278
-    ],
     "chargedMoves": [
       24,
       70,
@@ -14152,10 +14142,6 @@
     "proto": "SNORLAX_WILDAREA_2024",
     "formId": 2849,
     "isCostume": true,
-    "quickMoves": [
-      212,
-      234
-    ],
     "purificationDust": 5000,
     "purificationCandy": 5
   },
@@ -14524,13 +14510,6 @@
     "proto": "AERODACTYL_SUMMER_2023",
     "formId": 3001,
     "isCostume": true,
-    "chargedMoves": [
-      14,
-      62,
-      64,
-      74,
-      304
-    ],
     "tempEvolutions": [
       {
         "tempEvoId": 1,

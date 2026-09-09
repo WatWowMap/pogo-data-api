@@ -3,13 +3,6 @@
   "proto": "AERODACTYL_SUMMER_2023",
   "formId": 3001,
   "isCostume": true,
-  "chargedMoves": [
-    14,
-    62,
-    64,
-    74,
-    304
-  ],
   "tempEvolutions": [
     {
       "tempEvoId": 1,
