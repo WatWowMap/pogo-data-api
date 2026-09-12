@@ -1455,6 +1455,12 @@
     "imageUrl": "lc_2026_jp_red"
   },
   {
+    "id": 310,
+    "proto": "LC_2026_JP_GREEN",
+    "formatted": "2026 Jp Green",
+    "imageUrl": "lc_2026_jp_green"
+  },
+  {
     "id": 312,
     "proto": "LC_JAPAN_STAMP_RALLY_1",
     "formatted": "Japan Stamp Rally 1",
@@ -1588,25 +1594,61 @@
     "id": 334,
     "proto": "LC_TPC30_MY",
     "formatted": "Tpc30 My",
-    "imageUrl": "lc_tpc30_my"
+    "imageUrl": "lc_tpc30th_malaysia"
   },
   {
     "id": 335,
     "proto": "LC_TPC30_TW",
     "formatted": "Tpc30 Tw",
-    "imageUrl": "lc_tpc30_tw"
+    "imageUrl": "lc_tpc30th_taiwan"
   },
   {
     "id": 336,
     "proto": "LC_TPC30_SG",
     "formatted": "Tpc30 Sg",
-    "imageUrl": "lc_tpc30_sg"
+    "imageUrl": "lc_tpc30th_singapore"
   },
   {
     "id": 337,
     "proto": "LC_TPC30_PH",
     "formatted": "Tpc30 Ph",
-    "imageUrl": "lc_tpc30_ph"
+    "imageUrl": "lc_tpc30th_philippines"
+  },
+  {
+    "id": 342,
+    "proto": "LC_SAFARI_2026_BRISBANE",
+    "formatted": "Safari 2026 Brisbane",
+    "imageUrl": "lc_CitySafari2026_brisbane"
+  },
+  {
+    "id": 343,
+    "proto": "LC_SAFARI_2026_MUNICH",
+    "formatted": "Safari 2026 Munich",
+    "imageUrl": "lc_CitySafari2026_munich"
+  },
+  {
+    "id": 344,
+    "proto": "LC_SAFARI_2026_MARSEILLE",
+    "formatted": "Safari 2026 Marseille",
+    "imageUrl": "lc_CitySafari2026_marseille"
+  },
+  {
+    "id": 345,
+    "proto": "LC_SAFARI_2026_LISBON",
+    "formatted": "Safari 2026 Lisbon",
+    "imageUrl": "lc_CitySafari2026_lisbon"
+  },
+  {
+    "id": 346,
+    "proto": "LC_SAFARI_2026_RDJ",
+    "formatted": "Safari 2026 Rdj",
+    "imageUrl": "lc_CitySafari2026_rio"
+  },
+  {
+    "id": 347,
+    "proto": "LC_SAFARI_2026_BOSTON",
+    "formatted": "Safari 2026 Boston",
+    "imageUrl": "lc_CitySafari2026_boston"
   },
   {
     "id": 349,

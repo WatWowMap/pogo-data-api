@@ -1245,16 +1245,16 @@
     "category": "Global Event Ticket"
   },
   {
-    "itemId": 2269,
-    "itemName": "Event Ticket S24 Nov9 Gowaol",
-    "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL",
+    "itemId": 2257,
+    "itemName": "Event Ticket S24 Sep 26 Catch",
+    "proto": "ITEM_EVENT_TICKET_S24_SEP_26_CATCH",
     "type": "Global Event Ticket",
     "category": "Global Event Ticket"
   },
   {
-    "itemId": 2270,
-    "itemName": "Event Ticket S24 Nov9 Gowaol To Gift",
-    "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL_TO_GIFT",
+    "itemId": 2269,
+    "itemName": "Event Ticket S24 Nov9 Gowaol",
+    "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL",
     "type": "Global Event Ticket",
     "category": "Global Event Ticket"
   }
