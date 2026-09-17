@@ -6625,7 +6625,8 @@
     "spawn_wild_steel_types": "Están apareciendo más Pokémon salvajes de tipo Acero",
     "spawn_wild_water_types": "Están apareciendo más Pokémon salvajes de tipo Agua",
     "spawn_wooper": "Están apareciendo más Wooper salvajes",
-    "spawn_zigzagoon": "¡Están apareciendo más Zigzagoon de Galar salvajes!"
+    "spawn_zigzagoon": "¡Están apareciendo más Zigzagoon de Galar salvajes!",
+    "spawn_zorua": "¡Están apareciendo más Zorua salvajes!"
   },
   "questTypes": {
     "quest_0": "Unset",
@@ -8579,6 +8580,7 @@
     "quest_title_quest_oshat_evolve_b": "Evoluciona {{amount_0}} Oshawott",
     "quest_title_quest_oshat_evolve_s1": "Evoluciona a Dewott",
     "quest_title_quest_partner_spin_rally_aeonmall": "Gira {{amount_0}} fotodiscos en Poképaradas o Gimnasios de AEON Mall",
+    "quest_title_quest_partner_spin_rally_familymart": "Spin {{amount_0}} Familymart PokéStops or Gyms",
     "quest_title_quest_partner_spin_rally_mcdonalds": "Gira {{amount_0}} fotodiscos en Poképaradas o Gimnasios de McDonald’s",
     "quest_title_quest_partner_spin_rally_softbank": "Gira {{amount_0}} fotodiscos en Poképaradas o Gimnasios de SoftBank",
     "quest_title_quest_party_catch_electric_type_plural": "Atrapa {{amount_0}} Pokémon de tipo Eléctrico cuando estés en un equipo",
@@ -8883,6 +8885,9 @@
     "quest_title_quest_snapshot_wild_normal_unique_plural": "Toma fotos de {{amount_0}} Pokémon salvajes de tipo Normal diferentes",
     "quest_title_quest_snapshot_wild_piakchu": "Toma una foto de Pikachu salvaje",
     "quest_title_quest_snapshot_wild_plural": "Toma {{amount_0}} fotos de Pokémon salvajes",
+    "quest_title_quest_snapshot_wild_plural_bug": "Toma fotos de {{amount_0}} Pokémon salvajes de tipo Insecto diferentes",
+    "quest_title_quest_snapshot_wild_plural_grass": "Toma fotos de {{amount_0}} Pokémon salvajes de tipo Planta diferentes",
+    "quest_title_quest_snapshot_wild_plural_grass_or_bug": "Toma fotos de {{amount_0}} Pokémon salvajes de tipo Planta o Insecto diferentes",
     "quest_title_quest_snapshot_wild_poison_plural": "Toma {{amount_0}} fotos de Pokémon salvajes de tipo Veneno",
     "quest_title_quest_snapshot_wild_poison_unique_plural": "Toma fotos de {{amount_0}} Pokémon salvajes de tipo Veneno diferentes",
     "quest_title_quest_snapshot_wild_psychic_plural": "Toma {{amount_0}} fotos de Pokémon salvajes de tipo Psíquico",
@@ -9241,6 +9246,7 @@
     "quest_title_quest_zigzagoon_catch_b": "Atrapa {{amount_0}} Zigzagoon de Galar",
     "quest_title_quest_zigzagoon_evolve_b": "Evoluciona {{amount_0}} Zigzagoon de Galar",
     "quest_title_quest_zigzagoon_snapshot_b": "Toma {{amount_0}} fotos de Zigzagoon de Galar",
+    "quest_title_quest_zorua_catch_b": "Atrapa {{amount_0}} Zorua",
     "quest_title_ququest_adventure2019_catch_special32_plural": "Semana de Aventuras 2019: Atrapa {{amount_0}} Omanyte o Kabuto",
     "quest_title_raid_approach_multiple_remote_usage_plural": "PUEDES ACCEDER A {{amount_0}} INCURSIONES REMOTAS MÁS HOY.",
     "quest_title_raid_approach_multiple_remote_usage_singular": "PUEDES ACCEDER A UNA INCURSIÓN REMOTA MÁS HOY.",
