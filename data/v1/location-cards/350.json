@@ -2,5 +2,7 @@
   "id": 350,
   "proto": "LC_SPECIALBACKGROUND_MIDAUTUMN_2026",
   "formatted": "Midautumn 2026",
-  "imageUrl": "lc_specialbackground_midautumn_2026"
+  "imageUrl": "sb_MidAutumn",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_MidAutumn"
 }

@@ -1,0 +1,8 @@
+{
+  "id": 406,
+  "proto": "LC_SPECIALBACKGROUND_BATIK_2026",
+  "formatted": "Batik 2026",
+  "imageUrl": "sb_PatternWild",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_PatternsWild"
+}
