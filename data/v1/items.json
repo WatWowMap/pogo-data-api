@@ -1259,6 +1259,20 @@
     "category": "Global Event Ticket"
   },
   {
+    "itemId": 2261,
+    "itemName": "Event Ticket S24 Oct 10 Community",
+    "proto": "ITEM_EVENT_TICKET_S24_OCT_10_COMMUNITY",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
+  },
+  {
+    "itemId": 2262,
+    "itemName": "Event Ticket S24 Oct 10 Community To Gift",
+    "proto": "ITEM_EVENT_TICKET_S24_OCT_10_COMMUNITY_TO_GIFT",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
+  },
+  {
     "itemId": 2269,
     "itemName": "Event Ticket S24 Nov9 Gowaol",
     "proto": "ITEM_EVENT_TICKET_S24_NOV9_GOWAOL",

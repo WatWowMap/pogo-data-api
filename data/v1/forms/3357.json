@@ -1,5 +1,6 @@
 {
   "formName": "Glass Helmet 2026",
   "proto": "PIKACHU_GLASS_HELMET_2026",
-  "formId": 3357
+  "formId": 3357,
+  "isCostume": true
 }
