@@ -952,6 +952,12 @@
     "imageUrl": "lc_pokelid_okinawa"
   },
   {
+    "id": 206,
+    "proto": "LC_POKELID_NAGANO",
+    "formatted": "Pokelid Nagano",
+    "imageUrl": "lc_pokelid_nagano"
+  },
+  {
     "id": 211,
     "proto": "LC_SPECIALBACKGROUND_OBSERVATORY_EXHIBITION_TOUR",
     "formatted": "Observatory Exhibition Tour",
