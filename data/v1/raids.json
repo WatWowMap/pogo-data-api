@@ -148,5 +148,15 @@
     "id": 29,
     "formatted": "Raid Level 5 Worldwide Ultra Beast",
     "proto": "RAID_LEVEL_5_WORLDWIDE_ULTRA_BEAST"
+  },
+  {
+    "id": 30,
+    "formatted": "Raid Level Ultra Burst",
+    "proto": "RAID_LEVEL_ULTRA_BURST"
+  },
+  {
+    "id": 31,
+    "formatted": "Raid Level Ultra Burst Coordinated",
+    "proto": "RAID_LEVEL_ULTRA_BURST_COORDINATED"
   }
 ]
