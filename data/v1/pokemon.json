@@ -49065,7 +49065,9 @@
     "thirdMoveStardust": 100000,
     "thirdMoveCandy": 100,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 20000,
+    "purificationCandy": 20
   },
   {
     "pokemonName": "Landorus",
@@ -51488,7 +51490,9 @@
         "candyCost": 50,
         "questRequirement": "PANCHAM_EVOLUTION_QUEST"
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Pangoro",
@@ -51559,7 +51563,9 @@
     "thirdMoveCandy": 50,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "pokemonName": "Furfrou",
@@ -57383,7 +57389,9 @@
         "candyCost": 50,
         "onlyDaytime": true
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Lurantis",
@@ -57454,7 +57462,9 @@
     "thirdMoveCandy": 50,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Morelull",
@@ -58386,7 +58396,9 @@
         "evoId": 768,
         "candyCost": 400
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "pokemonName": "Golisopod",
@@ -58460,6 +58472,8 @@
     "gymDefenderEligible": true,
     "tradable": true,
     "transferable": true,
+    "purificationDust": 1000,
+    "purificationCandy": 1,
     "tempEvolutions": [
       {
         "tempEvoId": 1,
@@ -58547,7 +58561,9 @@
         "evoId": 770,
         "candyCost": 50
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Palossand",
@@ -58618,7 +58634,9 @@
     "thirdMoveCandy": 50,
     "gymDefenderEligible": true,
     "tradable": true,
-    "transferable": true
+    "transferable": true,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "pokemonName": "Pyukumuku",
@@ -71426,7 +71444,8 @@
     "evolutions": [
       {
         "evoId": 947,
-        "candyCost": 50
+        "candyCost": 50,
+        "questRequirement": "BRAMBLEGHAST_EVOLUTION_QUEST"
       }
     ]
   },

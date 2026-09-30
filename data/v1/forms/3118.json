@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "PALOSSAND_NORMAL",
-  "formId": 3118
+  "formId": 3118,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

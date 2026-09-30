@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "LURANTIS_NORMAL",
-  "formId": 3103
+  "formId": 3103,
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

@@ -2,6 +2,8 @@
   "formName": "Normal",
   "proto": "GOLISOPOD_NORMAL",
   "formId": 3116,
+  "purificationDust": 1000,
+  "purificationCandy": 1,
   "tempEvolutions": [
     {
       "tempEvoId": 1,

@@ -3,7 +3,5 @@
   "moveName": "Gmax Depletion",
   "proto": "VN_BM_044",
   "fast": false,
-  "type": 16,
-  "power": 450,
-  "durationMs": 2500
+  "type": 16
 }

@@ -3,7 +3,5 @@
   "moveName": "Gmax Resonance",
   "proto": "VN_BM_026",
   "fast": false,
-  "type": 15,
-  "power": 450,
-  "durationMs": 2500
+  "type": 15
 }

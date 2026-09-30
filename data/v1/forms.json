@@ -9548,7 +9548,9 @@
   {
     "formName": "Normal",
     "proto": "ZEKROM_NORMAL",
-    "formId": 2318
+    "formId": 2318,
+    "purificationDust": 20000,
+    "purificationCandy": 20
   },
   {
     "formName": "Normal",
@@ -14983,12 +14985,16 @@
         "candyCost": 50,
         "questRequirement": "PANCHAM_EVOLUTION_QUEST"
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
     "proto": "PANGORO_NORMAL",
-    "formId": 3040
+    "formId": 3040,
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
@@ -15660,12 +15666,16 @@
         "candyCost": 50,
         "onlyDaytime": true
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
     "proto": "LURANTIS_NORMAL",
-    "formId": 3103
+    "formId": 3103,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
@@ -15774,12 +15784,16 @@
         "formId": 3116,
         "candyCost": 400
       }
-    ]
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Normal",
     "proto": "GOLISOPOD_NORMAL",
     "formId": 3116,
+    "purificationDust": 1000,
+    "purificationCandy": 1,
     "tempEvolutions": [
       {
         "tempEvoId": 1,
@@ -15804,12 +15818,16 @@
         "formId": 3118,
         "candyCost": 50
       }
-    ]
+    ],
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
     "proto": "PALOSSAND_NORMAL",
-    "formId": 3118
+    "formId": 3118,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Normal",
@@ -17043,7 +17061,8 @@
       {
         "evoId": 947,
         "formId": 3260,
-        "candyCost": 50
+        "candyCost": 50,
+        "questRequirement": "BRAMBLEGHAST_EVOLUTION_QUEST"
       }
     ]
   },

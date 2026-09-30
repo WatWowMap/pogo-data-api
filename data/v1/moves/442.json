@@ -3,7 +3,5 @@
   "moveName": "Gmax Volcalith",
   "proto": "VN_BM_034",
   "fast": false,
-  "type": 6,
-  "power": 450,
-  "durationMs": 2500
+  "type": 6
 }

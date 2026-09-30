@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "ZEKROM_NORMAL",
-  "formId": 2318
+  "formId": 2318,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

@@ -3,7 +3,5 @@
   "moveName": "Max Behemoth Bash",
   "proto": "VN_BM_061",
   "fast": false,
-  "type": 9,
-  "power": 350,
-  "durationMs": 2500
+  "type": 9
 }

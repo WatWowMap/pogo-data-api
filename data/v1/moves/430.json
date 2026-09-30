@@ -3,7 +3,5 @@
   "moveName": "Gmax Goldrush",
   "proto": "VN_BM_022",
   "fast": false,
-  "type": 1,
-  "power": 450,
-  "durationMs": 2500
+  "type": 1
 }

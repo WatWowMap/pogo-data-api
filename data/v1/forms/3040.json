@@ -1,5 +1,7 @@
 {
   "formName": "Normal",
   "proto": "PANGORO_NORMAL",
-  "formId": 3040
+  "formId": 3040,
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

@@ -71,5 +71,7 @@
       "candyCost": 50,
       "onlyDaytime": true
     }
-  ]
+  ],
+  "purificationDust": 3000,
+  "purificationCandy": 3
 }

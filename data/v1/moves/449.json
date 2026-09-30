@@ -3,7 +3,5 @@
   "moveName": "Gmax Snooze",
   "proto": "VN_BM_041",
   "fast": false,
-  "type": 17,
-  "power": 450,
-  "durationMs": 2500
+  "type": 17
 }

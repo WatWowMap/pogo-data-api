@@ -6,7 +6,8 @@
     {
       "evoId": 947,
       "formId": 3260,
-      "candyCost": 50
+      "candyCost": 50,
+      "questRequirement": "BRAMBLEGHAST_EVOLUTION_QUEST"
     }
   ]
 }

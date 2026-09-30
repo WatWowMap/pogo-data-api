@@ -3,7 +3,5 @@
   "moveName": "Max Flare",
   "proto": "VN_BM_001",
   "fast": false,
-  "type": 10,
-  "power": 350,
-  "durationMs": 2500
+  "type": 10
 }

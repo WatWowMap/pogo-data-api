@@ -3,7 +3,5 @@
   "moveName": "Gmax Fireball",
   "proto": "VN_BM_048",
   "fast": false,
-  "type": 10,
-  "power": 450,
-  "durationMs": 2500
+  "type": 10
 }

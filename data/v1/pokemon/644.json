@@ -65,5 +65,7 @@
   "thirdMoveStardust": 100000,
   "thirdMoveCandy": 100,
   "tradable": true,
-  "transferable": true
+  "transferable": true,
+  "purificationDust": 20000,
+  "purificationCandy": 20
 }

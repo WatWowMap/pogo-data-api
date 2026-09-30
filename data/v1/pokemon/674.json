@@ -68,5 +68,7 @@
       "candyCost": 50,
       "questRequirement": "PANCHAM_EVOLUTION_QUEST"
     }
-  ]
+  ],
+  "purificationDust": 5000,
+  "purificationCandy": 5
 }

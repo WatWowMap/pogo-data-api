@@ -70,6 +70,8 @@
   "gymDefenderEligible": true,
   "tradable": true,
   "transferable": true,
+  "purificationDust": 1000,
+  "purificationCandy": 1,
   "tempEvolutions": [
     {
       "tempEvoId": 1,

@@ -3,7 +3,5 @@
   "moveName": "Gmax Windrage",
   "proto": "VN_BM_031",
   "fast": false,
-  "type": 3,
-  "power": 450,
-  "durationMs": 2500
+  "type": 3
 }

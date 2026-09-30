@@ -3,7 +3,5 @@
   "moveName": "Gmax Sweetness",
   "proto": "VN_BM_036",
   "fast": false,
-  "type": 12,
-  "power": 450,
-  "durationMs": 2500
+  "type": 12
 }

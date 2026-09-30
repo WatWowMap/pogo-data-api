@@ -66,7 +66,8 @@
   "evolutions": [
     {
       "evoId": 947,
-      "candyCost": 50
+      "candyCost": 50,
+      "questRequirement": "BRAMBLEGHAST_EVOLUTION_QUEST"
     }
   ]
 }

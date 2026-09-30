@@ -3,7 +3,5 @@
   "moveName": "Max Darkness",
   "proto": "VN_BM_016",
   "fast": false,
-  "type": 17,
-  "power": 350,
-  "durationMs": 2500
+  "type": 17
 }

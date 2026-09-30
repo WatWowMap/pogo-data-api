@@ -3,7 +3,5 @@
   "moveName": "Gmax Smite",
   "proto": "VN_BM_040",
   "fast": false,
-  "type": 18,
-  "power": 450,
-  "durationMs": 2500
+  "type": 18
 }

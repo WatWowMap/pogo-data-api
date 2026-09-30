@@ -1687,5 +1687,11 @@
     "imageUrl": "sb_GoTour2025_black",
     "cardType": "SPECIAL_BACKGROUND",
     "vfxAddress": "bgfx_10thAnniGlobe"
+  },
+  {
+    "id": 416,
+    "proto": "LC_2026_COMICCON_MALAGA",
+    "formatted": "2026 Comiccon Malaga",
+    "imageUrl": "lc_2026_ComicCon_Malaga"
   }
 ]
