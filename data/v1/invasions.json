@@ -223,7 +223,7 @@
         "position": "first"
       },
       {
-        "id": 736,
+        "id": 767,
         "position": "first"
       },
       {
@@ -376,7 +376,7 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 147,
+        "id": 610,
         "position": "first"
       },
       {
@@ -527,7 +527,7 @@
         "position": "first"
       },
       {
-        "id": 66,
+        "id": 296,
         "position": "first"
       },
       {
@@ -763,11 +763,11 @@
         "position": "first"
       },
       {
-        "id": 252,
+        "id": 708,
         "position": "first"
       },
       {
-        "id": 708,
+        "id": 753,
         "position": "first"
       },
       {
@@ -1362,10 +1362,6 @@
         "position": "first"
       },
       {
-        "id": 349,
-        "position": "first"
-      },
-      {
         "id": 129,
         "position": "second"
       },
@@ -1412,7 +1408,7 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 610,
+        "id": 104,
         "position": "first"
       },
       {
@@ -1454,7 +1450,8 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 696,
+        "id": 88,
+        "formId": 74,
         "position": "first"
       },
       {
@@ -1495,7 +1492,7 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 698,
+        "id": 674,
         "position": "first"
       },
       {
@@ -1552,7 +1549,7 @@
         "position": "second"
       },
       {
-        "id": 643,
+        "id": 644,
         "position": "third"
       }
     ]
@@ -1646,15 +1643,15 @@
     "thirdReward": false,
     "encounters": [
       {
-        "id": 92,
-        "position": "first"
-      },
-      {
         "id": 355,
         "position": "first"
       },
       {
         "id": 562,
+        "position": "first"
+      },
+      {
+        "id": 769,
         "position": "first"
       },
       {

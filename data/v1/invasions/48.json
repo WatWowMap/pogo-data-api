@@ -10,15 +10,15 @@
   "thirdReward": false,
   "encounters": [
     {
-      "id": 92,
-      "position": "first"
-    },
-    {
       "id": 355,
       "position": "first"
     },
     {
       "id": 562,
+      "position": "first"
+    },
+    {
+      "id": 769,
       "position": "first"
     },
     {

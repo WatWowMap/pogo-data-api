@@ -10,7 +10,8 @@
   "thirdReward": false,
   "encounters": [
     {
-      "id": 696,
+      "id": 88,
+      "formId": 74,
       "position": "first"
     },
     {
