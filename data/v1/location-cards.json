@@ -1689,6 +1689,42 @@
     "vfxAddress": "bgfx_10thAnniGlobe"
   },
   {
+    "id": 410,
+    "proto": "LC_EMEA_MUSEUM_01",
+    "formatted": "Emea Museum 01",
+    "imageUrl": "lc_ESA_spaceExpoNL"
+  },
+  {
+    "id": 411,
+    "proto": "LC_EMEA_MUSEUM_02",
+    "formatted": "Emea Museum 02",
+    "imageUrl": "lc_ESA_spaceCenterGermany"
+  },
+  {
+    "id": 412,
+    "proto": "LC_EMEA_MUSEUM_03",
+    "formatted": "Emea Museum 03",
+    "imageUrl": "lc_ESA_scienceMuseumLondon"
+  },
+  {
+    "id": 413,
+    "proto": "LC_EMEA_MUSEUM_04",
+    "formatted": "Emea Museum 04",
+    "imageUrl": "lc_ESA_euroSpaceCenter"
+  },
+  {
+    "id": 414,
+    "proto": "LC_EMEA_MUSEUM_05",
+    "formatted": "Emea Museum 05",
+    "imageUrl": "lc_ESA_ciudadDeLasArtes"
+  },
+  {
+    "id": 415,
+    "proto": "LC_EMEA_MUSEUM_06",
+    "formatted": "Emea Museum 06",
+    "imageUrl": "lc_ESA_citeDeEspace"
+  },
+  {
     "id": 416,
     "proto": "LC_2026_COMICCON_MALAGA",
     "formatted": "2026 Comiccon Malaga",

@@ -17862,7 +17862,10 @@
   {
     "formName": "Wildarea 2026 01",
     "proto": "MACHAMP_WILDAREA_2026_01",
-    "formId": 3369
+    "formId": 3369,
+    "isCostume": true,
+    "purificationDust": 3000,
+    "purificationCandy": 3
   },
   {
     "formName": "Anniversary 2026 Philippine 01",
