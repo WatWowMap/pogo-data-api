@@ -4,5 +4,21 @@
   "formId": 2791,
   "attack": 211,
   "defense": 255,
-  "stamina": 190
+  "stamina": 190,
+  "quickMoves": [
+    230,
+    253,
+    266
+  ],
+  "chargedMoves": [
+    91,
+    107,
+    268,
+    285
+  ],
+  "eliteChargedMoves": [],
+  "types": [
+    9,
+    16
+  ]
 }

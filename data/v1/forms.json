@@ -13172,8 +13172,22 @@
     "proto": "SLIGGOO_HISUIAN",
     "formId": 2790,
     "attack": 153,
-    "defense": 201,
+    "defense": 190,
     "stamina": 151,
+    "quickMoves": [
+      221,
+      230
+    ],
+    "chargedMoves": [
+      82,
+      91,
+      105,
+      268
+    ],
+    "types": [
+      9,
+      16
+    ],
     "evolutions": [
       {
         "evoId": 706,
@@ -13188,7 +13202,23 @@
     "formId": 2791,
     "attack": 211,
     "defense": 255,
-    "stamina": 190
+    "stamina": 190,
+    "quickMoves": [
+      230,
+      253,
+      266
+    ],
+    "chargedMoves": [
+      91,
+      107,
+      268,
+      285
+    ],
+    "eliteChargedMoves": [],
+    "types": [
+      9,
+      16
+    ]
   },
   {
     "sizeSettings": [
