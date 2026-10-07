@@ -1,5 +1,10 @@
 {
   "formName": "Meteor Green",
   "proto": "MINIOR_METEOR_GREEN",
-  "formId": 2739
+  "formId": 2739,
+  "attack": 116,
+  "defense": 194,
+  "stamina": 155,
+  "height": 0.3,
+  "weight": 0.3
 }

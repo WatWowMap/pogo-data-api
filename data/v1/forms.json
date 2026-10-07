@@ -11964,15 +11964,17 @@
   {
     "formName": "Meteor Blue",
     "proto": "MINIOR_METEOR_BLUE",
-    "formId": 2707
+    "formId": 2707,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Blue",
     "proto": "MINIOR_BLUE",
     "formId": 2708,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -11980,9 +11982,6 @@
     "formName": "Green",
     "proto": "MINIOR_GREEN",
     "formId": 2709,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -11990,9 +11989,6 @@
     "formName": "Indigo",
     "proto": "MINIOR_INDIGO",
     "formId": 2710,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -12000,9 +11996,6 @@
     "formName": "Orange",
     "proto": "MINIOR_ORANGE",
     "formId": 2711,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -12010,9 +12003,6 @@
     "formName": "Red",
     "proto": "MINIOR_RED",
     "formId": 2712,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -12020,9 +12010,6 @@
     "formName": "Violet",
     "proto": "MINIOR_VIOLET",
     "formId": 2713,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -12030,9 +12017,6 @@
     "formName": "Yellow",
     "proto": "MINIOR_YELLOW",
     "formId": 2714,
-    "attack": 218,
-    "defense": 131,
-    "stamina": 155,
     "height": 0.3,
     "weight": 0.3
   },
@@ -12495,32 +12479,62 @@
   {
     "formName": "Meteor Green",
     "proto": "MINIOR_METEOR_GREEN",
-    "formId": 2739
+    "formId": 2739,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Meteor Indigo",
     "proto": "MINIOR_METEOR_INDIGO",
-    "formId": 2740
+    "formId": 2740,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Meteor Orange",
     "proto": "MINIOR_METEOR_ORANGE",
-    "formId": 2741
+    "formId": 2741,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Meteor Red",
     "proto": "MINIOR_METEOR_RED",
-    "formId": 2742
+    "formId": 2742,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Meteor Violet",
     "proto": "MINIOR_METEOR_VIOLET",
-    "formId": 2743
+    "formId": 2743,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Meteor Yellow",
     "proto": "MINIOR_METEOR_YELLOW",
-    "formId": 2744
+    "formId": 2744,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   },
   {
     "formName": "Archipelago",
@@ -17926,6 +17940,11 @@
   {
     "formName": "Meteor",
     "proto": "MINIOR_METEOR",
-    "formId": 3380
+    "formId": 3380,
+    "attack": 116,
+    "defense": 194,
+    "stamina": 155,
+    "height": 0.3,
+    "weight": 0.3
   }
 ]

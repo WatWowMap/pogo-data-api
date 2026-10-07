@@ -1,7 +1,7 @@
 {
   "pokemonName": "Minior",
   "pokedexId": 774,
-  "defaultFormId": 2708,
+  "defaultFormId": 2712,
   "types": [
     3,
     6
@@ -62,12 +62,13 @@
       "value": 0.525
     }
   ],
-  "attack": 116,
-  "defense": 194,
+  "attack": 218,
+  "defense": 131,
   "stamina": 155,
   "height": 0.3,
   "weight": 40,
   "family": 774,
+  "bonusStardustCapture": 900,
   "legendary": false,
   "mythic": false,
   "ultraBeast": false,

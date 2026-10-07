@@ -1,5 +1,10 @@
 {
   "formName": "Meteor Violet",
   "proto": "MINIOR_METEOR_VIOLET",
-  "formId": 2743
+  "formId": 2743,
+  "attack": 116,
+  "defense": 194,
+  "stamina": 155,
+  "height": 0.3,
+  "weight": 0.3
 }

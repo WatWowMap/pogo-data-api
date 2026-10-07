@@ -1,5 +1,10 @@
 {
   "formName": "Meteor Indigo",
   "proto": "MINIOR_METEOR_INDIGO",
-  "formId": 2740
+  "formId": 2740,
+  "attack": 116,
+  "defense": 194,
+  "stamina": 155,
+  "height": 0.3,
+  "weight": 0.3
 }
