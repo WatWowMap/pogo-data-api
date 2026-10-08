@@ -1,5 +1,12 @@
 {
   "formName": "Halloween 2026 01",
   "proto": "CROBAT_HALLOWEEN_2026_01",
-  "formId": 3364
+  "formId": 3364,
+  "isCostume": true,
+  "quickMoves": [
+    202,
+    255
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

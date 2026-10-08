@@ -17871,37 +17871,82 @@
   {
     "formName": "Halloween 2026 01",
     "proto": "ZUBAT_HALLOWEEN_2026_01",
-    "formId": 3362
+    "formId": 3362,
+    "isCostume": true,
+    "evolutions": [
+      {
+        "evoId": 42,
+        "formId": 3363,
+        "candyCost": 25
+      }
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Halloween 2026 01",
     "proto": "GOLBAT_HALLOWEEN_2026_01",
-    "formId": 3363
+    "formId": 3363,
+    "isCostume": true,
+    "evolutions": [
+      {
+        "evoId": 169,
+        "formId": 3364,
+        "candyCost": 100
+      }
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "Halloween 2026 01",
     "proto": "CROBAT_HALLOWEEN_2026_01",
-    "formId": 3364
+    "formId": 3364,
+    "isCostume": true,
+    "quickMoves": [
+      202,
+      255
+    ],
+    "purificationDust": 1000,
+    "purificationCandy": 1
   },
   {
     "formName": "P Halloween 2026 01",
     "proto": "SINISTEA_P_HALLOWEEN_2026_01",
-    "formId": 3365
+    "formId": 3365,
+    "isCostume": true,
+    "evolutions": [
+      {
+        "evoId": 855,
+        "formId": 3367,
+        "candyCost": 50
+      }
+    ]
   },
   {
     "formName": "A Halloween 2026 01",
     "proto": "SINISTEA_A_HALLOWEEN_2026_01",
-    "formId": 3366
+    "formId": 3366,
+    "isCostume": true,
+    "evolutions": [
+      {
+        "evoId": 855,
+        "formId": 3368,
+        "candyCost": 400
+      }
+    ]
   },
   {
     "formName": "P Halloween 2026 01",
     "proto": "POLTEAGEIST_P_HALLOWEEN_2026_01",
-    "formId": 3367
+    "formId": 3367,
+    "isCostume": true
   },
   {
     "formName": "A Halloween 2026 01",
     "proto": "POLTEAGEIST_A_HALLOWEEN_2026_01",
-    "formId": 3368
+    "formId": 3368,
+    "isCostume": true
   },
   {
     "formName": "Wildarea 2026 01",
@@ -17935,7 +17980,8 @@
   {
     "formName": "Halloween 2026",
     "proto": "PIKACHU_HALLOWEEN_2026",
-    "formId": 3379
+    "formId": 3379,
+    "isCostume": true
   },
   {
     "formName": "Meteor",

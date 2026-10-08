@@ -1,5 +1,6 @@
 {
   "formName": "P Halloween 2026 01",
   "proto": "POLTEAGEIST_P_HALLOWEEN_2026_01",
-  "formId": 3367
+  "formId": 3367,
+  "isCostume": true
 }

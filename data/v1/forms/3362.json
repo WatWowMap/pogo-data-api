@@ -1,5 +1,15 @@
 {
   "formName": "Halloween 2026 01",
   "proto": "ZUBAT_HALLOWEEN_2026_01",
-  "formId": 3362
+  "formId": 3362,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 42,
+      "formId": 3363,
+      "candyCost": 25
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

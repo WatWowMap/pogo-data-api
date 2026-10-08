@@ -1071,6 +1071,12 @@
     "imageUrl": "lc_NFL_cardinals"
   },
   {
+    "id": 226,
+    "proto": "LC_2025_NFL_002",
+    "formatted": "2025 Nfl 002",
+    "imageUrl": "lc_NFL_cardinals_2026"
+  },
+  {
     "id": 240,
     "proto": "LC_ID_CAR_FREE_DAY",
     "formatted": "Id Car Free Day",
@@ -1729,5 +1735,27 @@
     "proto": "LC_2026_COMICCON_MALAGA",
     "formatted": "2026 Comiccon Malaga",
     "imageUrl": "lc_2026_ComicCon_Malaga"
+  },
+  {
+    "id": 418,
+    "proto": "LC_2026_GOWA_SENDAI",
+    "formatted": "2026 Gowa Sendai",
+    "imageUrl": "lc_2026_gowa_sendai",
+    "cardType": "LOCATION_CARD"
+  },
+  {
+    "id": 419,
+    "proto": "LC_2026_GOWA_MEXICOCITY",
+    "formatted": "2026 Gowa Mexicocity",
+    "imageUrl": "lc_2026_gowa_mexicocity",
+    "cardType": "LOCATION_CARD"
+  },
+  {
+    "id": 420,
+    "proto": "LC_SPECIALBACKGROUND_2026_GOWA",
+    "formatted": "2026 Gowa",
+    "imageUrl": "sb_black",
+    "cardType": "SPECIAL_BACKGROUND",
+    "vfxAddress": "bgfx_gowa_2026"
   }
 ]

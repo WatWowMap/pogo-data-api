@@ -1,5 +1,6 @@
 {
   "formName": "Halloween 2026",
   "proto": "PIKACHU_HALLOWEEN_2026",
-  "formId": 3379
+  "formId": 3379,
+  "isCostume": true
 }

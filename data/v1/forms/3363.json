@@ -1,5 +1,15 @@
 {
   "formName": "Halloween 2026 01",
   "proto": "GOLBAT_HALLOWEEN_2026_01",
-  "formId": 3363
+  "formId": 3363,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 169,
+      "formId": 3364,
+      "candyCost": 100
+    }
+  ],
+  "purificationDust": 1000,
+  "purificationCandy": 1
 }

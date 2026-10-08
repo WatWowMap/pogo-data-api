@@ -1,5 +1,13 @@
 {
   "formName": "P Halloween 2026 01",
   "proto": "SINISTEA_P_HALLOWEEN_2026_01",
-  "formId": 3365
+  "formId": 3365,
+  "isCostume": true,
+  "evolutions": [
+    {
+      "evoId": 855,
+      "formId": 3367,
+      "candyCost": 50
+    }
+  ]
 }
