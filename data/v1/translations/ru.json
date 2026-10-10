@@ -4601,7 +4601,9 @@
     "move_592": "Меткая Стрельба",
     "move_593": "Нырок",
     "move_594": "Gulp Missile Gulping",
-    "move_595": "Gulp Missile Gorging"
+    "move_595": "Gulp Missile Gorging",
+    "move_615": "Kowtow Cleave",
+    "move_619": "<<move_name_0064>>+"
   },
   "items": {
     "item_0": "Неизвестный",
