@@ -9242,17 +9242,20 @@
     "formName": "Normal",
     "proto": "CHANDELURE_NORMAL",
     "formId": 2219,
-    "purificationDust": 5000,
-    "purificationCandy": 5,
     "tempEvolutions": [
       {
         "tempEvoId": 1,
         "attack": 335,
         "defense": 227,
         "stamina": 155,
-        "unreleased": true
+        "height": 2.5,
+        "weight": 69.6,
+        "firstEnergyCost": 300,
+        "subsequentEnergyCost": 60
       }
-    ]
+    ],
+    "purificationDust": 5000,
+    "purificationCandy": 5
   },
   {
     "formName": "Normal",
