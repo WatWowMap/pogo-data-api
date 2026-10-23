@@ -1,0 +1,8 @@
+{
+  "id": 340,
+  "proto": "LC_SPECIALBACKGROUND_DIA_DE_LOS_MUERTOS_2026",
+  "formatted": "Dia De Los Muertos 2026",
+  "imageUrl": "sb_DiaDeMuertos_2026",
+  "cardType": "SPECIAL_BACKGROUND",
+  "vfxAddress": "bgfx_diaDeMuertos_2026"
+}
