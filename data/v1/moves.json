@@ -5685,7 +5685,14 @@
     "moveId": 616,
     "moveName": "Soak",
     "proto": "SOAK_FAST",
-    "fast": true
+    "fast": true,
+    "type": 11,
+    "pvpPower": 6,
+    "pvpEnergyDelta": 8,
+    "pvpDurationTurns": 1,
+    "power": 6,
+    "durationMs": 1000,
+    "energyDelta": 18
   },
   {
     "moveId": 619,
