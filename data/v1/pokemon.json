@@ -35732,7 +35732,9 @@
       309
     ],
     "eliteQuickMoves": [],
-    "eliteChargedMoves": [],
+    "eliteChargedMoves": [
+      72
+    ],
     "genId": 4,
     "generation": "Sinnoh",
     "forms": [

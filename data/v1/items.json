@@ -1320,5 +1320,12 @@
     "proto": "ITEM_EVENT_TICKET_S24_NOV21_COMMUNITY_TO_GIFT",
     "type": "Global Event Ticket",
     "category": "Global Event Ticket"
+  },
+  {
+    "itemId": 2273,
+    "itemName": "Event Ticket S24 Nov28 Megaraid",
+    "proto": "ITEM_EVENT_TICKET_S24_NOV28_MEGARAID",
+    "type": "Global Event Ticket",
+    "category": "Global Event Ticket"
   }
 ]

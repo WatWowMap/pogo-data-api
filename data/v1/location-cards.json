@@ -1783,6 +1783,13 @@
     "imageUrl": "lc_nightOut2026_London"
   },
   {
+    "id": 423,
+    "proto": "LC_SPECIALBACKGROUND_PTR_001",
+    "formatted": "Ptr 001",
+    "imageUrl": "sb_PTR_001",
+    "cardType": "SPECIAL_BACKGROUND"
+  },
+  {
     "id": 424,
     "proto": "LC_SPECIALBACKGROUND_FOL_2026",
     "formatted": "Fol 2026",
