@@ -2087,7 +2087,11 @@
       3376,
       3377,
       3378,
-      3379
+      3379,
+      3381,
+      3382,
+      3383,
+      3384
     ],
     "sizeSettings": [
       {
@@ -9039,7 +9043,8 @@
     "genId": 1,
     "generation": "Kanto",
     "forms": [
-      1059
+      1059,
+      3372
     ],
     "sizeSettings": [
       {
@@ -15261,7 +15266,8 @@
     "generation": "Johto",
     "forms": [
       1226,
-      3009
+      3009,
+      3370
     ],
     "sizeSettings": [
       {
@@ -35959,7 +35965,8 @@
     "genId": 4,
     "generation": "Sinnoh",
     "forms": [
-      1823
+      1823,
+      3373
     ],
     "sizeSettings": [
       {
@@ -73839,7 +73846,8 @@
     "genId": 9,
     "generation": "Paldea",
     "forms": [
-      3291
+      3291,
+      3371
     ],
     "sizeSettings": [
       {
