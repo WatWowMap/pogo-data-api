@@ -5670,6 +5670,108 @@
     "fast": false
   },
   {
+    "moveId": 598,
+    "moveName": "Multi Attack Fighting",
+    "proto": "MULTI_ATTACK_FIGHTING",
+    "fast": false
+  },
+  {
+    "moveId": 599,
+    "moveName": "Multi Attack Flying",
+    "proto": "MULTI_ATTACK_FLYING",
+    "fast": false
+  },
+  {
+    "moveId": 600,
+    "moveName": "Multi Attack Poison",
+    "proto": "MULTI_ATTACK_POISON",
+    "fast": false
+  },
+  {
+    "moveId": 601,
+    "moveName": "Multi Attack Ground",
+    "proto": "MULTI_ATTACK_GROUND",
+    "fast": false
+  },
+  {
+    "moveId": 602,
+    "moveName": "Multi Attack Rock",
+    "proto": "MULTI_ATTACK_ROCK",
+    "fast": false
+  },
+  {
+    "moveId": 603,
+    "moveName": "Multi Attack Bug",
+    "proto": "MULTI_ATTACK_BUG",
+    "fast": false
+  },
+  {
+    "moveId": 604,
+    "moveName": "Multi Attack Ghost",
+    "proto": "MULTI_ATTACK_GHOST",
+    "fast": false
+  },
+  {
+    "moveId": 605,
+    "moveName": "Multi Attack Steel",
+    "proto": "MULTI_ATTACK_STEEL",
+    "fast": false
+  },
+  {
+    "moveId": 606,
+    "moveName": "Multi Attack Fire",
+    "proto": "MULTI_ATTACK_FIRE",
+    "fast": false
+  },
+  {
+    "moveId": 607,
+    "moveName": "Multi Attack Water",
+    "proto": "MULTI_ATTACK_WATER",
+    "fast": false
+  },
+  {
+    "moveId": 608,
+    "moveName": "Multi Attack Grass",
+    "proto": "MULTI_ATTACK_GRASS",
+    "fast": false
+  },
+  {
+    "moveId": 609,
+    "moveName": "Multi Attack Electric",
+    "proto": "MULTI_ATTACK_ELECTRIC",
+    "fast": false
+  },
+  {
+    "moveId": 610,
+    "moveName": "Multi Attack Psychic",
+    "proto": "MULTI_ATTACK_PSYCHIC",
+    "fast": false
+  },
+  {
+    "moveId": 611,
+    "moveName": "Multi Attack Ice",
+    "proto": "MULTI_ATTACK_ICE",
+    "fast": false
+  },
+  {
+    "moveId": 612,
+    "moveName": "Multi Attack Dragon",
+    "proto": "MULTI_ATTACK_DRAGON",
+    "fast": false
+  },
+  {
+    "moveId": 613,
+    "moveName": "Multi Attack Dark",
+    "proto": "MULTI_ATTACK_DARK",
+    "fast": false
+  },
+  {
+    "moveId": 614,
+    "moveName": "Multi Attack Fairy",
+    "proto": "MULTI_ATTACK_FAIRY",
+    "fast": false
+  },
+  {
     "moveId": 615,
     "moveName": "Kowtow Cleave",
     "proto": "KOWTOW_CLEAVE",
