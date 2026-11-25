@@ -20,7 +20,9 @@
     280
   ],
   "eliteQuickMoves": [],
-  "eliteChargedMoves": [],
+  "eliteChargedMoves": [
+    615
+  ],
   "genId": 9,
   "generation": "Paldea",
   "forms": [
